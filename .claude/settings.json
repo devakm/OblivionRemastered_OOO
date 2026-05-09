@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(python:*)",
+      "Bash(python3:*)",
+      "Bash(py -3:*)",
+      "Bash(git:*)",
+      "Bash(git lfs:*)",
+      "Bash(7z:*)",
+      "Bash(gh:*)",
+      "Bash(du:*)",
+      "Bash(df:*)",
+      "Read(//c/games/Steam/steamapps/common/Oblivion Remastered/**)",
+      "Read(//x/games/Oscuro/**)",
+      "Read(//x/dev/devnull/**)",
+      "Read(//x/dev/OblivionRemastered_ItemClone/**)"
+    ],
+    "deny": [
+      "Bash(*git push --force*main*)",
+      "Bash(*git push --force*master*)"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": ".*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "py -3 .claude/hooks/restrict-path.py"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+# Build output / packaging — never committed
+dist/
+
+# Scratch / research — never committed
+work/
+
+# 7z archives — sibling-published install packages stay out of the repo
+*.7z
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local-only Claude settings (settings.json is committed; *.local.json is per-user)
+.claude/settings.local.json
