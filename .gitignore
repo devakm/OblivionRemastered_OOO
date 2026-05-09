@@ -1,14 +1,15 @@
-# Build output / packaging — never committed
+# Build output / packaging — never committed. Each tag's dist/<tag>.7z is
+# produced locally by ingest_release.py and uploaded as a GitHub Release asset.
 dist/
 
-# Scratch / research — never committed
+# Scratch / research — never committed.
 work/
 
-# 7z archives — sibling-published install packages stay out of the repo
+# Sibling install archives that may exist in source folders.
 *.7z
 *.zip
 
-# Python
+# Python.
 __pycache__/
 *.pyc
 *.pyo
@@ -16,15 +17,15 @@ __pycache__/
 venv/
 .pytest_cache/
 
-# Editor / OS
+# Editor / OS.
 .vscode/
 .idea/
 *.swp
 .DS_Store
 Thumbs.db
 
-# Logs
+# Logs.
 *.log
 
-# Local-only Claude settings (settings.json is committed; *.local.json is per-user)
+# Local-only Claude settings (settings.json IS committed; *.local.json is per-user).
 .claude/settings.local.json

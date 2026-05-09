@@ -38,7 +38,9 @@ WRITE_VERB_PATTERNS = (
     re.compile(r"\b(xcopy|robocopy|move|del|erase|ren|attrib|takeown|icacls)\b", re.IGNORECASE),
     re.compile(r"\b(Copy-Item|Move-Item|Remove-Item|New-Item|Rename-Item)\b"),
     re.compile(r"\b(Set-Content|Add-Content|Out-File|Set-Acl)\b"),
-    re.compile(r">>?\s"),  # shell redirect
+    # Shell redirect: `>` or `>>` not preceded by `-`/`=` (so `->`, `=>`, and
+    # `2>&1`-style fd dupes don't match) followed by space + target token.
+    re.compile(r"(?<![-=])>>?\s+\S"),
     re.compile(r"\|\s*tee\b", re.IGNORECASE),
 )
 
