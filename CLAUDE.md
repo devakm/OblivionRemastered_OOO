@@ -58,6 +58,7 @@ Gaps in numbering (alpha 55, 56, 72) are missing source folders, not skipped rel
 | `scripts/package_release.py` | Standalone: 7zip a source directory → `dist/<name>.7z`. Used to rebuild a single archive without re-ingesting. |
 | `scripts/publish_github.py` | `gh release create <tag> dist/<tag>.7z --notes-file docs/per-release/<tag>.md`. **Defaults to `--dry-run`**; requires `--for-real` to call gh. |
 | `scripts/sync_pages.py` | Render the per-release index, changelog, and install instructions as HTML and write them into `X:\dev\devnull\docs\OOO\OBR\`. **Does not commit or push** the Pages repo. |
+| `scripts/sync_syncmap.py` | Generate the two SyncMap variants (default + Deluxe) from the OOO_SyncGen source-of-truth INI. Run **before ingesting a new alpha** to refresh both files in the source folder. See [`docs/release-process.md`](docs/release-process.md) Step 0. |
 
 ## What gets committed per release
 

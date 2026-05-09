@@ -5,6 +5,10 @@ End-to-end procedure for publishing a new alpha — or re-publishing an existing
 ## TL;DR
 
 ```powershell
+# 0. regenerate the two SyncMap variants from the OOO_SyncGen Deluxe source
+#    of truth and drop them into the alpha source folder. (See "Step 0" below.)
+py -3 scripts/sync_syncmap.py --target "X:\games\Oscuro\Oscuro's_..._alphaNN"
+
 # 1. ingest the source folder (idempotent: --force if you're re-doing an existing tag)
 py -3 scripts/ingest_release.py "X:\games\Oscuro\Oscuro's_..._alphaNN" --force
 
@@ -28,6 +32,57 @@ git push
 ---
 
 ## Step-by-step
+
+### 0. Regenerate the SyncMap variants from the OOO_SyncGen source of truth
+
+OOORS Full ships **two** SyncMap files inside every release:
+
+| File in release | Audience |
+|---|---|
+| `…\Data\SyncMap\Oscuro's_Oblivion_Overhaul.ini` | Default — **non-Deluxe Edition** owners |
+| `…\Data\OptionalPatches\SyncMap - DeluxeEdition\Oscuro's_Oblivion_Overhaul.ini` | **Deluxe Edition** owners |
+
+The two files are derived from a single source of truth maintained outside this repo:
+
+```
+X:\mod-tools\OOO_SyncGen\SyncGen\Overrides\Oscuro's_Oblivion_Overhaul_Overrides.ini
+```
+
+That source IS the Deluxe variant — it uses Deluxe-DLC asset paths for the items that have a Deluxe analogue:
+
+- `/Game/Forms/items/armor/DEA…` — Deluxe Armor "Order" set
+- `/Game/Forms/items/armor/DEM…` — Deluxe Armor "Cataclysm" set
+- `/Game/Forms/items/weapons/DEA…` — Deluxe weapons "Order" set
+- `/Game/Forms/items/weapons/DEM…` — Deluxe weapons "Cataclysm" set
+
+Each of those Deluxe entries has a commented-out non-Deluxe alternative directly above it. **`scripts/sync_syncmap.py`** reads that source and writes:
+
+- The **Deluxe** target — verbatim copy of the source.
+- The **default** target — same file with each Deluxe pair swapped (the previously-commented non-Deluxe line becomes active; the previously-active Deluxe line becomes commented).
+
+```powershell
+py -3 scripts/sync_syncmap.py --target "X:\games\Oscuro\Oscuro's_..._alphaNN"
+```
+
+Pair-swap rule (the "important restriction"): only triggered when the active line uses `/Game/Forms/items/armor/DEA…` or `/Game/Forms/items/armor/DEM…`. Other commented prose (header `; EditorID:` lines, prose notes, unrelated commented mappings) is left untouched.
+
+Output stats look like:
+
+```
+[sync_syncmap]   18 Deluxe-active line(s) found
+[sync_syncmap]   18 pair(s) swapped to non-Deluxe
+```
+
+If the script reports `Deluxe-active line(s) had no preceding alternative`, a Deluxe entry was added to the source without a commented-out non-Deluxe fallback — fix the source first (the missing fallback is what users without Deluxe will end up with).
+
+**Important:** the target folder lives under `X:\games\Oscuro\` which the project's `restrict-path.py` hook flags as read-only. `sync_syncmap.py` itself is benign (it's just file I/O), but to actually run it against a source folder you'll need to invoke it **from your own shell**, not via a Claude tool call. Claude can dry-run the script with `--target work\_syncmap_test --dry-run` for verification, but should not write into the source folder directly.
+
+To preview without modifying the source folder:
+
+```powershell
+py -3 scripts/sync_syncmap.py --target "work\_syncmap_test" --show-unmatched
+diff "X:\mod-tools\OOO_SyncGen\SyncGen\Overrides\Oscuro's_Oblivion_Overhaul_Overrides.ini" "work\_syncmap_test\OblivionRemastered\Content\Dev\ObvData\Data\SyncMap\Oscuro's_Oblivion_Overhaul.ini"
+```
 
 ### 1. Ingest the source folder
 
