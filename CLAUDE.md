@@ -108,6 +108,16 @@ Gaps in numbering (alpha 55, 56, 72) are missing source folders, not skipped rel
 | `X:\dev\OblivionRemastered_ItemClone\` | Sister project. The `.claude/` setup here was originally borrowed from there. |
 | `C:\games\Steam\steamapps\common\Oblivion Remastered\` | Game install. **Read-only**, hook-enforced. |
 
+## Publishing a release
+
+The full runbook for ingesting + publishing a new (or re-published) alpha lives in **[`docs/release-process.md`](docs/release-process.md)**. Read it before doing anything that touches `git push`, `gh release create`, or the devnull Pages repo. It covers:
+
+- Standard "publish a new alpha" flow (the common case for `alpha91`+).
+- Re-publishing an existing tag (force-retag + asset clobber).
+- Variant branches (`alpha32nex`-style — notes file lives off-main).
+- `--latest` vs `--prerelease` decisions per situation.
+- Pages refresh + manual devnull commit/push.
+
 ## Documentation discipline
 
 After any meaningful change to the toolchain or repo layout: ask "does any `docs/*.md` need updating?" If yes, the doc update is part of the same commit. Undocumented findings are lost between sessions.

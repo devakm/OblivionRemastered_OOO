@@ -8,9 +8,12 @@ DRY-RUN BY DEFAULT. The script prints what it *would* do and exits. Pass
 Workflow per release:
   1. Verify the local tag exists.
   2. Verify dist/<tag>.7z exists (build it first via package_release.py).
-  3. Verify docs/per-release/<tag>.md exists (used as release body).
+  3. Resolve docs/per-release/<tag>.md as release body. If the file isn't in
+     the working tree (variant tags like alpha32nex live on a separate
+     branch), fall back to `git show <tag>:docs/per-release/<tag>.md` and
+     stage the text in a temp file.
   4. Push the tag to origin (`git push origin <tag>`).
-  5. `gh release create <tag> dist/<tag>.7z --title "<tag>" --notes-file docs/per-release/<tag>.md`
+  5. `gh release create <tag> dist/<tag>.7z --title "<tag>" --notes-file ...`
      (or `gh release upload <tag> dist/<tag>.7z --clobber` if release exists).
 
 Pre-reqs:
@@ -20,7 +23,8 @@ Pre-reqs:
 Usage:
     python scripts/publish_github.py --tag alpha90              # dry-run
     python scripts/publish_github.py --tag alpha90 --for-real   # real
-    python scripts/publish_github.py --tag alpha90 --prerelease # mark as pre-release
+    python scripts/publish_github.py --tag alpha90 --latest --for-real
+    python scripts/publish_github.py --tag alpha37 --prerelease --for-real
 """
 
 from __future__ import annotations
@@ -29,11 +33,13 @@ import argparse
 import shutil
 import subprocess
 import sys
+import tempfile
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DIST_DIR = REPO_ROOT / "dist"
 PER_RELEASE_DOC_DIR = REPO_ROOT / "docs" / "per-release"
+PER_RELEASE_REPO_PATH_TEMPLATE = "docs/per-release/{tag}.md"
 
 
 def git(*args: str, check: bool = True) -> subprocess.CompletedProcess:
@@ -53,6 +59,32 @@ def gh_release_exists(tag: str) -> bool:
     return r.returncode == 0
 
 
+def resolve_notes_file(tag: str) -> Path:
+    """Return a Path to the release notes for `tag`.
+
+    Prefers the file in the working tree. If absent (e.g. variant tags whose
+    notes live on a side branch), extracts the file from the tag via
+    `git show <tag>:<path>` into a temp location and returns that.
+    """
+    in_tree = PER_RELEASE_DOC_DIR / f"{tag}.md"
+    if in_tree.exists():
+        return in_tree
+
+    repo_path = PER_RELEASE_REPO_PATH_TEMPLATE.format(tag=tag)
+    r = git("show", f"{tag}:{repo_path}", check=False)
+    if r.returncode != 0:
+        raise SystemExit(
+            f"missing release notes: not in working tree at {in_tree}, and "
+            f"`git show {tag}:{repo_path}` failed:\n{r.stderr.strip()}"
+        )
+    fd = tempfile.NamedTemporaryFile(
+        mode="w", encoding="utf-8", suffix=f"_{tag}.md", delete=False
+    )
+    fd.write(r.stdout)
+    fd.close()
+    return Path(fd.name)
+
+
 def run_or_print(cmd: list[str], for_real: bool) -> int:
     if for_real:
         print(f"[publish] EXEC: {' '.join(cmd)}", file=sys.stderr)
@@ -66,7 +98,9 @@ def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--tag", required=True, help="release tag to publish (e.g. alpha90)")
     ap.add_argument("--for-real", action="store_true", help="actually invoke git push + gh release")
-    ap.add_argument("--prerelease", action="store_true", help="mark as pre-release on GitHub")
+    rel_group = ap.add_mutually_exclusive_group()
+    rel_group.add_argument("--prerelease", action="store_true", help="mark as pre-release")
+    rel_group.add_argument("--latest", action="store_true", help="mark as the displayed Latest release")
     ap.add_argument("--title", help="release title (default: tag name)")
     args = ap.parse_args()
 
@@ -77,12 +111,10 @@ def main() -> int:
     if not archive.exists():
         raise SystemExit(
             f"missing archive: {archive}\n"
-            f"Run: python scripts/package_release.py --tag {args.tag}"
+            f"Run: python scripts/package_release.py --source <source-folder> --name {args.tag}"
         )
 
-    notes = PER_RELEASE_DOC_DIR / f"{args.tag}.md"
-    if not notes.exists():
-        raise SystemExit(f"missing release notes: {notes}")
+    notes = resolve_notes_file(args.tag)
 
     if args.for_real and not shutil.which("gh"):
         raise SystemExit("gh CLI not on PATH. Install via: winget install GitHub.cli")
@@ -107,6 +139,8 @@ def main() -> int:
     ]
     if args.prerelease:
         create_cmd.append("--prerelease")
+    if args.latest:
+        create_cmd.extend(["--latest"])
     return run_or_print(create_cmd, args.for_real)
 
 
