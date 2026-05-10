@@ -2450,7 +2450,7 @@
   {
     "edid": "AbSeducer",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00126B",
-    "full": "",
+    "full": "Seducer's Vanity",
     "modl": null
   },
   {
@@ -2478,9 +2478,183 @@
     "modl": null
   },
   {
+    "edid": "GeomancyDiamondPerfectSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015CD",
+    "full": "Geomantic Refusal (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyEmeraldPerfectSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015CE",
+    "full": "Geomantic Siphon (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyRubyPerfectSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015D3",
+    "full": "Geomantic Wrath (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancySapphirePerfectSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015D5",
+    "full": "Geomantic Influx (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyTopazPerfectSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015D7",
+    "full": "Geomantic Ward (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyAmethystFlawedSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015D9",
+    "full": "Geomantic Purity (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyAmethystNormalSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015DB",
+    "full": "Geomantic Purity (moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyAmethystFlawlessSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015DD",
+    "full": "Geomantic Purity (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyAmethystPerfectSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015DF",
+    "full": "Geomantic Purity (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyPearlBlackSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001624",
+    "full": "Geomantic Void (unique)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyOpalFlawedSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001628",
+    "full": "Geomantic Shielding (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyOpalFlawlessSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001629",
+    "full": "Geomantic Shielding (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyOpalNormalSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00162B",
+    "full": "Geomantic Shielding (Moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyOpalPerfectSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00162D",
+    "full": "Geomantic Shielding (perfect)",
+    "modl": null
+  },
+  {
     "edid": "ZResistMagicWeak",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001644",
     "full": "Resistance to Magic",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyPearlFlawedSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0016B5",
+    "full": "Geomantic Illumination (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyGoldSpellNuggetSmall",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E3D",
+    "full": "Geomantic Restoration (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyGoldSpellNuggetLarge",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E3E",
+    "full": "Geomantic Restoration (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyGoldSpellNugget",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E40",
+    "full": "Geomantic Restoration (moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancySilverSpellNuggetLarge",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E42",
+    "full": "Geomantic Healing (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancySilverSpellNuggetSmall",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E44",
+    "full": "Geomantic Healing (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancySilverSpellNugget",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E46",
+    "full": "Geomantic Healing (moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyPlatinumSpellNuggetLarge",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E48",
+    "full": "Geomantic Resilience (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyPlatinumSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E4A",
+    "full": "Geomantic Resilience (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyPlatinumSpellNuggetSmall",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E4C",
+    "full": "Geomantic Resilience (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyPlatinumSpellNugget",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E4E",
+    "full": "Geomantic Resilience (moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyCopperSpellNuggetLarge",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E50",
+    "full": "Geomantic Conduction (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyCopperSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E52",
+    "full": "Geomantic Conduction (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyCopperSpellNuggetSmall",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E54",
+    "full": "Geomantic Conduction (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyCopperSpellNugget",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E56",
+    "full": "Geomantic Conduction (moderate)",
     "modl": null
   },
   {
@@ -2498,7 +2672,7 @@
   {
     "edid": "DreadSetBonusOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002656",
-    "full": "",
+    "full": "Dread Visage",
     "modl": null
   },
   {
@@ -2678,13 +2852,73 @@
   {
     "edid": "ManniShockTarget1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003253",
-    "full": "",
+    "full": "Mannimarco's Anguish",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyPearlFlawlessSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003421",
+    "full": "Geomantic Illumination (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyGoldSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003422",
+    "full": "Geomantic Restoration (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyTopazFlawedSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003426",
+    "full": "Geomantic Ward (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyRubyFlawlessSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003430",
+    "full": "Geomantic Wrath (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancySapphireFlawedSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003431",
+    "full": "Geomantic Influx (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancySapphireNormalSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003434",
+    "full": "Geomantic Influx (moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancySapphireFlawlessSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003436",
+    "full": "Geomantic Influx (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyDiamondFlawedSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003438",
+    "full": "Geomantic Refusal (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyDiamondNormalSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00343A",
+    "full": "Geomantic Refusal (moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyDiamondFlawlessSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00343C",
+    "full": "Geomantic Refusal (greater)",
     "modl": null
   },
   {
     "edid": "AbAnimalResisFireOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0037DB",
-    "full": "",
+    "full": "Resist Fire",
     "modl": null
   },
   {
@@ -2714,19 +2948,19 @@
   {
     "edid": "FalcarDrain1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003D63",
-    "full": "",
+    "full": "Falcar's Life Drain",
     "modl": null
   },
   {
     "edid": "FalcarDrain3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003D64",
-    "full": "",
+    "full": "Falcar's Grevious Wounds",
     "modl": null
   },
   {
     "edid": "FalcarSilence",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003D66",
-    "full": "",
+    "full": "Falcar's Silent Betrayal",
     "modl": null
   },
   {
@@ -2742,27 +2976,105 @@
     "modl": null
   },
   {
+    "edid": "ZZZGolemWaterSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0042B8",
+    "full": "Summon Water Golem",
+    "modl": null
+  },
+  {
+    "edid": "ZZZGolemSilverSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0042B9",
+    "full": "Summon Silver Golem",
+    "modl": null
+  },
+  {
+    "edid": "ZZZGolemGoldSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0042BB",
+    "full": "Summon Gold Golem",
+    "modl": null
+  },
+  {
+    "edid": "ZZZGolemMithrilSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0042BD",
+    "full": "Summon Mithril Golem",
+    "modl": null
+  },
+  {
+    "edid": "ZZZGolemIronSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0042BF",
+    "full": "Summon Iron Golem",
+    "modl": null
+  },
+  {
+    "edid": "ZZZGolemGlassSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0042C1",
+    "full": "Summon Glass Golem",
+    "modl": null
+  },
+  {
+    "edid": "ZZZGolemEbonySummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0042C3",
+    "full": "Summon Ebony Golem",
+    "modl": null
+  },
+  {
     "edid": "1detectlifeeffect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0042FA",
-    "full": "",
+    "full": "Cowl's Life Detection",
     "modl": null
   },
   {
     "edid": "1nighteyeeffect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0042FB",
-    "full": "",
+    "full": "Cowl's Night Vision",
     "modl": null
   },
   {
     "edid": "1waterbreatheffect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004300",
-    "full": "",
+    "full": "Cowl's Limitless Breath",
+    "modl": null
+  },
+  {
+    "edid": "GolemSilverAthragar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00475D",
+    "full": "Call of Silver",
+    "modl": null
+  },
+  {
+    "edid": "GolemGoldAthragar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00475E",
+    "full": "Call of Gold",
+    "modl": null
+  },
+  {
+    "edid": "GolemMithrilAthragar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004760",
+    "full": "Call of Mithril",
+    "modl": null
+  },
+  {
+    "edid": "GolemGlassAthragar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004762",
+    "full": "Call of Glass",
+    "modl": null
+  },
+  {
+    "edid": "GolemWaterAthragar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004764",
+    "full": "Call of Water",
     "modl": null
   },
   {
     "edid": "OOOSEDisCurseOrder",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004822",
     "full": "Curse of Order",
+    "modl": null
+  },
+  {
+    "edid": "ManniReaverSummon",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004B1C",
+    "full": "Mannimarco's Call of Spirits",
     "modl": null
   },
   {
@@ -2964,6 +3276,12 @@
     "modl": null
   },
   {
+    "edid": "SummonWolfJephre",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005D60",
+    "full": "Summon Jephre's Hound",
+    "modl": null
+  },
+  {
     "edid": "ZAuraProtectionCarla",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005DBE",
     "full": "Carla's Aura of Protection",
@@ -2972,7 +3290,7 @@
   {
     "edid": "AbUndeadBoneResistBossOscuro",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005DFC",
-    "full": "",
+    "full": "Undead Bone Lord Resistances",
     "modl": null
   },
   {
@@ -2990,151 +3308,151 @@
   {
     "edid": "ArgonianWeakness1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007755",
-    "full": "",
+    "full": "Mud Pool's Chant",
     "modl": null
   },
   {
     "edid": "ArgonianAbsorb1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007756",
-    "full": "",
+    "full": "Touch of Endless Treading",
     "modl": null
   },
   {
     "edid": "ArgonianAbsorb2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007758",
-    "full": "",
+    "full": "Touch of Sorrowful Hopes",
     "modl": null
   },
   {
     "edid": "ArgonianAbsorb3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00775A",
-    "full": "",
+    "full": "Touch of Exhausting Journey",
     "modl": null
   },
   {
     "edid": "ArgonianAbsorb4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00775C",
-    "full": "",
+    "full": "Touch of Seeping Vitality",
     "modl": null
   },
   {
     "edid": "ArgonianAbsorb5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00775E",
-    "full": "",
+    "full": "Touch of Seeping Blood",
     "modl": null
   },
   {
     "edid": "ArgonianAbsorb6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007760",
-    "full": "",
+    "full": "Touch of Seeping Magicka",
     "modl": null
   },
   {
     "edid": "ArgonianHeal1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007762",
-    "full": "",
+    "full": "Blessings of Water Borne",
     "modl": null
   },
   {
     "edid": "ArgonianHeal2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007764",
-    "full": "",
+    "full": "Comforting Depths",
     "modl": null
   },
   {
     "edid": "ArgonianHeal3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007766",
-    "full": "",
+    "full": "Communion of the School",
     "modl": null
   },
   {
     "edid": "ArgonianShield1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007768",
-    "full": "",
+    "full": "Protection of the Water Borne",
     "modl": null
   },
   {
     "edid": "ArgonianShield2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00776A",
-    "full": "",
+    "full": "Protection of Infested Waters",
     "modl": null
   },
   {
     "edid": "ArgonianShield3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00776C",
-    "full": "",
+    "full": "Protection of Putrid Waters",
     "modl": null
   },
   {
     "edid": "ArgonianShield4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00776E",
-    "full": "",
+    "full": "Protection of Reflecting Surface",
     "modl": null
   },
   {
     "edid": "ArgonianHeal4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007770",
-    "full": "",
+    "full": "Quickening of Vitality",
     "modl": null
   },
   {
     "edid": "ArgonianHealCure1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007772",
-    "full": "",
+    "full": "Boon of Sea Unbound",
     "modl": null
   },
   {
     "edid": "ArgonianHealCure2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007774",
-    "full": "",
+    "full": "Boon of Ancient Blood",
     "modl": null
   },
   {
     "edid": "ArgonianHealCure3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007776",
-    "full": "",
+    "full": "Boon of Ancient Power",
     "modl": null
   },
   {
     "edid": "ArgonianIllusion1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007778",
-    "full": "",
+    "full": "Cover of the Deep Blue",
     "modl": null
   },
   {
     "edid": "ArgonianIllusion2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00777A",
-    "full": "",
+    "full": "Twinkling Sands",
     "modl": null
   },
   {
     "edid": "ArgonianIllusion3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00777C",
-    "full": "",
+    "full": "Mercy of the Cold Deep",
     "modl": null
   },
   {
     "edid": "ArgonianHealCure4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00777E",
-    "full": "",
+    "full": "Boon of Ancient Friendship",
     "modl": null
   },
   {
     "edid": "ArgonianIllusion4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007780",
-    "full": "",
+    "full": "Grace of the Water Borne",
     "modl": null
   },
   {
     "edid": "ArgonianIllusion5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007782",
-    "full": "",
+    "full": "Peaceful Reflections",
     "modl": null
   },
   {
     "edid": "ArgonianWeakness2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007784",
-    "full": "",
+    "full": "Sinking Weight",
     "modl": null
   },
   {
@@ -3180,6 +3498,36 @@
     "modl": null
   },
   {
+    "edid": "ValenSummonBoarJephre",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F71",
+    "full": "Jephre's Tusks",
+    "modl": null
+  },
+  {
+    "edid": "ValenSummonLionJephre",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F73",
+    "full": "Jephre's Fangs",
+    "modl": null
+  },
+  {
+    "edid": "ValenSummonSprigganJephre",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F75",
+    "full": "Jephre's Mistress",
+    "modl": null
+  },
+  {
+    "edid": "ValenSummonGiantWolfJephre",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F77",
+    "full": "Jephre's Hunter",
+    "modl": null
+  },
+  {
+    "edid": "ValenSummonKodiakJephre",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F79",
+    "full": "Jephre's Spirit",
+    "modl": null
+  },
+  {
     "edid": "LichLipsandTarnBossCold1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A95C",
     "full": "Faernel's Fury of Icicles",
@@ -3206,7 +3554,25 @@
   {
     "edid": "StandardWeaknessDisease2Apprentice",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AF8C",
-    "full": "",
+    "full": "Weakness to Fire",
+    "modl": null
+  },
+  {
+    "edid": "ValenBosmerGoodSummon1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B457",
+    "full": "Jephre's Forest Companion",
+    "modl": null
+  },
+  {
+    "edid": "ValenBosmerGoodBoarJephre",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B458",
+    "full": "Jephre's Tusks",
+    "modl": null
+  },
+  {
+    "edid": "ValenBosmerGoodLionJephre",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B45A",
+    "full": "Jephre's Fangs",
     "modl": null
   },
   {
@@ -3231,6 +3597,54 @@
     "edid": "lbSpell2OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C5F4",
     "full": "Bash Noise",
+    "modl": null
+  },
+  {
+    "edid": "OblivionGuardianGolemIron",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DA57",
+    "full": "Call of Iron",
+    "modl": null
+  },
+  {
+    "edid": "OblivionGuardianGolemGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DA58",
+    "full": "Call of Gold",
+    "modl": null
+  },
+  {
+    "edid": "OblivionGuardianGolemMithril",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DA5A",
+    "full": "Call of Mithril",
+    "modl": null
+  },
+  {
+    "edid": "OblivionGuardianGolemGlass",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DA5C",
+    "full": "Call of Glass",
+    "modl": null
+  },
+  {
+    "edid": "OblivionGuardianGolemMagma",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DA5E",
+    "full": "Call of Magma",
+    "modl": null
+  },
+  {
+    "edid": "VampireGolemBlood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DA62",
+    "full": "Call of Blood",
+    "modl": null
+  },
+  {
+    "edid": "VampireGolemMud",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DA63",
+    "full": "Call of Mud",
+    "modl": null
+  },
+  {
+    "edid": "ValenSummon3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0100F4",
+    "full": "Jephre's Forest Companion",
     "modl": null
   },
   {
@@ -3440,37 +3854,37 @@
   {
     "edid": "BSLoverCharm",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:013E10",
-    "full": "",
+    "full": "Charmer",
     "modl": null
   },
   {
     "edid": "BSShadowStep",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:013E11",
-    "full": "",
+    "full": "Shadow's Grace",
     "modl": null
   },
   {
     "edid": "BSSerpentWisdom",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:013E13",
-    "full": "",
+    "full": "Wisdom of the Earth",
     "modl": null
   },
   {
     "edid": "BSTowerResist",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:013E15",
-    "full": "",
+    "full": "Tower's Might",
     "modl": null
   },
   {
     "edid": "BSRitualMaraProtection",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:013E17",
-    "full": "",
+    "full": "Mara's Divine Protection",
     "modl": null
   },
   {
     "edid": "BSLordFrostResist",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:013E19",
-    "full": "",
+    "full": "Resilience of the North",
     "modl": null
   },
   {
@@ -3504,6 +3918,12 @@
     "modl": null
   },
   {
+    "edid": "AbGhostNPC2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014667",
+    "full": "Ghostly powers",
+    "modl": null
+  },
+  {
     "edid": "OOOSeducerBurdenTouch",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014780",
     "full": "Touch of Heavy Mood",
@@ -3534,6 +3954,24 @@
     "modl": null
   },
   {
+    "edid": "AbGhostNPC3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014B5E",
+    "full": "Ghostly powers",
+    "modl": null
+  },
+  {
+    "edid": "AbAtronachFlameEffect2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:015551",
+    "full": "Atronach Fire",
+    "modl": null
+  },
+  {
+    "edid": "AbGhostSpriggan",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:015558",
+    "full": "Ghostly powers",
+    "modl": null
+  },
+  {
     "edid": "ZWeaknessToOscuroDammit",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:016977",
     "full": "DieYouDamnVanillaGuardDIE",
@@ -3555,6 +3993,36 @@
     "edid": "SpectralFrostDamage",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:017C9F",
     "full": "Freezing Ether",
+    "modl": null
+  },
+  {
+    "edid": "PwSprigganSummonKodiak",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:017CBA",
+    "full": "Summon Kodiak",
+    "modl": null
+  },
+  {
+    "edid": "PwSprigganSummonGW",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:017CBE",
+    "full": "Summon Kodiak",
+    "modl": null
+  },
+  {
+    "edid": "SummonBoarJephre",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:017CBF",
+    "full": "Summon Jephre's Tusks",
+    "modl": null
+  },
+  {
+    "edid": "SummonLionJephre",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:017CC1",
+    "full": "Summon Jephre's Fangs",
+    "modl": null
+  },
+  {
+    "edid": "SummonSprigganJephre",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:017CC3",
+    "full": "Summon Jephre's Mistress",
     "modl": null
   },
   {
@@ -3762,6 +4230,12 @@
     "modl": null
   },
   {
+    "edid": "SprigganSummonKodiak",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CFF4",
+    "full": "Jephre's Spirit",
+    "modl": null
+  },
+  {
     "edid": "VampireDeadlyTouchStrong",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01D505",
     "full": "Deathly Visage",
@@ -3801,6 +4275,12 @@
     "edid": "VampireDeadlyDamageStrong",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01D510",
     "full": "Deathly Bloodletting",
+    "modl": null
+  },
+  {
+    "edid": "VampireWarg",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01D519",
+    "full": "Call of Companion",
     "modl": null
   },
   {
@@ -3854,13 +4334,13 @@
   {
     "edid": "ApriaCurse1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01DA40",
-    "full": "",
+    "full": "Apria's Song of Souls",
     "modl": null
   },
   {
     "edid": "ApriaCurse2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01DA41",
-    "full": "",
+    "full": "Apria's Song of Slumber",
     "modl": null
   },
   {
@@ -4178,19 +4658,19 @@
   {
     "edid": "FaranAttack",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02CCFA",
-    "full": "",
+    "full": "Faran's Righteous Fury",
     "modl": null
   },
   {
     "edid": "FaranBoost",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02CCFB",
-    "full": "",
+    "full": "Faran's Power",
     "modl": null
   },
   {
     "edid": "FaranDispelSilence",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02CCFD",
-    "full": "",
+    "full": "Hestarius House's Might",
     "modl": null
   },
   {
@@ -4274,7 +4754,7 @@
   {
     "edid": "AbGuarResistances",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02EADA",
-    "full": "",
+    "full": "Guar's Stamina",
     "modl": null
   },
   {
@@ -4470,6 +4950,54 @@
     "modl": null
   },
   {
+    "edid": "OOODispositionEvilArmor01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:034954",
+    "full": "Disposition From Evil Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionEvilArmor02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:034955",
+    "full": "Disposition From Evil Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionEvilArmor03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:034957",
+    "full": "Disposition From Evil Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionEvilArmor04",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:034959",
+    "full": "Disposition From Evil Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionGoodArmor01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03495B",
+    "full": "Disposition From Good Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionGoodArmor02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03495D",
+    "full": "Disposition From Good Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionGoodArmor03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03495F",
+    "full": "Disposition From Good Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionGoodArmor04",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:034961",
+    "full": "Disposition From Good Armor",
+    "modl": null
+  },
+  {
     "edid": "ZResistFrostMino",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0356DA",
     "full": "Resistance to Frost",
@@ -4569,6 +5097,36 @@
     "edid": "ZResistMagicNormal",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03A24C",
     "full": "Resistance to Magic",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionDreadArmor01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03B338",
+    "full": "Disposition From Dread Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionDreadArmor02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03B339",
+    "full": "Disposition From Dread Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionDreadArmor03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03B33B",
+    "full": "Disposition From Dread Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionDreadArmor04",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03B33D",
+    "full": "Disposition From Dread Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionShadowArmor01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03B345",
+    "full": "Disposition From Shadow Armor",
     "modl": null
   },
   {
@@ -4694,7 +5252,25 @@
   {
     "edid": "FuryFire2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03B5D4",
-    "full": "",
+    "full": "Fury's Fiery Touch",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionShadowArmor02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03B850",
+    "full": "Disposition From Shadow Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionShadowArmor03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03B851",
+    "full": "Disposition From Shadow Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionShadowArmor04",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03B853",
+    "full": "Disposition From Shadow Armor",
     "modl": null
   },
   {
@@ -4707,6 +5283,12 @@
     "edid": "ManniDamArea1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03BFA3",
     "full": "Mannimarco's Poison Ball",
+    "modl": null
+  },
+  {
+    "edid": "ManniSummonLich",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03BFA5",
+    "full": "Mannimarco's Summon Lich",
     "modl": null
   },
   {
@@ -4814,61 +5396,61 @@
   {
     "edid": "FuryFire1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03BFCB",
-    "full": "",
+    "full": "Fury's Blast",
     "modl": null
   },
   {
     "edid": "AmazonDisArmor1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03BFCD",
-    "full": "",
+    "full": "Amazon's Shredding Fury",
     "modl": null
   },
   {
     "edid": "AmazonDrainStrEnd",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03BFCF",
-    "full": "",
+    "full": "Amazon's Drain of Power",
     "modl": null
   },
   {
     "edid": "AmazonFireTarget",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03BFD1",
-    "full": "",
+    "full": "Amazon's Fire Spear",
     "modl": null
   },
   {
     "edid": "AmazonFireTouch",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03BFD3",
-    "full": "",
+    "full": "Amazon's Fire Grasp",
     "modl": null
   },
   {
     "edid": "AmazonFireShield",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03BFD5",
-    "full": "",
+    "full": "Amazon's Fire Shield",
     "modl": null
   },
   {
     "edid": "AmazonLight",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03BFD7",
-    "full": "",
+    "full": "Nature's Light",
     "modl": null
   },
   {
     "edid": "AmazonDrainSpeed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03BFD9",
-    "full": "",
+    "full": "Amazon's Trap",
     "modl": null
   },
   {
     "edid": "AmazonShockTarget",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03BFDB",
-    "full": "",
+    "full": "Amazon's Thunder Bolt",
     "modl": null
   },
   {
     "edid": "AmazonShockTouch",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03BFDD",
-    "full": "",
+    "full": "Amazon's Thunder Attack",
     "modl": null
   },
   {
@@ -5204,25 +5786,25 @@
   {
     "edid": "CarlaDrain1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAC3",
-    "full": "",
+    "full": "Carla's Life Drain",
     "modl": null
   },
   {
     "edid": "CarlaDrain2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAC5",
-    "full": "",
+    "full": "Carla's Life Ravishing",
     "modl": null
   },
   {
     "edid": "CarlaSummon1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAC7",
-    "full": "",
+    "full": "Carla's Call of Bones",
     "modl": null
   },
   {
     "edid": "CarlaDrain3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAC9",
-    "full": "",
+    "full": "Carla's Withering",
     "modl": null
   },
   {
@@ -5414,25 +5996,25 @@
   {
     "edid": "AmazonSockShield",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03D414",
-    "full": "",
+    "full": "Amazon's Shock Shield",
     "modl": null
   },
   {
     "edid": "AmazonShockTarget2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03D416",
-    "full": "",
+    "full": "Amazon's Thunderous Spear",
     "modl": null
   },
   {
     "edid": "AmazonShockTouch2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03D418",
-    "full": "",
+    "full": "Amazon's Shocking Grasp",
     "modl": null
   },
   {
     "edid": "AmazonDisArmor2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03D41A",
-    "full": "",
+    "full": "Amazon's Shredding Blow",
     "modl": null
   },
   {
@@ -5450,127 +6032,127 @@
   {
     "edid": "AmazonSummon1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E2E5",
-    "full": "",
+    "full": "Nature's Fire Guardian",
     "modl": null
   },
   {
     "edid": "AmazonSummon2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E2E6",
-    "full": "",
+    "full": "Nature's Storm Guardian",
     "modl": null
   },
   {
     "edid": "AmazonShield1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E2E8",
-    "full": "",
+    "full": "Nature's Oaken Skin",
     "modl": null
   },
   {
     "edid": "AmazonSpellAbsorb1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E2EA",
-    "full": "",
+    "full": "Nature's Magic Bond",
     "modl": null
   },
   {
     "edid": "AmazonWaterBreath",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E2EC",
-    "full": "",
+    "full": "Amazon's Amphibian Lungs",
     "modl": null
   },
   {
     "edid": "AmazonWeakness1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E2EE",
-    "full": "",
+    "full": "Amazon's Thunder Chant",
     "modl": null
   },
   {
     "edid": "AmazonHeal1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E2F0",
-    "full": "",
+    "full": "Amazon's Regeneration",
     "modl": null
   },
   {
     "edid": "AmazonSight1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E2F2",
-    "full": "",
+    "full": "Eyes of the Predator",
     "modl": null
   },
   {
     "edid": "AmazonCureParalysis1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E2F4",
-    "full": "",
+    "full": "Amazon's Cure Paralysis",
     "modl": null
   },
   {
     "edid": "AmazonSight2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E2F6",
-    "full": "",
+    "full": "Hound's Track",
     "modl": null
   },
   {
     "edid": "AmazonShield2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E2F8",
-    "full": "",
+    "full": "Nature's Stone Skin",
     "modl": null
   },
   {
     "edid": "AmazonHeal2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E2FA",
-    "full": "",
+    "full": "Amazon's Aid",
     "modl": null
   },
   {
     "edid": "AmazonHealFatigue1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E2FC",
-    "full": "",
+    "full": "Amazon's Vigor",
     "modl": null
   },
   {
     "edid": "AmazonCureParalysis2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E2FE",
-    "full": "",
+    "full": "Amazon's Unbinding",
     "modl": null
   },
   {
     "edid": "AmazonBossThunder",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E300",
-    "full": "",
+    "full": "Nature's Rage",
     "modl": null
   },
   {
     "edid": "AmazonBossFire",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E302",
-    "full": "",
+    "full": "Nature's Flaming Vengeance",
     "modl": null
   },
   {
     "edid": "AmazonBossThunder2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E304",
-    "full": "",
+    "full": "Voice of Heaven",
     "modl": null
   },
   {
     "edid": "AmazonDispel1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E306",
-    "full": "",
+    "full": "Amazon's Unraveling",
     "modl": null
   },
   {
     "edid": "AmazonBossGuardian",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E308",
-    "full": "",
+    "full": "Avatar of Storms",
     "modl": null
   },
   {
     "edid": "AmazonBossRegen",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E30A",
-    "full": "",
+    "full": "Sap of the Earth",
     "modl": null
   },
   {
     "edid": "AmazonBossProtection",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E30C",
-    "full": "",
+    "full": "Mountain Stillness",
     "modl": null
   },
   {
@@ -5582,7 +6164,7 @@
   {
     "edid": "AmazonHunterHide",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E310",
-    "full": "",
+    "full": "Nature's Shroud of Leaves",
     "modl": null
   },
   {
@@ -5672,19 +6254,19 @@
   {
     "edid": "FuryFire3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E815",
-    "full": "",
+    "full": "Fury's Corroding Touch",
     "modl": null
   },
   {
     "edid": "FuryHeal1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E817",
-    "full": "",
+    "full": "Fury's Rallying Cry",
     "modl": null
   },
   {
     "edid": "FuryHeal2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E819",
-    "full": "",
+    "full": "Fury's Blessing of Anger",
     "modl": null
   },
   {
@@ -5726,7 +6308,7 @@
   {
     "edid": "AzzaniAttack1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03ED0E",
-    "full": "",
+    "full": "Azzani's Shredding Blow",
     "modl": null
   },
   {
@@ -5738,61 +6320,85 @@
   {
     "edid": "BlackRockCaptainAttack1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03F6DE",
-    "full": "",
+    "full": "Uncanny Gaze of the Skull",
     "modl": null
   },
   {
     "edid": "BlackRockCaptainAttack2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03F6DF",
-    "full": "",
+    "full": "Reaver of Souls",
     "modl": null
   },
   {
     "edid": "BlackRockCaptainHeal2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03F6E1",
-    "full": "",
+    "full": "Captain's Rallying Cry",
     "modl": null
   },
   {
     "edid": "BlackRockCaptainHeal1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03F6E3",
-    "full": "",
+    "full": "Captain's Invigoration",
     "modl": null
   },
   {
     "edid": "BlackRockCaptainAttack3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03F6E5",
-    "full": "",
+    "full": "Sea Hound's Howl",
     "modl": null
   },
   {
     "edid": "BlackRockCaptainSilence1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03F6E7",
-    "full": "",
+    "full": "Victim's Bindings",
     "modl": null
   },
   {
     "edid": "BlackRockCaptainAbsorb1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03F6E9",
-    "full": "",
+    "full": "Captain's Plunder",
     "modl": null
   },
   {
     "edid": "BlackRockCaptainDispel1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03F6EB",
-    "full": "",
+    "full": "The Rogue's Unshackling",
     "modl": null
   },
   {
     "edid": "BlackRockCaptainProtection",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03F6ED",
-    "full": "",
+    "full": "The Rogue's Fortune",
     "modl": null
   },
   {
     "edid": "ZAuraProtectionBRCaptain",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03F6EF",
     "full": "Ancient Sailor's Glory",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionLawArmor01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03F9B6",
+    "full": "Disposition From Law Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionLawArmor02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03F9B7",
+    "full": "Disposition From Law Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionLawArmor03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03F9B9",
+    "full": "Disposition From Law Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionLawArmor04",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03F9BB",
+    "full": "Disposition From Law Armor",
     "modl": null
   },
   {
@@ -5810,37 +6416,37 @@
   {
     "edid": "AbGargoyle",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0417DD",
-    "full": "",
+    "full": "Gargoyle's Will of Earth",
     "modl": null
   },
   {
     "edid": "GargoyleCorrosion1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0417DE",
-    "full": "",
+    "full": "Gargoyle's Bile",
     "modl": null
   },
   {
     "edid": "GargoyleParalysis1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0417E0",
-    "full": "",
+    "full": "Gargoyle's Hand of Stone",
     "modl": null
   },
   {
     "edid": "GargoyleMagicResist1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0417E2",
-    "full": "",
+    "full": "Gargoyle's Skin of Stone",
     "modl": null
   },
   {
     "edid": "GargoyleGaze1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0417E4",
-    "full": "",
+    "full": "Gargoyle's Gaze",
     "modl": null
   },
   {
     "edid": "AbAnimalResistFrostNorthOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0424F2",
-    "full": "",
+    "full": "Resist Frost",
     "modl": null
   },
   {
@@ -5886,6 +6492,12 @@
     "modl": null
   },
   {
+    "edid": "LAPGuildOrInnTestSpellOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:045DF6",
+    "full": "Guild or Inn Test Spell",
+    "modl": null
+  },
+  {
     "edid": "LapHtHBashLockOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:045DF8",
     "full": "Bash Lock",
@@ -5924,37 +6536,37 @@
   {
     "edid": "GObSummonIdleSpell1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F8A",
-    "full": "",
+    "full": "Summon Scamp",
     "modl": null
   },
   {
     "edid": "EregorDamTarget",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04A073",
-    "full": "",
+    "full": "Eregor's Song of Wilting",
     "modl": null
   },
   {
     "edid": "EregorDispel",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04A074",
-    "full": "",
+    "full": "Molag Bal's Ravishing Gaze",
     "modl": null
   },
   {
     "edid": "EregorBuff",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04A076",
-    "full": "",
+    "full": "Molag Bal's Curse of Damned",
     "modl": null
   },
   {
     "edid": "EregorDamTouch",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04A078",
-    "full": "",
+    "full": "Eregor's Ravishing of Soul",
     "modl": null
   },
   {
     "edid": "EregorParalyze",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04A07A",
-    "full": "",
+    "full": "Eregor's Gaze of Fear",
     "modl": null
   },
   {
@@ -5966,7 +6578,7 @@
   {
     "edid": "CarlaDispel1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04A082",
-    "full": "",
+    "full": "Carla's Ethereal Wind",
     "modl": null
   },
   {
@@ -5976,21 +6588,75 @@
     "modl": null
   },
   {
+    "edid": "GeomancyEmeraldFlawedSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051324",
+    "full": "Geomantic Siphon (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyEmeraldNormalSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051325",
+    "full": "Geomantic Siphon (moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyEmeraldFlawlessSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051326",
+    "full": "Geomantic Siphon (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyPearlNormalSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051327",
+    "full": "Geomantic Illumination (moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancySilverSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051328",
+    "full": "Geomantic Healing (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyTopazNormalSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051329",
+    "full": "Geomantic Ward (moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyTopazFlawlessSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05132A",
+    "full": "Geomantic Ward (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyRubyFlawedSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05132B",
+    "full": "Geomantic Wrath (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyRubyNormalSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05132C",
+    "full": "Geomantic Wrath (moderate)",
+    "modl": null
+  },
+  {
     "edid": "1cowlwaterbreath",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0513CA",
-    "full": "",
+    "full": "Cowl's Limitless Breath",
     "modl": null
   },
   {
     "edid": "1cowldetectlife",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0513CB",
-    "full": "",
+    "full": "Cowl's Life Detection",
     "modl": null
   },
   {
     "edid": "1cowlnighteye",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0513CC",
-    "full": "",
+    "full": "Cowl's Night Vision",
     "modl": null
   },
   {
@@ -6254,13 +6920,13 @@
   {
     "edid": "DreadSetBonusOOOv2L",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA3A",
-    "full": "",
+    "full": "Dread Visage",
     "modl": null
   },
   {
     "edid": "DreadSetBonusOOOv2H",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA3B",
-    "full": "",
+    "full": "Dread Visage",
     "modl": null
   },
   {

@@ -4038,6 +4038,30 @@
     "modl": null
   },
   {
+    "edid": "ZLightofDawn1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004B1D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZLightofDawn2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004B1F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZLightofDawn3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004B21",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZLightofDawn4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004B23",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "AyleidStaffMindFrak",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004E4F",
     "full": null,
@@ -4454,24 +4478,6 @@
   {
     "edid": "EnStandardDrainHealth4Kill",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01EB8D",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "EnLapDetectTrapsSpell3OOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:01EB92",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "EnLapDetectTrapsSpell1OOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:01EB94",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "EnLapDetectTrapsSpell2OOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:01EB96",
     "full": null,
     "modl": null
   },
@@ -5264,6 +5270,30 @@
   {
     "edid": "EnWeapZIcxthv2L",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA34",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZLightOfDawnSpell1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA35",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZLightOfDawnSpell2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA36",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZLightOfDawnSpell3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA37",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZLightOfDawnSpell4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA38",
     "full": null,
     "modl": null
   },

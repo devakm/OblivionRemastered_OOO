@@ -1,0 +1,18 @@
+{
+  "esp": "OOO_NewScripts04.esp",
+  "record_types": [
+    "ACTI",
+    "CONT",
+    "ENCH",
+    "QUST",
+    "SCPT",
+    "SPEL"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "Oscuro's_Oblivion_Overhaul.esp"
+    ],
+    "version": 1.0
+  }
+}

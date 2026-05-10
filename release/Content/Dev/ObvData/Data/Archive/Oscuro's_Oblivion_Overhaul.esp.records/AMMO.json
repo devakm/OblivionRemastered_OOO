@@ -800,122 +800,122 @@
   {
     "edid": "ArrowCloudOrnateOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F3B",
-    "full": "",
-    "modl": "Weapons\\Adonnay\\Quiver\\cloudornate.nif"
+    "full": "Ornate Cloudwood Arrows",
+    "modl": "Weapons\\Glass\\Arrow.NIF"
   },
   {
     "edid": "ArrowCloudSimpleOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F3C",
-    "full": "",
-    "modl": "Weapons\\Adonnay\\Quiver\\cloudsimple.nif"
+    "full": "Cloudwood Arrows",
+    "modl": "Weapons\\Glass\\Arrow.NIF"
   },
   {
     "edid": "ArrowEbonyOrnateOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F3D",
-    "full": "",
-    "modl": "Weapons\\Adonnay\\Quiver\\ebonyornate.nif"
+    "full": "Ayleid Ornate Ebony Arrows",
+    "modl": "Weapons\\Ebony\\Arrow.NIF"
   },
   {
     "edid": "ArrowEbonySimpleOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F3E",
-    "full": "",
-    "modl": "Weapons\\Adonnay\\Quiver\\ebonysimple.nif"
+    "full": "Ayleid Ebony Arrows",
+    "modl": "Weapons\\Ebony\\Arrow.NIF"
   },
   {
     "edid": "ArrowElmOrnateOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F3F",
-    "full": "",
-    "modl": "Weapons\\Adonnay\\Quiver\\elmwoodornate.nif"
+    "full": "Ornate Elmwood Arrows",
+    "modl": "Weapons\\Elven\\Arrow.NIF"
   },
   {
     "edid": "ArrowElmSimpleOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F40",
-    "full": "",
-    "modl": "Weapons\\Adonnay\\Quiver\\elmwoodsimple.nif"
+    "full": "Elmwood Arrows",
+    "modl": "Weapons\\Elven\\Arrow.NIF"
   },
   {
     "edid": "ArrowIvoryOrnateOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F41",
-    "full": "",
-    "modl": "Weapons\\Adonnay\\Quiver\\ivoryornate.nif"
+    "full": "Ayleid Ornate Royal Arrows",
+    "modl": "Weapons\\Ebony\\Arrow.NIF"
   },
   {
     "edid": "ArrowIvorySimpleOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F42",
-    "full": "",
-    "modl": "Weapons\\Adonnay\\Quiver\\ivorysimple.nif"
+    "full": "Ayleid Royal Arrows",
+    "modl": "Weapons\\Ebony\\Arrow.NIF"
   },
   {
     "edid": "ArrowTreeOrnateOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F43",
-    "full": "",
-    "modl": "Weapons\\Adonnay\\Quiver\\treeornate.nif"
+    "full": "Ornate Sunwood Arrows",
+    "modl": "Weapons\\Elven\\Arrow.NIF"
   },
   {
     "edid": "ArrowTreeSimpleOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F44",
-    "full": "",
-    "modl": "Weapons\\Adonnay\\Quiver\\treesimple.nif"
+    "full": "Sunwood Arrows",
+    "modl": "Weapons\\Elven\\Arrow.NIF"
   },
   {
     "edid": "ArrowWhiteOrnateOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F45",
-    "full": "",
-    "modl": "Weapons\\Adonnay\\Quiver\\whiteleatherornate.nif"
+    "full": "Ornate White Oak Arrows",
+    "modl": "Weapons\\Silver\\Arrow.NIF"
   },
   {
     "edid": "ArrowWhiteSimpleOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F46",
-    "full": "",
-    "modl": "Weapons\\Adonnay\\Quiver\\whiteleathersimple.nif"
+    "full": "White Oak Arrows",
+    "modl": "Weapons\\Silver\\Arrow.NIF"
   },
   {
     "edid": "ArrowBraidedOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:013C57",
-    "full": "",
-    "modl": "weapons\\Braided\\bquiver.nif"
+    "full": "Braided Arrow",
+    "modl": "Weapons\\Ebony\\Arrow.NIF"
   },
   {
     "edid": "TheDragonArrowOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02566C",
-    "full": "",
-    "modl": "Weapons\\TheSilverDragonOrder\\TheDragonArrow.nif"
+    "full": "The Dragon's Bites",
+    "modl": "Weapons\\Silver\\Arrow.NIF"
   },
   {
     "edid": "TheSilverDragonArrowsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02566E",
-    "full": "",
-    "modl": "Weapons\\TheSilverDragonOrder\\TheDragonQuiver.nif"
+    "full": "The Dragon's Teeth",
+    "modl": "Weapons\\Silver\\Arrow.NIF"
   },
   {
     "edid": "pegasusparrowOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:026C5A",
-    "full": "",
+    "full": "Pegasus Arrow",
     "modl": "Weapons\\Pegasus\\parrow.nif"
   },
   {
     "edid": "WeaponsDraconicArmorarrowOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02714B",
-    "full": "",
-    "modl": "Weapons\\DraconicArmor\\arrow.nif"
+    "full": "Draconic Arrow",
+    "modl": "Weapons\\Silver\\Arrow.NIF"
   },
   {
     "edid": "KDWhiteRoseElvenOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02714C",
-    "full": "",
-    "modl": "weapons\\KDwhiterosebow\\whiterosequiver.nif"
+    "full": "White Rose Arrow",
+    "modl": "Weapons\\Elven\\Arrow.NIF"
   },
   {
     "edid": "drarrowsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02714D",
-    "full": "",
-    "modl": "weapons\\drbow\\drquiver.nif"
+    "full": "Blood Thorn Arrows",
+    "modl": "Weapons\\Silver\\Arrow.NIF"
   },
   {
     "edid": "ShadowMailArrowOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038863",
-    "full": "",
-    "modl": "weapons\\ShadowMail\\arrow.nif"
+    "full": "Shadow Arrow",
+    "modl": "Weapons\\Steel\\Arrow.NIF"
   },
   {
     "edid": "OOOSEObeliskArrow1",
@@ -968,62 +968,62 @@
   {
     "edid": "AyleidArrowEnchShock",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:05138D",
-    "full": "",
-    "modl": "Weapons\\Meteoric\\metarrow1.nif"
+    "full": "Malatta Pilin",
+    "modl": "Weapons\\Elven\\Arrow.NIF"
   },
   {
     "edid": "AyleidArrowEnchFireblast",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:05138E",
-    "full": "",
-    "modl": "Weapons\\Meteoric\\metarrow1.nif"
+    "full": "Molagste Pilin",
+    "modl": "Weapons\\Elven\\Arrow.NIF"
   },
   {
     "edid": "AyleidArrowEnchFrostblast",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:05138F",
-    "full": "",
-    "modl": "Weapons\\Meteoric\\metarrow1.nif"
+    "full": "Mafreste Pilin",
+    "modl": "Weapons\\Elven\\Arrow.NIF"
   },
   {
     "edid": "AyleidArrowEnchShockblast",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:051390",
-    "full": "",
-    "modl": "Weapons\\Meteoric\\metarrow1.nif"
+    "full": "Malattaste Pilin",
+    "modl": "Weapons\\Elven\\Arrow.NIF"
   },
   {
     "edid": "AyleidArrowEnchDeathstrike",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:051391",
-    "full": "",
-    "modl": "Weapons\\Meteoric\\metarrow3.nif"
+    "full": "Moriwelkynd Pilin",
+    "modl": "Weapons\\Elven\\Arrow.NIF"
   },
   {
     "edid": "AyleidArrowEnchBurden",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:051392",
-    "full": "",
-    "modl": "Weapons\\Meteoric\\metarrow1.nif"
+    "full": "Racubal Pilin",
+    "modl": "Weapons\\Elven\\Arrow.NIF"
   },
   {
     "edid": "AyleidArrowBASE",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:051393",
-    "full": "",
+    "full": "Ayleid Arrow (BASE)",
     "modl": "Weapons\\Meteoric\\metarrow1.nif"
   },
   {
     "edid": "AyleidArrowStandard",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:051394",
-    "full": "",
-    "modl": "Weapons\\Meteoric\\metarrow2.nif"
+    "full": "Ayleid Pilin",
+    "modl": "Weapons\\Elven\\Arrow.NIF"
   },
   {
     "edid": "AyleidArrowEnchFire",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:051395",
-    "full": "",
-    "modl": "Weapons\\Meteoric\\metarrow1.nif"
+    "full": "Molag Pilin",
+    "modl": "Weapons\\Elven\\Arrow.NIF"
   },
   {
     "edid": "AyleidArrowEnchFrost",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:051396",
-    "full": "",
-    "modl": "Weapons\\Meteoric\\metarrow1.nif"
+    "full": "Mafre Pilin",
+    "modl": "Weapons\\Elven\\Arrow.NIF"
   },
   {
     "edid": "OOOSEDarkSeducerArrow9",

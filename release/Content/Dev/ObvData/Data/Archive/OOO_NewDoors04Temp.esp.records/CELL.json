@@ -1,0 +1,18 @@
+[
+  {
+    "edid": "Yeleri02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0027DB",
+    "full": "LOC_FN_Yeleri02",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "DrownedHopesCave",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01753F",
+    "full": "LOC_FN_DrownedHopesCave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  }
+]

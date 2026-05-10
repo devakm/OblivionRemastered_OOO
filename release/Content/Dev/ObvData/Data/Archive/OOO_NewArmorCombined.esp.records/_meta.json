@@ -1,0 +1,14 @@
+{
+  "esp": "OOO_NewArmorCombined.esp",
+  "record_types": [
+    "ARMO"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "DLCMehrunesRazor.esp",
+      "Oscuro's_Oblivion_Overhaul.esp"
+    ],
+    "version": 1.0
+  }
+}

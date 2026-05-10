@@ -1,0 +1,15 @@
+{
+  "esp": "OOO_NewCells04.esp",
+  "record_types": [
+    "CELL",
+    "QUST",
+    "WRLD"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "Oscuro's_Oblivion_Overhaul.esp"
+    ],
+    "version": 1.0
+  }
+}

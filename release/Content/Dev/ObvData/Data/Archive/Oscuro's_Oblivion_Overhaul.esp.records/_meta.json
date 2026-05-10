@@ -12,7 +12,9 @@
     "CONT",
     "CREA",
     "CSTY",
+    "DIAL",
     "DOOR",
+    "EFSH",
     "ENCH",
     "FACT",
     "GLOB",
@@ -28,6 +30,7 @@
     "MISC",
     "NPC_",
     "PACK",
+    "QUST",
     "RACE",
     "SCPT",
     "SGST",
@@ -36,7 +39,8 @@
     "SOUN",
     "SPEL",
     "STAT",
-    "WEAP"
+    "WEAP",
+    "WRLD"
   ],
   "tes4": {
     "masters": [

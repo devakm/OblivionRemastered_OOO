@@ -8,877 +8,877 @@
   {
     "edid": "ZCloudRulerTempleBanditNote",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0010CB",
-    "full": "Recent Disturbances Near Bruma",
+    "full": "LOC_FN_ZCloudRulerTempleBanditNote",
     "modl": "Clutter\\Books\\Note01.NIF"
   },
   {
     "edid": "ZArcticBanditCamp1Note",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0010D7",
-    "full": "Betrayal Note From a Skyrim Bandit",
+    "full": "LOC_FN_ZArcticBanditCamp1Note",
     "modl": "Clutter\\Books\\Note01.NIF"
   },
   {
     "edid": "ZCheapNoteBookOnAnimals",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0010D8",
-    "full": "Observations on the Love for Nature",
+    "full": "LOC_FN_ZCheapNoteBookOnAnimals",
     "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "ZArcticBanditCamp4Note",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001151",
-    "full": "Vyka's Change of Plans",
+    "full": "LOC_FN_ZArcticBanditCamp4Note",
     "modl": "Clutter\\Books\\Note01.NIF"
   },
   {
     "edid": "LapBookBrewing",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003478",
-    "full": "Guide to Brewing",
-    "modl": "Clutter\\books\\octavo01.nif"
+    "full": "LOC_FN_LapBookBrewing",
+    "modl": "Clutter\\Books\\Octavo03.NIF"
   },
   {
     "edid": "ZAyleidBook1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003916",
-    "full": "Minting at Miscarcand",
+    "full": "LOC_FN_ZAyleidBook1",
     "modl": "clutter\\Books\\Gristle\\mintingatmiscarcand.nif"
   },
   {
     "edid": "ZSKLxDestruction6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003FBA",
-    "full": "The Art of War Magic II",
+    "full": "LOC_FN_ZSKLxDestruction6",
     "modl": "Clutter\\Books\\Octavo04.NIF"
   },
   {
     "edid": "ZBook4RarePsjjjInfluence",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003FBC",
-    "full": "Psijic Conspiracy",
+    "full": "LOC_FN_ZBook4RarePsjjjInfluence",
     "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "ZBook2AnvilReportsFG",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0042C5",
-    "full": "Report on Bosmer Incursions",
+    "full": "LOC_FN_ZBook2AnvilReportsFG",
     "modl": "Clutter\\Books\\Quarto02.NIF"
   },
   {
     "edid": "ZBook4RareMagesGuildNecroInfo",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004B25",
-    "full": "Arch-Mage Traven's Notes",
+    "full": "LOC_FN_ZBook4RareMagesGuildNecroInfo",
     "modl": "Clutter\\Books\\Folio03.NIF"
   },
   {
     "edid": "AyleidWeaponBook",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004E84",
-    "full": "Ayleid Weapons Guide",
-    "modl": "dungeons\\Ayleidruins\\Interior\\armaladacarving01.nif"
+    "full": "LOC_FN_AyleidWeaponBook",
+    "modl": "Clutter\\Books\\Octavo03.NIF"
   },
   {
     "edid": "zOOODadLetter",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005257",
-    "full": "Unopened Letter",
+    "full": "LOC_FN_zOOODadLetter",
     "modl": "Clutter\\Books\\Scroll05.NIF"
   },
   {
     "edid": "1grayfoxreceipts",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005B96",
-    "full": "Receipts",
+    "full": "LOC_FN_1grayfoxreceipts",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "ZMelusPetiliusDiary",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00677F",
-    "full": "A Path of Iron",
+    "full": "LOC_FN_ZMelusPetiliusDiary",
     "modl": "Clutter\\Books\\Octavo01.NIF"
   },
   {
     "edid": "1grayfoxarmorynote",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006A13",
-    "full": "The Armory",
+    "full": "LOC_FN_1grayfoxarmorynote",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "ZBook2CommonPracticalDefense",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006C71",
-    "full": "Practical Defense of Morrowind I",
+    "full": "LOC_FN_ZBook2CommonPracticalDefense",
     "modl": "Clutter\\Books\\Quarto03.NIF"
   },
   {
     "edid": "ZBook2CheapImperialNavy",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006C72",
-    "full": "The Imperial Navy",
+    "full": "LOC_FN_ZBook2CheapImperialNavy",
     "modl": "Clutter\\Books\\Quarto01.NIF"
   },
   {
     "edid": "ZBook2CommonMineralsMorrowind",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006C73",
-    "full": "Minerals of Morrowind",
+    "full": "LOC_FN_ZBook2CommonMineralsMorrowind",
     "modl": "Clutter\\Books\\Quarto02.NIF"
   },
   {
     "edid": "ZScrollHouseHlaaluPlans",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006C74",
-    "full": "House Hlaalu Plans",
+    "full": "LOC_FN_ZScrollHouseHlaaluPlans",
     "modl": "Clutter\\Books\\Scroll08.NIF"
   },
   {
     "edid": "ZBook1CheapHerHands",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006C75",
-    "full": "The Hands of Almalexia",
+    "full": "LOC_FN_ZBook1CheapHerHands",
     "modl": "Clutter\\Books\\Octavo01.NIF"
   },
   {
     "edid": "ZBook3ValuableTelvanniConstruction",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006C76",
-    "full": "Guide to Telvanni Construction",
+    "full": "LOC_FN_ZBook3ValuableTelvanniConstruction",
     "modl": "Clutter\\Books\\Folio03.NIF"
   },
   {
     "edid": "ZBook2CommonAnvilPiracy",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006C77",
-    "full": "A History of Anvil & Piracy",
+    "full": "LOC_FN_ZBook2CommonAnvilPiracy",
     "modl": "Clutter\\Books\\Quarto01.NIF"
   },
   {
     "edid": "ZBook3ValuableStudyAkaviriInvasion",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006C78",
-    "full": "Cost of the Akaviri Invasion",
+    "full": "LOC_FN_ZBook3ValuableStudyAkaviriInvasion",
     "modl": "Clutter\\Books\\Folio03.NIF"
   },
   {
     "edid": "ZBook2CommonWarHistoryEmp1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006C79",
-    "full": "A Brief History of War in Tamriel I",
+    "full": "LOC_FN_ZBook2CommonWarHistoryEmp1",
     "modl": "Clutter\\Books\\Folio02.NIF"
   },
   {
     "edid": "ZBook2CommonWarHistoryEmp2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006C7A",
-    "full": "A Brief History of War in Tamriel II",
+    "full": "LOC_FN_ZBook2CommonWarHistoryEmp2",
     "modl": "Clutter\\Books\\Folio02.NIF"
   },
   {
     "edid": "XSunChildNote",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006F6D",
-    "full": "Log",
+    "full": "LOC_FN_XSunChildNote",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "MrDSAtGOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008CED",
-    "full": "Arkay the God",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSAtGOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSBBOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008CEE",
-    "full": "Banker's Bet",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSBBOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSBDOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008CEF",
-    "full": "Broken Diamonds",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSBDOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSCoTOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008CF0",
-    "full": "Confessions of a Thief",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSCoTOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSDTSOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008CF1",
-    "full": "Divad the Singer",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSDTSOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSEGFOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008CF2",
-    "full": "The Epic of the Gray Falcon",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSEGFOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSEwROOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008CF3",
-    "full": "Etiquette with Rulers",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSEwROOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSFE1OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008CF4",
-    "full": "Fool's Ebony Oneth",
-    "modl": "clutter\\books\\quarto03.nif"
+    "full": "LOC_FN_MrDSFE1OOO",
+    "modl": "Clutter\\Books\\Quarto03.NIF"
   },
   {
     "edid": "MrDSFE2OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008CF5",
-    "full": "Fools' Ebony Twoth",
-    "modl": "clutter\\books\\quarto03.nif"
+    "full": "LOC_FN_MrDSFE2OOO",
+    "modl": "Clutter\\Books\\Quarto03.NIF"
   },
   {
     "edid": "MrDSFE3OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008CF6",
-    "full": "Fools' Ebony Threeth",
-    "modl": "clutter\\books\\quarto03.nif"
+    "full": "LOC_FN_MrDSFE3OOO",
+    "modl": "Clutter\\Books\\Quarto03.NIF"
   },
   {
     "edid": "MrDSFE4OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008CF7",
-    "full": "Fools' Ebony Fourth",
-    "modl": "clutter\\books\\quarto03.nif"
+    "full": "LOC_FN_MrDSFE4OOO",
+    "modl": "Clutter\\Books\\Quarto03.NIF"
   },
   {
     "edid": "MrDSFE5OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008CF8",
-    "full": "Fools' Ebony Fiveth",
-    "modl": "clutter\\books\\quarto03.nif"
+    "full": "LOC_FN_MrDSFE5OOO",
+    "modl": "Clutter\\Books\\Quarto03.NIF"
   },
   {
     "edid": "MrDSFE6OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008CF9",
-    "full": "Fools' Ebony Sixth",
-    "modl": "clutter\\books\\quarto03.nif"
+    "full": "LOC_FN_MrDSFE6OOO",
+    "modl": "Clutter\\Books\\Quarto03.NIF"
   },
   {
     "edid": "MrDSFSBDOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008CFA",
-    "full": "The First Scroll of Baan Dar",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSFSBDOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSGhraewajOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008CFB",
-    "full": "Ghraewaj and the Harpies",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSGhraewajOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSHoDOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008CFC",
-    "full": "History of Daggerfall",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSHoDOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSHotIBOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008CFD",
-    "full": "Holidays of the Iliac Bay",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSHotIBOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSIAGOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008CFE",
-    "full": "Ius, Animal God",
-    "modl": "clutter\\books\\quarto04.nif"
+    "full": "LOC_FN_MrDSIAGOOO",
+    "modl": "Clutter\\Books\\Quarto04.NIF"
   },
   {
     "edid": "MrDSIoAOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008CFF",
-    "full": "Invocation of Azura",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSIoAOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSJokesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D00",
-    "full": "Jokes",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSJokesOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSKE1OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D01",
-    "full": "King Edward 1",
-    "modl": "clutter\\books\\folio01.nif"
+    "full": "LOC_FN_MrDSKE1OOO",
+    "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MrDSKE10OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D02",
-    "full": "King Endward 10",
-    "modl": "clutter\\books\\folio01.nif"
+    "full": "LOC_FN_MrDSKE10OOO",
+    "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MrDSKE11OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D03",
-    "full": "King Edward 11",
-    "modl": "clutter\\books\\folio01.nif"
+    "full": "LOC_FN_MrDSKE11OOO",
+    "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MrDSKE12OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D04",
-    "full": "King Edward 12",
-    "modl": "clutter\\books\\folio01.nif"
+    "full": "LOC_FN_MrDSKE12OOO",
+    "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MrDSKE2OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D05",
-    "full": "King Edward 2",
-    "modl": "clutter\\books\\folio01.nif"
+    "full": "LOC_FN_MrDSKE2OOO",
+    "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MrDSKE3OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D06",
-    "full": "King Edward 3",
-    "modl": "clutter\\books\\folio01.nif"
+    "full": "LOC_FN_MrDSKE3OOO",
+    "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MrDSKE4OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D07",
-    "full": "King Edward 4",
-    "modl": "clutter\\books\\folio01.nif"
+    "full": "LOC_FN_MrDSKE4OOO",
+    "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MrDSKE5OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D08",
-    "full": "King Edward 5",
-    "modl": "clutter\\books\\folio01.nif"
+    "full": "LOC_FN_MrDSKE5OOO",
+    "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MrDSKE6OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D09",
-    "full": "King Edward 6",
-    "modl": "clutter\\books\\folio01.nif"
+    "full": "LOC_FN_MrDSKE6OOO",
+    "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MrDSKE7OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D0A",
-    "full": "King Edward 7",
-    "modl": "clutter\\books\\folio01.nif"
+    "full": "LOC_FN_MrDSKE7OOO",
+    "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MrDSKE8OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D0B",
-    "full": "King Edward 8",
-    "modl": "clutter\\books\\folio01.nif"
+    "full": "LOC_FN_MrDSKE8OOO",
+    "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MrDSKE9OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D0C",
-    "full": "King Edward 9",
-    "modl": "clutter\\books\\folio01.nif"
+    "full": "LOC_FN_MrDSKE9OOO",
+    "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MrDSMTOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D0D",
-    "full": "Mara's Tear",
-    "modl": "clutter\\books\\quarto02.nif"
+    "full": "LOC_FN_MrDSMTOOO",
+    "modl": "Clutter\\Books\\Quarto02.NIF"
   },
   {
     "edid": "MrDSLBOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D0E",
-    "full": "Legal Basics",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSLBOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSMTUVOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D0F",
-    "full": "Mysticism",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSMTUVOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSNFRHOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D10",
-    "full": "Notes for Redguard History",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSNFRHOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSOHOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D11",
-    "full": "Oleander's Hammer",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSOHOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSoJOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D12",
-    "full": "Of Jephre",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSoJOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSOLOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D13",
-    "full": "On Lycanthropy",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSOLOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSRSOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D14",
-    "full": "Rude Song",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSRSOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSRTHTHOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D15",
-    "full": "Redguards,Their History & Their Heroes",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSRTHTHOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSSFoTOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D16",
-    "full": "Special Flora of Tamriel",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSSFoTOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MRDSSGtNOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D17",
-    "full": "A Scholar's Guide to Nymphs",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MRDSSGtNOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSTAOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D18",
-    "full": "The Alik'r",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSTAOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSTABOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D19",
-    "full": "The Asylum Ball",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSTABOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSTAWOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D1A",
-    "full": "The Arrowshot Woman",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSTAWOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSTEAOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D1B",
-    "full": "The Ebon Arm",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSTEAOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSTFOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D1C",
-    "full": "The Faerie",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSTFOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSTFotUOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D1D",
-    "full": "The Fall of the Usurper",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSTFotUOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSTHTOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D1E",
-    "full": "The Healer's Tale",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSTHTOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSTLATDOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D1F",
-    "full": "The Light and the Dark",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSTLATDOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSTLOLLOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D20",
-    "full": "The Legend of Lover's Lament",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSTLOLLOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSTMSOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D21",
-    "full": "The Memory Stone",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSTMSOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSToCTOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D22",
-    "full": "A Dubious Tale of Crystal Tower",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSToCTOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSToKOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D23",
-    "full": "Tales of Kieran",
-    "modl": "clutter\\books\\folio04.nif"
+    "full": "LOC_FN_MrDSToKOOO",
+    "modl": "Clutter\\Books\\Folio04.NIF"
   },
   {
     "edid": "MrDSTRB10OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D24",
-    "full": "The Real Barenziah 10 (Old Manuscript)",
-    "modl": "clutter\\books\\quarto03.nif"
+    "full": "LOC_FN_MrDSTRB10OOO",
+    "modl": "Clutter\\Books\\Quarto03.NIF"
   },
   {
     "edid": "MrDSTRBpt1OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D25",
-    "full": "The Real Barenziah 1 (Old Manuscript)",
-    "modl": "clutter\\books\\quarto03.nif"
+    "full": "LOC_FN_MrDSTRBpt1OOO",
+    "modl": "Clutter\\Books\\Quarto03.NIF"
   },
   {
     "edid": "MrDSTRBpt2OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D26",
-    "full": "The Real Barenziah 2 (Old Manuscript)",
-    "modl": "clutter\\books\\quarto03.nif"
+    "full": "LOC_FN_MrDSTRBpt2OOO",
+    "modl": "Clutter\\Books\\Quarto03.NIF"
   },
   {
     "edid": "MrDSTRBpt12OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D27",
-    "full": "The Real Barenziah 12 (Old Manuscript)",
-    "modl": "clutter\\books\\quarto03.nif"
+    "full": "LOC_FN_MrDSTRBpt12OOO",
+    "modl": "Clutter\\Books\\Quarto03.NIF"
   },
   {
     "edid": "MrDSTRBpt3OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D28",
-    "full": "The Real Barenziah 3 (Old Manuscript)",
-    "modl": "clutter\\books\\quarto03.nif"
+    "full": "LOC_FN_MrDSTRBpt3OOO",
+    "modl": "Clutter\\Books\\Quarto03.NIF"
   },
   {
     "edid": "MrDSTRBpt4OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D29",
-    "full": "The Real Barenziah 4 (Old Manuscript)",
-    "modl": "clutter\\books\\quarto03.nif"
+    "full": "LOC_FN_MrDSTRBpt4OOO",
+    "modl": "Clutter\\Books\\Quarto03.NIF"
   },
   {
     "edid": "MRDSTRBpt5OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D2A",
-    "full": "The Real Barenziah 5 (Old Manuscript)",
-    "modl": "clutter\\books\\quarto03.nif"
+    "full": "LOC_FN_MRDSTRBpt5OOO",
+    "modl": "Clutter\\Books\\Quarto03.NIF"
   },
   {
     "edid": "MrDSTRBpt6OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D2B",
-    "full": "The Real Barenziah 6 (Old Manuscript)",
-    "modl": "clutter\\books\\quarto03.nif"
+    "full": "LOC_FN_MrDSTRBpt6OOO",
+    "modl": "Clutter\\Books\\Quarto03.NIF"
   },
   {
     "edid": "MrDSTRBpt7OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D2C",
-    "full": "The Real Barenziah 7 (Old Manuscript)",
-    "modl": "clutter\\books\\quarto03.nif"
+    "full": "LOC_FN_MrDSTRBpt7OOO",
+    "modl": "Clutter\\Books\\Quarto03.NIF"
   },
   {
     "edid": "MrDSTRBpt8OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D2D",
-    "full": "The Real Barenziah 8 (Old Manuscript)",
-    "modl": "clutter\\books\\quarto03.nif"
+    "full": "LOC_FN_MrDSTRBpt8OOO",
+    "modl": "Clutter\\Books\\Quarto03.NIF"
   },
   {
     "edid": "MrDSTRBpt9OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D2E",
-    "full": "The Real Barenziah 9 (Old Manuscript)",
-    "modl": "clutter\\books\\quarto03.nif"
+    "full": "LOC_FN_MrDSTRBpt9OOO",
+    "modl": "Clutter\\Books\\Quarto03.NIF"
   },
   {
     "edid": "MrDSTSOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D2F",
-    "full": "The Sage",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSTSOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSVampIBOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D30",
-    "full": "Vampires of The Iliac Bay",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSVampIBOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MrDSWabbaOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D31",
-    "full": "Wabbajack",
-    "modl": "clutter\\books\\octavo02.nif"
+    "full": "LOC_FN_MrDSWabbaOOO",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MYAnnotatedCompendiumofArcaneContrivancesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D32",
-    "full": "Annotated Compendium of Arcane Contrivances of the Second Age, Volume IV",
+    "full": "LOC_FN_MYAnnotatedCompendiumofArcaneContrivancesOOO",
     "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "MYAShortHistoryoftheAugmentedCraftworksOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D33",
-    "full": "A Short History of the Augmented Craftworks",
+    "full": "LOC_FN_MYAShortHistoryoftheAugmentedCraftworksOOO",
     "modl": "Clutter\\Books\\Folio04.NIF"
   },
   {
     "edid": "MYBookofLifeandServiceOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D34",
-    "full": "Book of Life and Service",
+    "full": "LOC_FN_MYBookofLifeandServiceOOO",
     "modl": "Clutter\\Books\\Octavo04.NIF"
   },
   {
     "edid": "MYBookofRestandEndingsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D35",
-    "full": "Book of Rest and Endings",
+    "full": "LOC_FN_MYBookofRestandEndingsOOO",
     "modl": "Clutter\\Books\\Octavo04.NIF"
   },
   {
     "edid": "MYCodexArcanaIOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D36",
-    "full": "Codex Arcana, V. I",
+    "full": "LOC_FN_MYCodexArcanaIOOO",
     "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MYCodexArcanaIIOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D37",
-    "full": "Codex Arcana, V. II",
+    "full": "LOC_FN_MYCodexArcanaIIOOO",
     "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MYCodexArcanaIIIOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D38",
-    "full": "Codex Arcana, V. III",
+    "full": "LOC_FN_MYCodexArcanaIIIOOO",
     "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MYCodexArcanaIVOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D39",
-    "full": "Codex Arcana, V. IV",
+    "full": "LOC_FN_MYCodexArcanaIVOOO",
     "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MYCodexArcanaIXOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D3A",
-    "full": "Codex Arcana, V. IX",
+    "full": "LOC_FN_MYCodexArcanaIXOOO",
     "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MYCodexArcanaVOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D3B",
-    "full": "Codex Arcana, V. V",
+    "full": "LOC_FN_MYCodexArcanaVOOO",
     "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MYCodexArcanaVIOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D3C",
-    "full": "Codex Arcana, V. VI",
+    "full": "LOC_FN_MYCodexArcanaVIOOO",
     "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MYCodexArcanaVIIOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D3D",
-    "full": "Codex Arcana, V. VII",
+    "full": "LOC_FN_MYCodexArcanaVIIOOO",
     "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MYCodexArcanaVIIIOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D3E",
-    "full": "Codex Arcana, V. VIII",
+    "full": "LOC_FN_MYCodexArcanaVIIIOOO",
     "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "MYCompendiumOfHisArtsAndCraftsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D3F",
-    "full": "Compendium of His Arts and Crafts in the Realms of Lesser Enchantments",
+    "full": "LOC_FN_MYCompendiumOfHisArtsAndCraftsOOO",
     "modl": "Clutter\\Books\\Octavo03.NIF"
   },
   {
     "edid": "MYCuriositiesoftheSecondAgeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D40",
-    "full": "Curiosities of the Second Age",
+    "full": "LOC_FN_MYCuriositiesoftheSecondAgeOOO",
     "modl": "Clutter\\Books\\Folio02.NIF"
   },
   {
     "edid": "MYPostingoftheHuntExcerptsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D41",
-    "full": "The Posting of the Hunt Excerpts",
+    "full": "LOC_FN_MYPostingoftheHuntExcerptsOOO",
     "modl": "Clutter\\Books\\Folio02.NIF"
   },
   {
     "edid": "MYTheKendhallBookofRiddlesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D42",
-    "full": "The Kendhall Book of Riddles",
+    "full": "LOC_FN_MYTheKendhallBookofRiddlesOOO",
     "modl": "Clutter\\Books\\Quarto02.NIF"
   },
   {
     "edid": "MYVagariesofMagickaOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008D43",
-    "full": "The Vagaries of Magicka",
+    "full": "LOC_FN_MYVagariesofMagickaOOO",
     "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
     "edid": "ZBosmerNoteAny",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00B5E3",
-    "full": "Note From the Brethren of Jephre",
+    "full": "LOC_FN_ZBosmerNoteAny",
     "modl": "Clutter\\Books\\Note01.NIF"
   },
   {
     "edid": "ZBosmerCamp2Schedule",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00B5E4",
-    "full": "Smoke Hole Cave Ranger Camp Scroll",
+    "full": "LOC_FN_ZBosmerCamp2Schedule",
     "modl": "Clutter\\Books\\Scroll08.NIF"
   },
   {
     "edid": "ZBosmerCamp1Schedule",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00B5E5",
-    "full": "Strid River Ranger Camp Scroll",
+    "full": "LOC_FN_ZBosmerCamp1Schedule",
     "modl": "Clutter\\Books\\Scroll08.NIF"
   },
   {
     "edid": "ZBosmerCamp3Schedule",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00B5E6",
-    "full": "West Kvatch Ranger Camp Scroll",
+    "full": "LOC_FN_ZBosmerCamp3Schedule",
     "modl": "Clutter\\Books\\Scroll08.NIF"
   },
   {
     "edid": "ZBroadSheetMGCarminaldaEnd01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C905",
-    "full": "Brina Cross Inn Housed Merchant's Killer",
+    "full": "LOC_FN_ZBroadSheetMGCarminaldaEnd01",
     "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
     "edid": "ZCheapDiaryAmazonLoveStruck",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C906",
-    "full": "A. Lentus' Diary",
+    "full": "LOC_FN_ZCheapDiaryAmazonLoveStruck",
     "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "ZLetterNecromancerInformation1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CE75",
-    "full": "A Necromancer's Warning",
+    "full": "LOC_FN_ZLetterNecromancerInformation1",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "XSunChildBook",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00EA4C",
-    "full": "Sun Child",
+    "full": "LOC_FN_XSunChildBook",
     "modl": "Clutter\\Books\\Quarto04.NIF"
   },
   {
     "edid": "zBroadsheet01RedmanVamps",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0111BA",
-    "full": "Disappearances at Fort Redman",
+    "full": "LOC_FN_zBroadsheet01RedmanVamps",
     "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
     "edid": "ZNoteBroadSheetRedmanVamp",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0111BC",
-    "full": "Warning On Fort Redman!",
-    "modl": "clutter\\Books\\OOO\\imperialsheet.nif"
+    "full": "LOC_FN_ZNoteBroadSheetRedmanVamp",
+    "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
     "edid": "zBook3ValuableMeteoricWeapons",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011574",
-    "full": "Implements of Violence",
+    "full": "LOC_FN_zBook3ValuableMeteoricWeapons",
     "modl": "Clutter\\Books\\Folio04.NIF"
   },
   {
     "edid": "ZBroadsheet01Pillagers",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011586",
-    "full": "Reports on Pillaging, Murder and Thievery",
-    "modl": "clutter\\Books\\OOO\\imperialsheet.nif"
+    "full": "LOC_FN_ZBroadsheet01Pillagers",
+    "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
     "edid": "ZBroadsheet01Wilderness",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011587",
-    "full": "The Wilderness of Cyrodiil",
-    "modl": "clutter\\Books\\OOO\\imperialsheet.nif"
+    "full": "LOC_FN_ZBroadsheet01Wilderness",
+    "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
     "edid": "ZLetterMillonaFromAzzan2b",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011633",
-    "full": "Azzan's Reports to Countess Umbranox",
+    "full": "LOC_FN_ZLetterMillonaFromAzzan2b",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "ZNoteAnvilDisturbances",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011634",
-    "full": "Warning to Anvil Citizens and Visitors",
-    "modl": "clutter\\Books\\OOO\\imperialsheet.nif"
+    "full": "LOC_FN_ZNoteAnvilDisturbances",
+    "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
     "edid": "ZLetterMillonaToDairihill",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011B65",
-    "full": "Countess Umbranox's Message to Dairihill",
+    "full": "LOC_FN_ZLetterMillonaToDairihill",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "ZRaiderHlofortoFaran",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011BA8",
-    "full": "Hlofor's Mission for Faran Hestarius",
+    "full": "LOC_FN_ZRaiderHlofortoFaran",
     "modl": "Clutter\\Books\\Scroll08.NIF"
   },
   {
     "edid": "ZRaiderHlofortoSheil",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011BA9",
-    "full": "Hlofor's Letter to Sheil Hestarius",
+    "full": "LOC_FN_ZRaiderHlofortoSheil",
     "modl": "Clutter\\Books\\Scroll08.NIF"
   },
   {
     "edid": "ZBook2CommonOnTamrielFactions",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:013165",
-    "full": "Excerpts from On Tamriel's Societies, Vol I",
+    "full": "LOC_FN_ZBook2CommonOnTamrielFactions",
     "modl": "Clutter\\Books\\Quarto03.NIF"
   },
   {
     "edid": "ZNoteAnvilDisturbancesSolved",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:013198",
-    "full": "Message to Anvil Citizens and Visitors",
-    "modl": "clutter\\Books\\OOO\\imperialsheet.nif"
+    "full": "LOC_FN_ZNoteAnvilDisturbancesSolved",
+    "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
     "edid": "ZRaiderDasekMoorClue",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:013F7F",
-    "full": "Hlofor's Battle Plan",
-    "modl": "clutter\\Books\\OOO\\raiderhloformap.nif"
+    "full": "LOC_FN_ZRaiderDasekMoorClue",
+    "modl": "Clutter\\Books\\Octavo01.NIF"
   },
   {
     "edid": "ZLetterSentinelShieldDelivery",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0141E9",
-    "full": "Sentinel Noble Shield Delivery Note",
+    "full": "LOC_FN_ZLetterSentinelShieldDelivery",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "ZLetterPhintiasFind",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014206",
-    "full": "Amylkar's Letter to Phintias",
+    "full": "LOC_FN_ZLetterPhintiasFind",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "ZNoteSingradDisturbances",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014244",
-    "full": "Warning To Skingrad Citizens and Visitors",
-    "modl": "clutter\\Books\\OOO\\imperialsheet.nif"
+    "full": "LOC_FN_ZNoteSingradDisturbances",
+    "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
     "edid": "ZNoteBrumaDisturbances",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014254",
-    "full": "Report to Bruma Citizens and Visitors",
-    "modl": "clutter\\Books\\OOO\\imperialsheet.nif"
+    "full": "LOC_FN_ZNoteBrumaDisturbances",
+    "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
     "edid": "ZNoteCheydinhallDisturbances",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01426A",
-    "full": "Announcement to Cheydinhal Citizens and Visitors",
-    "modl": "clutter\\Books\\OOO\\imperialsheet.nif"
+    "full": "LOC_FN_ZNoteCheydinhallDisturbances",
+    "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
     "edid": "ZLetterTFindAntoinetta",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014271",
-    "full": "Oportius' Letter to Antoinetta",
+    "full": "LOC_FN_ZLetterTFindAntoinetta",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "ZNoteBravilDisturbances",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0147B2",
-    "full": "Warning to Bravil Citizens and Visitors",
-    "modl": "clutter\\Books\\OOO\\imperialsheet.nif"
+    "full": "LOC_FN_ZNoteBravilDisturbances",
+    "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
     "edid": "ZLetterNecromancerWarning",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014CBB",
-    "full": "A Necromancer's Riddled Warning",
+    "full": "LOC_FN_ZLetterNecromancerWarning",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "ZLetterNecromancerWarning2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014CC7",
-    "full": "A Necromancer's Warning",
+    "full": "LOC_FN_ZLetterNecromancerWarning2",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "ZNoorFaythNote",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01833A",
-    "full": "A Bloodstained Note",
+    "full": "LOC_FN_ZNoorFaythNote",
     "modl": "Clutter\\Books\\Note01.NIF"
   },
   {
     "edid": "ZNoteBrumaDisturbancesSolved",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:019372",
-    "full": "Message to Bruma Citizens and Visitors",
-    "modl": "clutter\\Books\\OOO\\imperialsheet.nif"
+    "full": "LOC_FN_ZNoteBrumaDisturbancesSolved",
+    "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
     "edid": "ZLetterNecromancerRevenge4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01DA51",
-    "full": "Apria's Confession",
+    "full": "LOC_FN_ZLetterNecromancerRevenge4",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
@@ -914,271 +914,271 @@
   {
     "edid": "ZSlaverDerahedFayluBook",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01ED69",
-    "full": "Slaver's Logbook",
+    "full": "LOC_FN_ZSlaverDerahedFayluBook",
     "modl": "Clutter\\Books\\Octavo01.NIF"
   },
   {
     "edid": "ZSlaverVandralLerysBook",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01ED6B",
-    "full": "A Slaver's Moldy Logbook",
+    "full": "LOC_FN_ZSlaverVandralLerysBook",
     "modl": "Clutter\\Books\\Octavo01.NIF"
   },
   {
     "edid": "ZSlaverNayonCampNote",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01F7A7",
-    "full": "Nayon Camp Slaver's Orders",
+    "full": "LOC_FN_ZSlaverNayonCampNote",
     "modl": "Clutter\\Books\\Scroll08.NIF"
   },
   {
     "edid": "ZBosmerBadNarindScroll",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01FFFB",
-    "full": "Eregor's Note to Lareil",
+    "full": "LOC_FN_ZBosmerBadNarindScroll",
     "modl": "Clutter\\Books\\Scroll08.NIF"
   },
   {
     "edid": "ZSmugglerEidkeeLog",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0215CC",
-    "full": "Eidkee's Inventory Log",
+    "full": "LOC_FN_ZSmugglerEidkeeLog",
     "modl": "Clutter\\Books\\Octavo01.NIF"
   },
   {
     "edid": "ZSmugglerYeshaniLog",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0215CE",
-    "full": "Yeshani's Account Book",
+    "full": "LOC_FN_ZSmugglerYeshaniLog",
     "modl": "Clutter\\Books\\Octavo01.NIF"
   },
   {
     "edid": "ZSmugglerKizraNote",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0215CF",
-    "full": "Eidkee's Message to Kizra",
+    "full": "LOC_FN_ZSmugglerKizraNote",
     "modl": "Clutter\\Books\\Scroll08.NIF"
   },
   {
     "edid": "ZLetterNecromancerRevenge3a",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:021D79",
-    "full": "A Necromancer's Invitation",
+    "full": "LOC_FN_ZLetterNecromancerRevenge3a",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "ZBook4RareLienValeth",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:021D7B",
-    "full": "Master Lien Valeth's Notes",
+    "full": "LOC_FN_ZBook4RareLienValeth",
     "modl": "Clutter\\Books\\Folio03.NIF"
   },
   {
     "edid": "ZNoteBravilDisturbancesPU",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022775",
-    "full": "Warning to Bravil Citizens and Visitors",
-    "modl": "clutter\\Books\\OOO\\Imperialsheetpickup.nif"
+    "full": "LOC_FN_ZNoteBravilDisturbancesPU",
+    "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
     "edid": "ZNoteBrumaDisturbancesPU",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022779",
-    "full": "Report to Bruma Citizens and Visitors",
-    "modl": "clutter\\Books\\OOO\\Imperialsheetpickup.nif"
+    "full": "LOC_FN_ZNoteBrumaDisturbancesPU",
+    "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
     "edid": "ZNoteCheydinhallDisturbancesPU",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02277D",
-    "full": "Announcement to Cheydinhal Citizens and Visitors",
-    "modl": "clutter\\Books\\OOO\\Imperialsheetpickup.nif"
+    "full": "LOC_FN_ZNoteCheydinhallDisturbancesPU",
+    "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
     "edid": "ZNoteSingradDisturbancesPU",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022786",
-    "full": "Warning To Skingrad Citizens and Visitors",
-    "modl": "clutter\\Books\\OOO\\Imperialsheetpickup.nif"
+    "full": "LOC_FN_ZNoteSingradDisturbancesPU",
+    "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
     "edid": "ZNoteAnvilDisturbancesPU",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02278A",
-    "full": "Warning to Anvil Citizens and Visitors",
-    "modl": "clutter\\Books\\OOO\\Imperialsheetpickup.nif"
+    "full": "LOC_FN_ZNoteAnvilDisturbancesPU",
+    "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
     "edid": "ZBroadsheet01WildernessPU",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022794",
-    "full": "The Wilderness of Cyrodiil",
-    "modl": "clutter\\Books\\OOO\\Imperialsheetpickup.nif"
+    "full": "LOC_FN_ZBroadsheet01WildernessPU",
+    "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
     "edid": "ZBroadsheet01PillagersPU",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022795",
-    "full": "Reports on Pillaging, Murder and Thievery",
-    "modl": "clutter\\Books\\OOO\\Imperialsheetpickup.nif"
+    "full": "LOC_FN_ZBroadsheet01PillagersPU",
+    "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
     "edid": "ZLetterAlmalexiaLove",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0246CF",
-    "full": "A Mysterious Missive",
+    "full": "LOC_FN_ZLetterAlmalexiaLove",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "ZBosmerBadYeleriScroll",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025BE1",
-    "full": "Jan'val's Report to Eregor",
+    "full": "LOC_FN_ZBosmerBadYeleriScroll",
     "modl": "Clutter\\Books\\Scroll08.NIF"
   },
   {
     "edid": "ZdrnoteOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027170",
-    "full": "An Unsigned Note",
-    "modl": "clutter\\Books\\darkrose\\drnote01.nif"
+    "full": "LOC_FN_ZdrnoteOOO",
+    "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "ZBook3ValuableZAidonVNord",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0324BF",
-    "full": "Aidon Strongheart and the Nord",
+    "full": "LOC_FN_ZBook3ValuableZAidonVNord",
     "modl": "Clutter\\Books\\Folio02.NIF"
   },
   {
     "edid": "ZBook2CommonLightOfDawn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0324C0",
-    "full": "An Expanded Excerpt from Vampires of Tamriel, Vol II",
+    "full": "LOC_FN_ZBook2CommonLightOfDawn",
     "modl": "Clutter\\Books\\Quarto04.NIF"
   },
   {
     "edid": "ZLetterNecromancerLove",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0324C1",
-    "full": "A Necromancer's Love Letter",
+    "full": "LOC_FN_ZLetterNecromancerLove",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "ZLetterNecromancerRevenge1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0324C2",
-    "full": "A Necromancer's Vengeful Letter",
+    "full": "LOC_FN_ZLetterNecromancerRevenge1",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "ZLetterNecromancerRevenge2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0324C3",
-    "full": "A Necromancer's Threat",
+    "full": "LOC_FN_ZLetterNecromancerRevenge2",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "ZBook3ValuableZAidonV4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03F6DD",
-    "full": "Tales From the Life of Aidon Strongheart, Vol IV",
+    "full": "LOC_FN_ZBook3ValuableZAidonV4",
     "modl": "Clutter\\Books\\Folio02.NIF"
   },
   {
     "edid": "ZLetterNecromancerRevenge3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:041590",
-    "full": "A Necromancer's Dilemma",
+    "full": "LOC_FN_ZLetterNecromancerRevenge3",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "ZLetterNecromancerRevenge2b",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04159F",
-    "full": "A Necromancer's Child Sacrifice Note",
+    "full": "LOC_FN_ZLetterNecromancerRevenge2b",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "TandBladesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048A36",
-    "full": "Personal Note",
+    "full": "LOC_FN_TandBladesOOO",
     "modl": "Clutter\\Books\\Scroll05.NIF"
   },
   {
     "edid": "TandBrotherhoodOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048A37",
-    "full": "Brotherhood Storage",
+    "full": "LOC_FN_TandBrotherhoodOOO",
     "modl": "Clutter\\Books\\Scroll05.NIF"
   },
   {
     "edid": "TandFighterOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048A38",
-    "full": "Guild Storage Policy",
+    "full": "LOC_FN_TandFighterOOO",
     "modl": "Clutter\\Books\\Scroll05.NIF"
   },
   {
     "edid": "TandMageOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048A39",
-    "full": "Guild Storage Policy",
+    "full": "LOC_FN_TandMageOOO",
     "modl": "Clutter\\Books\\Scroll05.NIF"
   },
   {
     "edid": "TandThiefOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048A3A",
-    "full": "Personal Letter",
+    "full": "LOC_FN_TandThiefOOO",
     "modl": "Clutter\\Books\\Scroll05.NIF"
   },
   {
     "edid": "TandThief2OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048A3B",
-    "full": "Personal Letter",
+    "full": "LOC_FN_TandThief2OOO",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
     "edid": "ZBook4RareTornesBlockade",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:051315",
-    "full": "Torne's Blockade",
+    "full": "LOC_FN_ZBook4RareTornesBlockade",
     "modl": "Clutter\\Books\\Octavo02.NIF"
   },
   {
     "edid": "ZOOOGeomancyReport",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:05132D",
-    "full": "Report on Ayleid Geomancy",
+    "full": "LOC_FN_ZOOOGeomancyReport",
     "modl": "Clutter\\Books\\Octavo01.NIF"
   },
   {
     "edid": "bgArcaneTheftScrollOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA1B",
-    "full": "Arcane Theft Shard",
-    "modl": "clutter\\GX\\Gems\\diamondshard.nif"
+    "full": "LOC_FN_bgArcaneTheftScrollOOO",
+    "modl": "Clutter\\Gems\\DiamondFlawless.NIF"
   },
   {
     "edid": "bgChangeWeatherScrollOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA1C",
-    "full": "Elemental Shard",
-    "modl": "clutter\\GX\\Gems\\opalshard.nif"
+    "full": "LOC_FN_bgChangeWeatherScrollOOO",
+    "modl": "Clutter\\Gems\\PearlFlawLess.NIF"
   },
   {
     "edid": "bgDaedricIngredientsScrollOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA1D",
-    "full": "Daedric Essence Shard",
-    "modl": "clutter\\GX\\Gems\\rubyshard.nif"
+    "full": "LOC_FN_bgDaedricIngredientsScrollOOO",
+    "modl": "Clutter\\Gems\\RubyFlawless.NIF"
   },
   {
     "edid": "bgFoodIngredientsScrollOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA1E",
-    "full": "Sustenance Shard",
-    "modl": "clutter\\GX\\Gems\\rubyshard.nif"
+    "full": "LOC_FN_bgFoodIngredientsScrollOOO",
+    "modl": "Clutter\\Gems\\RubyFlawless.NIF"
   },
   {
     "edid": "bgForcePullAreaEnchScrollOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA1F",
-    "full": "Magnetic Storm Shard",
-    "modl": "clutter\\GX\\Gems\\amethystshard.nif"
+    "full": "LOC_FN_bgForcePullAreaEnchScrollOOO",
+    "modl": "Clutter\\Gems\\TopazFlawless.NIF"
   },
   {
     "edid": "bgForcePullTargetEnchScrollOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA20",
-    "full": "Magnetic Stream Shard",
-    "modl": "clutter\\GX\\Gems\\amethystshard.nif"
+    "full": "LOC_FN_bgForcePullTargetEnchScrollOOO",
+    "modl": "Clutter\\Gems\\TopazFlawless.NIF"
   },
   {
     "edid": "bgForcePushAreaEnchScrollOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA21",
-    "full": "Stormfist Shard",
-    "modl": "clutter\\GX\\Gems\\topazshard.nif"
+    "full": "LOC_FN_bgForcePushAreaEnchScrollOOO",
+    "modl": "Clutter\\Gems\\TopazFlawless.NIF"
   },
   {
     "edid": "bgForcePushTargetEnchScrollOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA22",
-    "full": "Windfist Shard",
-    "modl": "clutter\\GX\\Gems\\sapphireshard.nif"
+    "full": "LOC_FN_bgForcePushTargetEnchScrollOOO",
+    "modl": "Clutter\\Gems\\SapphireFlawless.NIF"
   },
   {
     "edid": "bgForcePushPullEnchScrollOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA23",
-    "full": "Equidistance Shard",
-    "modl": "clutter\\GX\\Gems\\amethystshard.nif"
+    "full": "LOC_FN_bgForcePushPullEnchScrollOOO",
+    "modl": "Clutter\\Gems\\SapphireFlawless.NIF"
   },
   {
     "edid": "bgForcePushTouchEnchScrollOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA24",
-    "full": "Gust Shard",
-    "modl": "clutter\\GX\\Gems\\emeraldshard.nif"
+    "full": "LOC_FN_bgForcePushTouchEnchScrollOOO",
+    "modl": "Clutter\\Gems\\EmeraldFlawless.NIF"
   }
 ]

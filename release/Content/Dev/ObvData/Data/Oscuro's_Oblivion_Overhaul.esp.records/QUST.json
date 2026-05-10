@@ -114,7 +114,7 @@
   {
     "edid": "OOOHeavenFuryClaymoreQuest",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007AF4",
-    "full": "A Path of Iron",
+    "full": "LOC_FN_OOOHeavenFuryClaymoreQuest",
     "stage_indices": [
       1,
       10,
@@ -138,7 +138,7 @@
   {
     "edid": "OOOLightOfDawnQuest",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00E215",
-    "full": "Light Through the Darkness",
+    "full": "LOC_FN_OOOLightOfDawnQuest",
     "stage_indices": [
       10,
       20,
@@ -153,7 +153,7 @@
   {
     "edid": "OOODreadArmorQuest",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00FAC0",
-    "full": "Artifacts of the Netherworld",
+    "full": "LOC_FN_OOODreadArmorQuest",
     "stage_indices": [
       10,
       20,
@@ -170,7 +170,7 @@
   {
     "edid": "OOOSylvanRangerQuest",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00FAC2",
-    "full": "Shadows in a Struggle for Power",
+    "full": "LOC_FN_OOOSylvanRangerQuest",
     "stage_indices": [
       10,
       20,
@@ -203,7 +203,7 @@
   {
     "edid": "OOOBrumaBanditTrouble",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:019377",
-    "full": "The Skyrim Bandit Clans",
+    "full": "LOC_FN_OOOBrumaBanditTrouble",
     "stage_indices": [
       10,
       20,
@@ -217,7 +217,7 @@
   {
     "edid": "OOOSlaversAndSmugglers",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C22D",
-    "full": "Slavers and Smugglers",
+    "full": "LOC_FN_OOOSlaversAndSmugglers",
     "stage_indices": [
       10,
       20,
@@ -285,7 +285,7 @@
   {
     "edid": "zOOODragonborne",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA02",
-    "full": "Knights of the Dragonborne",
+    "full": "LOC_FN_zOOODragonborne",
     "stage_indices": [
       10,
       15,

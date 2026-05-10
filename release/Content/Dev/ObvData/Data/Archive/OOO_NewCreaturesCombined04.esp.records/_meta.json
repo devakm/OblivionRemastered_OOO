@@ -1,0 +1,14 @@
+{
+  "esp": "OOO_NewCreaturesCombined04.esp",
+  "record_types": [
+    "CREA"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "Knights.esp",
+      "Oscuro's_Oblivion_Overhaul.esp"
+    ],
+    "version": 1.0
+  }
+}

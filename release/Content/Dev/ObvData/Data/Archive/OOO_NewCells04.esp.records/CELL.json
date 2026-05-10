@@ -1,0 +1,26 @@
+[
+  {
+    "edid": "LipsandTarn02",
+    "formid": "Oblivion.esm:0A3DFC",
+    "full": "LOC_FN_LipsandTarn02",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "RedGillCaverns",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01948B",
+    "full": "Red Gill Cave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "TestOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC27",
+    "full": "LOC_FN_TestOOO",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  }
+]

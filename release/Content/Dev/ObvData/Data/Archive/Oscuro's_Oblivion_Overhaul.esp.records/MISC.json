@@ -1362,12 +1362,6 @@
     "modl": "OOOSE\\Matrix\\AmberClaymore.nif"
   },
   {
-    "edid": "LapGrapeBarrelItem",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001B9F",
-    "full": "",
-    "modl": "Clutter\\middleclass\\middlebarrelopen01.nif"
-  },
-  {
     "edid": "Hourglass01Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001C95",
     "full": "Exquisite Hourglass",
@@ -1592,8 +1586,20 @@
   {
     "edid": "LionHide01Snow",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00329C",
-    "full": "",
-    "modl": "clutter\\LionPeltFix\\snowlionhide.nif"
+    "full": "Snow Lion Pelt",
+    "modl": "Clutter\\LionHide.NIF"
+  },
+  {
+    "edid": "Gem7Opal",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00342B",
+    "full": "Opal",
+    "modl": "clutter\\GX\\Gems\\opal.nif"
+  },
+  {
+    "edid": "Gem7OpalPerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00342E",
+    "full": "Perfect Opal",
+    "modl": "clutter\\GX\\Gems\\opalperfect.nif"
   },
   {
     "edid": "BearPelt01a",
@@ -1698,6 +1704,102 @@
     "modl": "Clothes\\Lowerclass\\09\\M\\Shirt_gnd.NIF"
   },
   {
+    "edid": "GemShard11PTourmaline",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006169",
+    "full": "Paraiba Tourmaline Slice",
+    "modl": "Clutter\\GX\\Gems\\PTourmalineShard.nif"
+  },
+  {
+    "edid": "GemShard11PTourmalineFlawed",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00616A",
+    "full": "Flawed Paraiba Tourmaline Slice",
+    "modl": "Clutter\\GX\\Gems\\PTourmalineShard.nif"
+  },
+  {
+    "edid": "GemShard11PTourmalineFlawless",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00616B",
+    "full": "Flawless Paraiba Tourmaline Slice",
+    "modl": "Clutter\\GX\\Gems\\PTourmalineShard.nif"
+  },
+  {
+    "edid": "GemShard11PTourmalinePerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00616C",
+    "full": "Perfect Paraiba Tourmaline Slice",
+    "modl": "Clutter\\GX\\Gems\\PTourmalineShard.nif"
+  },
+  {
+    "edid": "Gem11PTourmaline",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00616D",
+    "full": "Paraiba Tourmaline",
+    "modl": "clutter\\GX\\Gems\\PTourmaline.nif"
+  },
+  {
+    "edid": "Gem11PTourmalineFlawed",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00616E",
+    "full": "Flawed Paraiba Tourmaline",
+    "modl": "clutter\\GX\\Gems\\PTourmalineFlawed.nif"
+  },
+  {
+    "edid": "Gem11PTourmalineFlawless",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00616F",
+    "full": "Flawless Paraiba Tourmaline",
+    "modl": "clutter\\GX\\Gems\\PTourmalineFlawless.nif"
+  },
+  {
+    "edid": "Gem11PTourmalinePerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006170",
+    "full": "Perfect Paraiba Tourmaline",
+    "modl": "clutter\\GX\\Gems\\PTourmalinePerfect.nif"
+  },
+  {
+    "edid": "Gem8Garnet",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006171",
+    "full": "Garnet",
+    "modl": "clutter\\GX\\Gems\\Garnet.nif"
+  },
+  {
+    "edid": "Gem8GarnetFlawed",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006172",
+    "full": "Flawed Garnet",
+    "modl": "clutter\\GX\\Gems\\GarnetFlawed.nif"
+  },
+  {
+    "edid": "Gem8GarnetFlawless",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006173",
+    "full": "Flawless Garnet",
+    "modl": "clutter\\GX\\Gems\\GarnetFlawless.nif"
+  },
+  {
+    "edid": "Gem8GarnetPerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006174",
+    "full": "Perfect Garnet",
+    "modl": "clutter\\GX\\Gems\\GarnetPerfect.nif"
+  },
+  {
+    "edid": "Gem9Tourmaline",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006175",
+    "full": "Tourmaline",
+    "modl": "clutter\\GX\\Gems\\WTourmaline.nif"
+  },
+  {
+    "edid": "Gem9TourmalineFlawed",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006176",
+    "full": "Flawed Tourmaline",
+    "modl": "clutter\\GX\\Gems\\WTourmalineFlawed.nif"
+  },
+  {
+    "edid": "Gem9TourmalineFlawless",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006177",
+    "full": "Flawless Tourmaline",
+    "modl": "clutter\\GX\\Gems\\WTourmalineFlawless.nif"
+  },
+  {
+    "edid": "Gem9TourmalinePerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006178",
+    "full": "Perfect Tourmaline",
+    "modl": "clutter\\GX\\Gems\\WTourmalinePerfect.nif"
+  },
+  {
     "edid": "MinotaurMane1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0093A7",
     "full": "",
@@ -1708,6 +1810,12 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0098C9",
     "full": "Arctic Bear Pelt",
     "modl": "Clutter\\BearPelt.NIF"
+  },
+  {
+    "edid": "OOOTorchHotKey",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:009AFF",
+    "full": "Use Torch",
+    "modl": "Lights\\Torch02.NIF"
   },
   {
     "edid": "UpperGoldBowl01",
@@ -1804,6 +1912,24 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A2C7",
     "full": "Gold Vase",
     "modl": "Clutter\\UpperClass\\UpperSilverVase01.NIF"
+  },
+  {
+    "edid": "GemShard1Pearl",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A4F2",
+    "full": "Pearl Sliver",
+    "modl": "clutter\\GX\\Gems\\pearlshard.nif"
+  },
+  {
+    "edid": "GemShard1PearlBlack",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A4F3",
+    "full": "Black Pearl Sliver",
+    "modl": "clutter\\GX\\Gems\\blackpearlshard.nif"
+  },
+  {
+    "edid": "GemShard1PearlFlawed",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A4F4",
+    "full": "Flawed Pearl Sliver",
+    "modl": "clutter\\GX\\Gems\\pearlshard.nif"
   },
   {
     "edid": "GemShard1PearlFlawless",
@@ -2010,6 +2136,66 @@
     "modl": "Clutter\\GX\\Gems\\WTourmalineShard.nif"
   },
   {
+    "edid": "GemShard10Amethyst",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A517",
+    "full": "Amethyst Cut",
+    "modl": "clutter\\GX\\Gems\\amethystshard.nif"
+  },
+  {
+    "edid": "GemShard10AmethystFlawed",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A518",
+    "full": "Flawed Amethyst Cut",
+    "modl": "clutter\\GX\\Gems\\amethystshard.nif"
+  },
+  {
+    "edid": "GemShard10AmethystFlawless",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A519",
+    "full": "Flawless Amethyst Cut",
+    "modl": "clutter\\GX\\Gems\\amethystshard.nif"
+  },
+  {
+    "edid": "GemShard10AmethystPerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A51A",
+    "full": "Perfect Amethyst Cut",
+    "modl": "clutter\\GX\\Gems\\amethystshard.nif"
+  },
+  {
+    "edid": "Gem0CopperBar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA01",
+    "full": "Copper Bar",
+    "modl": "clutter\\GX\\Metals\\copperbar.nif"
+  },
+  {
+    "edid": "Gem0SilverBar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA02",
+    "full": "Silver Bar",
+    "modl": "clutter\\GX\\Metals\\silverbar.nif"
+  },
+  {
+    "edid": "Gem0GoldBar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA03",
+    "full": "Gold Bar",
+    "modl": "clutter\\GX\\Metals\\goldbar.nif"
+  },
+  {
+    "edid": "Gem10Amethyst",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA05",
+    "full": "Amethyst",
+    "modl": "clutter\\GX\\Gems\\amethyst.nif"
+  },
+  {
+    "edid": "Gem10AmethystFlawed",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA06",
+    "full": "Flawed Amethyst",
+    "modl": "clutter\\GX\\Gems\\amethystflawed.nif"
+  },
+  {
+    "edid": "Gem10AmethystFlawless",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA07",
+    "full": "Flawless Amethyst",
+    "modl": "clutter\\GX\\Gems\\amethystflawless.nif"
+  },
+  {
     "edid": "OOOSE30MadnessBattleAxeMatrix",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AD1E",
     "full": "Madness Battle Axe Matrix",
@@ -2046,10 +2232,58 @@
     "modl": "OOOSE\\Matrix\\MadnessMace.nif"
   },
   {
+    "edid": "Gem0CopperNuggetSmall",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AEEF",
+    "full": "Little Copper Nugget",
+    "modl": "Clutter\\Gems\\GoldNugget.NIF"
+  },
+  {
+    "edid": "Gem0CopperNugget",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AEF0",
+    "full": "Copper Nugget",
+    "modl": "Clutter\\Gems\\GoldNugget.NIF"
+  },
+  {
+    "edid": "Gem0CopperNuggetLarge",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AEF1",
+    "full": "Big Copper Nugget",
+    "modl": "Clutter\\Gems\\GoldNugget.NIF"
+  },
+  {
     "edid": "OOOSE30MadnessHelmetOpenMatrix",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C1D7",
     "full": "Madness Open Helmet Matrix",
     "modl": "OOOSE\\Matrix\\MadnessHelmet.nif"
+  },
+  {
+    "edid": "GemZEmeraldJephre",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C39A",
+    "full": "Heart of the Wild Woods",
+    "modl": "clutter\\GX\\Gems\\Jephreemerald.nif"
+  },
+  {
+    "edid": "Gem0PlatinumBar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CE17",
+    "full": "Platinum Bar",
+    "modl": "clutter\\GX\\Metals\\platinumbar.nif"
+  },
+  {
+    "edid": "Gem0PlatinumNugget",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CE18",
+    "full": "Platinum Nugget",
+    "modl": "Clutter\\Gems\\SilverNugget.NIF"
+  },
+  {
+    "edid": "Gem0PlatinumNuggetLarge",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CE19",
+    "full": "Large Platinum Nugget",
+    "modl": "clutter\\GX\\Metals\\platinumnuggetlarge.nif"
+  },
+  {
+    "edid": "Gem0PlatinumNuggetSmall",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CE1A",
+    "full": "Small Platinum Nugget",
+    "modl": "clutter\\GX\\Metals\\platinumnuggetsmall.nif"
   },
   {
     "edid": "OOOSE30AmberLongbowMatrix",
@@ -2072,19 +2306,19 @@
   {
     "edid": "ClothBolt04Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C253",
-    "full": "",
+    "full": "Fine Cloth",
     "modl": "Clutter\\ClothBolt04.NIF"
   },
   {
     "edid": "ClothBolt01Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C254",
-    "full": "",
+    "full": "Fine Cloth",
     "modl": "Clutter\\ClothBolt01.NIF"
   },
   {
     "edid": "ClothBolt05Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C255",
-    "full": "",
+    "full": "Fine Cloth",
     "modl": "Clutter\\ClothBolt05.NIF"
   },
   {
@@ -2210,8 +2444,8 @@
   {
     "edid": "Gold002a",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03A587",
-    "full": "",
-    "modl": "Clutter\\ayleidcoin.nif"
+    "full": "Platinum Coin",
+    "modl": "Clutter\\goldCoin01.NIF"
   },
   {
     "edid": "LeopardPeltOOOab",
@@ -2220,10 +2454,94 @@
     "modl": "clutter\\LionPeltFix\\leopardhide.nif"
   },
   {
+    "edid": "Gem0SilverNuggetLarge",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F77",
+    "full": "Big Silver Nugget",
+    "modl": "Clutter\\Gems\\SilverNugget.NIF"
+  },
+  {
+    "edid": "Gem0GoldNuggetLarge",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F78",
+    "full": "Big Gold Nugget",
+    "modl": "Clutter\\Gems\\GoldNugget.NIF"
+  },
+  {
+    "edid": "Gem0SilverNuggetSmall",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F79",
+    "full": "Little Silver Nugget",
+    "modl": "Clutter\\Gems\\SilverNugget.NIF"
+  },
+  {
+    "edid": "Gem0GoldNuggetSmall",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F7A",
+    "full": "Tiny Gold Nugget",
+    "modl": "clutter\\GX\\Gems\\goldnuggetsmall.nif"
+  },
+  {
+    "edid": "Gem2TopazPerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F7B",
+    "full": "Perfect Topaz",
+    "modl": "Clutter\\Gems\\TopazFlawless.NIF"
+  },
+  {
+    "edid": "Gem3RubyPerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F7C",
+    "full": "Perfect Ruby",
+    "modl": "Clutter\\Gems\\RubyFlawless.NIF"
+  },
+  {
+    "edid": "Gem4SapphirePerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F7D",
+    "full": "Perfect Sapphire",
+    "modl": "Clutter\\Gems\\SapphireFlawless.NIF"
+  },
+  {
+    "edid": "Gem5EmeraldPerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F7E",
+    "full": "Perfect Emerald",
+    "modl": "Clutter\\Gems\\EmeraldFlawless.NIF"
+  },
+  {
+    "edid": "Gem6DiamondPerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F7F",
+    "full": "Perfect Diamond",
+    "modl": "Clutter\\Gems\\DiamondFlawless.NIF"
+  },
+  {
     "edid": "Gold002",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F80",
-    "full": "",
-    "modl": "Clutter\\ayleidcoin.nif"
+    "full": "Platinum Coin",
+    "modl": "Clutter\\goldCoin01.NIF"
+  },
+  {
+    "edid": "Gem7OpalFlawed",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F81",
+    "full": "Flawed Opal",
+    "modl": "clutter\\GX\\Gems\\opalflawed.nif"
+  },
+  {
+    "edid": "Gem7OpalFlawless",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F82",
+    "full": "Flawless Opal",
+    "modl": "clutter\\GX\\Gems\\opalflawless.nif"
+  },
+  {
+    "edid": "Gem1PearlPerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F83",
+    "full": "Perfect Pearl",
+    "modl": "Clutter\\Gems\\PearlFlawLess.NIF"
+  },
+  {
+    "edid": "Gem1PearlBlack",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F84",
+    "full": "Black Pearl",
+    "modl": "Clutter\\Gems\\Pearl.NIF"
+  },
+  {
+    "edid": "Gem10AmethystPerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F85",
+    "full": "Perfect Amethyst",
+    "modl": "clutter\\GX\\Gems\\amethystperfect.nif"
   },
   {
     "edid": "OOOSheepWool",

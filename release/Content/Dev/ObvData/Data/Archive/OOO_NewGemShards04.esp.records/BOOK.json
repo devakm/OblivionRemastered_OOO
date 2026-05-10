@@ -1,0 +1,62 @@
+[
+  {
+    "edid": "bgArcaneTheftScrollOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA1B",
+    "full": "Arcane Theft Shard",
+    "modl": "Clutter\\Gems\\DiamondFlawless.NIF"
+  },
+  {
+    "edid": "bgChangeWeatherScrollOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA1C",
+    "full": "Elemental Shard",
+    "modl": "Clutter\\Gems\\PearlFlawLess.NIF"
+  },
+  {
+    "edid": "bgDaedricIngredientsScrollOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA1D",
+    "full": "Daedric Essence Shard",
+    "modl": "Clutter\\Gems\\RubyFlawless.NIF"
+  },
+  {
+    "edid": "bgFoodIngredientsScrollOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA1E",
+    "full": "Sustenance Shard",
+    "modl": "Clutter\\Gems\\RubyFlawless.NIF"
+  },
+  {
+    "edid": "bgForcePullAreaEnchScrollOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA1F",
+    "full": "Magnetic Storm Shard",
+    "modl": "Clutter\\Gems\\TopazFlawless.NIF"
+  },
+  {
+    "edid": "bgForcePullTargetEnchScrollOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA20",
+    "full": "Magnetic Stream Shard",
+    "modl": "Clutter\\Gems\\TopazFlawless.NIF"
+  },
+  {
+    "edid": "bgForcePushAreaEnchScrollOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA21",
+    "full": "Stormfist Shard",
+    "modl": "Clutter\\Gems\\TopazFlawless.NIF"
+  },
+  {
+    "edid": "bgForcePushTargetEnchScrollOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA22",
+    "full": "Windfist Shard",
+    "modl": "Clutter\\Gems\\SapphireFlawless.NIF"
+  },
+  {
+    "edid": "bgForcePushPullEnchScrollOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA23",
+    "full": "Equidistance Shard",
+    "modl": "Clutter\\Gems\\SapphireFlawless.NIF"
+  },
+  {
+    "edid": "bgForcePushTouchEnchScrollOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA24",
+    "full": "Gust Shard",
+    "modl": "Clutter\\Gems\\EmeraldFlawless.NIF"
+  }
+]

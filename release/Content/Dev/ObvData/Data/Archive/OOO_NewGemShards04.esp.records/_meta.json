@@ -1,0 +1,14 @@
+{
+  "esp": "OOO_NewGemShards04.esp",
+  "record_types": [
+    "BOOK",
+    "MISC"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "Oscuro's_Oblivion_Overhaul.esp"
+    ],
+    "version": 1.0
+  }
+}

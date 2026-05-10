@@ -1,11 +1,14 @@
 {
   "esp": "OOO_NewCreatures03.esp",
   "record_types": [
-    "CREA"
+    "ACTI",
+    "CREA",
+    "PACK"
   ],
   "tes4": {
     "masters": [
       "Oblivion.esm",
+      "Knights.esp",
       "Oscuro's_Oblivion_Overhaul.esp"
     ],
     "version": 1.0

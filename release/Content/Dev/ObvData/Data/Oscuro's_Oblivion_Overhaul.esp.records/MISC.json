@@ -1364,313 +1364,313 @@
   {
     "edid": "Hourglass01Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001C95",
-    "full": "Exquisite Hourglass",
+    "full": "LOC_FN_Hourglass01Fine",
     "modl": "Clutter\\MagesGuild\\Hourglass01.NIF"
   },
   {
     "edid": "UpperBowlCeramic01Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001C96",
-    "full": "Fine Ceramic Bowl",
+    "full": "LOC_FN_UpperBowlCeramic01Fine",
     "modl": "Clutter\\UpperClass\\UpperBowlCeramic01.NIF"
   },
   {
     "edid": "UpperBowlCeramic01Exq",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001C97",
-    "full": "Exquisite Ceramic Bowl",
+    "full": "LOC_FN_UpperBowlCeramic01Exq",
     "modl": "Clutter\\UpperClass\\UpperBowlCeramic01.NIF"
   },
   {
     "edid": "UpperClassPlanter01fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021AE",
-    "full": "Fine Planter",
+    "full": "LOC_FN_UpperClassPlanter01fine",
     "modl": "Clutter\\UpperClass\\UpperClassPlanter01.NIF"
   },
   {
     "edid": "UpperClassPlanter01exq",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021AF",
-    "full": "Exquisite Planter",
+    "full": "LOC_FN_UpperClassPlanter01exq",
     "modl": "Clutter\\UpperClass\\UpperClassPlanter01.NIF"
   },
   {
     "edid": "UpperClassPlanter02fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021B0",
-    "full": "Fine Planter",
-    "modl": "clutter\\FineWare\\upperclassplanter02fine.nif"
+    "full": "LOC_FN_UpperClassPlanter02fine",
+    "modl": "Clutter\\UpperClass\\UpperClassPlanter01.NIF"
   },
   {
     "edid": "UpperClassPlanter02exq",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021B1",
-    "full": "Exquisite Planter",
-    "modl": "clutter\\FineWare\\upperclassplanter02exq.nif"
+    "full": "LOC_FN_UpperClassPlanter02exq",
+    "modl": "Clutter\\UpperClass\\UpperClassPlanter03.NIF"
   },
   {
     "edid": "UpperClassPlanter03fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021B2",
-    "full": "Fine Planter",
+    "full": "LOC_FN_UpperClassPlanter03fine",
     "modl": "Clutter\\UpperClass\\UpperClassPlanter03.NIF"
   },
   {
     "edid": "UpperClassPlanter03exq",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021B3",
-    "full": "Exquisite Planter",
+    "full": "LOC_FN_UpperClassPlanter03exq",
     "modl": "Clutter\\UpperClass\\UpperClassPlanter03.NIF"
   },
   {
     "edid": "UpperClassPlanter04fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021B4",
-    "full": "Fine Planter",
+    "full": "LOC_FN_UpperClassPlanter04fine",
     "modl": "Clutter\\UpperClass\\UpperClassPlanter04.NIF"
   },
   {
     "edid": "UpperClassPlanter04exq",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021B5",
-    "full": "Exquisite Planter",
+    "full": "LOC_FN_UpperClassPlanter04exq",
     "modl": "Clutter\\UpperClass\\UpperClassPlanter04.NIF"
   },
   {
     "edid": "UpperClassPlanter05fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021B6",
-    "full": "Fine Planter",
+    "full": "LOC_FN_UpperClassPlanter05fine",
     "modl": "Clutter\\UpperClass\\UpperClassPlanter05.NIF"
   },
   {
     "edid": "UpperClassPlanter05exq",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021B7",
-    "full": "Exquisite Planter",
+    "full": "LOC_FN_UpperClassPlanter05exq",
     "modl": "Clutter\\UpperClass\\UpperClassPlanter05.NIF"
   },
   {
     "edid": "UpperClassPlanter06fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021B8",
-    "full": "Fine Planter",
+    "full": "LOC_FN_UpperClassPlanter06fine",
     "modl": "Clutter\\UpperClass\\UpperClassPlanter06.NIF"
   },
   {
     "edid": "UpperClassPlanter06exq",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021B9",
-    "full": "Exquisite Planter",
+    "full": "LOC_FN_UpperClassPlanter06exq",
     "modl": "Clutter\\UpperClass\\UpperClassPlanter06.NIF"
   },
   {
     "edid": "UpperCupCeramic01fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021BA",
-    "full": "Fine Ceramic Cup",
+    "full": "LOC_FN_UpperCupCeramic01fine",
     "modl": "Clutter\\UpperClass\\UpperCupCeramic01.NIF"
   },
   {
     "edid": "UpperCupCeramic01exq",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021BB",
-    "full": "Exquisite Ceramic Cup",
+    "full": "LOC_FN_UpperCupCeramic01exq",
     "modl": "Clutter\\UpperClass\\UpperCupCeramic01.NIF"
   },
   {
     "edid": "UpperGobletCeramic01fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021BC",
-    "full": "Fine Ceramic Goblet",
+    "full": "LOC_FN_UpperGobletCeramic01fine",
     "modl": "Clutter\\UpperClass\\UpperGobletCeramic01.NIF"
   },
   {
     "edid": "UpperGobletCeramic01exq",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021BD",
-    "full": "Exquisite Ceramic Goblet",
+    "full": "LOC_FN_UpperGobletCeramic01exq",
     "modl": "Clutter\\UpperClass\\UpperGobletCeramic01.NIF"
   },
   {
     "edid": "UpperPitcherCeramic01fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021BE",
-    "full": "Fine Ceramic Pitcher",
+    "full": "LOC_FN_UpperPitcherCeramic01fine",
     "modl": "Clutter\\UpperClass\\UpperPitcherCermic01.NIF"
   },
   {
     "edid": "UpperPitcherCeramic01exq",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021BF",
-    "full": "Exquisite Ceramic Pitcher",
+    "full": "LOC_FN_UpperPitcherCeramic01exq",
     "modl": "Clutter\\UpperClass\\UpperPitcherCermic01.NIF"
   },
   {
     "edid": "UpperPitcherCeramic02fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021C0",
-    "full": "Fine Ceramic Pitcher",
+    "full": "LOC_FN_UpperPitcherCeramic02fine",
     "modl": "Clutter\\UpperClass\\UpperPitcherCermic02.NIF"
   },
   {
     "edid": "UpperPitcherCeramic02exq",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021C1",
-    "full": "Exquisite Ceramic Pitcher",
+    "full": "LOC_FN_UpperPitcherCeramic02exq",
     "modl": "Clutter\\UpperClass\\UpperPitcherCermic02.NIF"
   },
   {
     "edid": "UpperPlateCeramic01fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021C2",
-    "full": "Fine Ceramic Plate",
+    "full": "LOC_FN_UpperPlateCeramic01fine",
     "modl": "Clutter\\UpperClass\\UpperPlateCeramic01.NIF"
   },
   {
     "edid": "UpperPlateCeramic01exq",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021C3",
-    "full": "Exquisite Ceramic Plate",
+    "full": "LOC_FN_UpperPlateCeramic01exq",
     "modl": "Clutter\\UpperClass\\UpperPlateCeramic01.NIF"
   },
   {
     "edid": "UpperTankardCeramic01fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021C4",
-    "full": "Fine Ceramic Tankard",
+    "full": "LOC_FN_UpperTankardCeramic01fine",
     "modl": "Clutter\\UpperClass\\UpperTankardCeramic01.NIF"
   },
   {
     "edid": "UpperTankardCeramic01exq",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021C5",
-    "full": "Exquisite Ceramic Tankard",
+    "full": "LOC_FN_UpperTankardCeramic01exq",
     "modl": "Clutter\\UpperClass\\UpperTankardCeramic01.NIF"
   },
   {
     "edid": "UpperUrnCeramic01fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021C6",
-    "full": "Fine Ceramic Urn",
+    "full": "LOC_FN_UpperUrnCeramic01fine",
     "modl": "Clutter\\UpperClass\\UpperUrnCeramic01.NIF"
   },
   {
     "edid": "UpperUrnCeramic01exq",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021C7",
-    "full": "Exquisite Ceramic Urn",
+    "full": "LOC_FN_UpperUrnCeramic01exq",
     "modl": "Clutter\\UpperClass\\UpperUrnCeramic01.NIF"
   },
   {
     "edid": "UpperVaseCeramic01fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021C8",
-    "full": "Fine Ceramic Vase",
+    "full": "LOC_FN_UpperVaseCeramic01fine",
     "modl": "Clutter\\UpperClass\\UpperVaseCeramic01.NIF"
   },
   {
     "edid": "UpperVaseCeramic01exq",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0021C9",
-    "full": "Exquisite Ceramic Vase",
+    "full": "LOC_FN_UpperVaseCeramic01exq",
     "modl": "Clutter\\UpperClass\\UpperVaseCeramic01.NIF"
   },
   {
     "edid": "DeerPelt1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0026E3",
-    "full": "Deer Pelt",
+    "full": "LOC_FN_DeerPelt1",
     "modl": "Clutter\\LionHide.NIF"
   },
   {
     "edid": "UpperScales01Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002708",
-    "full": "Finely Balanced Scales",
+    "full": "LOC_FN_UpperScales01Fine",
     "modl": "Clutter\\UpperClass\\UpperScales01.NIF"
   },
   {
     "edid": "UpperScaleWeight01fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002709",
-    "full": "Finely Measured Weight",
+    "full": "LOC_FN_UpperScaleWeight01fine",
     "modl": "Clutter\\UpperClass\\UpperScaleWeight01.NIF"
   },
   {
     "edid": "LeopardPeltOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003299",
-    "full": "",
-    "modl": "clutter\\LionPeltFix\\leopardhide.nif"
+    "full": "LOC_FN_LeopardPeltOOO",
+    "modl": "Clutter\\LionHide.NIF"
   },
   {
     "edid": "LeopardSnowPeltOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00329A",
-    "full": "",
-    "modl": "clutter\\LionPeltFix\\snowleopardhide.nif"
+    "full": "LOC_FN_LeopardSnowPeltOOO",
+    "modl": "Clutter\\LionHide.NIF"
   },
   {
     "edid": "WolfPelt02OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00329B",
-    "full": "Tundra Wolf Pelt",
+    "full": "LOC_FN_WolfPelt02OOO",
     "modl": "Clutter\\WolfPelt.NIF"
   },
   {
     "edid": "LionHide01Snow",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00329C",
-    "full": "Snow Lion Pelt",
+    "full": "LOC_FN_LionHide01Snow",
     "modl": "Clutter\\LionHide.NIF"
   },
   {
     "edid": "Gem7Opal",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00342B",
-    "full": "Opal",
-    "modl": "clutter\\GX\\Gems\\opal.nif"
+    "full": "LOC_FN_Gem7Opal",
+    "modl": "Clutter\\Gems\\Pearl.NIF"
   },
   {
     "edid": "Gem7OpalPerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00342E",
-    "full": "Perfect Opal",
-    "modl": "clutter\\GX\\Gems\\opalperfect.nif"
+    "full": "LOC_FN_Gem7OpalPerfect",
+    "modl": "Clutter\\Gems\\PearlFlawLess.NIF"
   },
   {
     "edid": "BearPelt01a",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003651",
-    "full": "Large Bear Pelt",
+    "full": "LOC_FN_BearPelt01a",
     "modl": "Clutter\\BearPelt.NIF"
   },
   {
     "edid": "BoarPelt01a",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003652",
-    "full": "Large Boar Pelt",
+    "full": "LOC_FN_BoarPelt01a",
     "modl": "Clutter\\BearPelt.NIF"
   },
   {
     "edid": "BearPelt01Kodiaka",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003653",
-    "full": "Large Kodiak Bear Pelt",
+    "full": "LOC_FN_BearPelt01Kodiaka",
     "modl": "Clutter\\BearPelt.NIF"
   },
   {
     "edid": "DeerPelt1a",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003654",
-    "full": "Large Deer Pelt",
+    "full": "LOC_FN_DeerPelt1a",
     "modl": "Clutter\\LionHide.NIF"
   },
   {
     "edid": "LionHide01a",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003655",
-    "full": "Large Lion Pelt",
+    "full": "LOC_FN_LionHide01a",
     "modl": "Clutter\\LionHide.NIF"
   },
   {
     "edid": "WolfPelt01a",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003656",
-    "full": "Large Wolf Pelt",
+    "full": "LOC_FN_WolfPelt01a",
     "modl": "Clutter\\WolfPelt.NIF"
   },
   {
     "edid": "WolfPelt02OOOa",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003D10",
-    "full": "Large Tundra Wolf Pelt",
+    "full": "LOC_FN_WolfPelt02OOOa",
     "modl": "Clutter\\WolfPelt.NIF"
   },
   {
     "edid": "WolfPeltWarg",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003D11",
-    "full": "Shadow Wolf Pelt",
+    "full": "LOC_FN_WolfPeltWarg",
     "modl": "Clutter\\WolfPelt.NIF"
   },
   {
     "edid": "WolfPeltWarga",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003D17",
-    "full": "Large Shadow Wolf Pelt",
+    "full": "LOC_FN_WolfPeltWarga",
     "modl": "Clutter\\WolfPelt.NIF"
   },
   {
     "edid": "LionHide01Snowa",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003D19",
-    "full": "Large Snow Lion Pelt",
+    "full": "LOC_FN_LionHide01Snowa",
     "modl": "Clutter\\LionHide.NIF"
   },
   {
     "edid": "LeopardSnowPeltOOOa",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003D1A",
-    "full": "Large Snow Leopard Pelt",
+    "full": "LOC_FN_LeopardSnowPeltOOOa",
     "modl": "Clutter\\LionHide.NIF"
   },
   {
     "edid": "LeopardPeltOOOa",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003D1B",
-    "full": "Large Jaguar Pelt",
+    "full": "LOC_FN_LeopardPeltOOOa",
     "modl": "Clutter\\LionHide.NIF"
   },
   {
@@ -1706,494 +1706,494 @@
   {
     "edid": "GemShard11PTourmaline",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006169",
-    "full": "Paraiba Tourmaline Slice",
-    "modl": "Clutter\\GX\\Gems\\PTourmalineShard.nif"
+    "full": "LOC_FN_GemShard11PTourmaline",
+    "modl": "Clutter\\Gems\\EmeraldFlawed.NIF"
   },
   {
     "edid": "GemShard11PTourmalineFlawed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00616A",
-    "full": "Flawed Paraiba Tourmaline Slice",
-    "modl": "Clutter\\GX\\Gems\\PTourmalineShard.nif"
+    "full": "LOC_FN_GemShard11PTourmalineFlawed",
+    "modl": "Clutter\\Gems\\Emerald.NIF"
   },
   {
     "edid": "GemShard11PTourmalineFlawless",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00616B",
-    "full": "Flawless Paraiba Tourmaline Slice",
-    "modl": "Clutter\\GX\\Gems\\PTourmalineShard.nif"
+    "full": "LOC_FN_GemShard11PTourmalineFlawless",
+    "modl": "Clutter\\Gems\\EmeraldFlawless.NIF"
   },
   {
     "edid": "GemShard11PTourmalinePerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00616C",
-    "full": "Perfect Paraiba Tourmaline Slice",
-    "modl": "Clutter\\GX\\Gems\\PTourmalineShard.nif"
+    "full": "LOC_FN_GemShard11PTourmalinePerfect",
+    "modl": "Clutter\\Gems\\EmeraldFlawless.NIF"
   },
   {
     "edid": "Gem11PTourmaline",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00616D",
-    "full": "Paraiba Tourmaline",
-    "modl": "clutter\\GX\\Gems\\PTourmaline.nif"
+    "full": "LOC_FN_Gem11PTourmaline",
+    "modl": "Clutter\\Gems\\EmeraldFlawed.NIF"
   },
   {
     "edid": "Gem11PTourmalineFlawed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00616E",
-    "full": "Flawed Paraiba Tourmaline",
-    "modl": "clutter\\GX\\Gems\\PTourmalineFlawed.nif"
+    "full": "LOC_FN_Gem11PTourmalineFlawed",
+    "modl": "Clutter\\Gems\\Emerald.NIF"
   },
   {
     "edid": "Gem11PTourmalineFlawless",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00616F",
-    "full": "Flawless Paraiba Tourmaline",
-    "modl": "clutter\\GX\\Gems\\PTourmalineFlawless.nif"
+    "full": "LOC_FN_Gem11PTourmalineFlawless",
+    "modl": "Clutter\\Gems\\EmeraldFlawless.NIF"
   },
   {
     "edid": "Gem11PTourmalinePerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006170",
-    "full": "Perfect Paraiba Tourmaline",
-    "modl": "clutter\\GX\\Gems\\PTourmalinePerfect.nif"
+    "full": "LOC_FN_Gem11PTourmalinePerfect",
+    "modl": "Clutter\\Gems\\EmeraldFlawless.NIF"
   },
   {
     "edid": "Gem8Garnet",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006171",
-    "full": "Garnet",
-    "modl": "clutter\\GX\\Gems\\Garnet.nif"
+    "full": "LOC_FN_Gem8Garnet",
+    "modl": "Clutter\\Gems\\TopazFlawed.NIF"
   },
   {
     "edid": "Gem8GarnetFlawed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006172",
-    "full": "Flawed Garnet",
-    "modl": "clutter\\GX\\Gems\\GarnetFlawed.nif"
+    "full": "LOC_FN_Gem8GarnetFlawed",
+    "modl": "Clutter\\Gems\\Topaz.NIF"
   },
   {
     "edid": "Gem8GarnetFlawless",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006173",
-    "full": "Flawless Garnet",
-    "modl": "clutter\\GX\\Gems\\GarnetFlawless.nif"
+    "full": "LOC_FN_Gem8GarnetFlawless",
+    "modl": "Clutter\\Gems\\TopazFlawless.NIF"
   },
   {
     "edid": "Gem8GarnetPerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006174",
-    "full": "Perfect Garnet",
-    "modl": "clutter\\GX\\Gems\\GarnetPerfect.nif"
+    "full": "LOC_FN_Gem8GarnetPerfect",
+    "modl": "Clutter\\Gems\\TopazFlawless.NIF"
   },
   {
     "edid": "Gem9Tourmaline",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006175",
-    "full": "Tourmaline",
-    "modl": "clutter\\GX\\Gems\\WTourmaline.nif"
+    "full": "LOC_FN_Gem9Tourmaline",
+    "modl": "Clutter\\Gems\\Emerald.NIF"
   },
   {
     "edid": "Gem9TourmalineFlawed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006176",
-    "full": "Flawed Tourmaline",
-    "modl": "clutter\\GX\\Gems\\WTourmalineFlawed.nif"
+    "full": "LOC_FN_Gem9TourmalineFlawed",
+    "modl": "Clutter\\Gems\\Emerald.NIF"
   },
   {
     "edid": "Gem9TourmalineFlawless",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006177",
-    "full": "Flawless Tourmaline",
-    "modl": "clutter\\GX\\Gems\\WTourmalineFlawless.nif"
+    "full": "LOC_FN_Gem9TourmalineFlawless",
+    "modl": "Clutter\\Gems\\EmeraldFlawless.NIF"
   },
   {
     "edid": "Gem9TourmalinePerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006178",
-    "full": "Perfect Tourmaline",
-    "modl": "clutter\\GX\\Gems\\WTourmalinePerfect.nif"
+    "full": "LOC_FN_Gem9TourmalinePerfect",
+    "modl": "Clutter\\Gems\\EmeraldFlawless.NIF"
   },
   {
     "edid": "MinotaurMane1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0093A7",
-    "full": "",
-    "modl": "clutter\\LionPeltFix\\minotaurmane.nif"
+    "full": "LOC_FN_MinotaurMane1",
+    "modl": "Clutter\\LionHide.NIF"
   },
   {
     "edid": "BearPelt01Polar",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0098C9",
-    "full": "Arctic Bear Pelt",
+    "full": "LOC_FN_BearPelt01Polar",
     "modl": "Clutter\\BearPelt.NIF"
   },
   {
     "edid": "OOOTorchHotKey",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:009AFF",
-    "full": "Use Torch",
+    "full": "LOC_FN_OOOTorchHotKey",
     "modl": "Lights\\Torch02.NIF"
   },
   {
     "edid": "UpperGoldBowl01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A2B8",
-    "full": "Gold Bowl",
+    "full": "LOC_FN_UpperGoldBowl01",
     "modl": "Clutter\\UpperClass\\UpperSilverBowl01.NIF"
   },
   {
     "edid": "UpperGoldBowl02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A2B9",
-    "full": "Gold Bowl",
+    "full": "LOC_FN_UpperGoldBowl02",
     "modl": "Clutter\\UpperClass\\UpperSilverBowl02.NIF"
   },
   {
     "edid": "UpperGoldCarafe01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A2BA",
-    "full": "Gold Carafe",
+    "full": "LOC_FN_UpperGoldCarafe01",
     "modl": "Clutter\\UpperClass\\UpperSilverCarafe01.NIF"
   },
   {
     "edid": "UpperGoldFork01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A2BB",
-    "full": "Gold Fork",
+    "full": "LOC_FN_UpperGoldFork01",
     "modl": "Clutter\\UpperClass\\UpperSilverFork01.NIF"
   },
   {
     "edid": "UpperGoldGlass01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A2BC",
-    "full": "Gold Glass",
+    "full": "LOC_FN_UpperGoldGlass01",
     "modl": "Clutter\\UpperClass\\UpperSilverGlass01.NIF"
   },
   {
     "edid": "UpperGoldGoblet01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A2BD",
-    "full": "Gold Goblet",
+    "full": "LOC_FN_UpperGoldGoblet01",
     "modl": "Clutter\\UpperClass\\UpperSilverGoblet01.NIF"
   },
   {
     "edid": "UpperGoldGoblet02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A2BE",
-    "full": "Gold Goblet",
+    "full": "LOC_FN_UpperGoldGoblet02",
     "modl": "Clutter\\UpperClass\\UpperSilverGoblet02.NIF"
   },
   {
     "edid": "UpperGoldKnife01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A2BF",
-    "full": "Gold Knife",
+    "full": "LOC_FN_UpperGoldKnife01",
     "modl": "Clutter\\UpperClass\\UpperSilverKnife01.NIF"
   },
   {
     "edid": "UpperGoldPitcher01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A2C0",
-    "full": "Gold Pitcher",
+    "full": "LOC_FN_UpperGoldPitcher01",
     "modl": "Clutter\\UpperClass\\UpperSilverPitcher01.NIF"
   },
   {
     "edid": "UpperGoldPitcher02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A2C1",
-    "full": "Gold Pitcher",
+    "full": "LOC_FN_UpperGoldPitcher02",
     "modl": "Clutter\\UpperClass\\UpperSilverPitcher02.NIF"
   },
   {
     "edid": "UpperGoldPlate01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A2C2",
-    "full": "Gold Plate",
+    "full": "LOC_FN_UpperGoldPlate01",
     "modl": "Clutter\\UpperClass\\UpperSilverPlate01.NIF"
   },
   {
     "edid": "UpperGoldSpoon01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A2C3",
-    "full": "Gold Spoon",
+    "full": "LOC_FN_UpperGoldSpoon01",
     "modl": "Clutter\\UpperClass\\UpperSilverSpoon01.NIF"
   },
   {
     "edid": "UpperGoldTankard01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A2C4",
-    "full": "Gold Tankard",
+    "full": "LOC_FN_UpperGoldTankard01",
     "modl": "Clutter\\UpperClass\\UpperSilverTankard01.NIF"
   },
   {
     "edid": "UpperGoldUrn01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A2C5",
-    "full": "Gold Urn",
+    "full": "LOC_FN_UpperGoldUrn01",
     "modl": "Clutter\\UpperClass\\UpperSilverUrn01.NIF"
   },
   {
     "edid": "UpperGoldUrn02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A2C6",
-    "full": "Gold Urn",
+    "full": "LOC_FN_UpperGoldUrn02",
     "modl": "Clutter\\UpperClass\\UpperSilverUrn02.NIF"
   },
   {
     "edid": "UpperGoldVase01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A2C7",
-    "full": "Gold Vase",
+    "full": "LOC_FN_UpperGoldVase01",
     "modl": "Clutter\\UpperClass\\UpperSilverVase01.NIF"
   },
   {
     "edid": "GemShard1Pearl",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A4F2",
-    "full": "Pearl Sliver",
-    "modl": "clutter\\GX\\Gems\\pearlshard.nif"
+    "full": "LOC_FN_GemShard1Pearl",
+    "modl": "Clutter\\Gems\\Pearl.NIF"
   },
   {
     "edid": "GemShard1PearlBlack",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A4F3",
-    "full": "Black Pearl Sliver",
-    "modl": "clutter\\GX\\Gems\\blackpearlshard.nif"
+    "full": "LOC_FN_GemShard1PearlBlack",
+    "modl": "Clutter\\Gems\\Pearl.NIF"
   },
   {
     "edid": "GemShard1PearlFlawed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A4F4",
-    "full": "Flawed Pearl Sliver",
-    "modl": "clutter\\GX\\Gems\\pearlshard.nif"
+    "full": "LOC_FN_GemShard1PearlFlawed",
+    "modl": "Clutter\\Gems\\PearlFlawLess.NIF"
   },
   {
     "edid": "GemShard1PearlFlawless",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A4F5",
-    "full": "Flawless Pearl Sliver",
-    "modl": "clutter\\GX\\Gems\\pearlshard.nif"
+    "full": "LOC_FN_GemShard1PearlFlawless",
+    "modl": "Clutter\\Gems\\PearlFlawLess.NIF"
   },
   {
     "edid": "GemShard1PearlPerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A4F6",
-    "full": "Perfect Pearl Sliver",
-    "modl": "clutter\\GX\\Gems\\pearlshard.nif"
+    "full": "LOC_FN_GemShard1PearlPerfect",
+    "modl": "Clutter\\Gems\\PearlFlawLess.NIF"
   },
   {
     "edid": "GemShard2Topaz",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A4F7",
-    "full": "Topaz Chip",
-    "modl": "clutter\\GX\\Gems\\topazshard.nif"
+    "full": "LOC_FN_GemShard2Topaz",
+    "modl": "Clutter\\Gems\\Topaz.NIF"
   },
   {
     "edid": "GemShard2TopazFlawed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A4F8",
-    "full": "Flawed Topaz Chip",
-    "modl": "clutter\\GX\\Gems\\topazshard.nif"
+    "full": "LOC_FN_GemShard2TopazFlawed",
+    "modl": "Clutter\\Gems\\Topaz.NIF"
   },
   {
     "edid": "GemShard2TopazFlawless",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A4F9",
-    "full": "Flawless Topaz Chip",
-    "modl": "clutter\\GX\\Gems\\topazshard.nif"
+    "full": "LOC_FN_GemShard2TopazFlawless",
+    "modl": "Clutter\\Gems\\TopazFlawless.NIF"
   },
   {
     "edid": "GemShard2TopazPerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A4FA",
-    "full": "Perfect Topaz Chip",
-    "modl": "clutter\\GX\\Gems\\topazshard.nif"
+    "full": "LOC_FN_GemShard2TopazPerfect",
+    "modl": "Clutter\\Gems\\TopazFlawless.NIF"
   },
   {
     "edid": "GemShard3Ruby",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A4FB",
-    "full": "Ruby Segment",
-    "modl": "clutter\\GX\\Gems\\rubyshard.nif"
+    "full": "LOC_FN_GemShard3Ruby",
+    "modl": "Clutter\\Gems\\Ruby.NIF"
   },
   {
     "edid": "GemShard3RubyFlawed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A4FC",
-    "full": "Flawed Ruby Segment",
-    "modl": "clutter\\GX\\Gems\\rubyshard.nif"
+    "full": "LOC_FN_GemShard3RubyFlawed",
+    "modl": "Clutter\\Gems\\Ruby.NIF"
   },
   {
     "edid": "GemShard3RubyFlawless",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A4FD",
-    "full": "Flawless Ruby Segment",
-    "modl": "clutter\\GX\\Gems\\rubyshard.nif"
+    "full": "LOC_FN_GemShard3RubyFlawless",
+    "modl": "Clutter\\Gems\\RubyFlawless.NIF"
   },
   {
     "edid": "GemShard3RubyPerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A4FE",
-    "full": "Perfect Ruby Segment",
-    "modl": "clutter\\GX\\Gems\\rubyshard.nif"
+    "full": "LOC_FN_GemShard3RubyPerfect",
+    "modl": "Clutter\\Gems\\RubyFlawless.NIF"
   },
   {
     "edid": "GemShard4Sapphire",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A4FF",
-    "full": "Sapphire Section",
-    "modl": "clutter\\GX\\Gems\\sapphireshard.nif"
+    "full": "LOC_FN_GemShard4Sapphire",
+    "modl": "Clutter\\Gems\\Sapphire.NIF"
   },
   {
     "edid": "GemShard4SapphireFlawed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A500",
-    "full": "Flawed Sapphire Section",
-    "modl": "clutter\\GX\\Gems\\sapphireshard.nif"
+    "full": "LOC_FN_GemShard4SapphireFlawed",
+    "modl": "Clutter\\Gems\\Sapphire.NIF"
   },
   {
     "edid": "GemShard4SapphireFlawless",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A501",
-    "full": "Flawless Sapphire Section",
-    "modl": "clutter\\GX\\Gems\\sapphireshard.nif"
+    "full": "LOC_FN_GemShard4SapphireFlawless",
+    "modl": "Clutter\\Gems\\SapphireFlawless.NIF"
   },
   {
     "edid": "GemShard4SapphirePerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A502",
-    "full": "Perfect Sapphire Section",
-    "modl": "clutter\\GX\\Gems\\sapphireshard.nif"
+    "full": "LOC_FN_GemShard4SapphirePerfect",
+    "modl": "Clutter\\Gems\\SapphireFlawless.NIF"
   },
   {
     "edid": "GemShard5Emerald",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A503",
-    "full": "Emerald Portion",
-    "modl": "clutter\\GX\\Gems\\emeraldshard.nif"
+    "full": "LOC_FN_GemShard5Emerald",
+    "modl": "Clutter\\Gems\\Emerald.NIF"
   },
   {
     "edid": "GemShard5EmeraldFlawed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A504",
-    "full": "Flawed Emerald Portion",
-    "modl": "clutter\\GX\\Gems\\emeraldshard.nif"
+    "full": "LOC_FN_GemShard5EmeraldFlawed",
+    "modl": "Clutter\\Gems\\Emerald.NIF"
   },
   {
     "edid": "GemShard5EmeraldFlawless",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A505",
-    "full": "Flawless Emerald Portion",
-    "modl": "clutter\\GX\\Gems\\emeraldshard.nif"
+    "full": "LOC_FN_GemShard5EmeraldFlawless",
+    "modl": "Clutter\\Gems\\Emerald.NIF"
   },
   {
     "edid": "GemShard5EmeraldPerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A506",
-    "full": "Perfect Emerald Portion",
-    "modl": "clutter\\GX\\Gems\\emeraldshard.nif"
+    "full": "LOC_FN_GemShard5EmeraldPerfect",
+    "modl": "Clutter\\Gems\\Emerald.NIF"
   },
   {
     "edid": "GemShard6Diamond",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A507",
-    "full": "Diamond Spicule",
-    "modl": "clutter\\GX\\Gems\\diamondshard.nif"
+    "full": "LOC_FN_GemShard6Diamond",
+    "modl": "Clutter\\Gems\\Diamond.NIF"
   },
   {
     "edid": "GemShard6DiamondFlawed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A508",
-    "full": "Flawed Diamond Spicule",
-    "modl": "clutter\\GX\\Gems\\diamondshard.nif"
+    "full": "LOC_FN_GemShard6DiamondFlawed",
+    "modl": "Clutter\\Gems\\Diamond.NIF"
   },
   {
     "edid": "GemShard6DiamondFlawless",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A509",
-    "full": "Flawless Diamond Spicule",
-    "modl": "clutter\\GX\\Gems\\diamondshard.nif"
+    "full": "LOC_FN_GemShard6DiamondFlawless",
+    "modl": "Clutter\\Gems\\Diamond.NIF"
   },
   {
     "edid": "GemShard6DiamondPerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A50A",
-    "full": "Perfect Diamond Spicule",
-    "modl": "clutter\\GX\\Gems\\diamondshard.nif"
+    "full": "LOC_FN_GemShard6DiamondPerfect",
+    "modl": "Clutter\\Gems\\Diamond.NIF"
   },
   {
     "edid": "GemShard7Opal",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A50B",
-    "full": "Opal Flake",
-    "modl": "clutter\\GX\\Gems\\opalshard.nif"
+    "full": "LOC_FN_GemShard7Opal",
+    "modl": "Clutter\\Gems\\PearlFlawed.NIF"
   },
   {
     "edid": "GemShard7OpalFlawed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A50C",
-    "full": "Flawed Opal Flake",
-    "modl": "clutter\\GX\\Gems\\opalshard.nif"
+    "full": "LOC_FN_GemShard7OpalFlawed",
+    "modl": "Clutter\\Gems\\PearlFlawed.NIF"
   },
   {
     "edid": "GemShard7OpalFlawless",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A50D",
-    "full": "Flawless Opal Flake",
-    "modl": "clutter\\GX\\Gems\\opalshard.nif"
+    "full": "LOC_FN_GemShard7OpalFlawless",
+    "modl": "Clutter\\Gems\\PearlFlawLess.NIF"
   },
   {
     "edid": "GemShard7OpalPerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A50E",
-    "full": "Perfect Opal Flake",
-    "modl": "clutter\\GX\\Gems\\opalshard.nif"
+    "full": "LOC_FN_GemShard7OpalPerfect",
+    "modl": "Clutter\\Gems\\PearlFlawLess.NIF"
   },
   {
     "edid": "GemShard8Garnet",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A50F",
-    "full": "Garnet Piece",
-    "modl": "Clutter\\GX\\Gems\\GarnetShard.NIF"
+    "full": "LOC_FN_GemShard8Garnet",
+    "modl": "Clutter\\Gems\\Topaz.NIF"
   },
   {
     "edid": "GemShard8GarnetFlawed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A510",
-    "full": "Flawed Garnet Piece",
-    "modl": "Clutter\\GX\\Gems\\GarnetShard.NIF"
+    "full": "LOC_FN_GemShard8GarnetFlawed",
+    "modl": "Clutter\\Gems\\Topaz.NIF"
   },
   {
     "edid": "GemShard8GarnetFlawless",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A511",
-    "full": "Flawless Garnet Piece",
-    "modl": "Clutter\\GX\\Gems\\GarnetShard.NIF"
+    "full": "LOC_FN_GemShard8GarnetFlawless",
+    "modl": "Clutter\\Gems\\TopazFlawless.NIF"
   },
   {
     "edid": "GemShard8GarnetPerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A512",
-    "full": "Perfect Garnet Piece",
-    "modl": "Clutter\\GX\\Gems\\GarnetShard.NIF"
+    "full": "LOC_FN_GemShard8GarnetPerfect",
+    "modl": "Clutter\\Gems\\TopazFlawless.NIF"
   },
   {
     "edid": "GemShard9Tourmaline",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A513",
-    "full": "Tourmaline Slice",
-    "modl": "Clutter\\GX\\Gems\\WTourmalineShard.nif"
+    "full": "LOC_FN_GemShard9Tourmaline",
+    "modl": "Clutter\\Gems\\Emerald.NIF"
   },
   {
     "edid": "GemShard9TourmalineFlawed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A514",
-    "full": "Flawed Tourmaline Slice",
-    "modl": "Clutter\\GX\\Gems\\WTourmalineShard.nif"
+    "full": "LOC_FN_GemShard9TourmalineFlawed",
+    "modl": "Clutter\\Gems\\Emerald.NIF"
   },
   {
     "edid": "GemShard9TourmalineFlawless",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A515",
-    "full": "Flawless Tourmaline Slice",
-    "modl": "Clutter\\GX\\Gems\\WTourmalineShard.nif"
+    "full": "LOC_FN_GemShard9TourmalineFlawless",
+    "modl": "Clutter\\Gems\\EmeraldFlawless.NIF"
   },
   {
     "edid": "GemShard9TourmalinePerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A516",
-    "full": "Perfect Tourmaline Slice",
-    "modl": "Clutter\\GX\\Gems\\WTourmalineShard.nif"
+    "full": "LOC_FN_GemShard9TourmalinePerfect",
+    "modl": "Clutter\\Gems\\EmeraldFlawless.NIF"
   },
   {
     "edid": "GemShard10Amethyst",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A517",
-    "full": "Amethyst Cut",
-    "modl": "clutter\\GX\\Gems\\amethystshard.nif"
+    "full": "LOC_FN_GemShard10Amethyst",
+    "modl": "Clutter\\Gems\\SapphireFlawed.NIF"
   },
   {
     "edid": "GemShard10AmethystFlawed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A518",
-    "full": "Flawed Amethyst Cut",
-    "modl": "clutter\\GX\\Gems\\amethystshard.nif"
+    "full": "LOC_FN_GemShard10AmethystFlawed",
+    "modl": "Clutter\\Gems\\Sapphire.NIF"
   },
   {
     "edid": "GemShard10AmethystFlawless",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A519",
-    "full": "Flawless Amethyst Cut",
-    "modl": "clutter\\GX\\Gems\\amethystshard.nif"
+    "full": "LOC_FN_GemShard10AmethystFlawless",
+    "modl": "Clutter\\Gems\\SapphireFlawless.NIF"
   },
   {
     "edid": "GemShard10AmethystPerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A51A",
-    "full": "Perfect Amethyst Cut",
-    "modl": "clutter\\GX\\Gems\\amethystshard.nif"
+    "full": "LOC_FN_GemShard10AmethystPerfect",
+    "modl": "Clutter\\Gems\\SapphireFlawless.NIF"
   },
   {
     "edid": "Gem0CopperBar",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA01",
-    "full": "Copper Bar",
-    "modl": "clutter\\GX\\Metals\\copperbar.nif"
+    "full": "LOC_FN_Gem0CopperBar",
+    "modl": "Clutter\\Gems\\GoldNugget.NIF"
   },
   {
     "edid": "Gem0SilverBar",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA02",
-    "full": "Silver Bar",
-    "modl": "clutter\\GX\\Metals\\silverbar.nif"
+    "full": "LOC_FN_Gem0SilverBar",
+    "modl": "Clutter\\Gems\\SilverNugget.NIF"
   },
   {
     "edid": "Gem0GoldBar",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA03",
-    "full": "Gold Bar",
-    "modl": "clutter\\GX\\Metals\\goldbar.nif"
+    "full": "LOC_FN_Gem0GoldBar",
+    "modl": "Clutter\\Gems\\SilverNugget.NIF"
   },
   {
     "edid": "Gem10Amethyst",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA05",
-    "full": "Amethyst",
-    "modl": "clutter\\GX\\Gems\\amethyst.nif"
+    "full": "LOC_FN_Gem10Amethyst",
+    "modl": "Clutter\\Gems\\SapphireFlawed.NIF"
   },
   {
     "edid": "Gem10AmethystFlawed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA06",
-    "full": "Flawed Amethyst",
-    "modl": "clutter\\GX\\Gems\\amethystflawed.nif"
+    "full": "LOC_FN_Gem10AmethystFlawed",
+    "modl": "Clutter\\Gems\\Sapphire.NIF"
   },
   {
     "edid": "Gem10AmethystFlawless",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA07",
-    "full": "Flawless Amethyst",
-    "modl": "clutter\\GX\\Gems\\amethystflawless.nif"
+    "full": "LOC_FN_Gem10AmethystFlawless",
+    "modl": "Clutter\\Gems\\SapphireFlawless.NIF"
   },
   {
     "edid": "OOOSE30MadnessBattleAxeMatrix",
@@ -2234,19 +2234,19 @@
   {
     "edid": "Gem0CopperNuggetSmall",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AEEF",
-    "full": "Little Copper Nugget",
+    "full": "LOC_FN_Gem0CopperNuggetSmall",
     "modl": "Clutter\\Gems\\GoldNugget.NIF"
   },
   {
     "edid": "Gem0CopperNugget",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AEF0",
-    "full": "Copper Nugget",
+    "full": "LOC_FN_Gem0CopperNugget",
     "modl": "Clutter\\Gems\\GoldNugget.NIF"
   },
   {
     "edid": "Gem0CopperNuggetLarge",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AEF1",
-    "full": "Big Copper Nugget",
+    "full": "LOC_FN_Gem0CopperNuggetLarge",
     "modl": "Clutter\\Gems\\GoldNugget.NIF"
   },
   {
@@ -2258,32 +2258,32 @@
   {
     "edid": "GemZEmeraldJephre",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C39A",
-    "full": "Heart of the Wild Woods",
-    "modl": "clutter\\GX\\Gems\\Jephreemerald.nif"
+    "full": "LOC_FN_GemZEmeraldJephre",
+    "modl": "Clutter\\Gems\\RubyFlawless.NIF"
   },
   {
     "edid": "Gem0PlatinumBar",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CE17",
-    "full": "Platinum Bar",
-    "modl": "clutter\\GX\\Metals\\platinumbar.nif"
+    "full": "LOC_FN_Gem0PlatinumBar",
+    "modl": "Clutter\\Gems\\SilverNugget.NIF"
   },
   {
     "edid": "Gem0PlatinumNugget",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CE18",
-    "full": "Platinum Nugget",
+    "full": "LOC_FN_Gem0PlatinumNugget",
     "modl": "Clutter\\Gems\\SilverNugget.NIF"
   },
   {
     "edid": "Gem0PlatinumNuggetLarge",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CE19",
-    "full": "Large Platinum Nugget",
-    "modl": "clutter\\GX\\Metals\\platinumnuggetlarge.nif"
+    "full": "LOC_FN_Gem0PlatinumNuggetLarge",
+    "modl": "Clutter\\Gems\\SilverNugget.NIF"
   },
   {
     "edid": "Gem0PlatinumNuggetSmall",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CE1A",
-    "full": "Small Platinum Nugget",
-    "modl": "clutter\\GX\\Metals\\platinumnuggetsmall.nif"
+    "full": "LOC_FN_Gem0PlatinumNuggetSmall",
+    "modl": "Clutter\\Gems\\SilverNugget.NIF"
   },
   {
     "edid": "OOOSE30AmberLongbowMatrix",
@@ -2294,49 +2294,49 @@
   {
     "edid": "ClothBolt02Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C251",
-    "full": "Fine Cloth",
+    "full": "LOC_FN_ClothBolt02Fine",
     "modl": "Clutter\\ClothBolt02.NIF"
   },
   {
     "edid": "ClothBolt03Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C252",
-    "full": "Fine Cloth",
+    "full": "LOC_FN_ClothBolt03Fine",
     "modl": "Clutter\\ClothBolt03.NIF"
   },
   {
     "edid": "ClothBolt04Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C253",
-    "full": "Fine Cloth",
+    "full": "LOC_FN_ClothBolt04Fine",
     "modl": "Clutter\\ClothBolt04.NIF"
   },
   {
     "edid": "ClothBolt01Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C254",
-    "full": "Fine Cloth",
+    "full": "LOC_FN_ClothBolt01Fine",
     "modl": "Clutter\\ClothBolt01.NIF"
   },
   {
     "edid": "ClothBolt05Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C255",
-    "full": "Fine Cloth",
+    "full": "LOC_FN_ClothBolt05Fine",
     "modl": "Clutter\\ClothBolt05.NIF"
   },
   {
     "edid": "Quill01Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C257",
-    "full": "",
-    "modl": "clutter\\FineWare\\quill03fine.nif"
+    "full": "LOC_FN_Quill01Fine",
+    "modl": "Clutter\\Quill01.NIF"
   },
   {
     "edid": "Quill01Excellent",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C258",
-    "full": "",
-    "modl": "clutter\\FineWare\\quill02fine.nif"
+    "full": "LOC_FN_Quill01Excellent",
+    "modl": "Clutter\\Quill01.NIF"
   },
   {
     "edid": "Inkwell01Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C25A",
-    "full": "Fine Inkwell",
+    "full": "LOC_FN_Inkwell01Fine",
     "modl": "Clutter\\Inkwell01.NIF"
   },
   {
@@ -2348,37 +2348,37 @@
   {
     "edid": "FoldedCloth05Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC3A",
-    "full": "Fine Folded Cloth",
+    "full": "LOC_FN_FoldedCloth05Fine",
     "modl": "Clutter\\FoldedCloth05.NIF"
   },
   {
     "edid": "FoldedCloth01Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC3B",
-    "full": "Fine Folded Cloth",
+    "full": "LOC_FN_FoldedCloth01Fine",
     "modl": "Clutter\\FoldedCloth01.NIF"
   },
   {
     "edid": "FoldedCloth02Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC3C",
-    "full": "Fine Folded Cloth",
+    "full": "LOC_FN_FoldedCloth02Fine",
     "modl": "Clutter\\FoldedCloth02.NIF"
   },
   {
     "edid": "FoldedCloth03Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC3D",
-    "full": "Fine Folded Cloth",
+    "full": "LOC_FN_FoldedCloth03Fine",
     "modl": "Clutter\\FoldedCloth03.NIF"
   },
   {
     "edid": "FoldedCloth04Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC3E",
-    "full": "Fine Folded Cloth",
+    "full": "LOC_FN_FoldedCloth04Fine",
     "modl": "Clutter\\FoldedCloth04.NIF"
   },
   {
     "edid": "BearPelt01aSpecial",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:026955",
-    "full": "Giant Bear Pelt",
+    "full": "LOC_FN_BearPelt01aSpecial",
     "modl": "Clutter\\BearPelt.NIF"
   },
   {
@@ -2408,7 +2408,7 @@
   {
     "edid": "BearPelt01Kodiak",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02F9F9",
-    "full": "Kodiak Bear Pelt",
+    "full": "LOC_FN_BearPelt01Kodiak",
     "modl": "Clutter\\BearPelt.NIF"
   },
   {
@@ -2432,7 +2432,7 @@
   {
     "edid": "BoarPelt01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:032670",
-    "full": "Boar Pelt",
+    "full": "LOC_FN_BoarPelt01",
     "modl": "Clutter\\BearPelt.NIF"
   },
   {
@@ -2444,110 +2444,110 @@
   {
     "edid": "Gold002a",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03A587",
-    "full": "Platinum Coin",
+    "full": "LOC_FN_Gold002a",
     "modl": "Clutter\\goldCoin01.NIF"
   },
   {
     "edid": "LeopardPeltOOOab",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0429DB",
-    "full": "",
-    "modl": "clutter\\LionPeltFix\\leopardhide.nif"
+    "full": "LOC_FN_LeopardPeltOOOab",
+    "modl": "Clutter\\LionHide.NIF"
   },
   {
     "edid": "Gem0SilverNuggetLarge",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F77",
-    "full": "Big Silver Nugget",
+    "full": "LOC_FN_Gem0SilverNuggetLarge",
     "modl": "Clutter\\Gems\\SilverNugget.NIF"
   },
   {
     "edid": "Gem0GoldNuggetLarge",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F78",
-    "full": "Big Gold Nugget",
+    "full": "LOC_FN_Gem0GoldNuggetLarge",
     "modl": "Clutter\\Gems\\GoldNugget.NIF"
   },
   {
     "edid": "Gem0SilverNuggetSmall",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F79",
-    "full": "Little Silver Nugget",
+    "full": "LOC_FN_Gem0SilverNuggetSmall",
     "modl": "Clutter\\Gems\\SilverNugget.NIF"
   },
   {
     "edid": "Gem0GoldNuggetSmall",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F7A",
-    "full": "Tiny Gold Nugget",
+    "full": "LOC_FN_Gem0GoldNuggetSmall",
     "modl": "clutter\\GX\\Gems\\goldnuggetsmall.nif"
   },
   {
     "edid": "Gem2TopazPerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F7B",
-    "full": "Perfect Topaz",
+    "full": "LOC_FN_Gem2TopazPerfect",
     "modl": "Clutter\\Gems\\TopazFlawless.NIF"
   },
   {
     "edid": "Gem3RubyPerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F7C",
-    "full": "Perfect Ruby",
+    "full": "LOC_FN_Gem3RubyPerfect",
     "modl": "Clutter\\Gems\\RubyFlawless.NIF"
   },
   {
     "edid": "Gem4SapphirePerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F7D",
-    "full": "Perfect Sapphire",
+    "full": "LOC_FN_Gem4SapphirePerfect",
     "modl": "Clutter\\Gems\\SapphireFlawless.NIF"
   },
   {
     "edid": "Gem5EmeraldPerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F7E",
-    "full": "Perfect Emerald",
+    "full": "LOC_FN_Gem5EmeraldPerfect",
     "modl": "Clutter\\Gems\\EmeraldFlawless.NIF"
   },
   {
     "edid": "Gem6DiamondPerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F7F",
-    "full": "Perfect Diamond",
+    "full": "LOC_FN_Gem6DiamondPerfect",
     "modl": "Clutter\\Gems\\DiamondFlawless.NIF"
   },
   {
     "edid": "Gold002",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F80",
-    "full": "Platinum Coin",
+    "full": "LOC_FN_Gold002",
     "modl": "Clutter\\goldCoin01.NIF"
   },
   {
     "edid": "Gem7OpalFlawed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F81",
-    "full": "Flawed Opal",
-    "modl": "clutter\\GX\\Gems\\opalflawed.nif"
+    "full": "LOC_FN_Gem7OpalFlawed",
+    "modl": "Clutter\\Gems\\PearlFlawed.NIF"
   },
   {
     "edid": "Gem7OpalFlawless",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F82",
-    "full": "Flawless Opal",
-    "modl": "clutter\\GX\\Gems\\opalflawless.nif"
+    "full": "LOC_FN_Gem7OpalFlawless",
+    "modl": "Clutter\\Gems\\PearlFlawLess.NIF"
   },
   {
     "edid": "Gem1PearlPerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F83",
-    "full": "Perfect Pearl",
+    "full": "LOC_FN_Gem1PearlPerfect",
     "modl": "Clutter\\Gems\\PearlFlawLess.NIF"
   },
   {
     "edid": "Gem1PearlBlack",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F84",
-    "full": "Black Pearl",
+    "full": "LOC_FN_Gem1PearlBlack",
     "modl": "Clutter\\Gems\\Pearl.NIF"
   },
   {
     "edid": "Gem10AmethystPerfect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F85",
-    "full": "Perfect Amethyst",
-    "modl": "clutter\\GX\\Gems\\amethystperfect.nif"
+    "full": "LOC_FN_Gem10AmethystPerfect",
+    "modl": "Clutter\\Gems\\SapphireFlawless.NIF"
   },
   {
     "edid": "OOOSheepWool",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA5B",
-    "full": "",
-    "modl": "clutter\\LionPeltFix\\DeerPelt.nif"
+    "full": "Wool",
+    "modl": "Clutter\\LionHide.NIF"
   },
   {
     "edid": "OOOSESilverTray",

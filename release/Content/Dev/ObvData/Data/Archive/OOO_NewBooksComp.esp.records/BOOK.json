@@ -1,0 +1,206 @@
+[
+  {
+    "edid": "HidingWithTheShadow",
+    "formid": "Oblivion.esm:01FB52",
+    "full": "Hiding with the Shadow",
+    "modl": "Clutter\\Books\\Octavo03.NIF"
+  },
+  {
+    "edid": "Book2CommonMysteriousAkavir",
+    "formid": "Oblivion.esm:02456E",
+    "full": "Mysterious Akavir",
+    "modl": "Clutter\\Books\\Quarto02.NIF"
+  },
+  {
+    "edid": "Book2ReligiousChildrensAnuad",
+    "formid": "Oblivion.esm:024576",
+    "full": "A Children's Anuad",
+    "modl": "Clutter\\Books\\Quarto03.NIF"
+  },
+  {
+    "edid": "Book2ReligiousTenCommandoftheNine",
+    "formid": "Oblivion.esm:024577",
+    "full": "Ten Commands: Nine Divines",
+    "modl": "Clutter\\Books\\Quarto03.NIF"
+  },
+  {
+    "edid": "Book2ReligiousTheAmuletofKings",
+    "formid": "Oblivion.esm:024578",
+    "full": "The Amulet of Kings",
+    "modl": "Clutter\\Books\\Quarto04.NIF"
+  },
+  {
+    "edid": "Book2ReligiousTrialsofStAlessia",
+    "formid": "Oblivion.esm:024579",
+    "full": "Trials of St. Alessia",
+    "modl": "Clutter\\Books\\Quarto04.NIF"
+  },
+  {
+    "edid": "Book3ValuableTamrielicLore",
+    "formid": "Oblivion.esm:02457A",
+    "full": "Tamrielic Lore",
+    "modl": "Clutter\\Books\\Folio02.NIF"
+  },
+  {
+    "edid": "Book3ValuableTheFirmament",
+    "formid": "Oblivion.esm:02457B",
+    "full": "The Firmament",
+    "modl": "Clutter\\Books\\Folio04.NIF"
+  },
+  {
+    "edid": "Book3ValuableVarietiesofDaedra",
+    "formid": "Oblivion.esm:02457C",
+    "full": "Varieties of Daedra",
+    "modl": "Clutter\\Books\\Folio04.NIF"
+  },
+  {
+    "edid": "Book3ValuableMadnessofPelagius",
+    "formid": "Oblivion.esm:02457D",
+    "full": "The Madness of Pelagius",
+    "modl": "Clutter\\Books\\Folio03.NIF"
+  },
+  {
+    "edid": "Book3ValuableOnOblivion",
+    "formid": "Oblivion.esm:02457E",
+    "full": "On Oblivion",
+    "modl": "Clutter\\Books\\Folio01.NIF"
+  },
+  {
+    "edid": "Book3ValuableProvincesofTamriel",
+    "formid": "Oblivion.esm:02457F",
+    "full": "Provinces of Tamriel",
+    "modl": "Clutter\\Books\\Folio02.NIF"
+  },
+  {
+    "edid": "Book3ValuablePrincessTalaraV5",
+    "formid": "Oblivion.esm:024580",
+    "full": "Mystery of Talara, v 5",
+    "modl": "Clutter\\Books\\Folio03.NIF"
+  },
+  {
+    "edid": "Book3ValuableWolfQueenV8",
+    "formid": "Oblivion.esm:024581",
+    "full": "The Wolf Queen, v 8",
+    "modl": "Clutter\\Books\\Folio02.NIF"
+  },
+  {
+    "edid": "Book4RareSpiritoftheDaedra",
+    "formid": "Oblivion.esm:024582",
+    "full": "Spirit of the Daedra",
+    "modl": "Clutter\\Books\\Folio03.NIF"
+  },
+  {
+    "edid": "Book4RareLegendaryScourge",
+    "formid": "Oblivion.esm:024583",
+    "full": "The Legendary Scourge",
+    "modl": "Clutter\\Books\\Folio04.NIF"
+  },
+  {
+    "edid": "Book4RareArcanaRestored",
+    "formid": "Oblivion.esm:024584",
+    "full": "Arcana Restored",
+    "modl": "Clutter\\Books\\Folio01.NIF"
+  },
+  {
+    "edid": "Book4RarePostingoftheHunt",
+    "formid": "Oblivion.esm:024585",
+    "full": "The Posting of the Hunt",
+    "modl": "Clutter\\Books\\Folio02.NIF"
+  },
+  {
+    "edid": "Book4RareBrothersofDarkness",
+    "formid": "Oblivion.esm:024586",
+    "full": "The Brothers of Darkness",
+    "modl": "Clutter\\Books\\Folio02.NIF"
+  },
+  {
+    "edid": "Book4RareChildrenoftheSky",
+    "formid": "Oblivion.esm:024587",
+    "full": "Children of the Sky",
+    "modl": "Clutter\\Books\\Folio02.NIF"
+  },
+  {
+    "edid": "MS45DarMasDiary",
+    "formid": "Oblivion.esm:0280A9",
+    "full": "Dar-Ma's Diary",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
+  },
+  {
+    "edid": "MS38ListDavideTotius",
+    "formid": "Oblivion.esm:028D7C",
+    "full": "List of Death",
+    "modl": "Clutter\\Books\\Note01.NIF"
+  },
+  {
+    "edid": "MG10AyleidReference",
+    "formid": "Oblivion.esm:03353B",
+    "full": "Ayleid Reference Text",
+    "modl": "Clutter\\Books\\Octavo03.NIF"
+  },
+  {
+    "edid": "ClutterDirections04",
+    "formid": "Oblivion.esm:068C13",
+    "full": "Note",
+    "modl": "Clutter\\Books\\Scroll04.NIF"
+  },
+  {
+    "edid": "DarkVicenteNote",
+    "formid": "Oblivion.esm:0693D2",
+    "full": "Vicente's Note to Ocheeva",
+    "modl": "Clutter\\Books\\Note01.NIF"
+  },
+  {
+    "edid": "ClutterICShop01",
+    "formid": "Oblivion.esm:071776",
+    "full": "Handbill",
+    "modl": "Clutter\\Books\\Scroll05.NIF"
+  },
+  {
+    "edid": "ClutterICShop014",
+    "formid": "Oblivion.esm:071783",
+    "full": "Handbill",
+    "modl": "Clutter\\Books\\Scroll07.NIF"
+  },
+  {
+    "edid": "DAVaerminaArkvedNote01",
+    "formid": "Oblivion.esm:08DC48",
+    "full": "Handwritten Note",
+    "modl": "Clutter\\Books\\Parchment01.NIF"
+  },
+  {
+    "edid": "DAVaerminaArkvedNote02",
+    "formid": "Oblivion.esm:08DC4A",
+    "full": "Crumpled Piece of Paper",
+    "modl": "Clutter\\Books\\CrumpledPaper1.NIF"
+  },
+  {
+    "edid": "DAVaerminaArkvedNote03",
+    "formid": "Oblivion.esm:08DC4C",
+    "full": "Crumpled Piece of Paper",
+    "modl": "Clutter\\Books\\CrumpledPaper1.NIF"
+  },
+  {
+    "edid": "ClutterEEgg00FortColdcornLoot",
+    "formid": "Oblivion.esm:0B073C",
+    "full": "Note",
+    "modl": "Clutter\\Books\\Scroll02.NIF"
+  },
+  {
+    "edid": "ClutterEEgg01",
+    "formid": "Oblivion.esm:0B073D",
+    "full": "Note of Bounty",
+    "modl": "Clutter\\Books\\Scroll06.NIF"
+  },
+  {
+    "edid": "AgnarJournal",
+    "formid": "Oblivion.esm:0C55DF",
+    "full": "Agnar's Journal",
+    "modl": "Clutter\\Books\\Octavo02.NIF"
+  },
+  {
+    "edid": "ClutterEEgg02",
+    "formid": "Oblivion.esm:0C6548",
+    "full": "Note of Exception",
+    "modl": "Clutter\\Books\\Scroll06.NIF"
+  }
+]
