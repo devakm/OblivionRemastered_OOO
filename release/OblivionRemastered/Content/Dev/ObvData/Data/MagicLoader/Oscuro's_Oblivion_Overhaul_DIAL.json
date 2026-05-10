@@ -1,6 +1,18 @@
 {
   "Plugin": "Oscuro's_Oblivion_Overhaul.esp",
   "NewStrings": {
+	"LOC_FN_HouseBuyBravil": "I think 12000 gold is a fair price.",
+	"LOC_FN_HouseTooMuchBravil": "12000 gold for that? No thank you.",
+	"LOC_FN_HouseBuyLeyawiin": "You're asking 30,000 gold? Done.",
+	"LOC_FN_HouseTooMuchLeyawiin": "30,000 gold is too much for me.",
+	"LOC_FN_HouseBuyChorrol": "100,000 gold you say? It's a deal.",
+	"LOC_FN_HouseTooMuchChorrol": "I...um, don't have 100,000 gold.",
+	"LOC_FN_HouseBuySkingrad": "It's a great deal at 125,000 gold.",
+	"LOC_FN_HouseTooMuchSkingrad": "125,000 is too rich for my blood.",
+	"LOC_FN_HouseBuyBruma": "I'll gladly pay 40,000 gold for it.",
+	"LOC_FN_HouseTooMuchBruma": "I can't afford 40,000 gold.",
+	"LOC_FN_HouseBuyCheydinhal": "Only 70,000 gold? I'll take it.",
+	"LOC_FN_HouseTooMuchCheydinhal": "I'm afraid 70,000 gold is too much.",
     "LOC_RT_Soyouveraide_0": "So, you've raided a number of non-tribal goblin lairs and killed the shaman? Excellent!",
     "LOC_RT_Withallthose_1": "With all those goblins now dead, Cyrodiil is finally free of their terror!",
     "LOC_RT_Ithinkthisde_2": "I think this deserves an extra reward. I hereby declare you Knight Commander of the Dragonborne!",

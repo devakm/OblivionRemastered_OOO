@@ -1,5 +1,89 @@
 [
   {
+    "edid": "HouseTooMuchLeyawiin",
+    "formid": "Oblivion.esm:04ED77",
+    "full": "LOC_FN_HouseTooMuchLeyawiin",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "HouseBuyLeyawiin",
+    "formid": "Oblivion.esm:04ED78",
+    "full": "LOC_FN_HouseBuyLeyawiin",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "HouseTooMuchBravil",
+    "formid": "Oblivion.esm:04ED79",
+    "full": "LOC_FN_HouseTooMuchBravil",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "HouseBuyBravil",
+    "formid": "Oblivion.esm:04ED7B",
+    "full": "LOC_FN_HouseBuyBravil",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "HouseTooMuchChorrol",
+    "formid": "Oblivion.esm:04F203",
+    "full": "LOC_FN_HouseTooMuchChorrol",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "HouseBuyChorrol",
+    "formid": "Oblivion.esm:04F204",
+    "full": "LOC_FN_HouseBuyChorrol",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "HouseTooMuchSkingrad",
+    "formid": "Oblivion.esm:04F205",
+    "full": "LOC_FN_HouseTooMuchSkingrad",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "HouseBuySkingrad",
+    "formid": "Oblivion.esm:04F206",
+    "full": "LOC_FN_HouseBuySkingrad",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "HouseTooMuchBruma",
+    "formid": "Oblivion.esm:04F207",
+    "full": "LOC_FN_HouseTooMuchBruma",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "HouseBuyBruma",
+    "formid": "Oblivion.esm:04F208",
+    "full": "LOC_FN_HouseBuyBruma",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "HouseTooMuchCheydinhal",
+    "formid": "Oblivion.esm:04F209",
+    "full": "LOC_FN_HouseTooMuchCheydinhal",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "HouseBuyCheydinhal",
+    "formid": "Oblivion.esm:04F20A",
+    "full": "LOC_FN_HouseBuyCheydinhal",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
     "edid": "zOOOFollow",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007B53",
     "full": "LOC_FN_zOOOFollow",

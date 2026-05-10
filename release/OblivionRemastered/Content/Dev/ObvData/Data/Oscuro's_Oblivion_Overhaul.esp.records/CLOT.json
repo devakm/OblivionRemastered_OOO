@@ -2259,7 +2259,7 @@
     "edid": "XNecrocloakOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005685",
     "full": "LOC_FN_XNecrocloakOOO",
-    "modl": "Clothes\\RobeMCBlack\\Hood.NIF"
+    "modl": "Clothes\\RobeMCBlack\\M\\RobeMCBlack.NIF"
   },
   {
     "edid": "XautumrobeOOO",
@@ -2348,7 +2348,7 @@
   {
     "edid": "ArchMageRobeTravenDead",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006258",
-    "full": "Arch-Mage's Robe",
+    "full": "LOC_FN_ArchMageRobeTravenDead",
     "modl": "Clothes\\RobeMageArch\\M\\RobeMageArch.NIF"
   },
   {
@@ -2391,7 +2391,7 @@
     "edid": "XnecrorobeUOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006F2D",
     "full": "LOC_FN_XnecrorobeUOOO",
-    "modl": "Clothes\\RobeMCBlack\\Hood.NIF"
+    "modl": "Clothes\\RobeMCBlack\\M\\RobeMCBlack.NIF"
   },
   {
     "edid": "XelvenrobeUOOO",
@@ -2624,7 +2624,7 @@
   {
     "edid": "EnchRingZWormKing",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:013E1E",
-    "full": "Worm's Blood",
+    "full": "LOC_FN_EnchRingZWormKing",
     "modl": "Clothes\\Ring\\RingEbonyEmerald.NIF"
   },
   {
@@ -2882,7 +2882,7 @@
   {
     "edid": "JewelryZNecklaceAmazonJade",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02A60F",
-    "full": "Heart of Fury",
+    "full": "LOC_FN_JewelryZNecklaceAmazonJade",
     "modl": "Clothes\\Amulet\\AmuletJade.NIF"
   },
   {
@@ -3002,13 +3002,13 @@
   {
     "edid": "BlackHoodOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03924A",
-    "full": "Carla's Hood of Night",
+    "full": "LOC_FN_BlackHoodOOO",
     "modl": "Clothes\\RobeMCBlack\\Hood.NIF"
   },
   {
     "edid": "BlackRobeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03CABF",
-    "full": "Carla's Robe of Night",
+    "full": "LOC_FN_BlackRobeOOO",
     "modl": "Clothes\\RobeMCBlack\\M\\RobeMCBlack.NIF"
   },
   {
@@ -3530,13 +3530,13 @@
   {
     "edid": "OOOHooves",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA65",
-    "full": "Hooves",
+    "full": "LOC_FN_OOOHooves",
     "modl": "characters\\OOOSeducer\\demontail.nif"
   },
   {
     "edid": "OOOWings",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA66",
-    "full": "SeducerWings",
+    "full": "LOC_FN_OOOWings",
     "modl": "Characters\\OOOSeducer\\LilDragonWings.nif"
   },
   {

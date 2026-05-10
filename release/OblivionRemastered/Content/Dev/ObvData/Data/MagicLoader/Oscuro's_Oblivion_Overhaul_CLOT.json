@@ -1,6 +1,13 @@
 {
   "Plugin": "Oscuro's_Oblivion_Overhaul.esp",
   "NewStrings": {
+    "LOC_FN_OOOHooves": "Hooves",
+    "LOC_FN_OOOWings": "SeducerWings",
+    "LOC_FN_JewelryZNecklaceAmazonJade": "Heart of Fury",
+    "LOC_FN_EnchRingZWormKing": "Worm's Blood",
+	"LOC_FN_ArchMageRobeTravenDead": "Arch-Mage's Robe",
+    "LOC_FN_BlackHoodOOO": "Carla's Hood of Night",
+    "LOC_FN_BlackRobeOOO": "Carla's Robe of Night",
     "LOC_FN_XElvenRobeOOO": "Elven Robe",
     "LOC_FN_KDSilverthornHoodOOO": "Silverthorn Hood",
     "LOC_FN_KDSilverthornRobeOOO": "Silverthorn Robe",

@@ -27,7 +27,7 @@
     "edid": "OscuroObeliskActivator",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001702",
     "full": "LOC_FN_OscuroObeliskActivator",
-    "modl": "Obelisk\\Obelisk01.NIF"
+    "modl": "Architecture\\ImperialCity\\ICTombstone02.NIF"
   },
   {
     "edid": "GrindBase",
