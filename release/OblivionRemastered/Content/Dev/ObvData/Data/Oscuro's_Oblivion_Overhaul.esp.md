@@ -2,4 +2,4 @@
 
 | Release | SHA-256 | Size | Changed | Description | Download |
 |---------|---------|------|---------|-------------|----------|
-| alpha34 | `9ce9dbd8f40d` | 12.3 MiB (12,942,775 B) | ★ | [release alpha34](https://github.com/devakm/OblivionRemastered_OOO/releases/tag/alpha34) | [alpha34.7z](https://github.com/devakm/OblivionRemastered_OOO/releases/download/alpha34/alpha34.7z) |
+| alpha35 | `47b9e849d8f4` | 12.3 MiB (12,865,368 B) | ★ | [release alpha35](https://github.com/devakm/OblivionRemastered_OOO/releases/tag/alpha35) | [alpha35.7z](https://github.com/devakm/OblivionRemastered_OOO/releases/download/alpha35/alpha35.7z) |

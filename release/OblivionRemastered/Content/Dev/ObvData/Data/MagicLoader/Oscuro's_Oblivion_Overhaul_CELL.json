@@ -1,6 +1,13 @@
 {
 	"Plugin": "Oscuro's_Oblivion_Overhaul.esp",
 	"NewStrings": {
+		
+		"LOC_FN_SmokeHoleSylvanRangerCampMarker": "Smoke Hole Sylvan Ranger Camp",
+		"LOC_FN_StridRiverSylvanRangerCampMarker": "Strid River Sylvan Ranger Camp",
+		"LOC_FN_WestKvatchSylvanRangerCampMarker": "West Kvatch Sylvan Ranger Camp",
+		"LOC_FN_ZSkyrimBanditMarlekCampREF": "Ice Dragon Clan Camp",
+		"LOC_FN_ZSkyrimBanditVykaCampREF": "Arctic Wolves' Clan Camp",
+		"LOC_FN_ZOOOICPCHouseREF": "My Imperial City Waterfront Shack",
 		"LOC_FN_ThunderingStepsCave": "Thundering Steps Cave",
 		"LOC_FN_ThunderingSteps02": "Thundering Howl Caverns",
 		"LOC_FN_ThunderingSteps03": "Depths of the Thunder Fiends",
@@ -13,8 +20,8 @@
 		"LOC_FN_BrokenToothCave02": "Shattered Bone Halls",
 		"LOC_FN_Narind": "Narind",
 		"LOC_FN_zOOOArondar": "Arondar",
-		"LOC_FN_zOOOArondar03": "Arondar Arestel",
-		"LOC_FN_zOOOArondar02": "Arondar Arestenia",
+		"LOC_FN_zOOOArondar02": "Arondar Arestel",
+		"LOC_FN_zOOOArondar03": "Arondar Arestenia",
 		"LOC_FN_zOOOBarastas": "Barastas",
 		"LOC_FN_zOOOBarastas02": "Barastas Nelar",
 		"LOC_FN_Dostares": "Dostares",

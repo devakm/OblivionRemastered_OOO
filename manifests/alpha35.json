@@ -1,0 +1,94 @@
+{
+  "OOOInstallerFloydian1.jpg": {
+    "sha256": "77f509a4b0070ce478fb1829096ad64fd0b6aed02f071c3d7e182772c0f83a7a",
+    "size": 187736
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_ACTI.json": {
+    "sha256": "e3238e3ac66b2bb9ccb1ac8ee79c6da952ebc401f6670795c2eaac53cde9575f",
+    "size": 1483
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_ALCH.json": {
+    "sha256": "212518ae1dd7cce8a67ecdf6b02b90ca2988649ded3886f37bd84a48ca4181be",
+    "size": 2776
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_AMMO.json": {
+    "sha256": "fe7f670dc79dd8d10757d78f7148c19d1d462de5c1b75920a5ff81cdfa9b43da",
+    "size": 2233
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_ARMO.json": {
+    "sha256": "c7080a82a6e07a39e8e44b08d0d2ff54d0eb8c9d44de20e0f21254aa18b70b25",
+    "size": 51624
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_BOOK.json": {
+    "sha256": "300a1749a1f6f13092e6bb1ab1cb4c20168ac8f5ae382a1341ae9106e22823bf",
+    "size": 932813
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CELL.json": {
+    "sha256": "66950bc879b545fa7283d0e1fa2275880cc74020c0dc8eed8e9eadf043519b8d",
+    "size": 2052
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CELLMAP.json": {
+    "sha256": "e6ac1d11735dc09e69640a318ffb23f9d8d8e4993f80cb1e3bb9ed1491684532",
+    "size": 2221
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CLAS.json": {
+    "sha256": "7e965129c96f5651e079dd17821e15f2765c0272265bffc7a736802a739c7701",
+    "size": 1456
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CLOT.json": {
+    "sha256": "0484d81ac9af218003482d35cc106f900c23793fb3106eab4ac2e40f16791d3c",
+    "size": 5734
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CONT.json": {
+    "sha256": "7509a1455ddd6ec053953f8043066b657b789584ade4883ca7e8f7cde8ac5738",
+    "size": 28166
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CREA.json": {
+    "sha256": "a6f1c9af61c61ec4a5907051dfbe4c1e59a1f89c121403f395706966784b25d3",
+    "size": 20099
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_DIAL.json": {
+    "sha256": "7bdbf2d2c601d57c3c4be048573640b9125bb7e9bbc25522c9f065dec61177ba",
+    "size": 35895
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_FACT.json": {
+    "sha256": "d62d3fd90bcd5c8cd7e65002b346e9cd8ff20bd07b479cf2ffc0d47685bda59b",
+    "size": 2509
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_INGR.json": {
+    "sha256": "08101f61da39bb3f960fc9f9a72e2b399a670da96307db3625d0264b4cae72ef",
+    "size": 3143
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_MISC.json": {
+    "sha256": "ee47f0610b44713124056c7f396e37acd51b4920b5dc0523b11d8a1d120be197",
+    "size": 9682
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_NPC_.json": {
+    "sha256": "8a9795500ff6c7e86ce0d5915b65ec4a3baf41ec21559e46088954e3515f13f1",
+    "size": 60242
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_QUST.json": {
+    "sha256": "ae120e19cc723daca7e634f7a47d13c63b1d1a702e903e530b7ab55894c5ffff",
+    "size": 153890
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_SLGM.json": {
+    "sha256": "128a38d448ef717e9b601a0f13b1c760df9aa53fa1e444ff22c369367237467c",
+    "size": 238
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_SPELL.json": {
+    "sha256": "097e1bcb4bf714c7846ecba7060edb49865aded2483bb629a9ad8a9d2f3131e9",
+    "size": 46815
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_WEAP.json": {
+    "sha256": "13a660d8f123bdc796b54a0a36f16f9d29e7cbf968c1a8f5e76947efdee776f4",
+    "size": 54804
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/Oscuro's_Oblivion_Overhaul.esp": {
+    "sha256": "47b9e849d8f401d4b62b4c0b6f72db72ab07601de3a92f79e402b2ff84644f8c",
+    "size": 12865368
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/SyncMap/Oscuro's_Oblivion_Overhaul.ini": {
+    "sha256": "841eb8c0e3c1cb55b097aef6cbf9d9883173d1c22b12972009fe50e2b32854ab",
+    "size": 539176
+  }
+}
