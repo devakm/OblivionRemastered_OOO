@@ -1,0 +1,13 @@
+{
+  "esp": "OOO_NewChestsSkip.esp",
+  "record_types": [
+    "CONT"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "Oscuro's_Oblivion_Overhaul.esp"
+    ],
+    "version": 1.0
+  }
+}

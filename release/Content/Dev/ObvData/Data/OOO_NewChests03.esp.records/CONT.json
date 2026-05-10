@@ -1,9 +1,39 @@
 [
   {
+    "edid": "PCCupboardClutterUpperShelfSilverware01",
+    "formid": "Oblivion.esm:005130",
+    "full": "LOC_FN_PCCupboardClutterUpperShelfSilverware01",
+    "modl": "Furniture\\UpperClass\\UpperCubboard02.NIF"
+  },
+  {
+    "edid": "PCCupboardClutterUpper",
+    "formid": "Oblivion.esm:00514E",
+    "full": "LOC_FN_PCCupboardClutterUpper",
+    "modl": "Furniture\\UpperClass\\UpperCupboard01.NIF"
+  },
+  {
+    "edid": "PCCupboardClutterMiddle",
+    "formid": "Oblivion.esm:00516F",
+    "full": "LOC_FN_PCCupboardClutterMiddle",
+    "modl": "Furniture\\MiddleClass\\MiddleCupboard01.NIF"
+  },
+  {
+    "edid": "PCCupboardClutterLower",
+    "formid": "Oblivion.esm:005171",
+    "full": "LOC_FN_PCCupboardClutterLower",
+    "modl": "Clutter\\LowerClass\\LowerClassCupboard01.NIF"
+  },
+  {
     "edid": "DeskClutterUpper02",
     "formid": "Oblivion.esm:024467",
     "full": "LOC_FN_DeskClutterUpper02",
     "modl": "Furniture\\UpperClass\\UpperDesk01.NIF"
+  },
+  {
+    "edid": "CupboardIngredientsRare",
+    "formid": "Oblivion.esm:0A4969",
+    "full": "Cupboard",
+    "modl": "Furniture\\UpperClass\\UpperCupboard01.NIF"
   },
   {
     "edid": "MS27HerminiaCinnaDesk",
@@ -21,19 +51,7 @@
     "edid": "1grayfoxarmorychest",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0011D7",
     "full": "Gray Fox's Armory",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
-  },
-  {
-    "edid": "VendorRindirsStaffsDefStaffsOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0011E8",
-    "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
-  },
-  {
-    "edid": "VendorMysticEmporiumDefStaffsOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0011EA",
-    "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
   },
   {
     "edid": "ZOOODungSackMid02TreasuryRGC",
@@ -42,586 +60,514 @@
     "modl": "Clutter\\Sack02.NIF"
   },
   {
-    "edid": "LapBrewer",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001BA3",
-    "full": "Still",
-    "modl": "furniture\\barset\\middlebrewer01.nif"
-  },
-  {
     "edid": "ZOOOChestJewelry01NobleT100AlvaUlani",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F48",
     "full": "Exquisite Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleTreasuryLesserT100AmAl",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F4A",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestClutterMiddleSame01AsAt",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F56",
     "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOChestClutterMiddleSame02AsAt",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F57",
     "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
   },
   {
     "edid": "ZOOOChestClutterUpper02AsAt",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F58",
     "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01UpperT100Baer",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F59",
     "full": "Fine Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02UpperArmoryPatneim",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F7F",
     "full": "Fine Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01MiddleCarandial",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F80",
     "full": "Common Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01UpperT100DovynAren",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F89",
     "full": "Fine Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01MiddleT100Droshanji",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F8B",
     "full": "Common Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02UpperArmoryDynariAmnis",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F8D",
     "full": "Fine Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOChestUpper02NobleClutterDynariAmnis",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F8F",
     "full": "Elaborate Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleAlchemyT100EidKee",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F90",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleArmoryT100EidKee",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F92",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleTreasuryT100EidKee",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F93",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02UpperArmoryLesserWizT100Glarthir",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F98",
     "full": "Rune Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOChestMiddle01UpperTreasuryT100Glarthir",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F99",
     "full": "Studded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleTreasuryLesserT100Glarthir",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F9A",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestUpper02NobleClutterT100Glarthir",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F9B",
     "full": "Elaborate Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01MiddleGreyThroat",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F9F",
     "full": "Common Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01UpperHafidhollowleg",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001FA1",
     "full": "Fine Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01UpperT100HalLiurz",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001FA3",
     "full": "Fine Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
-  },
-  {
-    "edid": "LapSecretGrapeBarrel",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00208A",
-    "full": "Secret, No Lookie!",
-    "modl": "Clutter\\beef.nif"
-  },
-  {
-    "edid": "LapGrapeSmushingBarrel",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:002572",
-    "full": "Grape Barrel",
-    "modl": "Clutter\\middleclass\\middlebarrelopen02.nif"
-  },
-  {
-    "edid": "ChestDefStaffAlyeid",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A0",
-    "full": "Ayleid Reliquary",
-    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
-  },
-  {
-    "edid": "ChestDefStaffAlyeidBoss3",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A3",
-    "full": "Ayleid Reliquary",
-    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
-  },
-  {
-    "edid": "ChestDefStaffUpper4",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A6",
-    "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
-  },
-  {
-    "edid": "ChestDefStaffUpper2",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A7",
-    "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
-  },
-  {
-    "edid": "ChestDefStaffAlyeidBoss5",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A8",
-    "full": "Ayleid Reliquary",
-    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
-  },
-  {
-    "edid": "ChestDefStaffLower1",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A9",
-    "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01NobleTop",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0026F7",
     "full": "Exquisite Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01UpperTop",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0026F8",
     "full": "Fine Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestUpper02NobleMagicTop",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0026F9",
     "full": "Ornate Runed Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleArmoryTop",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0026FB",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleArmory",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002700",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestUpper02NobleClutterTop",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002713",
     "full": "Elaborate Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
-  },
-  {
-    "edid": "LapWineMakingMachine",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:002A6B",
-    "full": "Apple Press",
-    "modl": "Clutter\\vinyard\\vinyardwinemaker.nif"
-  },
-  {
-    "edid": "VendorArcaneUDefStaffOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:002AAE",
-    "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "CupboardClutterMiddleHelviusCecia",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0032EB",
     "full": "Cupboard",
-    "modl": "harvest\\containers\\XMSharvestMiddleCupboard01HiFi.nif"
-  },
-  {
-    "edid": "LapKeg",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:003479",
-    "full": "Keg",
-    "modl": "Clutter\\middleclass\\middlebarrelkeg01.nif"
+    "modl": "Furniture\\UpperClass\\UpperCupboard01.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01MiddleInventius",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E3F",
     "full": "Common Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01UpperT100Janus",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E41",
     "full": "Fine Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01UpperT100JesanSextius",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E43",
     "full": "Fine Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02UpperArmoryLesserKastusSintav",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E45",
     "full": "Fine Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOChestMiddle01UpperTreasuryT100Kizra",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E47",
     "full": "Studded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02UpperArmoryLesserT100Kizra",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E49",
     "full": "Fine Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02UpperArmoryLesserWizT100Kizra",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E4A",
     "full": "Rune Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01MiddleMarinusC",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E4B",
     "full": "Common Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01NobleT100Numeen",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E4F",
     "full": "Exquisite Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01NobleT100PrimoAntonius",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E52",
     "full": "Exquisite Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01MiddleRajhans",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E54",
     "full": "Common Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01UpperT100Srathad",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E56",
     "full": "Fine Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01UpperT100SorisAnerim",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E58",
     "full": "Fine Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01UpperT100StantusVarrid",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E5B",
     "full": "Fine Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01MiddleSuriusAfranius",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E5D",
     "full": "Common Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01UpperT100Talasma",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E5F",
     "full": "Fine Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01NobleT100ToutiusSextius",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E62",
     "full": "Exquisite Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01UpperT100ToutiusSextius",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E64",
     "full": "Fine Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleArmoryT100UlrichLeland",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E66",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestUpper02NobleMagicTopT100Umbacano",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E68",
     "full": "Ornate Runed Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleArmoryLesserDonton",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E6A",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01NobleT100VilenaDonton",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E6C",
     "full": "Exquisite Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01UpperT100Wumeek",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E6E",
     "full": "Fine Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestUpper02NobleClutter",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00405A",
     "full": "Elaborate Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOOChestUpper02NobleClutterT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004440",
     "full": "Elaborate Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOOChestMiddle01UpperT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004441",
     "full": "Studded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
   },
   {
     "edid": "ZOOOChestMiddle01UpperTreasuryT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004442",
     "full": "Studded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
   },
   {
     "edid": "ZOOOChestMiddle01UpperTreasuryLesserT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004443",
     "full": "Studded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02UpperArmoryT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004444",
     "full": "Fine Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02UpperArmoryLesserT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004445",
     "full": "Fine Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02UpperClothingT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004446",
     "full": "Fine Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02UpperClutterT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004447",
     "full": "Fine Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOChestUpper02NobleTreasuryLesserT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004638",
     "full": "Elaborate Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOOChestUpper02NobleMagicTopT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004639",
     "full": "Ornate Runed Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOOChestUpper02NobleMagicT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00463A",
     "full": "Elaborate Runed Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOOChestUpper02NobleClutterTopT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00463B",
     "full": "Elaborate Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleTreasuryT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00463C",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleArmoryTopT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00463D",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleArmoryT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00463E",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleAlchemyTopT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00463F",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
-    "edid": "ZOOOChestUpper01NobleAlchemyT100",
+    "edid": "ZOOOChestUpper01NobleAlchemyLesser",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004641",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01NobleTopT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004642",
     "full": "Exquisite Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01UpperTopT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004644",
     "full": "Fine Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01UpperT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004645",
     "full": "Fine Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleArmoryLesser",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004994",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleArmoryFighter",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004EBB",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleTreasuryFighter",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004EBC",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestMelusPetilius",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00528A",
     "full": "Studded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
   },
   {
     "edid": "ZOOOCupboardNoble01ClothingRespawn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005DEE",
     "full": "Cupboard",
-    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleTreasuryLesser",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005DEF",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleTreasuryLesserT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005DF0",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOODrawerNoble01ClutterWares",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005DF4",
     "full": "Drawers",
-    "modl": "harvest\\containers\\XMSharvestUpperDrawer01HiFi.nif"
+    "modl": "Furniture\\UpperClass\\UpperDrawer01.NIF"
   },
   {
     "edid": "ZOOODrawerNoble01ClutterWaresLesser",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005DF5",
     "full": "Drawers",
-    "modl": "harvest\\containers\\XMSharvestUpperDrawer01HiFi.nif"
+    "modl": "Furniture\\UpperClass\\UpperDrawer01.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleTreasuryGuildMaster",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005DF8",
     "full": "Elegant Storage Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestArcticFur",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0062E9",
     "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02UpperArmoryLesserArchery",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0062ED",
     "full": "Fine Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleArmoryFighterT100",
@@ -630,388 +576,334 @@
     "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
-    "edid": "XuniquerobechestrindirOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:006A3F",
-    "full": "Chest",
-    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
-  },
-  {
     "edid": "MQCloudRulerArmoryChestSpecial",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006D3B",
     "full": "Armory",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOODrawerNoble02ClutterWizTraven",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006D45",
     "full": "Exquisite Drawers",
-    "modl": "harvest\\containers\\XMSharvestUpperDrawer02HiFi.nif"
+    "modl": "Furniture\\UpperClass\\UpperDrawer02.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02UpperArmoryLesserWiz",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006D4C",
     "full": "Rune Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02UpperArmoryLesserWizT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006D4D",
     "full": "Rune Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "XSunChildBookChest",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006F70",
     "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleArmoryLesserT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00743D",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01MiddleMelusPetilius",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00752E",
     "full": "Common Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01Middle",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007952",
     "full": "Common Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01MiddleT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007953",
     "full": "Common Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleAlchemyTop",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007CE6",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleAlchemy",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007D02",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02LowerArmory",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008140",
     "full": "Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOCupboardNoble01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00824D",
     "full": "Cupboard",
-    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOOCupboardNoble02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00824E",
     "full": "Cupboard",
-    "modl": "harvest\\containers\\XMSharvestUpperCupboard02HiFi.nif"
+    "modl": "Furniture\\UpperClass\\UpperCubboard02.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02LegionArmory",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008677",
     "full": "Imperial Legion Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOCupboardNoble02CeramicTop",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00876D",
     "full": "Cupboard",
-    "modl": "harvest\\containers\\XMSharvestUpperCupboard02HiFi.nif"
+    "modl": "Furniture\\UpperClass\\UpperCubboard02.NIF"
   },
   {
     "edid": "ZOOOCupboardNoble02Ceramic",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00876E",
     "full": "Cupboard",
-    "modl": "harvest\\containers\\XMSharvestUpperCupboard02HiFi.nif"
+    "modl": "Furniture\\UpperClass\\UpperCubboard02.NIF"
   },
   {
     "edid": "ZOOOCupboardNoble02SilverTop",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008779",
     "full": "Cupboard",
-    "modl": "harvest\\containers\\XMSharvestUpperCupboard02HiFi.nif"
+    "modl": "Furniture\\UpperClass\\UpperCubboard02.NIF"
   },
   {
     "edid": "ZOOOCupboardNoble02Silver",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00877A",
     "full": "Cupboard",
-    "modl": "harvest\\containers\\XMSharvestUpperCupboard02HiFi.nif"
+    "modl": "Furniture\\UpperClass\\UpperCubboard02.NIF"
   },
   {
     "edid": "ZOOODrawerNoble01ClothingTop",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008784",
     "full": "Ornate Drawers",
-    "modl": "harvest\\containers\\XMSharvestUpperDrawer01HiFi.nif"
+    "modl": "Furniture\\UpperClass\\UpperDrawer01.NIF"
   },
   {
     "edid": "ZOOODrawerNoble02Clothing",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008785",
     "full": "Drawers",
-    "modl": "harvest\\containers\\XMSharvestUpperDrawer02HiFi.nif"
+    "modl": "Furniture\\UpperClass\\UpperDrawer02.NIF"
   },
   {
     "edid": "ZOOOCupboardNoble01SilverTop",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008786",
     "full": "Cupboard",
-    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOOCupboardNoble01Silver",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008787",
     "full": "Cupboard",
-    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOOCupboardNoble01FoodTop",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008788",
     "full": "Cupboard",
-    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOOCupboardNoble01Food",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008789",
     "full": "Cupboard",
-    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01NobleTopSpecial",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00925D",
     "full": "Exquisite Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOCupboardNoble01ClothingTop",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00925E",
     "full": "Cupboard",
-    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOODrawerNoble01Clothing",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00925F",
     "full": "Ornate Drawers",
-    "modl": "harvest\\containers\\XMSharvestUpperDrawer01HiFi.nif"
+    "modl": "Furniture\\UpperClass\\UpperDrawer01.NIF"
   },
   {
     "edid": "ZOOODrawerNoble01ClothingLesser",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:009261",
     "full": "Elegant Drawers",
-    "modl": "harvest\\containers\\XMSharvestUpperDrawer01HiFi.nif"
+    "modl": "Furniture\\UpperClass\\UpperDrawer01.NIF"
   },
   {
     "edid": "ZOOOCupboardNoble01ClothingLesser",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:009262",
     "full": "Cupboard",
-    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOOChestUpper01PalaceLegionArmory",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0096B0",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleTreasury",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:009C7D",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02UpperArmory",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A178",
     "full": "Fine Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOCupboardNoble01FoodRespawn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A179",
     "full": "Cupboard",
-    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02UpperClutter",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A181",
     "full": "Fine Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOChestMiddle01UpperTreasury",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A183",
     "full": "Studded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
   },
   {
     "edid": "ZOOODrawerNoble01Clothingweak",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A184",
     "full": "Drawers",
-    "modl": "harvest\\containers\\XMSharvestUpperDrawer01HiFi.nif"
+    "modl": "Furniture\\UpperClass\\UpperDrawer01.NIF"
   },
   {
     "edid": "ZOOODrawerMiddle01Clutter",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A66D",
     "full": "Drawers",
-    "modl": "harvest\\containers\\XMSharvestMiddleDrawers01HiFi.nif"
+    "modl": "Furniture\\MiddleClass\\MiddleDrawers01.NIF"
   },
   {
     "edid": "ZOOODrawerNoble02ClutterWiz",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A66E",
     "full": "Engraved Drawers",
-    "modl": "harvest\\containers\\XMSharvestUpperDrawer02HiFi.nif"
+    "modl": "Furniture\\UpperClass\\UpperDrawer02.NIF"
   },
   {
     "edid": "ZOOODrawerMiddle01Clothing",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A671",
     "full": "Drawers",
-    "modl": "harvest\\containers\\XMSharvestMiddleDrawers01HiFi.nif"
+    "modl": "Furniture\\MiddleClass\\MiddleDrawers01.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02UpperArmoryLesser",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A676",
     "full": "Fine Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
-  },
-  {
-    "edid": "XRareRobeChestchednyhalOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA0A",
-    "full": "Chest",
-    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
-  },
-  {
-    "edid": "XuniquerobechestchedynhalOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA0C",
-    "full": "Chest",
-    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
-  },
-  {
-    "edid": "XRareRobeChestAnvilOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AEFA",
-    "full": "Chest",
-    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
-  },
-  {
-    "edid": "XuniquerobechestskingradOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AEFB",
-    "full": "Chest",
-    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
-  },
-  {
-    "edid": "XuniquerobechestsanvilOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AEFD",
-    "full": "Chest",
-    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
-  },
-  {
-    "edid": "XuniquerobechestbravilOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AF00",
-    "full": "Chest",
-    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
-  },
-  {
-    "edid": "XRareRobeChestbravilOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AF02",
-    "full": "Chest",
-    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01UpperTopT100Seridur",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFE1",
     "full": "Blood Stained Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestUpper02NobleTreasuryLesser",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00B057",
     "full": "Elaborate Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02UpperClothing",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00B05A",
     "full": "Fine Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleAlchemyLesser",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00B05F",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
-  },
-  {
-    "edid": "XRareRobeleyawinnOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B3EA",
-    "full": "Chest",
-    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ChestVendorPortWeapons",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00D470",
     "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
   },
   {
     "edid": "zOOODragonborneChest",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0120B1",
     "full": "Dragonborne Supply Chest",
-    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
   },
   {
     "edid": "BarrelFoodArctic",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:012DAD",
     "full": "Barrel",
-    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped01HiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleBarrelTopped01.NIF"
   },
   {
     "edid": "DungZBBBlootz",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:012F18",
     "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleOrcishShield",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0141E6",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleRareBook",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0141FE",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestUpper01NobleArmoryFighterT100Thorn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014266",
     "full": "Knights of Thorn's Safe Coffer",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZChestStorageFG",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014313",
     "full": "Storage Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
   },
   {
     "edid": "ZChestStorageMG",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014316",
     "full": "Storage Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZChestStorage3Band",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01431A",
     "full": "Storage Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOODungAyleidNob02MagicTopMorahame",
@@ -1023,7 +915,7 @@
     "edid": "ZOOOChestMiddle02UpperArmoryLesserWizT100Letter",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014CBC",
     "full": "Rune Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOODungChestNobleArmoryPegasusSword",
@@ -1035,19 +927,19 @@
     "edid": "ChestVendorTraderMed01Argonian",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01701F",
     "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ChestVendorTraderTop01Argonian",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01702A",
     "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ChestAlawen",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0186AF",
     "full": "Alawen's Supply Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOODungAyleidNob02ArmoryT100Umbacano",
@@ -1065,127 +957,127 @@
     "edid": "ZOOOChestUpper01Noble",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C247",
     "full": "Elegant Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01Noble",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C248",
     "full": "Exquisite Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01Common",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C249",
     "full": "Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestJewelry01Upper",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C24A",
     "full": "Fine Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestMiddle01Upper",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C24B",
     "full": "Studded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
   },
   {
     "edid": "ZOOOChestMiddle02Upper",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C24C",
     "full": "Fine Banded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
-  },
-  {
-    "edid": "ZOOOChestLower01Common",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:01C24D",
-    "full": "Worn Chest",
-    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOOChestLower02Common",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01C24D",
+    "full": "Worn Chest",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestLower01Common",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C24E",
     "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
   },
   {
     "edid": "ZOOOChestUpper02NobleMagic",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C24F",
     "full": "Elaborate Runed Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "ZOOODeskExecClutter01Noble",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C259",
     "full": "Ornate Desk",
-    "modl": "harvest\\containers\\XMSharvestUpperExecDesk01HiFi.nif"
+    "modl": "Furniture\\UpperClass\\UpperExecDesk01.NIF"
   },
   {
     "edid": "ChestVendorTraderTop01Slaver",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CA81",
     "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ChestVendorTraderMed01Slaver",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CA82",
     "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "ZOOODrawerUpper01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC31",
     "full": "Drawers",
-    "modl": "harvest\\containers\\XMSharvestUpperDrawer01HiFi.nif"
+    "modl": "Furniture\\UpperClass\\UpperDrawer01.NIF"
   },
   {
     "edid": "ZOOODrawerUpper02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC32",
     "full": "Drawers",
-    "modl": "harvest\\containers\\XMSharvestUpperDrawer02HiFi.nif"
+    "modl": "Furniture\\UpperClass\\UpperDrawer02.NIF"
   },
   {
     "edid": "ZOOODrawerUpper03",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC33",
     "full": "Drawers",
-    "modl": "harvest\\containers\\XMSharvestUpperDrawer03HiFi.nif"
+    "modl": "Furniture\\UpperClass\\UpperDrawer03.NIF"
   },
   {
     "edid": "ZOOODrawerMiddle01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC34",
     "full": "Drawers",
-    "modl": "harvest\\containers\\XMSharvestMiddleDrawers01HiFi.nif"
+    "modl": "Furniture\\MiddleClass\\MiddleDrawers01.NIF"
   },
   {
     "edid": "ZOOODrawerMiddle02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC35",
     "full": "Drawers",
-    "modl": "harvest\\containers\\XMSharvestMiddleDrawers02HiFi.nif"
+    "modl": "Furniture\\MiddleClass\\MiddleDrawers02.NIF"
   },
   {
     "edid": "ZOOODrawerLower02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC36",
     "full": "Drawers",
-    "modl": "harvest\\containers\\XMSharvestLowerDrawers01HiFi.nif"
+    "modl": "Clutter\\LowerClass\\LowerClassDrawers01.NIF"
   },
   {
     "edid": "ZOOODrawerLower01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC37",
     "full": "Drawers",
-    "modl": "harvest\\containers\\XMSharvestLowerDrawers01HiFi.nif"
+    "modl": "Clutter\\LowerClass\\LowerClassDrawers01.NIF"
   },
   {
     "edid": "ZOOODeskUpper02Noble",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC38",
     "full": "Elegant Desk",
-    "modl": "harvest\\containers\\XMSharvestUpperDesk01HiFi.nif"
+    "modl": "Furniture\\UpperClass\\UpperDesk01.NIF"
   },
   {
     "edid": "ZOOODeskCommon01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC39",
     "full": "Desk",
-    "modl": "harvest\\containers\\XMSharvestMiddleDesk01HiFi.nif"
+    "modl": "Furniture\\MiddleClass\\MiddleDesk01.NIF"
   },
   {
     "edid": "DungBanditBossChest02OOO",
@@ -2421,13 +2313,13 @@
     "edid": "ZOOOChestJewelry01UpperT100Amantius",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:042BDD",
     "full": "Fine Jewelry Box",
-    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
     "edid": "ZOOOChestMiddle01UpperTreasuryT100MarieElena",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0480E7",
     "full": "Studded Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
   },
   {
     "edid": "TandArenaOOO",
@@ -2502,12 +2394,6 @@
     "modl": "Clutter\\LowerClass\\LowerClassDrawers01.NIF"
   },
   {
-    "edid": "XRareRobeChestOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F76",
-    "full": "Chest",
-    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
-  },
-  {
     "edid": "ZOOODungNecromancerNobAlyied02MagicLesser",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04F4AE",
     "full": "Ayleid Cask",
@@ -2535,18 +2421,18 @@
     "edid": "UngarionWeaponChest",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:051350",
     "full": "Ungarion Weapon Chest",
-    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
   },
   {
     "edid": "ChestVendorUngarionAyleidWeapons",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:051351",
     "full": "Ungarion Weapon Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
   },
   {
     "edid": "ZOOODeskClutterMiddle01Amantus",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:05F8EE",
     "full": "Desk",
-    "modl": "harvest\\containers\\XMSharvestMiddleDesk01HiFi.nif"
+    "modl": "Furniture\\MiddleClass\\MiddleDesk01.NIF"
   }
 ]

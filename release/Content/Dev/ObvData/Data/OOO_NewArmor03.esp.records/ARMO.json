@@ -216,6 +216,42 @@
     "modl": "Armor\\Daedric\\M\\Helmet.NIF"
   },
   {
+    "edid": "HeavenFuryBootsGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C84",
+    "full": "Heaven's Fury Boots",
+    "modl": "Armor\\NDPelinal\\M\\NDBoots.NIF"
+  },
+  {
+    "edid": "HeavenFuryCuirassGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C85",
+    "full": "Heaven's Fury Cuirass",
+    "modl": "Armor\\NDPelinal\\M\\NDCuirass.NIF"
+  },
+  {
+    "edid": "HeavenFuryGauntletsGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C86",
+    "full": "Heaven's Fury Gauntlets",
+    "modl": "Armor\\NDPelinal\\M\\NDGauntlets.NIF"
+  },
+  {
+    "edid": "HeavenFuryGreavesGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C87",
+    "full": "Heaven's Fury Greaves",
+    "modl": "Armor\\NDPelinal\\M\\NDGreaves.NIF"
+  },
+  {
+    "edid": "HeavenFuryHelmetGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C88",
+    "full": "Heaven's Fury Helmet",
+    "modl": "Armor\\NDPelinal\\M\\NDHelmet.NIF"
+  },
+  {
+    "edid": "HeavenFuryShieldGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C8A",
+    "full": "Heaven's Fury Shield",
+    "modl": "Armor\\NDPelinal\\M\\NDShield.NIF"
+  },
+  {
     "edid": "RGlassBootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0056EC",
     "full": "Drakefired Boots",
@@ -696,6 +732,12 @@
     "modl": "Armor\\Mithril\\M\\Greaves.NIF"
   },
   {
+    "edid": "CMIronBattleShield03OOOBosmerGood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0077A8",
+    "full": "Protector's Insignia Shield",
+    "modl": "Armor\\TownguardBra\\Shield.NIF"
+  },
+  {
     "edid": "00GRARG01COOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007909",
     "full": "Voice of Nature's Cuirass",
@@ -718,6 +760,12 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007A05",
     "full": "Master Elemental Greaves",
     "modl": "Armor\\Glass\\M\\Boots.NIF"
+  },
+  {
+    "edid": "CMIronBattleShield09OOO2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00BE58",
+    "full": "Ranger's Insignia Shield",
+    "modl": "Armor\\TownguardLe\\Shield.NIF"
   },
   {
     "edid": "ObsidianBoots",
@@ -880,6 +928,36 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027153",
     "full": "Blood Thorn Hood",
     "modl": "Clothes\\RobeMCBlack\\Hood.NIF"
+  },
+  {
+    "edid": "ArmorDraconicArmorbootsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027156",
+    "full": "Dragonborne Boots",
+    "modl": "Armor\\Chainmail\\M\\Boots.NIF"
+  },
+  {
+    "edid": "ArmorDraconicArmorcuirassOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027157",
+    "full": "Dragonborne Cuirass",
+    "modl": "Armor\\Chainmail\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "ArmorDraconicArmorgauntletsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027158",
+    "full": "Dragonborne Gauntlets",
+    "modl": "Armor\\Chainmail\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "ArmorDraconicArmorgreavesOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027159",
+    "full": "Dragonborne Greaves",
+    "modl": "Armor\\Chainmail\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "ArmorDraconicArmorshieldOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02715A",
+    "full": "Dragonborne Shield",
+    "modl": "Armor\\Chainmail\\Shield.NIF"
   },
   {
     "edid": "DaedricBootsVA",

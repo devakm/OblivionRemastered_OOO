@@ -144,10 +144,40 @@
     "modl": "Dungeons\\Misc\\RicketyFenceGate01.NIF"
   },
   {
+    "edid": "AyleidWeapDoor",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00353D",
+    "full": "Wooden Door",
+    "modl": "Architecture\\BasementSections\\Ungrddoor.NIF"
+  },
+  {
+    "edid": "OOOARDoor01bVarastal",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0173D6",
+    "full": "Stone Door",
+    "modl": "dungeons\\ayleidruins\\exterior\\OOOardoor01Varastal.nif"
+  },
+  {
     "edid": "OOOSE32PCDoor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02364A",
     "full": "Door to My Chamber",
     "modl": "Dungeons\\RuinInteriors\\Doors\\RuinsDOORshort01.NIF"
+  },
+  {
+    "edid": "DisplayCasePurple01DoorUmbacano",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02E2B4",
+    "full": "Display Case",
+    "modl": "Clutter\\UpperClass\\UpperClassDisplayCasePurple01.NIF"
+  },
+  {
+    "edid": "DisplayCasePurple02DoorUmbacano",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02E2B5",
+    "full": "Display Case",
+    "modl": "Clutter\\UpperClass\\UpperClassDisplayCasePurple02.NIF"
+  },
+  {
+    "edid": "RicketyFenceGateSlavers",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0356FE",
+    "full": "Stick Fence Gate",
+    "modl": "Dungeons\\Misc\\RicketyFenceGate01.NIF"
   },
   {
     "edid": "OOOSEGateToTamriel",

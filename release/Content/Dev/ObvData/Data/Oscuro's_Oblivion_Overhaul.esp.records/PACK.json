@@ -1,5 +1,23 @@
 [
   {
+    "edid": "MG13HassildorTalktoPlayer",
+    "formid": "Oblivion.esm:009184",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "RegulusTerentiusThrone8x10",
+    "formid": "Oblivion.esm:00A1A9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DroNahrahDailyAudience",
+    "formid": "Oblivion.esm:00A1AD",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "HaskillSE11StandAtMarker",
     "formid": "Oblivion.esm:014B78",
     "full": null,
@@ -36,6 +54,24 @@
     "modl": null
   },
   {
+    "edid": "SkingradJanusHassildorDefault",
+    "formid": "Oblivion.esm:02935F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SkingradJanusHassildorSleep",
+    "formid": "Oblivion.esm:02C465",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "MS40HassildorTalktoPlayer",
+    "formid": "Oblivion.esm:03E952",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "SEFellmoorRelanPatrolEtoN12x12",
     "formid": "Oblivion.esm:040119",
     "full": null,
@@ -66,8 +102,26 @@
     "modl": null
   },
   {
+    "edid": "HannibalTravenAtHome",
+    "formid": "Oblivion.esm:049D1B",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "SE08AllyCommanderStay",
     "formid": "Oblivion.esm:052BF4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "MQ11SkingradCountFindPlayer",
+    "formid": "Oblivion.esm:056E6D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DAMolagPetiliusSleep",
+    "formid": "Oblivion.esm:0579C0",
     "full": null,
     "modl": null
   },
@@ -186,6 +240,30 @@
     "modl": null
   },
   {
+    "edid": "TG06SkingradGuardMissing",
+    "formid": "Oblivion.esm:0838D1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "HannibalTravenSleep",
+    "formid": "Oblivion.esm:084B47",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "HannibalTraveninCouncilChambers",
+    "formid": "Oblivion.esm:084B48",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "HannibalTravenEat",
+    "formid": "Oblivion.esm:084B49",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "SE08AllyCommanderGreetPlayer",
     "formid": "Oblivion.esm:08E8E8",
     "full": null,
@@ -224,6 +302,42 @@
   {
     "edid": "SEAhjazdaHomeWander",
     "formid": "Oblivion.esm:096387",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "MS40HassildorSitInChamber",
+    "formid": "Oblivion.esm:09815A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "MS40HassildorTalktoPlayerEnd",
+    "formid": "Oblivion.esm:0A3DF1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SkingradGuardNightPost03Eat12x3",
+    "formid": "Oblivion.esm:0C9E89",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SkingradGuardNightPost03Relief",
+    "formid": "Oblivion.esm:0C9E8A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SkingradGuardDayPost04Eat2x3",
+    "formid": "Oblivion.esm:0C9E8B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SkingradGuardDayPost04Relief",
+    "formid": "Oblivion.esm:0C9E8C",
     "full": null,
     "modl": null
   },

@@ -1,7 +1,8 @@
 {
   "esp": "OOO_NewChestComps.esp",
   "record_types": [
-    "CONT"
+    "CONT",
+    "SCPT"
   ],
   "tes4": {
     "masters": [

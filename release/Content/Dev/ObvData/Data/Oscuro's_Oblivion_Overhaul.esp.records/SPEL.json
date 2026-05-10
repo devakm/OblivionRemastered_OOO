@@ -4578,6 +4578,54 @@
     "modl": null
   },
   {
+    "edid": "OOODispositionEvilArmor01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:034954",
+    "full": "Disposition From Evil Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionEvilArmor02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:034955",
+    "full": "Disposition From Evil Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionEvilArmor03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:034957",
+    "full": "Disposition From Evil Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionEvilArmor04",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:034959",
+    "full": "Disposition From Evil Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionGoodArmor01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03495B",
+    "full": "Disposition From Good Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionGoodArmor02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03495D",
+    "full": "Disposition From Good Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionGoodArmor03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03495F",
+    "full": "Disposition From Good Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionGoodArmor04",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:034961",
+    "full": "Disposition From Good Armor",
+    "modl": null
+  },
+  {
     "edid": "ZResistFrostMino",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0356DA",
     "full": "Resistance to Frost",
@@ -4677,6 +4725,36 @@
     "edid": "ZResistMagicNormal",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03A24C",
     "full": "Resistance to Magic",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionDreadArmor01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03B338",
+    "full": "Disposition From Dread Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionDreadArmor02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03B339",
+    "full": "Disposition From Dread Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionDreadArmor03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03B33B",
+    "full": "Disposition From Dread Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionDreadArmor04",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03B33D",
+    "full": "Disposition From Dread Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionShadowArmor01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03B345",
+    "full": "Disposition From Shadow Armor",
     "modl": null
   },
   {
@@ -4803,6 +4881,24 @@
     "edid": "FuryFire2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03B5D4",
     "full": "Fury's Fiery Touch",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionShadowArmor02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03B850",
+    "full": "Disposition From Shadow Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionShadowArmor03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03B851",
+    "full": "Disposition From Shadow Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionShadowArmor04",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03B853",
+    "full": "Disposition From Shadow Armor",
     "modl": null
   },
   {
@@ -5907,6 +6003,30 @@
     "edid": "ZAuraProtectionBRCaptain",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03F6EF",
     "full": "Ancient Sailor's Glory",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionLawArmor01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03F9B6",
+    "full": "Disposition From Law Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionLawArmor02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03F9B7",
+    "full": "Disposition From Law Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionLawArmor03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03F9B9",
+    "full": "Disposition From Law Armor",
+    "modl": null
+  },
+  {
+    "edid": "OOODispositionLawArmor04",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03F9BB",
+    "full": "Disposition From Law Armor",
     "modl": null
   },
   {

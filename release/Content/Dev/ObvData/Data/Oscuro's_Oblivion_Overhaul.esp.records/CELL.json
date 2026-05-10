@@ -24,6 +24,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "SkingradTwoSistersLodgeUpstairs",
+    "formid": "Oblivion.esm:028C91",
+    "full": "Two Sisters Lodge Upstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "ICTalosPlazaJakbenImbelHouseTop",
     "formid": "Oblivion.esm:03D867",
     "full": "LOC_FN_ICTalosPlazaJakbenImbelHouseTop",
@@ -96,6 +104,30 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "Rosulas",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003594",
+    "full": "Rosulas",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Rosulas02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003769",
+    "full": "Rosulas Vasgedal",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Varastal",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003C34",
+    "full": "Varastal",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "OOODummyCell",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006157",
     "full": null,
@@ -112,6 +144,22 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "TestOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC27",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "MarshPunk",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02EFE5",
+    "full": "Dummy cell so GetInCell function will work",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "BrokenToothCave",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:039749",
     "full": "Broken Tooth Cave",
@@ -123,6 +171,14 @@
     "edid": "BrokenToothCave02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0398D0",
     "full": "Shattered Bone Halls",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ThunderingStepsCave",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:039FAD",
+    "full": "Thundering Steps Cave",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0

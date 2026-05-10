@@ -11796,6 +11796,12 @@
     "modl": "characters\\_Male\\skeleton.nif"
   },
   {
+    "edid": "DefStaffGuardian",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025C5",
+    "full": "Hrun Illmouth",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
     "edid": "ValenLeaderBossyBoss",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002A47",
     "full": "Eregor",
@@ -11952,6 +11958,18 @@
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
+    "edid": "ImperialLegionForester5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003993",
+    "full": "Imperial Legion Forester",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "Pilgrim01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0039D6",
+    "full": "Pilgrim of Akatosh",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
     "edid": "BanditZSnowMeleeMale2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0039DD",
     "full": "Bandit",
@@ -11968,6 +11986,18 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0039E1",
     "full": "Bandit",
     "modl": "characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditHighwayman05",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003A18",
+    "full": "Highwayman",
+    "modl": "Characters\\_Male\\SkeletonBeast.NIF"
+  },
+  {
+    "edid": "BanditHighwayman06",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003A19",
+    "full": "Highwayman",
+    "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "GhostMinionMeleeMaleBoss",
@@ -12828,6 +12858,354 @@
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
+    "edid": "SlaveTraderMeleeFemale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071E0",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeFemale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071E1",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeFemale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071E2",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeFemale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071E3",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeFemale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071E4",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeFemale6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071E5",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeFemale7",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071E6",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeFemale8",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071E7",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeFemale9",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071E8",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeFemale9A",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071E9",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeFemale9B",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071EA",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeFemale9C",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071EB",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeMale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071EC",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeMale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071ED",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeMale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071EE",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeMale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071EF",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeMale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071F0",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeMale6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071F1",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeMale7",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071F2",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeMale8",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071F3",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeMale9",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071F4",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeMale9A",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071F5",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeMale9B",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071F6",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMeleeMale9C",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071F7",
+    "full": "Slave Trader Thug",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileFemale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071F8",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileFemale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071F9",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileFemale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071FA",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileFemale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071FB",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileFemale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071FC",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileFemale6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071FD",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileFemale7",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071FE",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileFemale8",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0071FF",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileFemale9",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007200",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileFemale9A",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007201",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileFemale9B",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007202",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileFemale9C",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007203",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileMale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007204",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileMale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007205",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileMale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007206",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileMale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007207",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileMale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007208",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileMale6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007209",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileMale7",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00720A",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileMale8",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00720B",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileMale9",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00720C",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileMale9A",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00720D",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileMale9B",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00720E",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderMissileMale9C",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00720F",
+    "full": "Slave Trader Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderLeaderFemale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007218",
+    "full": "Slave Trader Leader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderLeaderFemale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007219",
+    "full": "Slave Trader Leader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderLeaderFemale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00721A",
+    "full": "Slave Trader Leader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderLeaderFemale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00721B",
+    "full": "Slave Trader Leader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderLeaderFemale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00721C",
+    "full": "Slave Trader Leader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderLeaderMale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00721D",
+    "full": "Slave Trader Leader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderLeaderMale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00721E",
+    "full": "Slave Trader Leader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderLeaderMale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00721F",
+    "full": "Slave Trader Leader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderLeaderMale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007220",
+    "full": "Slave Trader Leader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "SlaveTraderLeaderMale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007221",
+    "full": "Slave Trader Leader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
     "edid": "MannimarcoTest",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00722D",
     "full": "Mannimarco",
@@ -13210,6 +13588,30 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00FE6D",
     "full": "Order of the Dragonborne's Knight",
     "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditHighwayman07",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109BB",
+    "full": "Highwayman",
+    "modl": "Characters\\_Male\\SkeletonBeast.NIF"
+  },
+  {
+    "edid": "BanditHighwayman08",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109BC",
+    "full": "Highwayman",
+    "modl": "Characters\\_Male\\SkeletonBeast.NIF"
+  },
+  {
+    "edid": "BanditHighwayman09",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109BD",
+    "full": "Highwayman",
+    "modl": "Characters\\_Male\\SkeletonBeast.NIF"
+  },
+  {
+    "edid": "BanditHighwayman08B",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109BE",
+    "full": "Highwayman",
+    "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "BanditWizardMale5A",

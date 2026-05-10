@@ -5106,6 +5106,18 @@
     "modl": "Creatures\\Dog\\Skeleton.NIF"
   },
   {
+    "edid": "OOOGuarMount",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02EFD4",
+    "full": "Tamed Guar",
+    "modl": "creatures\\OOO_guar\\skeleton.nif"
+  },
+  {
+    "edid": "OOOGuarPropMount",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02EFE0",
+    "full": "Tamed Guar",
+    "modl": "creatures\\OOO_guar\\skeleton.nif"
+  },
+  {
     "edid": "OOOSEVCWispSGod144",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02F21D",
     "full": "Small God",

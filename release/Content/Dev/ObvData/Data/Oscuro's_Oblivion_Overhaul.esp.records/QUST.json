@@ -1,5 +1,21 @@
 [
   {
+    "edid": "DAMolagBal",
+    "formid": "Oblivion.esm:0146B0",
+    "full": "LOC_FN_DAMolagBal",
+    "stage_indices": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      100,
+      105,
+      110
+    ]
+  },
+  {
     "edid": "OOODarkSancSkelFix",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00324C",
     "full": null,

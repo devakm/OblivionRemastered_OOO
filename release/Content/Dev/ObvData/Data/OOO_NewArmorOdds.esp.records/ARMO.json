@@ -1,5 +1,53 @@
 [
   {
+    "edid": "HeavenFuryBoots",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DB",
+    "full": "Heaven's Fury Boots",
+    "modl": "armor\\hf1\\ww3bt.nif"
+  },
+  {
+    "edid": "HeavenFuryCuirass",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DC",
+    "full": "Heaven's Fury Cuirass",
+    "modl": "armor\\hf1\\ww3cu.nif"
+  },
+  {
+    "edid": "HeavenFuryGauntlets",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DD",
+    "full": "Heaven's Fury Gauntlets",
+    "modl": "armor\\hf1\\ww3ga.nif"
+  },
+  {
+    "edid": "HeavenFuryGreaves",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DE",
+    "full": "Heaven's Fury Greaves",
+    "modl": "armor\\hf1\\ww3gr.nif"
+  },
+  {
+    "edid": "HeavenFuryHelmet",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DF",
+    "full": "Heaven's Fury Helmet",
+    "modl": "armor\\hf1\\ww3hlm.nif"
+  },
+  {
+    "edid": "HeavenFuryShield",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046E0",
+    "full": "Heaven's Fury Shield",
+    "modl": "armor\\hf1\\ww3shield.nif"
+  },
+  {
+    "edid": "HeavenFuryHelmetAlt",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046E1",
+    "full": "Heaven's Fury Helmet",
+    "modl": "armor\\hf1\\althelmet.nif"
+  },
+  {
+    "edid": "HeavenFuryHelmetGoldAlt",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C89",
+    "full": "Heaven's Fury Helmet",
+    "modl": "armor\\hf2\\Alternative\\helmet.nif"
+  },
+  {
     "edid": "NoblebootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0072EF",
     "full": "Noble Boots",
@@ -106,36 +154,6 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00BE58",
     "full": "Ranger's Insignia Shield",
     "modl": "Armor\\CMBattleShields\\CMBattleShield009.nif"
-  },
-  {
-    "edid": "ArmorDraconicArmorbootsOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:027156",
-    "full": "Dragonborne Boots",
-    "modl": "Armor\\DraconicArmor\\boots.nif"
-  },
-  {
-    "edid": "ArmorDraconicArmorcuirassOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:027157",
-    "full": "Dragonborne Cuirass",
-    "modl": "Armor\\DraconicArmor\\cuirass.nif"
-  },
-  {
-    "edid": "ArmorDraconicArmorgauntletsOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:027158",
-    "full": "Dragonborne Gauntlets",
-    "modl": "Armor\\DraconicArmor\\gauntlets.nif"
-  },
-  {
-    "edid": "ArmorDraconicArmorgreavesOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:027159",
-    "full": "Dragonborne Greaves",
-    "modl": "Armor\\DraconicArmor\\greaves.nif"
-  },
-  {
-    "edid": "ArmorDraconicArmorshieldOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:02715A",
-    "full": "Dragonborne Shield",
-    "modl": "Armor\\DraconicArmor\\shield.nif"
   },
   {
     "edid": "KDWhiteRoseBootsOOO",

@@ -1,5 +1,53 @@
 [
   {
+    "edid": "CaveFire900Blue",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003107",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "CaveFire384Blue",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003108",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "Torch02light",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00341C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "torch04",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003DEB",
+    "full": "Torch",
+    "modl": "Lights\\Torch02.nif"
+  },
+  {
+    "edid": "Torchkeyold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00651E",
+    "full": "Old Torch Key",
+    "modl": "Lights\\Torch02.NIF"
+  },
+  {
+    "edid": "zOOOTinyCandleLightYellow64flicker",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00767E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "zOOOMelusPetiliusArmorLight",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0093B5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ARBlueGreenIntense800B",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01FFF3",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "OOOSEPaleIntense750",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:020782",
     "full": null,
@@ -78,10 +126,34 @@
     "modl": "OOOSE\\Other\\GreenFlameSmall.nif"
   },
   {
+    "edid": "ICLightHangIron01OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024C01",
+    "full": null,
+    "modl": "Architecture\\Castle\\CastleLight01.NIF"
+  },
+  {
+    "edid": "zOOOLadyOblivionPropLight",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03494E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "CommonLightRed200",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:044370",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "OOOSELightStaffMazken",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0477DD",
     "full": "Glowing Mazken Wand",
     "modl": "OOOSE\\weap\\other\\TorchDS.nif"
+  },
+  {
+    "edid": "Candelabra01Orange400",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0483A4",
+    "full": null,
+    "modl": "Lights\\Candelabra01.NIF"
   },
   {
     "edid": "OOOSELightStaffAureal",
@@ -94,5 +166,17 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04DA43",
     "full": "Torch",
     "modl": "OOOSE\\WeapOther\\staff2spider3.nif"
+  },
+  {
+    "edid": "ARLightRedIntense400",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:04EF3E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "Torch03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051331",
+    "full": "Torch",
+    "modl": "Lights\\Torch02.nif"
   }
 ]

@@ -1,0 +1,146 @@
+[
+  {
+    "edid": "VendorRindirsStaffsDefStaffsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0011E8",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorMysticEmporiumDefStaffsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0011EA",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "LapBrewer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001BA3",
+    "full": "Still",
+    "modl": "furniture\\barset\\middlebrewer01.nif"
+  },
+  {
+    "edid": "LapSecretGrapeBarrel",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00208A",
+    "full": "Secret, No Lookie!",
+    "modl": "Clutter\\beef.nif"
+  },
+  {
+    "edid": "LapGrapeSmushingBarrel",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002572",
+    "full": "Grape Barrel",
+    "modl": "Clutter\\middleclass\\middlebarrelopen02.nif"
+  },
+  {
+    "edid": "ChestDefStaffAlyeid",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A0",
+    "full": "Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ChestDefStaffAlyeidBoss3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A3",
+    "full": "Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ChestDefStaffUpper4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A6",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestDefStaffUpper2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A7",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestDefStaffAlyeidBoss5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A8",
+    "full": "Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ChestDefStaffLower1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A9",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "LapWineMakingMachine",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002A6B",
+    "full": "Apple Press",
+    "modl": "Clutter\\vinyard\\vinyardwinemaker.nif"
+  },
+  {
+    "edid": "VendorArcaneUDefStaffOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002AAE",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "LapKeg",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003479",
+    "full": "Keg",
+    "modl": "Clutter\\middleclass\\middlebarrelkeg01.nif"
+  },
+  {
+    "edid": "XuniquerobechestrindirOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006A3F",
+    "full": "Chest",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "XRareRobeChestchednyhalOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA0A",
+    "full": "Chest",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "XuniquerobechestchedynhalOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA0C",
+    "full": "Chest",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "XRareRobeChestAnvilOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AEFA",
+    "full": "Chest",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "XuniquerobechestskingradOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AEFB",
+    "full": "Chest",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "XuniquerobechestsanvilOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AEFD",
+    "full": "Chest",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "XuniquerobechestbravilOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AF00",
+    "full": "Chest",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "XRareRobeChestbravilOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AF02",
+    "full": "Chest",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "XRareRobeleyawinnOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B3EA",
+    "full": "Chest",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "XRareRobeChestOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F76",
+    "full": "Chest",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  }
+]

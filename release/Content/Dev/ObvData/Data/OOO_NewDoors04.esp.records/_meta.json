@@ -1,0 +1,13 @@
+{
+  "esp": "OOO_NewDoors04.esp",
+  "record_types": [
+    "DOOR"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "Oscuro's_Oblivion_Overhaul.esp"
+    ],
+    "version": 1.0
+  }
+}

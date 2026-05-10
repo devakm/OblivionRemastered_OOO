@@ -1,9 +1,27 @@
 [
   {
+    "edid": "ZCloudRulerTempleBanditNote",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0010CB",
+    "full": "Recent Disturbances Near Bruma",
+    "modl": "Clutter\\Books\\Note01.NIF"
+  },
+  {
+    "edid": "ZArcticBanditCamp1Note",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0010D7",
+    "full": "Betrayal Note From a Skyrim Bandit",
+    "modl": "Clutter\\Books\\Note01.NIF"
+  },
+  {
     "edid": "ZCheapNoteBookOnAnimals",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0010D8",
     "full": "Observations on the Love for Nature",
     "modl": "Clutter\\Books\\Octavo02.NIF"
+  },
+  {
+    "edid": "ZArcticBanditCamp4Note",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001151",
+    "full": "Vyka's Change of Plans",
+    "modl": "Clutter\\Books\\Note01.NIF"
   },
   {
     "edid": "LapBookBrewing",
@@ -30,6 +48,18 @@
     "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
+    "edid": "ZBook2AnvilReportsFG",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0042C5",
+    "full": "Report on Bosmer Incursions",
+    "modl": "Clutter\\Books\\Quarto02.NIF"
+  },
+  {
+    "edid": "ZBook4RareMagesGuildNecroInfo",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004B25",
+    "full": "Arch-Mage Traven's Notes",
+    "modl": "Clutter\\Books\\Folio03.NIF"
+  },
+  {
     "edid": "AyleidWeaponBook",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004E84",
     "full": "Ayleid Weapons Guide",
@@ -46,6 +76,12 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005B96",
     "full": "Receipts",
     "modl": "Clutter\\Books\\Parchment01.NIF"
+  },
+  {
+    "edid": "ZMelusPetiliusDiary",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00677F",
+    "full": "A Path of Iron",
+    "modl": "Clutter\\Books\\Octavo01.NIF"
   },
   {
     "edid": "1grayfoxarmorynote",
@@ -642,6 +678,30 @@
     "modl": "Clutter\\Books\\Folio01.NIF"
   },
   {
+    "edid": "ZBosmerNoteAny",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B5E3",
+    "full": "Note From the Brethren of Jephre",
+    "modl": "Clutter\\Books\\Note01.NIF"
+  },
+  {
+    "edid": "ZBosmerCamp2Schedule",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B5E4",
+    "full": "Smoke Hole Cave Ranger Camp Scroll",
+    "modl": "Clutter\\Books\\Scroll08.NIF"
+  },
+  {
+    "edid": "ZBosmerCamp1Schedule",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B5E5",
+    "full": "Strid River Ranger Camp Scroll",
+    "modl": "Clutter\\Books\\Scroll08.NIF"
+  },
+  {
+    "edid": "ZBosmerCamp3Schedule",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B5E6",
+    "full": "West Kvatch Ranger Camp Scroll",
+    "modl": "Clutter\\Books\\Scroll08.NIF"
+  },
+  {
     "edid": "ZBroadSheetMGCarminaldaEnd01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C905",
     "full": "Brina Cross Inn Housed Merchant's Killer",
@@ -696,6 +756,36 @@
     "modl": "clutter\\Books\\OOO\\imperialsheet.nif"
   },
   {
+    "edid": "ZLetterMillonaFromAzzan2b",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:011633",
+    "full": "Azzan's Reports to Countess Umbranox",
+    "modl": "Clutter\\Books\\Parchment01.NIF"
+  },
+  {
+    "edid": "ZNoteAnvilDisturbances",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:011634",
+    "full": "Warning to Anvil Citizens and Visitors",
+    "modl": "clutter\\Books\\OOO\\imperialsheet.nif"
+  },
+  {
+    "edid": "ZLetterMillonaToDairihill",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:011B65",
+    "full": "Countess Umbranox's Message to Dairihill",
+    "modl": "Clutter\\Books\\Parchment01.NIF"
+  },
+  {
+    "edid": "ZRaiderHlofortoFaran",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:011BA8",
+    "full": "Hlofor's Mission for Faran Hestarius",
+    "modl": "Clutter\\Books\\Scroll08.NIF"
+  },
+  {
+    "edid": "ZRaiderHlofortoSheil",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:011BA9",
+    "full": "Hlofor's Letter to Sheil Hestarius",
+    "modl": "Clutter\\Books\\Scroll08.NIF"
+  },
+  {
     "edid": "ZBook2CommonOnTamrielFactions",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:013165",
     "full": "Excerpts from On Tamriel's Societies, Vol I",
@@ -706,6 +796,12 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:013198",
     "full": "Message to Anvil Citizens and Visitors",
     "modl": "clutter\\Books\\OOO\\imperialsheet.nif"
+  },
+  {
+    "edid": "ZRaiderDasekMoorClue",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:013F7F",
+    "full": "Hlofor's Battle Plan",
+    "modl": "clutter\\Books\\OOO\\raiderhloformap.nif"
   },
   {
     "edid": "ZLetterSentinelShieldDelivery",
@@ -726,10 +822,28 @@
     "modl": "clutter\\Books\\OOO\\imperialsheet.nif"
   },
   {
+    "edid": "ZNoteBrumaDisturbances",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014254",
+    "full": "Report to Bruma Citizens and Visitors",
+    "modl": "clutter\\Books\\OOO\\imperialsheet.nif"
+  },
+  {
+    "edid": "ZNoteCheydinhallDisturbances",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01426A",
+    "full": "Announcement to Cheydinhal Citizens and Visitors",
+    "modl": "clutter\\Books\\OOO\\imperialsheet.nif"
+  },
+  {
     "edid": "ZLetterTFindAntoinetta",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014271",
     "full": "Oportius' Letter to Antoinetta",
     "modl": "Clutter\\Books\\Parchment01.NIF"
+  },
+  {
+    "edid": "ZNoteBravilDisturbances",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0147B2",
+    "full": "Warning to Bravil Citizens and Visitors",
+    "modl": "clutter\\Books\\OOO\\imperialsheet.nif"
   },
   {
     "edid": "ZLetterNecromancerWarning",
@@ -810,15 +924,87 @@
     "modl": "Clutter\\Books\\Scroll03.NIF"
   },
   {
+    "edid": "ZSlaverDerahedFayluBook",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01ED69",
+    "full": "Slaver's Logbook",
+    "modl": "Clutter\\Books\\Octavo01.NIF"
+  },
+  {
+    "edid": "ZSlaverVandralLerysBook",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01ED6B",
+    "full": "A Slaver's Moldy Logbook",
+    "modl": "Clutter\\Books\\Octavo01.NIF"
+  },
+  {
+    "edid": "ZSlaverNayonCampNote",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F7A7",
+    "full": "Nayon Camp Slaver's Orders",
+    "modl": "Clutter\\Books\\Scroll08.NIF"
+  },
+  {
+    "edid": "ZBosmerBadNarindScroll",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01FFFB",
+    "full": "Eregor's Note to Lareil",
+    "modl": "Clutter\\Books\\Scroll08.NIF"
+  },
+  {
+    "edid": "ZSmugglerEidkeeLog",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0215CC",
+    "full": "Eidkee's Inventory Log",
+    "modl": "Clutter\\Books\\Octavo01.NIF"
+  },
+  {
+    "edid": "ZSmugglerYeshaniLog",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0215CE",
+    "full": "Yeshani's Account Book",
+    "modl": "Clutter\\Books\\Octavo01.NIF"
+  },
+  {
+    "edid": "ZSmugglerKizraNote",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0215CF",
+    "full": "Eidkee's Message to Kizra",
+    "modl": "Clutter\\Books\\Scroll08.NIF"
+  },
+  {
     "edid": "ZLetterNecromancerRevenge3a",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:021D79",
     "full": "A Necromancer's Invitation",
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
+    "edid": "ZBook4RareLienValeth",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:021D7B",
+    "full": "Master Lien Valeth's Notes",
+    "modl": "Clutter\\Books\\Folio03.NIF"
+  },
+  {
+    "edid": "ZNoteBravilDisturbancesPU",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022775",
+    "full": "Warning to Bravil Citizens and Visitors",
+    "modl": "clutter\\Books\\OOO\\Imperialsheetpickup.nif"
+  },
+  {
+    "edid": "ZNoteBrumaDisturbancesPU",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022779",
+    "full": "Report to Bruma Citizens and Visitors",
+    "modl": "clutter\\Books\\OOO\\Imperialsheetpickup.nif"
+  },
+  {
+    "edid": "ZNoteCheydinhallDisturbancesPU",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02277D",
+    "full": "Announcement to Cheydinhal Citizens and Visitors",
+    "modl": "clutter\\Books\\OOO\\Imperialsheetpickup.nif"
+  },
+  {
     "edid": "ZNoteSingradDisturbancesPU",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022786",
     "full": "Warning To Skingrad Citizens and Visitors",
+    "modl": "clutter\\Books\\OOO\\Imperialsheetpickup.nif"
+  },
+  {
+    "edid": "ZNoteAnvilDisturbancesPU",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02278A",
+    "full": "Warning to Anvil Citizens and Visitors",
     "modl": "clutter\\Books\\OOO\\Imperialsheetpickup.nif"
   },
   {
@@ -834,6 +1020,18 @@
     "modl": "clutter\\Books\\OOO\\Imperialsheetpickup.nif"
   },
   {
+    "edid": "ZLetterAlmalexiaLove",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0246CF",
+    "full": "A Mysterious Missive",
+    "modl": "Clutter\\Books\\Parchment01.NIF"
+  },
+  {
+    "edid": "ZBosmerBadYeleriScroll",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025BE1",
+    "full": "Jan'val's Report to Eregor",
+    "modl": "Clutter\\Books\\Scroll08.NIF"
+  },
+  {
     "edid": "ZdrnoteOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027170",
     "full": "An Unsigned Note",
@@ -844,6 +1042,12 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0324BF",
     "full": "Aidon Strongheart and the Nord",
     "modl": "Clutter\\Books\\Folio02.NIF"
+  },
+  {
+    "edid": "ZBook2CommonLightOfDawn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0324C0",
+    "full": "An Expanded Excerpt from Vampires of Tamriel, Vol II",
+    "modl": "Clutter\\Books\\Quarto04.NIF"
   },
   {
     "edid": "ZLetterNecromancerLove",
@@ -922,6 +1126,12 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:051315",
     "full": "Torne's Blockade",
     "modl": "Clutter\\Books\\Octavo02.NIF"
+  },
+  {
+    "edid": "ZOOOGeomancyReport",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05132D",
+    "full": "Report on Ayleid Geomancy",
+    "modl": "Clutter\\Books\\Octavo01.NIF"
   },
   {
     "edid": "bgArcaneTheftScrollOOO",

@@ -1,5 +1,77 @@
 [
   {
+    "edid": "NDArmorLightShield5",
+    "formid": "Knights.esp:000E92",
+    "full": "Shield of the Crusader",
+    "modl": "Armor\\NDPelinal\\M\\NDShield.NIF"
+  },
+  {
+    "edid": "NDArmorLightHelmet5",
+    "formid": "Knights.esp:000E93",
+    "full": "Helm of the Crusader",
+    "modl": "Armor\\NDPelinal\\M\\NDHelmet.NIF"
+  },
+  {
+    "edid": "NDArmorLightGreaves5",
+    "formid": "Knights.esp:000E94",
+    "full": "Greaves of the Crusader",
+    "modl": "Armor\\NDPelinal\\M\\NDGreaves.NIF"
+  },
+  {
+    "edid": "NDArmorLightGauntlets5",
+    "formid": "Knights.esp:000E95",
+    "full": "Gauntlets of the Crusader",
+    "modl": "Armor\\NDPelinal\\M\\NDGauntlets.NIF"
+  },
+  {
+    "edid": "NDArmorLightCuirass5",
+    "formid": "Knights.esp:000E96",
+    "full": "Cuirass of the Crusader",
+    "modl": "Armor\\NDPelinal\\M\\NDCuirass.NIF"
+  },
+  {
+    "edid": "NDArmorLightBoots5",
+    "formid": "Knights.esp:000E97",
+    "full": "Boots of the Crusader",
+    "modl": "Armor\\NDPelinal\\M\\NDBoots.NIF"
+  },
+  {
+    "edid": "NDArmorHeavyShield5",
+    "formid": "Knights.esp:000EB0",
+    "full": "Shield of the Crusader",
+    "modl": "Armor\\NDPelinal\\M\\NDShield.NIF"
+  },
+  {
+    "edid": "NDArmorHeavyHelmet5",
+    "formid": "Knights.esp:000EB1",
+    "full": "Helm of the Crusader",
+    "modl": "Armor\\NDPelinal\\M\\NDHelmet.NIF"
+  },
+  {
+    "edid": "NDArmorHeavyGreaves5",
+    "formid": "Knights.esp:000EB2",
+    "full": "Greaves of the Crusader",
+    "modl": "Armor\\NDPelinal\\M\\NDGreaves.NIF"
+  },
+  {
+    "edid": "NDArmorHeavyGauntlets5",
+    "formid": "Knights.esp:000EB3",
+    "full": "Gauntlets of the Crusader",
+    "modl": "Armor\\NDPelinal\\M\\NDGauntlets.NIF"
+  },
+  {
+    "edid": "NDArmorHeavyCuirass5",
+    "formid": "Knights.esp:000EB4",
+    "full": "Cuirass of the Crusader",
+    "modl": "Armor\\NDPelinal\\M\\NDCuirass.NIF"
+  },
+  {
+    "edid": "NDArmorHeavyBoots5",
+    "formid": "Knights.esp:000EB5",
+    "full": "Boots of the Crusader",
+    "modl": "Armor\\NDPelinal\\M\\NDBoots.NIF"
+  },
+  {
     "edid": "ChainmailCuirass",
     "formid": "Oblivion.esm:01C6D3",
     "full": "LOC_FN_ChainmailCuirass",
@@ -462,90 +534,6 @@
     "modl": "armor\\Griffin\\Shield.nif"
   },
   {
-    "edid": "HeavenFuryBoots",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DB",
-    "full": "Heaven's Fury Boots",
-    "modl": "armor\\hf1\\ww3bt.nif"
-  },
-  {
-    "edid": "HeavenFuryCuirass",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DC",
-    "full": "Heaven's Fury Cuirass",
-    "modl": "armor\\hf1\\ww3cu.nif"
-  },
-  {
-    "edid": "HeavenFuryGauntlets",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DD",
-    "full": "Heaven's Fury Gauntlets",
-    "modl": "armor\\hf1\\ww3ga.nif"
-  },
-  {
-    "edid": "HeavenFuryGreaves",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DE",
-    "full": "Heaven's Fury Greaves",
-    "modl": "armor\\hf1\\ww3gr.nif"
-  },
-  {
-    "edid": "HeavenFuryHelmet",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DF",
-    "full": "Heaven's Fury Helmet",
-    "modl": "armor\\hf1\\ww3hlm.nif"
-  },
-  {
-    "edid": "HeavenFuryShield",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046E0",
-    "full": "Heaven's Fury Shield",
-    "modl": "armor\\hf1\\ww3shield.nif"
-  },
-  {
-    "edid": "HeavenFuryHelmetAlt",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046E1",
-    "full": "Heaven's Fury Helmet",
-    "modl": "armor\\hf1\\althelmet.nif"
-  },
-  {
-    "edid": "HeavenFuryBootsGold",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C84",
-    "full": "Heaven's Fury Boots",
-    "modl": "armor\\hf2\\m\\boots.nif"
-  },
-  {
-    "edid": "HeavenFuryCuirassGold",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C85",
-    "full": "Heaven's Fury Cuirass",
-    "modl": "armor\\hf2\\m\\cuirass.nif"
-  },
-  {
-    "edid": "HeavenFuryGauntletsGold",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C86",
-    "full": "Heaven's Fury Gauntlets",
-    "modl": "armor\\hf2\\m\\gauntlets.nif"
-  },
-  {
-    "edid": "HeavenFuryGreavesGold",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C87",
-    "full": "Heaven's Fury Greaves",
-    "modl": "armor\\hf2\\m\\greaves.nif"
-  },
-  {
-    "edid": "HeavenFuryHelmetGold",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C88",
-    "full": "Heaven's Fury Helmet",
-    "modl": "armor\\hf2\\helmet.nif"
-  },
-  {
-    "edid": "HeavenFuryHelmetGoldAlt",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C89",
-    "full": "Heaven's Fury Helmet",
-    "modl": "armor\\hf2\\Alternative\\helmet.nif"
-  },
-  {
-    "edid": "HeavenFuryShieldGold",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C8A",
-    "full": "Heaven's Fury Shield",
-    "modl": "armor\\hf2\\shield.nif"
-  },
-  {
     "edid": "OOOSEUniqueSunShield",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00534D",
     "full": "Shield of the Sun",
@@ -646,6 +634,42 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038862",
     "full": "Shadowmail Tunic",
     "modl": "armor\\ShadowMail\\m\\rangerarmor.nif"
+  },
+  {
+    "edid": "HeavyBraidedBootsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF3",
+    "full": "Heavy Braided Boots",
+    "modl": "armor\\HBraided\\m\\hbBoots.nif"
+  },
+  {
+    "edid": "HeavyBraidedCuirassOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF4",
+    "full": "Heavy Braided Cuirass",
+    "modl": "armor\\HBraided\\m\\hbcuirass.nif"
+  },
+  {
+    "edid": "HeavyBraidedGauntletsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF5",
+    "full": "Heavy Braided Gauntlets",
+    "modl": "armor\\HBraided\\m\\hbgauntlets.nif"
+  },
+  {
+    "edid": "HeavyBraidedGreavesOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF6",
+    "full": "Heavy Braided Greaves",
+    "modl": "armor\\HBraided\\m\\hbgreaves.nif"
+  },
+  {
+    "edid": "HeavyBraidedHelmetOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF7",
+    "full": "Heavy Braided Helmet",
+    "modl": "armor\\HBraided\\hbhelmet.nif"
+  },
+  {
+    "edid": "HeavyBraidedShieldOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF8",
+    "full": "Heavy Braided Shield",
+    "modl": "armor\\HBraided\\hbshield.nif"
   },
   {
     "edid": "TornesBlockadeOOO",
