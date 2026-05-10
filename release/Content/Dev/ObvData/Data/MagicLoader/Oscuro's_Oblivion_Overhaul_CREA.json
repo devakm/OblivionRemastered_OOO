@@ -335,6 +335,27 @@
     "LOC_FN_CreatureSlaughterfishAncientb": "Ancient Slaughterfish",
     "LOC_FN_CreatureSlaughterfishMature": "Mature Slaughterfish",
     "LOC_FN_CreatureImpMysticalBossRGCave": "Ancient Mystical Imp",
-    "LOC_FN_CreatureOgreBog": "Bog Ogre"
+    "LOC_FN_CreatureOgreBog": "Bog Ogre",
+	"LOC_FN_OOOSEVCWispBale": "Baleful Spirit",
+    "LOC_FN_OOOSEVCWispBloodCloud": "Blood Cloud",
+    "LOC_FN_OOOSEVCWispEidolon000": "Eidolon",
+    "LOC_FN_OOOSEVCWispEidolon144": "Eidolon",
+    "LOC_FN_OOOSEVCWispEidolon288": "Eidolon",
+    "LOC_FN_OOOSEVCWispEidolonTemplate": "Eidolon",
+    "LOC_FN_OOOSEVCWispHiggs000": "Higgs",
+    "LOC_FN_OOOSEVCWispHiggs144": "Higgs",
+    "LOC_FN_OOOSEVCWispHiggs288": "Higgs",
+    "LOC_FN_OOOSEVCWispMidi000": "Vatte-lys",
+    "LOC_FN_OOOSEVCWispMidi150": "Vatte-lys",
+    "LOC_FN_OOOSEVCWispMidi300": "Vatte-lys",
+    "LOC_FN_OOOSEVCWispReg000": "Will-o-the-Wisp",
+    "LOC_FN_OOOSEVCWispReg144": "Will-o-the-Wisp",
+    "LOC_FN_OOOSEVCWispReg288": "Will-o-the-Wisp",
+    "LOC_FN_OOOSEVCWispSGod000": "Small God",
+    "LOC_FN_OOOSEVCWispSGod144": "Small God",
+    "LOC_FN_OOOSEVCWispSGod288": "Small God",
+    "LOC_FN_OOOSEVCWispVari000": "Vafurlogi",
+    "LOC_FN_OOOSEVCWispVari180": "Vafurlogi",
+    "LOC_FN_OOOSEVCWispVari270": "Vafurlogi"
   }
 }
