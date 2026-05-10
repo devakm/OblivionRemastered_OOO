@@ -1,0 +1,30 @@
+{
+  "Plugin": "Oscuro's_Oblivion_Overhaul.esp",
+  "NewStrings": {
+    "LOC_FN_ValenWarrior": "Sylvan Warsmer",
+    "LOC_FN_ValenArcher": "Sylvan Archermer",
+    "LOC_FN_ValenWizard": "Sylvan Sorcerermer",
+    "LOC_FN_OscuroUOPMQ11Allies": "MQ11 Allies",
+    "LOC_DE_OscuroUOPMQ11Allies": "Added by the UOP as all MQ11* NPC's were Warriors with no Light Armor skill, but they all wear light armor",
+    "LOC_FN_BanditWizardBlunt": "Hedge Wizard",
+    "LOC_FN_KnightDragonborn": "Dragonborn Knight",
+    "LOC_FN_SlaveTraderHeavy": "Slave Trader Thug",
+    "LOC_FN_SlaveTraderLight": "Slave Trader Hunter",
+    "LOC_FN_ArgonianBMSFighter": "Black Marsh Fighter",
+    "LOC_FN_ArgonianBMSShaman": "Black Marsh Shaman",
+    "LOC_FN_ArgonianBMSSmuggler": "Black Marsh Smuggler",
+    "LOC_FN_ValenZGoodProtector": "Bosmer Protector",
+    "LOC_FN_ValenZGoodRanger": "Bosmer Ranger",
+    "LOC_FN_JanusMageClass": "Janus Mage Class",
+    "LOC_FN_SlaveTraderChief": "Slave Trader Chief",
+    "LOC_FN_OOOSE32Fanatic": "Fanatic",
+    "LOC_FN_AmazonMelee": "Amazon Man-Eater",
+    "LOC_FN_AmazonMissile": "Amazon Man-Hunter",
+    "LOC_FN_AmazonPriestess": "Amazon Raging Priestess",
+    "LOC_FN_NecromancerPutridHand": "Necromancer Putrid Hand",
+    "LOC_FN_OOOSEGoldenSaintMageGuard": "Golden Saint",
+    "LOC_FN_OOOSEShadowWitch": "Shadow Witch",
+    "LOC_FN_OOOSEMageBoss": "Mage Boss",
+    "LOC_FN_OOOSEHereticMeleeNew": "Heretic"
+  }
+}
