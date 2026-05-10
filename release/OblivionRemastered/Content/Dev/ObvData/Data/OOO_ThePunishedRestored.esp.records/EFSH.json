@@ -1,0 +1,56 @@
+[
+  {
+    "edid": "effectDreadArmorOOOalt",
+    "formid": "OOO_ThePunishedRestored.esp:000D58",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "effectDreadArmorOOO",
+    "formid": "OOO_ThePunishedRestored.esp:002657",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOLODUpgradePhase1",
+    "formid": "OOO_ThePunishedRestored.esp:004E67",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOLODUpgradePhase2",
+    "formid": "OOO_ThePunishedRestored.esp:004E68",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "effectDreadArmorOOOalt2",
+    "formid": "OOO_ThePunishedRestored.esp:00A2CA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "effectDreadArmorOOO2",
+    "formid": "OOO_ThePunishedRestored.esp:014B5C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GhostEffectOOO",
+    "formid": "OOO_ThePunishedRestored.esp:01554F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "effectAtronachFlameOOO",
+    "formid": "OOO_ThePunishedRestored.esp:015550",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GhostEffectSpriggan",
+    "formid": "OOO_ThePunishedRestored.esp:015556",
+    "full": null,
+    "modl": null
+  }
+]

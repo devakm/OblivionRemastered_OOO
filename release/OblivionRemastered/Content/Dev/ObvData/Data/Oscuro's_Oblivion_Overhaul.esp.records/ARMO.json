@@ -120,6 +120,90 @@
     "modl": "Armor\\Thief\\M\\Greaves.NIF"
   },
   {
+    "edid": "NDArmorHeavyShield5",
+    "formid": "Knights.esp:000EB0",
+    "full": "LOC_FN_NDArmorHeavyShield5",
+    "modl": "Armor\\NDPelinal\\M\\NDShield.NIF"
+  },
+  {
+    "edid": "NDArmorHeavyHelmet5",
+    "formid": "Knights.esp:000EB1",
+    "full": "LOC_FN_NDArmorHeavyHelmet5",
+    "modl": "Armor\\NDPelinal\\M\\NDHelmet.NIF"
+  },
+  {
+    "edid": "NDArmorHeavyGreaves5",
+    "formid": "Knights.esp:000EB2",
+    "full": "LOC_FN_NDArmorHeavyGreaves5",
+    "modl": "Armor\\NDPelinal\\M\\NDGreaves.NIF"
+  },
+  {
+    "edid": "NDArmorHeavyGauntlets5",
+    "formid": "Knights.esp:000EB3",
+    "full": "LOC_FN_NDArmorHeavyGauntlets5",
+    "modl": "Armor\\NDPelinal\\M\\NDGauntlets.NIF"
+  },
+  {
+    "edid": "NDArmorHeavyCuirass5",
+    "formid": "Knights.esp:000EB4",
+    "full": "LOC_FN_NDArmorHeavyCuirass5",
+    "modl": "Armor\\NDPelinal\\M\\NDCuirass.NIF"
+  },
+  {
+    "edid": "NDArmorHeavyBoots5",
+    "formid": "Knights.esp:000EB5",
+    "full": "LOC_FN_NDArmorHeavyBoots5",
+    "modl": "Armor\\NDPelinal\\M\\NDBoots.NIF"
+  },
+  {
+    "edid": "NDArmorHeavyShield4",
+    "formid": "Knights.esp:000EB6",
+    "full": "LOC_FN_NDArmorHeavyShield4",
+    "modl": "Armor\\NDPelinal\\M\\NDShield.NIF"
+  },
+  {
+    "edid": "NDArmorHeavyHelmet4",
+    "formid": "Knights.esp:000EB7",
+    "full": "LOC_FN_NDArmorHeavyHelmet4",
+    "modl": "Armor\\NDPelinal\\M\\NDHelmet.NIF"
+  },
+  {
+    "edid": "NDArmorHeavyGreaves4",
+    "formid": "Knights.esp:000EB8",
+    "full": "LOC_FN_NDArmorHeavyGreaves4",
+    "modl": "Armor\\NDPelinal\\M\\NDGreaves.NIF"
+  },
+  {
+    "edid": "NDArmorHeavyGauntlets4",
+    "formid": "Knights.esp:000EB9",
+    "full": "LOC_FN_NDArmorHeavyGauntlets4",
+    "modl": "Armor\\NDPelinal\\M\\NDGauntlets.NIF"
+  },
+  {
+    "edid": "NDArmorHeavyCuirass4",
+    "formid": "Knights.esp:000EBA",
+    "full": "LOC_FN_NDArmorHeavyCuirass4",
+    "modl": "Armor\\NDPelinal\\M\\NDCuirass.NIF"
+  },
+  {
+    "edid": "NDArmorHeavyBoots4",
+    "formid": "Knights.esp:000EBB",
+    "full": "LOC_FN_NDArmorHeavyBoots4",
+    "modl": "Armor\\NDPelinal\\M\\NDBoots.NIF"
+  },
+  {
+    "edid": "NDArmorHeavyShield3",
+    "formid": "Knights.esp:000EBC",
+    "full": "LOC_FN_NDArmorHeavyShield3",
+    "modl": "Armor\\NDPelinal\\M\\NDShield.NIF"
+  },
+  {
+    "edid": "NDArmorHeavyGreaves3",
+    "formid": "Knights.esp:000EBE",
+    "full": "LOC_FN_NDArmorHeavyGreaves3",
+    "modl": "Armor\\NDPelinal\\M\\NDGreaves.NIF"
+  },
+  {
     "edid": "MS31BlackwaterLeatherCuirass",
     "formid": "Oblivion.esm:00C1D6",
     "full": "LOC_FN_MS31BlackwaterLeatherCuirass",
@@ -8265,13 +8349,13 @@
     "edid": "RedDragonShieldHeavyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025BB9",
     "full": "LOC_FN_RedDragonShieldHeavyOOO",
-    "modl": "armor\\reddragonsh\\shield.nif"
+    "modl": "Armor\\Orcish\\Shield.NIF"
   },
   {
     "edid": "RedDragonShieldLightOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025BBA",
     "full": "LOC_FN_RedDragonShieldLightOOO",
-    "modl": "armor\\reddragonsh\\shield.nif"
+    "modl": "Armor\\Orcish\\Shield.NIF"
   },
   {
     "edid": "ScorpionShieldHeavyOOO",

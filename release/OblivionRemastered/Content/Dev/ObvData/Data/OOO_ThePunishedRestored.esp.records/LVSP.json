@@ -1,0 +1,1709 @@
+[
+  {
+    "edid": "LL2Valen100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:005848"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:005849"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00584B"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00584D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00584F"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:005851"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:005853"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:005855"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:005857"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:005859"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00585B"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00585D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00585F"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:005861"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:005863"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:005865"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:005867"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:005869"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00586B"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00586D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00586F"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:005871"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:005873"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:005875"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007F6D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007F6F"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007F71"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007F73"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007F75"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007F77"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007F79"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:0100F4"
+      }
+    ],
+    "formid": "OOO_ThePunishedRestored.esp:006AEB"
+  },
+  {
+    "edid": "LL2ArgonianBlackMarsh100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007755"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007756"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007758"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00775A"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00775C"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00775E"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007760"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007762"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007764"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007766"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007768"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00776A"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00776C"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00776E"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007770"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007772"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007774"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007776"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007778"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00777A"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00777C"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00777E"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007780"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007782"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:007784"
+      }
+    ],
+    "formid": "OOO_ThePunishedRestored.esp:007786"
+  },
+  {
+    "edid": "LL2Valen100new",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:03C3FB"
+      }
+    ],
+    "formid": "OOO_ThePunishedRestored.esp:00DDF2"
+  },
+  {
+    "edid": "LL2ArgonianBlackMarsh100new",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0A936D"
+      }
+    ],
+    "formid": "OOO_ThePunishedRestored.esp:00DDF3"
+  },
+  {
+    "edid": "LL2MankarCamoranLvl100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "OOO_ThePunishedRestored.esp:01AA8E"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "OOO_ThePunishedRestored.esp:01AA95"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "OOO_ThePunishedRestored.esp:01AA8F"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "OOO_ThePunishedRestored.esp:01AA93"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "OOO_ThePunishedRestored.esp:01AA91"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "OOO_ThePunishedRestored.esp:01AA97"
+      }
+    ],
+    "formid": "OOO_ThePunishedRestored.esp:01AA99"
+  },
+  {
+    "edid": "LL2CreatureImpCrazed100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0A97C2"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0A9806"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0A9826"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:028D59"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:028D5F"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:02F9EA"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:02F9EB"
+      }
+    ],
+    "formid": "OOO_ThePunishedRestored.esp:02F4FE"
+  },
+  {
+    "edid": "LL2CreatureImpMystical100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:028D5B"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:028D5D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:028D61"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:02F9ED"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:02F9EF"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:02F9F1"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:02F9F3"
+      }
+    ],
+    "formid": "OOO_ThePunishedRestored.esp:02F500"
+  },
+  {
+    "edid": "LL2Necromancer100Putrid",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:037B29"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:037CBE"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:037CC9"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C91A"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C949"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A93"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A96"
+      }
+    ],
+    "formid": "OOO_ThePunishedRestored.esp:0308C7"
+  },
+  {
+    "edid": "LL2AmazonLvl100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03BFCD"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03BFCF"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03BFD1"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03BFD3"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03BFD5"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03BFD7"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03BFD9"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03BFDB"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03BFDD"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03D414"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03D416"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03D418"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03D41A"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03E2E5"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03E2E6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03E2E8"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03E2EA"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03E2EC"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03E2EE"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03E2F0"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03E2F2"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03E2F4"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03E2F6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03E2F8"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03E2FA"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03E2FC"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03E2FE"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03E306"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03E310"
+      }
+    ],
+    "formid": "OOO_ThePunishedRestored.esp:03BFDF"
+  },
+  {
+    "edid": "LL2PutridHandLvl100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4CA"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4CB"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4CD"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4CF"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4D1"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4D3"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4D5"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4D7"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4D9"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4DB"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4DD"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4E1"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4E3"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4E5"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4E7"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4E9"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4EB"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4ED"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4EF"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4F1"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C4F3"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03D3FE"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03D400"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03D402"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03D404"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03D406"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03D412"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:0438A5"
+      }
+    ],
+    "formid": "OOO_ThePunishedRestored.esp:03C4F5"
+  },
+  {
+    "edid": "LL2OblivionGuardianLvl100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00DA57"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00DA58"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00DA5A"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00DA5C"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:00DA5E"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C9E7"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C9E9"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C9EB"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C9ED"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C9EF"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C9F1"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C9F3"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C9F5"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C9F7"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C9F9"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C9FB"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C9FD"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03C9FF"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CA01"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CA03"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CA05"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CA07"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CA09"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CA0B"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CA0D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CA0F"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CA11"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CA13"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CA15"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CA17"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CA19"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CF01"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CF02"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CF04"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CF06"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CF08"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CF0A"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CF0C"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03CF0E"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03D3FD"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03D408"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "OOO_ThePunishedRestored.esp:03D409"
+      }
+    ],
+    "formid": "OOO_ThePunishedRestored.esp:03CF10"
+  },
+  {
+    "edid": "SELL2ZealotSpells100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C91A"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A8D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A95"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A99"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:07FDC7"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:07FDC7"
+      }
+    ],
+    "formid": "Oblivion.esm:0411A1"
+  },
+  {
+    "edid": "SELL2DarkSeducer100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A8D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A99"
+      }
+    ],
+    "formid": "Oblivion.esm:04151B"
+  },
+  {
+    "edid": "SELL2GoldenSaintMage100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A8D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A95"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A99"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0CA0DA"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0CA0DC"
+      }
+    ],
+    "formid": "Oblivion.esm:04151D"
+  },
+  {
+    "edid": "SELL2DarkSeducerMage100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A8D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A95"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A99"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0CA0DA"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0CA0DC"
+      }
+    ],
+    "formid": "Oblivion.esm:04151E"
+  },
+  {
+    "edid": "SELL1DarkSeducerDestruction100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027490"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027490"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027561"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027578"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C917"
+      },
+      {
+        "count": 1,
+        "level": 8,
+        "ref_formid": "Oblivion.esm:02749B"
+      }
+    ],
+    "formid": "Oblivion.esm:04151F"
+  },
+  {
+    "edid": "SELL1GoldenSaintRestoration100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0274C2"
+      }
+    ],
+    "formid": "Oblivion.esm:041520"
+  },
+  {
+    "edid": "SELL1GoldenSaintDestruction100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027577"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C917"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C928"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C928"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C92B"
+      },
+      {
+        "count": 1,
+        "level": 8,
+        "ref_formid": "Oblivion.esm:04C927"
+      }
+    ],
+    "formid": "Oblivion.esm:041521"
+  },
+  {
+    "edid": "SELL1DestructionRangedOrderKnight100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0274B7"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0274B9"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C924"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C929"
+      }
+    ],
+    "formid": "Oblivion.esm:041F69"
+  },
+  {
+    "edid": "SELL1DestructionRangedOrderKnightLvl100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0274B8"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0274BA"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C928"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C92A"
+      }
+    ],
+    "formid": "Oblivion.esm:041F6A"
+  },
+  {
+    "edid": "SELL2OrderPriest1",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:044C4C"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:044C4E"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:044C4E"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A8D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A97"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A98"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A99"
+      }
+    ],
+    "formid": "Oblivion.esm:044C4B"
+  },
+  {
+    "edid": "SELL2OrderPriest2",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:037C7F"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:037CBE"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:037CC8"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:037CC9"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:044C4C"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:044C4E"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:044C55"
+      }
+    ],
+    "formid": "Oblivion.esm:044C4D"
+  },
+  {
+    "edid": "SELL1DestructionFrostMajor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0274B8"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0274B8"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C921"
+      },
+      {
+        "count": 1,
+        "level": 8,
+        "ref_formid": "Oblivion.esm:04C91C"
+      }
+    ],
+    "formid": "Oblivion.esm:044C4E"
+  },
+  {
+    "edid": "SELL1DestructionFireMajor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027490"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027490"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027561"
+      },
+      {
+        "count": 1,
+        "level": 8,
+        "ref_formid": "Oblivion.esm:02749B"
+      }
+    ],
+    "formid": "Oblivion.esm:044C4F"
+  },
+  {
+    "edid": "SELL1DestructionShockMajor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C928"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C928"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C92B"
+      },
+      {
+        "count": 1,
+        "level": 8,
+        "ref_formid": "Oblivion.esm:04C927"
+      }
+    ],
+    "formid": "Oblivion.esm:044C50"
+  },
+  {
+    "edid": "SELL1DestructionDamHealthMajor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027578"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C917"
+      }
+    ],
+    "formid": "Oblivion.esm:044C51"
+  },
+  {
+    "edid": "SELL1DestructionDamHealthMinor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027577"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C916"
+      }
+    ],
+    "formid": "Oblivion.esm:044C52"
+  },
+  {
+    "edid": "SELL1DestructionFireMinor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:02748F"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:02749A"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:02755F"
+      }
+    ],
+    "formid": "Oblivion.esm:044C53"
+  },
+  {
+    "edid": "SELL1DestructionShockMinor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C924"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C924"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C925"
+      }
+    ],
+    "formid": "Oblivion.esm:044C54"
+  },
+  {
+    "edid": "SELL1DestructionFrostMinor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0274B7"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C91B"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C921"
+      }
+    ],
+    "formid": "Oblivion.esm:044C55"
+  },
+  {
+    "edid": "LL0DrainHealthMajor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 25,
+        "ref_formid": "Oblivion.esm:04C913"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "Oblivion.esm:04C914"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:04C915"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "OOO_ThePunishedRestored.esp:01DF84"
+      }
+    ],
+    "formid": "Oblivion.esm:04C916"
+  },
+  {
+    "edid": "LL0DrainHealthMajorLvl100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 25,
+        "ref_formid": "Oblivion.esm:04C913"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "Oblivion.esm:04C914"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:04C915"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "OOO_ThePunishedRestored.esp:01DF84"
+      }
+    ],
+    "formid": "Oblivion.esm:04C917"
+  },
+  {
+    "edid": "SELL2HereticSpells100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0459AE"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0459AE"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C91A"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A8D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A95"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A99"
+      }
+    ],
+    "formid": "Oblivion.esm:04DC44"
+  },
+  {
+    "edid": "SELL0SummonAtronachFleshLvl100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:07FDBE"
+      },
+      {
+        "count": 1,
+        "level": 5,
+        "ref_formid": "Oblivion.esm:07FDBC"
+      },
+      {
+        "count": 1,
+        "level": 10,
+        "ref_formid": "Oblivion.esm:07FDBD"
+      },
+      {
+        "count": 1,
+        "level": 15,
+        "ref_formid": "Oblivion.esm:07FDBF"
+      }
+    ],
+    "formid": "Oblivion.esm:07FDC4"
+  },
+  {
+    "edid": "SELL2HereticBossSpells100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0459AF"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A8D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A95"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A99"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0CA0DA"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0CA0DC"
+      }
+    ],
+    "formid": "Oblivion.esm:07FDC5"
+  },
+  {
+    "edid": "SELL2ZealotBossSpells100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A8D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A95"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A99"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:07FDC4"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0CA0DA"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0CA0DC"
+      }
+    ],
+    "formid": "Oblivion.esm:07FDC6"
+  },
+  {
+    "edid": "SELL0SummonAtronachFlesh100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:07FDBE"
+      },
+      {
+        "count": 1,
+        "level": 5,
+        "ref_formid": "Oblivion.esm:07FDBC"
+      },
+      {
+        "count": 1,
+        "level": 10,
+        "ref_formid": "Oblivion.esm:07FDBD"
+      },
+      {
+        "count": 1,
+        "level": 15,
+        "ref_formid": "Oblivion.esm:07FDBF"
+      }
+    ],
+    "formid": "Oblivion.esm:07FDC7"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "edid": "ValenWarrior",
+    "formid": "OOO_ThePunishedRestored.esp:00491C",
+    "full": "LOC_FN_ValenWarrior",
+    "modl": null
+  },
+  {
+    "edid": "ValenArcher",
+    "formid": "OOO_ThePunishedRestored.esp:00491D",
+    "full": "LOC_FN_ValenArcher",
+    "modl": null
+  },
+  {
+    "edid": "ValenWizard",
+    "formid": "OOO_ThePunishedRestored.esp:00491E",
+    "full": "LOC_FN_ValenWizard",
+    "modl": null
+  },
+  {
+    "edid": "OscuroUOPMQ11Allies",
+    "formid": "OOO_ThePunishedRestored.esp:005D77",
+    "full": "LOC_FN_OscuroUOPMQ11Allies",
+    "modl": null
+  },
+  {
+    "edid": "BanditWizardBlunt",
+    "formid": "OOO_ThePunishedRestored.esp:005DFF",
+    "full": "LOC_FN_BanditWizardBlunt",
+    "modl": null
+  },
+  {
+    "edid": "KnightDragonborn",
+    "formid": "OOO_ThePunishedRestored.esp:005E01",
+    "full": "LOC_FN_KnightDragonborn",
+    "modl": null
+  },
+  {
+    "edid": "SlaveTraderHeavy",
+    "formid": "OOO_ThePunishedRestored.esp:007062",
+    "full": "LOC_FN_SlaveTraderHeavy",
+    "modl": null
+  },
+  {
+    "edid": "SlaveTraderLight",
+    "formid": "OOO_ThePunishedRestored.esp:007063",
+    "full": "LOC_FN_SlaveTraderLight",
+    "modl": null
+  },
+  {
+    "edid": "ArgonianBMSFighter",
+    "formid": "OOO_ThePunishedRestored.esp:00722A",
+    "full": "LOC_FN_ArgonianBMSFighter",
+    "modl": null
+  },
+  {
+    "edid": "ArgonianBMSShaman",
+    "formid": "OOO_ThePunishedRestored.esp:00722B",
+    "full": "LOC_FN_ArgonianBMSShaman",
+    "modl": null
+  },
+  {
+    "edid": "ArgonianBMSSmuggler",
+    "formid": "OOO_ThePunishedRestored.esp:00722C",
+    "full": "LOC_FN_ArgonianBMSSmuggler",
+    "modl": null
+  },
+  {
+    "edid": "ValenZGoodProtector",
+    "formid": "OOO_ThePunishedRestored.esp:0077AD",
+    "full": "LOC_FN_ValenZGoodProtector",
+    "modl": null
+  },
+  {
+    "edid": "ValenZGoodRanger",
+    "formid": "OOO_ThePunishedRestored.esp:0077AE",
+    "full": "LOC_FN_ValenZGoodRanger",
+    "modl": null
+  },
+  {
+    "edid": "JanusMageClass",
+    "formid": "OOO_ThePunishedRestored.esp:00EC2F",
+    "full": "LOC_FN_JanusMageClass",
+    "modl": null
+  },
+  {
+    "edid": "SlaveTraderChief",
+    "formid": "OOO_ThePunishedRestored.esp:01CA7B",
+    "full": "LOC_FN_SlaveTraderChief",
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32Fanatic",
+    "formid": "OOO_ThePunishedRestored.esp:020053",
+    "full": "LOC_FN_OOOSE32Fanatic",
+    "modl": null
+  },
+  {
+    "edid": "AmazonMelee",
+    "formid": "OOO_ThePunishedRestored.esp:0303DD",
+    "full": "LOC_FN_AmazonMelee",
+    "modl": null
+  },
+  {
+    "edid": "AmazonMissile",
+    "formid": "OOO_ThePunishedRestored.esp:0303DE",
+    "full": "LOC_FN_AmazonMissile",
+    "modl": null
+  },
+  {
+    "edid": "AmazonPriestess",
+    "formid": "OOO_ThePunishedRestored.esp:0303DF",
+    "full": "LOC_FN_AmazonPriestess",
+    "modl": null
+  },
+  {
+    "edid": "NecromancerPutridHand",
+    "formid": "OOO_ThePunishedRestored.esp:0308C6",
+    "full": "LOC_FN_NecromancerPutridHand",
+    "modl": null
+  },
+  {
+    "edid": "OOOSEGoldenSaintMageGuard",
+    "formid": "OOO_ThePunishedRestored.esp:0735FD",
+    "full": "LOC_FN_OOOSEGoldenSaintMageGuard",
+    "modl": null
+  },
+  {
+    "edid": "OOOSEShadowWitch",
+    "formid": "OOO_ThePunishedRestored.esp:0B86A9",
+    "full": "LOC_FN_OOOSEShadowWitch",
+    "modl": null
+  },
+  {
+    "edid": "OOOSEMageBoss",
+    "formid": "OOO_ThePunishedRestored.esp:0C4A45",
+    "full": "LOC_FN_OOOSEMageBoss",
+    "modl": null
+  },
+  {
+    "edid": "OOOSEHereticMeleeNew",
+    "formid": "OOO_ThePunishedRestored.esp:0CBE8A",
+    "full": "LOC_FN_OOOSEHereticMeleeNew",
+    "modl": null
+  },
+  {
+    "edid": "SEFanaticMelee",
+    "formid": "Oblivion.esm:041176",
+    "full": "LOC_FN_SEFanaticMelee",
+    "modl": null
+  },
+  {
+    "edid": "SEHereticMelee",
+    "formid": "Oblivion.esm:041178",
+    "full": "LOC_FN_SEHereticMelee",
+    "modl": null
+  },
+  {
+    "edid": "SEHereticMissile",
+    "formid": "Oblivion.esm:041179",
+    "full": "LOC_FN_SEHereticMissile",
+    "modl": null
+  },
+  {
+    "edid": "SEHereticMage",
+    "formid": "Oblivion.esm:04117A",
+    "full": "LOC_FN_SEHereticMage",
+    "modl": null
+  },
+  {
+    "edid": "SEGoldenSaintClass",
+    "formid": "Oblivion.esm:041513",
+    "full": "LOC_FN_SEGoldenSaintClass",
+    "modl": null
+  },
+  {
+    "edid": "SEDarkSeducerClass",
+    "formid": "Oblivion.esm:041514",
+    "full": "LOC_FN_SEDarkSeducerClass",
+    "modl": null
+  },
+  {
+    "edid": "SEGoldenSaintMageClass",
+    "formid": "Oblivion.esm:041516",
+    "full": "LOC_FN_SEGoldenSaintMageClass",
+    "modl": null
+  },
+  {
+    "edid": "SEOrderPriestClass",
+    "formid": "Oblivion.esm:044C4A",
+    "full": "LOC_FN_SEOrderPriestClass",
+    "modl": null
+  },
+  {
+    "edid": "SEDarkSeducerClassGuard",
+    "formid": "Oblivion.esm:045760",
+    "full": "LOC_FN_SEDarkSeducerClassGuard",
+    "modl": null
+  },
+  {
+    "edid": "SEGoldenSaintClassGuard",
+    "formid": "Oblivion.esm:045761",
+    "full": "LOC_FN_SEGoldenSaintClassGuard",
+    "modl": null
+  },
+  {
+    "edid": "SEZealotClass",
+    "formid": "Oblivion.esm:0552DB",
+    "full": "LOC_FN_SEZealotClass",
+    "modl": null
+  },
+  {
+    "edid": "SEKnightOrder",
+    "formid": "Oblivion.esm:081E0B",
+    "full": "LOC_FN_SEKnightOrder",
+    "modl": null
+  }
+]

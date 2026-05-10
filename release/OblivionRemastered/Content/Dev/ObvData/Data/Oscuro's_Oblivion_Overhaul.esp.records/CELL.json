@@ -4674,7 +4674,7 @@
   {
     "edid": "UnderpallCave05",
     "formid": "Oblivion.esm:03E22F",
-    "full": "Underpall Reflecting Chamber",
+    "full": "LOC_FN_UnderpallCave05",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0

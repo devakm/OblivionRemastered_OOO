@@ -90,6 +90,12 @@
     "modl": "Armor\\NDPelinal\\M\\NDHelmet_gnd.NIF"
   },
   {
+    "edid": "OOOMelusPetiliusLongsword",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DDB7",
+    "full": "LOC_FN_OOOMelusPetiliusLongsword",
+    "modl": "architecture\\MelusPetiliusQuest\\MelusSwordProp.nif"
+  },
+  {
     "edid": "OOORockUW280SpawnFish",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014807",
     "full": "LOC_FN_OOORockUW280SpawnFish",

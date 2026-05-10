@@ -2726,7 +2726,7 @@
   {
     "edid": "OOOSECreatureBeetle",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:000EDA",
-    "full": "Shalk Beetle",
+    "full": "LOC_FN_OOOSECreatureBeetle",
     "modl": "OOOSE\\creatures\\Beetle\\skeleton.nif"
   },
   {
@@ -3170,13 +3170,13 @@
   {
     "edid": "OOOSECreatureOoze2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0037F5",
-    "full": "Red Fungus",
+    "full": "LOC_FN_OOOSECreatureOoze2",
     "modl": "OOOSE\\Creatures\\Ooze\\skeleton.nif"
   },
   {
     "edid": "OOOSECreatureOoze3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0037F6",
-    "full": "Necrotic Sludge",
+    "full": "LOC_FN_OOOSECreatureOoze3",
     "modl": "OOOSE\\Creatures\\Ooze\\skeleton.nif"
   },
   {
@@ -4022,7 +4022,7 @@
   {
     "edid": "CreatureOgreZ1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0089F0",
-    "full": "Ravenous Ogre",
+    "full": "LOC_FN_CreatureOgreZ1",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
@@ -5270,7 +5270,7 @@
   {
     "edid": "DeadZombieOOOCorpse",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C2F9",
-    "full": "Rotten Corpse",
+    "full": "LOC_FN_DeadZombieOOOCorpse",
     "modl": "Creatures\\Zombie\\Skeleton.NIF"
   },
   {
@@ -6122,7 +6122,7 @@
   {
     "edid": "DeadSkeleton3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:032660",
-    "full": "Skeleton",
+    "full": "LOC_FN_DeadSkeleton3",
     "modl": "Creatures\\Skeleton\\skeleton.NIF"
   },
   {
@@ -6512,7 +6512,7 @@
   {
     "edid": "OOOSEErrorScalon",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:058A20",
-    "full": "Well-Fed Scalon",
+    "full": "LOC_FN_OOOSEErrorScalon",
     "modl": "Creatures\\MurkDweller\\Skeleton.nif"
   },
   {
@@ -6530,19 +6530,19 @@
   {
     "edid": "OOOSEMiriliElytra3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:07140C",
-    "full": "Mirili's Elytra",
+    "full": "LOC_FN_OOOSEMiriliElytra3",
     "modl": "Creatures\\Elytra\\Skeleton.nif"
   },
   {
     "edid": "OOOSEMiriliElytra4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:07140D",
-    "full": "Mirili's Elytra",
+    "full": "LOC_FN_OOOSEMiriliElytra4",
     "modl": "Creatures\\Elytra\\Skeleton.nif"
   },
   {
     "edid": "OOOSEMiriliBaliwog1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:071410",
-    "full": "Mirili's Baliwog",
+    "full": "LOC_FN_OOOSEMiriliBaliwog1",
     "modl": "Creatures\\Baliwog\\Skeleton.nif"
   },
   {

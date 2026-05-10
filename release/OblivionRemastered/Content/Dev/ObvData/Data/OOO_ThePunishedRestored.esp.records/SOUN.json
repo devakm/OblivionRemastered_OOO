@@ -1,0 +1,272 @@
+[
+  {
+    "edid": "SFXUnEquipDreadSetOOO2",
+    "formid": "OOO_ThePunishedRestored.esp:000D57",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWaspInjured",
+    "formid": "OOO_ThePunishedRestored.esp:000ED6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWaspAware",
+    "formid": "OOO_ThePunishedRestored.esp:000ED8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWaspAttack",
+    "formid": "OOO_ThePunishedRestored.esp:000ED9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SFXEquipDreadSetOOO",
+    "formid": "OOO_ThePunishedRestored.esp:002659",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCWolfHowlSummon",
+    "formid": "OOO_ThePunishedRestored.esp:007AD2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SFXUnEquipDreadSetOOO",
+    "formid": "OOO_ThePunishedRestored.esp:01A96E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOCentSpiderAttack",
+    "formid": "OOO_ThePunishedRestored.esp:02EAC1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOCentSpiderAware",
+    "formid": "OOO_ThePunishedRestored.esp:02EAC2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOCentSpiderDeath",
+    "formid": "OOO_ThePunishedRestored.esp:02EAC3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOCentSpiderFoot",
+    "formid": "OOO_ThePunishedRestored.esp:02EAC4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOCentSpiderIdle",
+    "formid": "OOO_ThePunishedRestored.esp:02EAC5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOCentSpiderInjured",
+    "formid": "OOO_ThePunishedRestored.esp:02EAC6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOHungerAttack",
+    "formid": "OOO_ThePunishedRestored.esp:02EAC7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOHungerAware",
+    "formid": "OOO_ThePunishedRestored.esp:02EAC8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOHungerDeath",
+    "formid": "OOO_ThePunishedRestored.esp:02EAC9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOHungerIdle",
+    "formid": "OOO_ThePunishedRestored.esp:02EACA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOHungerInjured",
+    "formid": "OOO_ThePunishedRestored.esp:02EACB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGuarAttack",
+    "formid": "OOO_ThePunishedRestored.esp:02EACC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGuarDeath",
+    "formid": "OOO_ThePunishedRestored.esp:02EACD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGuarIdle",
+    "formid": "OOO_ThePunishedRestored.esp:02EACE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGuarInjured",
+    "formid": "OOO_ThePunishedRestored.esp:02EACF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWormFoot",
+    "formid": "OOO_ThePunishedRestored.esp:02F79B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWormAttack",
+    "formid": "OOO_ThePunishedRestored.esp:02F79C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWormAware",
+    "formid": "OOO_ThePunishedRestored.esp:02F79D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWormDeath",
+    "formid": "OOO_ThePunishedRestored.esp:02F79E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWormIdle",
+    "formid": "OOO_ThePunishedRestored.esp:02F79F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWormInjured",
+    "formid": "OOO_ThePunishedRestored.esp:02F7A0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWaspDeath",
+    "formid": "OOO_ThePunishedRestored.esp:036203",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32GateLeverSound1",
+    "formid": "OOO_ThePunishedRestored.esp:0399AF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32GateLeverSound2",
+    "formid": "OOO_ThePunishedRestored.esp:0399B0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGargoyleAttack",
+    "formid": "OOO_ThePunishedRestored.esp:040397",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGargoyleAware",
+    "formid": "OOO_ThePunishedRestored.esp:040398",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGargoyleDeath",
+    "formid": "OOO_ThePunishedRestored.esp:040399",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGargoyleFoot",
+    "formid": "OOO_ThePunishedRestored.esp:04039A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGargoyleIdle",
+    "formid": "OOO_ThePunishedRestored.esp:04039B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGargoyleInjured",
+    "formid": "OOO_ThePunishedRestored.esp:04039C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCMushroomAttack",
+    "formid": "OOO_ThePunishedRestored.esp:0432B0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCMushroomAware",
+    "formid": "OOO_ThePunishedRestored.esp:0432B1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCMushroomDeath",
+    "formid": "OOO_ThePunishedRestored.esp:0432B2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCMushroomIdle",
+    "formid": "OOO_ThePunishedRestored.esp:0432B3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCMushroomInjured",
+    "formid": "OOO_ThePunishedRestored.esp:0432B4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEPickupOrganic",
+    "formid": "OOO_ThePunishedRestored.esp:06473C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWaspIdle",
+    "formid": "OOO_ThePunishedRestored.esp:0C4E56",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWaspFoot",
+    "formid": "OOO_ThePunishedRestored.esp:0C4E57",
+    "full": null,
+    "modl": null
+  }
+]

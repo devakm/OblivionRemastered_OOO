@@ -1,6 +1,8 @@
 {
   "Plugin": "Oscuro's_Oblivion_Overhaul.esp",
   "NewStrings": {
+	"LOC_FN_bgSlowFallScriptEffectOOO": "Slowfall",
+	"LOC_FN_bgGravityScriptEffectOOO": "Repulsion",
     "LOC_FN_LapGrapeJuice": "- Grape Juice -",
     "LOC_FN_LapAppleJuice": "- Apple Juice -",
     "LOC_FN_LapHomemadeWine": "- Home-Brewed Wine -",

@@ -1122,12 +1122,6 @@
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
-    "edid": "Carandial",
-    "formid": "Oblivion.esm:00A108",
-    "full": "LOC_FN_Carandial",
-    "modl": "Characters\\_Male\\skeleton.NIF"
-  },
-  {
     "edid": "CitySwimmer",
     "formid": "Oblivion.esm:00A109",
     "full": "LOC_FN_CitySwimmer",

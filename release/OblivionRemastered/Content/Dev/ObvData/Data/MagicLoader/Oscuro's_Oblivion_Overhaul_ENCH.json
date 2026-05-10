@@ -1,6 +1,10 @@
 {
   "Plugin": "Oscuro's_Oblivion_Overhaul.esp",
   "NewStrings": {
+	"LOC_FN_ZLightOfDawnSpell1": "Purify Vampire Taint",
+	"LOC_FN_ZLightOfDawnSpell2": "Purify Vampire Taint",
+	"LOC_FN_ZLightOfDawnSpell3": "Purify Vampire Taint",
+	"LOC_FN_ZLightOfDawnSpell4": "Destroy Vampire",
     "LOC_FN_AyleidStandardArrow": "Resilience",
 	"LOC_FN_Geomancy": "Geomancy"
   }

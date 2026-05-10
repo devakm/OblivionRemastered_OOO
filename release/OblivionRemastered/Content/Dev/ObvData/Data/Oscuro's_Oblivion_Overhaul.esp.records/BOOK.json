@@ -822,9 +822,9 @@
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
-    "edid": "ZNoteSingradDisturbances",
+    "edid": "ZNoteSkingradDisturbances",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014244",
-    "full": "LOC_FN_ZNoteSingradDisturbances",
+    "full": "LOC_FN_ZNoteSkingradDisturbances",
     "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
@@ -984,9 +984,9 @@
     "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {
-    "edid": "ZNoteSingradDisturbancesPU",
+    "edid": "ZNoteSkingradDisturbancesPU",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022786",
-    "full": "LOC_FN_ZNoteSingradDisturbancesPU",
+    "full": "LOC_FN_ZNoteSkingradDisturbancesPU",
     "modl": "Clutter\\Books\\Broadsheet01.NIF"
   },
   {

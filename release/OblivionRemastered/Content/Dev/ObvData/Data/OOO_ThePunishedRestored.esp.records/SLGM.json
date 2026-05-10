@@ -1,0 +1,182 @@
+[
+  {
+    "edid": "TandCommonOOO",
+    "formid": "OOO_ThePunishedRestored.esp:048A3E",
+    "full": "LOC_FN_TandCommonOOO",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "TandLesserOOO",
+    "formid": "OOO_ThePunishedRestored.esp:048A3F",
+    "full": "LOC_FN_TandLesserOOO",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "TandPettyOOO",
+    "formid": "OOO_ThePunishedRestored.esp:048A40",
+    "full": "LOC_FN_TandPettyOOO",
+    "modl": "Clutter\\SoulGemPetty01.NIF"
+  },
+  {
+    "edid": "BlackSoulGem",
+    "formid": "Oblivion.esm:000192",
+    "full": "LOC_FN_BlackSoulGem",
+    "modl": "Clutter\\SoulGemBlack.NIF"
+  },
+  {
+    "edid": "AzurasStar",
+    "formid": "Oblivion.esm:000193",
+    "full": "LOC_FN_AzurasStar",
+    "modl": "Clutter\\DAAzurasStar.NIF"
+  },
+  {
+    "edid": "Mg17BlackSoulGem",
+    "formid": "Oblivion.esm:015208",
+    "full": "LOC_FN_Mg17BlackSoulGem",
+    "modl": "Clutter\\SoulGemBlack.NIF"
+  },
+  {
+    "edid": "SoulGemEmpty3Common",
+    "formid": "Oblivion.esm:015B8B",
+    "full": "LOC_FN_SoulGemEmpty3Common",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "SoulGemEmpty4Greater",
+    "formid": "Oblivion.esm:015B8C",
+    "full": "LOC_FN_SoulGemEmpty4Greater",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "SoulGemEmpty5Grand",
+    "formid": "Oblivion.esm:015B8E",
+    "full": "LOC_FN_SoulGemEmpty5Grand",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "BlackSoulGemGrand",
+    "formid": "Oblivion.esm:01EC14",
+    "full": "LOC_FN_BlackSoulGemGrand",
+    "modl": "Clutter\\SoulGemBlack.NIF"
+  },
+  {
+    "edid": "SoulGemEmpty1Petty",
+    "formid": "Oblivion.esm:023D67",
+    "full": "LOC_FN_SoulGemEmpty1Petty",
+    "modl": "Clutter\\SoulGemPetty01.NIF"
+  },
+  {
+    "edid": "SoulGemEmpty2Lesser",
+    "formid": "Oblivion.esm:023D69",
+    "full": "LOC_FN_SoulGemEmpty2Lesser",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "SoulGem1Petty1PettySoul",
+    "formid": "Oblivion.esm:0382D1",
+    "full": "LOC_FN_SoulGem1Petty1PettySoul",
+    "modl": "Clutter\\SoulGemPetty01.NIF"
+  },
+  {
+    "edid": "SoulGem2Lesser1PettySoul",
+    "formid": "Oblivion.esm:0382D2",
+    "full": "LOC_FN_SoulGem2Lesser1PettySoul",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "SoulGem2Lesser2LesserSoul",
+    "formid": "Oblivion.esm:0382D3",
+    "full": "LOC_FN_SoulGem2Lesser2LesserSoul",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "SoulGem3Common1PettySoul",
+    "formid": "Oblivion.esm:0382D4",
+    "full": "LOC_FN_SoulGem3Common1PettySoul",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "SoulGem3Common2LesserSoul",
+    "formid": "Oblivion.esm:0382D5",
+    "full": "LOC_FN_SoulGem3Common2LesserSoul",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "SoulGem3Common3CommonSoul",
+    "formid": "Oblivion.esm:0382D6",
+    "full": "LOC_FN_SoulGem3Common3CommonSoul",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "SoulGem4Greater1PettySoul",
+    "formid": "Oblivion.esm:0382D7",
+    "full": "LOC_FN_SoulGem4Greater1PettySoul",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "SoulGem4Greater2LesserSoul",
+    "formid": "Oblivion.esm:0382D8",
+    "full": "LOC_FN_SoulGem4Greater2LesserSoul",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "SoulGem4Greater3CommonSoul",
+    "formid": "Oblivion.esm:0382D9",
+    "full": "LOC_FN_SoulGem4Greater3CommonSoul",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "SoulGem4Greater4GreaterSoul",
+    "formid": "Oblivion.esm:0382DA",
+    "full": "LOC_FN_SoulGem4Greater4GreaterSoul",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "SoulGem5Grand1PettySoul",
+    "formid": "Oblivion.esm:0382DB",
+    "full": "LOC_FN_SoulGem5Grand1PettySoul",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "SoulGem5Grand2LesserSoul",
+    "formid": "Oblivion.esm:0382DC",
+    "full": "LOC_FN_SoulGem5Grand2LesserSoul",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "SoulGem5Grand3CommonSoul",
+    "formid": "Oblivion.esm:0382DD",
+    "full": "LOC_FN_SoulGem5Grand3CommonSoul",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "SoulGem5Grand4GreaterSoul",
+    "formid": "Oblivion.esm:0382DE",
+    "full": "LOC_FN_SoulGem5Grand4GreaterSoul",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "SoulGem5Grand5GrandSoul",
+    "formid": "Oblivion.esm:0382DF",
+    "full": "LOC_FN_SoulGem5Grand5GrandSoul",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
+  },
+  {
+    "edid": "BlackSoulGemFilled",
+    "formid": "Oblivion.esm:0382E0",
+    "full": "LOC_FN_BlackSoulGemFilled",
+    "modl": "Clutter\\SoulGemBlack.NIF"
+  },
+  {
+    "edid": "MG02BlackSoulGem",
+    "formid": "Oblivion.esm:03C7FC",
+    "full": "LOC_FN_MG02BlackSoulGem",
+    "modl": "Clutter\\SoulGemBlack.NIF"
+  },
+  {
+    "edid": "Mg17BlackSoulGemFilled",
+    "formid": "Oblivion.esm:0C6988",
+    "full": "LOC_FN_Mg17BlackSoulGemFilled",
+    "modl": "Clutter\\SoulGemBlack.NIF"
+  }
+]

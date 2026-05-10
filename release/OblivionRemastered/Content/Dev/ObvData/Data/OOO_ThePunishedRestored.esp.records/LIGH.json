@@ -1,0 +1,188 @@
+[
+  {
+    "edid": "CaveFire900Blue",
+    "formid": "OOO_ThePunishedRestored.esp:003107",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "CaveFire384Blue",
+    "formid": "OOO_ThePunishedRestored.esp:003108",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "Torch02light",
+    "formid": "OOO_ThePunishedRestored.esp:00341C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "torch04",
+    "formid": "OOO_ThePunishedRestored.esp:003DEB",
+    "full": "LOC_FN_Torch02",
+    "modl": "Lights\\Torch02.nif"
+  },
+  {
+    "edid": "Torchkeyold",
+    "formid": "OOO_ThePunishedRestored.esp:00651E",
+    "full": "Old Torch Key",
+    "modl": "Lights\\Torch02.NIF"
+  },
+  {
+    "edid": "zOOOTinyCandleLightYellow64flicker",
+    "formid": "OOO_ThePunishedRestored.esp:00767E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "zOOOMelusPetiliusArmorLight",
+    "formid": "OOO_ThePunishedRestored.esp:0093B5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ARBlueGreenIntense800B",
+    "formid": "OOO_ThePunishedRestored.esp:01FFF3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEPaleIntense750",
+    "formid": "OOO_ThePunishedRestored.esp:020782",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32FlameMediumNoLight",
+    "formid": "OOO_ThePunishedRestored.esp:021E22",
+    "full": null,
+    "modl": "Fire\\FireOpenMedium.nif"
+  },
+  {
+    "edid": "OOOSE32GreenFlameMediumNoLight",
+    "formid": "OOO_ThePunishedRestored.esp:022E2D",
+    "full": null,
+    "modl": "OOOSE\\Other\\GreenFlameMedium.nif"
+  },
+  {
+    "edid": "OOOSE32LightGreen512",
+    "formid": "OOO_ThePunishedRestored.esp:022E32",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32LightGreen400",
+    "formid": "OOO_ThePunishedRestored.esp:023518",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32WeakLight600",
+    "formid": "OOO_ThePunishedRestored.esp:023520",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32LightGreen300",
+    "formid": "OOO_ThePunishedRestored.esp:023558",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32LightGreen200",
+    "formid": "OOO_ThePunishedRestored.esp:02355A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32GreenFlameLargeNoLight",
+    "formid": "OOO_ThePunishedRestored.esp:023579",
+    "full": null,
+    "modl": "OOOSE\\Other\\GreenFlameLarge.nif"
+  },
+  {
+    "edid": "OOOSE32WeakLight900",
+    "formid": "OOO_ThePunishedRestored.esp:023581",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32LightGreen700",
+    "formid": "OOO_ThePunishedRestored.esp:023589",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32WeakLight300",
+    "formid": "OOO_ThePunishedRestored.esp:023591",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32GreenFlameSmallNoLight",
+    "formid": "OOO_ThePunishedRestored.esp:0244BF",
+    "full": null,
+    "modl": "OOOSE\\Other\\GreenFlameSmall.nif"
+  },
+  {
+    "edid": "ICLightHangIron01OOO",
+    "formid": "OOO_ThePunishedRestored.esp:024C01",
+    "full": null,
+    "modl": "Architecture\\Castle\\CastleLight01.NIF"
+  },
+  {
+    "edid": "zOOOLadyOblivionPropLight",
+    "formid": "OOO_ThePunishedRestored.esp:03494E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "CommonLightRed200",
+    "formid": "OOO_ThePunishedRestored.esp:044370",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSELightStaffMazken",
+    "formid": "OOO_ThePunishedRestored.esp:0477DD",
+    "full": "Glowing Mazken Wand",
+    "modl": "OOOSE\\weap\\other\\TorchDS.nif"
+  },
+  {
+    "edid": "Candelabra01Orange400",
+    "formid": "OOO_ThePunishedRestored.esp:0483A4",
+    "full": null,
+    "modl": "Lights\\Candelabra01.NIF"
+  },
+  {
+    "edid": "OOOSELightStaffAureal",
+    "formid": "OOO_ThePunishedRestored.esp:048D28",
+    "full": "Glowing Aureal Wand",
+    "modl": "OOOSE\\weap\\other\\TorchGS.nif"
+  },
+  {
+    "edid": "OOOSELightTest",
+    "formid": "OOO_ThePunishedRestored.esp:04DA43",
+    "full": "Torch",
+    "modl": "OOOSE\\WeapOther\\staff2spider3.nif"
+  },
+  {
+    "edid": "ARLightRedIntense400",
+    "formid": "OOO_ThePunishedRestored.esp:04EF3E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "Torch03",
+    "formid": "OOO_ThePunishedRestored.esp:051331",
+    "full": "LOC_FN_Torch02",
+    "modl": "Lights\\Torch02.nif"
+  },
+  {
+    "edid": "Torch02",
+    "formid": "Oblivion.esm:02CF9F",
+    "full": "LOC_FN_Torch02",
+    "modl": "Lights\\Torch02.NIF"
+  }
+]
