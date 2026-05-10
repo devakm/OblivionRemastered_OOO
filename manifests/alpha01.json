@@ -1,0 +1,14 @@
+{
+  "Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_SPELL.json": {
+    "sha256": "80b9fd292a17fe649a1d99e5bb1d72174fcccfd7cf029980a9c5dddeddccbc30",
+    "size": 687
+  },
+  "Content/Dev/ObvData/Data/Oscuro's_Oblivion_Overhaul.esp": {
+    "sha256": "2ceb8f0e62152436b39c3299fc976e7c13c81fdc55ab46866c32a7e383302c25",
+    "size": 7142782
+  },
+  "Content/Dev/ObvData/Data/SyncMap/Oscuro's_Oblivion_Overhaul.ini": {
+    "sha256": "fd3e30d2ebfca85b5c3e7260c352c67ee15e766ee145340d5cab6847826d49a6",
+    "size": 18329
+  }
+}

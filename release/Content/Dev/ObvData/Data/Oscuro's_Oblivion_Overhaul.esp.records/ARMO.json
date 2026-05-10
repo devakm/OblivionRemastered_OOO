@@ -5451,121 +5451,121 @@
     "edid": "EnchDMithrilShieldFortBlockOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001BD8",
     "full": "Shield of the General",
-    "modl": "Armor\\Mithril\\Shield.NIF"
+    "modl": "armor\\dmithril\\shield.nif"
   },
   {
     "edid": "EnchDMithrilShieldFrostShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001BD9",
     "full": "Shield of the Black Mountain",
-    "modl": "Armor\\Mithril\\Shield.NIF"
+    "modl": "armor\\dmithril\\shield.nif"
   },
   {
     "edid": "EnchDMithrilShieldLightOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001BDA",
     "full": "Starlight Shield",
-    "modl": "Armor\\Mithril\\Shield.NIF"
+    "modl": "armor\\dmithril\\shield.nif"
   },
   {
     "edid": "EnchDMithrilShieldReflectDamageOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001BDB",
     "full": "Retaliating Shield",
-    "modl": "Armor\\Mithril\\Shield.NIF"
+    "modl": "armor\\dmithril\\shield.nif"
   },
   {
     "edid": "EnchDMithrilShieldReflectSpellOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001BDC",
     "full": "Wizardbane Shield",
-    "modl": "Armor\\Mithril\\Shield.NIF"
+    "modl": "armor\\dmithril\\shield.nif"
   },
   {
     "edid": "EnchDMithrilShieldShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001BDD",
     "full": "Shield of Stone",
-    "modl": "Armor\\Mithril\\Shield.NIF"
+    "modl": "armor\\dmithril\\shield.nif"
   },
   {
     "edid": "EnchDMithrilShieldShockShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001BDF",
     "full": "Shield of the Tempest",
-    "modl": "Armor\\Mithril\\Shield.NIF"
+    "modl": "armor\\dmithril\\shield.nif"
   },
   {
     "edid": "ElvenEldarBootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001BE4",
     "full": "Elven Sky Boots",
-    "modl": "Armor\\Elven\\M\\Boots.NIF"
+    "modl": "armor\\elveneldar\\m\\boots.nif"
   },
   {
     "edid": "LeatherBootsWorn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001C49",
     "full": "Worn Leather Boots",
-    "modl": "Armor\\Thief\\M\\Boots.NIF"
+    "modl": "armor\\WornThief\\m\\boots.nif"
   },
   {
     "edid": "LeatherCuirassWorn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001C4A",
     "full": "Worn Leather Cuirass",
-    "modl": "Armor\\Thief\\M\\Cuirass.NIF"
+    "modl": "armor\\WornThief\\m\\cuirass.nif"
   },
   {
     "edid": "LeatherGauntletsWorn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001C4B",
     "full": "Worn Leather Gauntlets",
-    "modl": "Armor\\Thief\\M\\Gauntlets.NIF"
+    "modl": "armor\\WornThief\\m\\gauntlets.nif"
   },
   {
     "edid": "LeatherGreavesWorn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001C4C",
     "full": "Worn Leather Greaves",
-    "modl": "Armor\\Thief\\M\\Greaves.NIF"
+    "modl": "armor\\WornThief\\m\\greaves.nif"
   },
   {
     "edid": "LeatherHelmetWorn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001C4D",
     "full": "Worn Leather Helmet",
-    "modl": "Armor\\Thief\\Helmet.NIF"
+    "modl": "armor\\WornThief\\helmet.nif"
   },
   {
     "edid": "LeatherShieldWorn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001C4E",
     "full": "Worn Leather Shield",
-    "modl": "Armor\\Leather\\Shield.NIF"
+    "modl": "armor\\WornThief\\shield.nif"
   },
   {
     "edid": "IronBootsWorn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001C4F",
     "full": "Worn Iron Boots",
-    "modl": "Armor\\Iron\\M\\Boots.NIF"
+    "modl": "armor\\WornIron\\m\\boots.nif"
   },
   {
     "edid": "IronCuirassWorn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001C50",
     "full": "Worn Iron Cuirass",
-    "modl": "Armor\\Iron\\M\\Cuirass.NIF"
+    "modl": "armor\\WornIron\\m\\cuirass.nif"
   },
   {
     "edid": "IronGauntletsWorn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001C51",
     "full": "Worn Iron Gauntlets",
-    "modl": "Armor\\Iron\\M\\Gauntlets.NIF"
+    "modl": "armor\\WornIron\\m\\gauntlets.nif"
   },
   {
     "edid": "IronGreavesWorn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001C52",
     "full": "Worn Iron Greaves",
-    "modl": "Armor\\Iron\\M\\Greaves.NIF"
+    "modl": "armor\\WornIron\\m\\greaves.nif"
   },
   {
     "edid": "IronShieldWorn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001C53",
     "full": "Worn Iron Shield",
-    "modl": "Armor\\Iron\\Shield.NIF"
+    "modl": "armor\\WornIron\\shield.nif"
   },
   {
     "edid": "IronHelmetWorn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001C54",
     "full": "Worn Iron Helmet",
-    "modl": "Armor\\Iron\\M\\Helmet.NIF"
+    "modl": "armor\\WornIron\\m\\helmet.nif"
   },
   {
     "edid": "OOOSEOrderedGSArmor",
@@ -5619,13 +5619,13 @@
     "edid": "ElvenEldarCuirassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0020CB",
     "full": "Elven Sky Cuirass",
-    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
+    "modl": "armor\\elveneldar\\m\\cuirass.nif"
   },
   {
     "edid": "ElvenEldarGauntletsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0020CC",
     "full": "Elven Sky Gauntlets",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "armor\\elveneldar\\m\\gauntlets.nif"
   },
   {
     "edid": "EnchRLeatherBootsFortSneakOOO",
@@ -5793,55 +5793,55 @@
     "edid": "ElvenEldarGreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0025B3",
     "full": "Elven Sky Greaves",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar\\m\\greaves.nif"
   },
   {
     "edid": "ElvenEldarHelmetOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0025B4",
     "full": "Elven Sky Helmet",
-    "modl": "Armor\\Elven\\Helmet.NIF"
+    "modl": "armor\\elveneldar\\helmet.nif"
   },
   {
     "edid": "ElvenEldarShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0025B5",
     "full": "Elven Sky Shield",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar\\shield.nif"
   },
   {
     "edid": "ElvenEldar2BootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0025BC",
     "full": "Elven Eldar Boots",
-    "modl": "Armor\\Elven\\M\\Boots.NIF"
+    "modl": "armor\\elveneldar2\\m\\boots.nif"
   },
   {
     "edid": "ElvenEldar2CuirassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0025BD",
     "full": "Elven Eldar Cuirass",
-    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
+    "modl": "armor\\elveneldar2\\m\\cuirass.nif"
   },
   {
     "edid": "ElvenEldar2GauntletsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0025BE",
     "full": "Elven Eldar Gauntlets",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "armor\\elveneldar2\\m\\gauntlets.nif"
   },
   {
     "edid": "ElvenEldar2GreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0025BF",
     "full": "Elven Eldar Greaves",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar2\\m\\greaves.nif"
   },
   {
     "edid": "ElvenEldar2HelmetOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0025C0",
     "full": "Elven Eldar Helmet",
-    "modl": "Armor\\Elven\\Helmet.NIF"
+    "modl": "armor\\elveneldar2\\helmet.nif"
   },
   {
     "edid": "ElvenEldar2ShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0025C1",
     "full": "Elven Eldar Shield",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar2\\shield.nif"
   },
   {
     "edid": "GMithrilBootsOOO",
@@ -6759,31 +6759,31 @@
     "edid": "EnchBMithrilHelmetDetectLifeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006AC1",
     "full": "Helmet of Lifesight",
-    "modl": "Armor\\Mithril\\M\\Helmet.NIF"
+    "modl": "armor\\bmithril\\M\\helmet.nif"
   },
   {
     "edid": "EnchBMithrilHelmetFortMagickaOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006AC2",
     "full": "Expounding Helmet",
-    "modl": "Armor\\Mithril\\M\\Helmet.NIF"
+    "modl": "armor\\bmithril\\M\\helmet.nif"
   },
   {
     "edid": "EnchBMithrilHelmetMindOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006AC4",
     "full": "Helmet of Pondering",
-    "modl": "Armor\\Mithril\\M\\Helmet.NIF"
+    "modl": "armor\\bmithril\\M\\helmet.nif"
   },
   {
     "edid": "EnchBMithrilHelmetNighteyeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006AC6",
     "full": "Helmet of Night Reaveled",
-    "modl": "Armor\\Mithril\\M\\Helmet.NIF"
+    "modl": "armor\\bmithril\\M\\helmet.nif"
   },
   {
     "edid": "EnchBMithrilHelmetResistMagickaOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006AC7",
     "full": "Resist Magicka Helmet",
-    "modl": "Armor\\Mithril\\M\\Helmet.NIF"
+    "modl": "armor\\bmithril\\M\\helmet.nif"
   },
   {
     "edid": "EnchBMithrilShieldFireShieldOOO",
@@ -6831,169 +6831,169 @@
     "edid": "EnchElvenEldarBootsFortSneakOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006AD1",
     "full": "Whispering Wind Boots",
-    "modl": "Armor\\Elven\\M\\Boots.NIF"
+    "modl": "armor\\elveneldar\\m\\boots.nif"
   },
   {
     "edid": "EnchElvenEldar2BootsFortSneakOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006AD3",
     "full": "Boots of the Tracker",
-    "modl": "Armor\\Elven\\M\\Boots.NIF"
+    "modl": "armor\\elveneldar2\\m\\boots.nif"
   },
   {
     "edid": "EnchElvenEldarBootsResistShockOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006AD4",
     "full": "Storm Boots",
-    "modl": "Armor\\Elven\\M\\Boots.NIF"
+    "modl": "armor\\elveneldar\\m\\boots.nif"
   },
   {
     "edid": "EnchElvenEldarBootsFortSpeedOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FBB",
     "full": "Quickening Boots",
-    "modl": "Armor\\Elven\\M\\Boots.NIF"
+    "modl": "armor\\elveneldar\\m\\boots.nif"
   },
   {
     "edid": "EnchElvenEldarBootsWaterwalkingOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FBC",
     "full": "Boots of the Stormy Sea",
-    "modl": "Armor\\Elven\\M\\Boots.NIF"
+    "modl": "armor\\elveneldar\\m\\boots.nif"
   },
   {
     "edid": "EnchElvenEldarCuirassCameleonOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FBD",
     "full": "Ethereal Cuirass",
-    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
+    "modl": "armor\\elveneldar\\m\\cuirass.nif"
   },
   {
     "edid": "EnchElvenEldarCuirassFortHealthOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FBE",
     "full": "Cuirass of Salubrity",
-    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
+    "modl": "armor\\elveneldar\\m\\cuirass.nif"
   },
   {
     "edid": "EnchElvenEldarCuirassFortMercantileOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FBF",
     "full": "Cuirass of the Bursar",
-    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
+    "modl": "armor\\elveneldar\\m\\cuirass.nif"
   },
   {
     "edid": "EnchElvenEldarCuirassResistNormalWeaponsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FC0",
     "full": "Deflecting Cuirass",
-    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
+    "modl": "armor\\elveneldar\\m\\cuirass.nif"
   },
   {
     "edid": "EnchElvenEldarCuirassResistPoisonOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FC1",
     "full": "Cuirass of Natural Resistance",
-    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
+    "modl": "armor\\elveneldar\\m\\cuirass.nif"
   },
   {
     "edid": "EnchElvenEldarGauntletsDetectLifeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FC2",
     "full": "Gauntlets of Spirit",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "armor\\elveneldar\\m\\gauntlets.nif"
   },
   {
     "edid": "EnchElvenEldarGauntletsFortMarksmanOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FC3",
     "full": "Gauntlets of Farsight",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "armor\\elveneldar\\m\\gauntlets.nif"
   },
   {
     "edid": "EnchElvenEldarGauntletsFortSecurityOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FC4",
     "full": "Gauntlets of Access",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "armor\\elveneldar\\m\\gauntlets.nif"
   },
   {
     "edid": "EnchElvenEldarGreavesFortAcrobaticsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FC5",
     "full": "Greaves of the Cloud-Runner",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldarGreavesFortAgilityOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FC6",
     "full": "Greaves of the Graceful",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldarGreavesFortFatigueOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FC7",
     "full": "Greaves of Stamina",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldarGreavesFortLightArmorOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FC8",
     "full": "Solid Greaves",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldarGreavesResistFireOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FC9",
     "full": "Greaves of Rainfall",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldarGreavesResistParalysisOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FCA",
     "full": "Greaves of Fluidity",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldarGreavesSpellAbsorptionOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FCB",
     "full": "Greaves of Nullification",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldarHelmetDetectLifeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FCC",
     "full": "Helmet of Spirit",
-    "modl": "Armor\\Elven\\Helmet.NIF"
+    "modl": "armor\\elveneldar\\helmet.nif"
   },
   {
     "edid": "EnchElvenEldarHelmetResistMagickaOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FCD",
     "full": "Muting Helmet",
-    "modl": "Armor\\Elven\\Helmet.NIF"
+    "modl": "armor\\elveneldar\\helmet.nif"
   },
   {
     "edid": "EnchElvenEldarShieldElementsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FCE",
     "full": "Shield of the Elementals",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar\\shield.nif"
   },
   {
     "edid": "EnchElvenEldarShieldFrostShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FCF",
     "full": "Shield of Winter Might",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar\\shield.nif"
   },
   {
     "edid": "EnchElvenEldarShieldReflectDamageOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FD0",
     "full": "Shield of Pain's Return",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar\\shield.nif"
   },
   {
     "edid": "EnchElvenEldarShieldReflectSpellOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FD1",
     "full": "Sound Reflection Shield",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar\\shield.nif"
   },
   {
     "edid": "EnchElvenEldarShieldShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FD2",
     "full": "Sylvan Skyshield",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar\\shield.nif"
   },
   {
     "edid": "EnchElvenEldarShieldShockShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FD3",
     "full": "Stormcaller Shield",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar\\shield.nif"
   },
   {
     "edid": "UniqueElvenEldarHelmetOOO",
@@ -7005,109 +7005,109 @@
     "edid": "EnchElvenEldar2BootsFortSpeedOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FD7",
     "full": "Quickness Boots",
-    "modl": "Armor\\Elven\\M\\Boots.NIF"
+    "modl": "armor\\elveneldar2\\m\\boots.nif"
   },
   {
     "edid": "EnchElvenEldar2BootsResistShockOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FD8",
     "full": "Grounding Boots",
-    "modl": "Armor\\Elven\\M\\Boots.NIF"
+    "modl": "armor\\elveneldar2\\m\\boots.nif"
   },
   {
     "edid": "EnchElvenEldar2BootsWaterwalkingOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FD9",
     "full": "Boots of Seastride",
-    "modl": "Armor\\Elven\\M\\Boots.NIF"
+    "modl": "armor\\elveneldar2\\m\\boots.nif"
   },
   {
     "edid": "EnchElvenEldar2CuirassCameleonOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FDA",
     "full": "Cuirass of Chameleon",
-    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
+    "modl": "armor\\elveneldar2\\m\\cuirass.nif"
   },
   {
     "edid": "EnchElvenEldar2CuirassFortHealthOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FDB",
     "full": "Stalwart Cuirass",
-    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
+    "modl": "armor\\elveneldar2\\m\\cuirass.nif"
   },
   {
     "edid": "EnchElvenEldar2CuirassFortMercantileOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FDC",
     "full": "Cuirass of the Dealer",
-    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
+    "modl": "armor\\elveneldar2\\m\\cuirass.nif"
   },
   {
     "edid": "EnchElvenEldar2CuirassResistNormalWeaponsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FDD",
     "full": "Cuirass of Absorption",
-    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
+    "modl": "armor\\elveneldar2\\m\\cuirass.nif"
   },
   {
     "edid": "EnchElvenEldar2CuirassResistPoisonOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FDE",
     "full": "Cuirass of Nature's Resistance",
-    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
+    "modl": "armor\\elveneldar2\\m\\cuirass.nif"
   },
   {
     "edid": "EnchElvenEldar2GauntletsDetectLifeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FDF",
     "full": "Gauntlets of Life-Seeing",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "armor\\elveneldar2\\m\\gauntlets.nif"
   },
   {
     "edid": "EnchElvenEldar2GauntletsFortMarksmanOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FE0",
     "full": "Trueshot Gauntlets",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "armor\\elveneldar2\\m\\gauntlets.nif"
   },
   {
     "edid": "EnchElvenEldar2GauntletsFortSecurityOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FE1",
     "full": "Gauntlets of Entrance",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "armor\\elveneldar2\\m\\gauntlets.nif"
   },
   {
     "edid": "EnchElvenEldar2GreavesFortAcrobaticsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FE2",
     "full": "Greaves of the Cougar",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar2\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldar2GreavesFortAgilityOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FE3",
     "full": "Greaves of the Agile",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar2\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldar2GreavesFortFatigueOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FE4",
     "full": "Greaves of the Athlete",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar2\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldar2GreavesFortLightArmorOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FE5",
     "full": "Treebark Greaves",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar2\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldar2GreavesResistFireOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FE6",
     "full": "Forester's Greaves",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar2\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldar2GreavesResistParalysisOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FE7",
     "full": "Enabling Greaves",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar2\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldar2GreavesSpellAbsorptionOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FE8",
     "full": "Greaves of Hushing",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar2\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldar2HelmetDetectLifeOOO",
@@ -7125,37 +7125,37 @@
     "edid": "EnchElvenEldar2ShieldEnduraceOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FEE",
     "full": "Shield of Enduring",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar2\\shield.nif"
   },
   {
     "edid": "EnchElvenEldar2ShieldFrostShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FF0",
     "full": "Warming Shield",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar2\\shield.nif"
   },
   {
     "edid": "EnchElvenEldar2ShieldReflectDamageOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FF1",
     "full": "Barkskin Shield",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar2\\shield.nif"
   },
   {
     "edid": "EnchElvenEldar2ShieldReflectSpellOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FF2",
     "full": "Shield of Spell Reflect",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar2\\shield.nif"
   },
   {
     "edid": "EnchElvenEldar2ShieldShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FF3",
     "full": "Sylvan Barkshield",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar2\\shield.nif"
   },
   {
     "edid": "EnchElvenEldar2ShieldShockShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FF4",
     "full": "Shield of Grounding",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar2\\shield.nif"
   },
   {
     "edid": "UniqueElvenEldar2GauntletsOOO",
@@ -7665,37 +7665,37 @@
     "edid": "ElvenEldar3BootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007EEE",
     "full": "Elven Night Boots",
-    "modl": "Armor\\Elven\\M\\Boots.NIF"
+    "modl": "armor\\elveneldar3\\m\\boots.nif"
   },
   {
     "edid": "ElvenEldar3CuirassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007EEF",
     "full": "Elven Night Cuirass",
-    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
+    "modl": "armor\\elveneldar3\\m\\cuirass.nif"
   },
   {
     "edid": "ElvenEldar3GauntletsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007EF0",
     "full": "Elven Night Gauntlets",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "armor\\elveneldar3\\m\\gauntlets.nif"
   },
   {
     "edid": "ElvenEldar3GreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007EF1",
     "full": "Elven Night Greaves",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar3\\m\\greaves.nif"
   },
   {
     "edid": "ElvenEldar3HelmetOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007EF2",
     "full": "Elven Night Helmet",
-    "modl": "Armor\\Elven\\Helmet.NIF"
+    "modl": "armor\\elveneldar3\\helmet.nif"
   },
   {
     "edid": "ElvenEldar3ShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007EF3",
     "full": "Elven Night Shield",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar3\\shield.nif"
   },
   {
     "edid": "OOOSEUniqueDragonFists",
@@ -8493,31 +8493,31 @@
     "edid": "FurBootsWorn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:030DB9",
     "full": "Worn Fur Boots",
-    "modl": "Armor\\Fur\\M\\Boots.NIF"
+    "modl": "armor\\WornFur\\m\\boots.nif"
   },
   {
     "edid": "FurGauntletsWorn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:030DBA",
     "full": "Worn Fur Gauntlets",
-    "modl": "Armor\\Fur\\M\\Gauntlets.NIF"
+    "modl": "armor\\WornFur\\m\\gauntlets.nif"
   },
   {
     "edid": "FurGreavesWorn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:030DBB",
     "full": "Worn Fur Greaves",
-    "modl": "Armor\\Fur\\M\\Greaves.NIF"
+    "modl": "armor\\WornFur\\m\\greaves.nif"
   },
   {
     "edid": "FurHelmetWorn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:030DBC",
     "full": "Worn Fur Helmet",
-    "modl": "Armor\\Fur\\M\\Helmet.NIF"
+    "modl": "armor\\WornFur\\m\\helmet.nif"
   },
   {
     "edid": "FurShieldWorn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:030DBD",
     "full": "Worn Fur Shield",
-    "modl": "Armor\\Fur\\Shield.NIF"
+    "modl": "armor\\WornFur\\shield.nif"
   },
   {
     "edid": "vellaChainBikiniOOO",
@@ -9315,19 +9315,19 @@
     "edid": "ElvenCuirassQV",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03AB99",
     "full": "Unfinished Elven Cuirass",
-    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
+    "modl": "armor\\Elven\\m\\cuirass_unfinished.nif"
   },
   {
     "edid": "GlassCuirassQV",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03AB9A",
     "full": "Unfinished Glass Cuirass",
-    "modl": "Armor\\Glass\\M\\Cuirass.NIF"
+    "modl": "armor\\Glass\\m\\cuirass_unfinished.nif"
   },
   {
     "edid": "IronCuirassQV",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03AB9B",
     "full": "Unfinished Iron Cuirass",
-    "modl": "Armor\\Iron\\M\\Cuirass.NIF"
+    "modl": "Armor\\iron\\m\\cuirass_unfinished.nif"
   },
   {
     "edid": "OrcishCuirassQV",
@@ -9351,7 +9351,7 @@
     "edid": "IronCuirassWornQV",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03AB9F",
     "full": "Unfinished Worn Iron Cuirass",
-    "modl": "Armor\\Iron\\M\\Cuirass.NIF"
+    "modl": "armor\\WornIron\\m\\cuirass_unfinished.nif"
   },
   {
     "edid": "OrcishCuirassUsedQV",
@@ -9789,115 +9789,115 @@
     "edid": "EnchElvenEldar3BootsFortSneakOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F35",
     "full": "Night Boots",
-    "modl": "Armor\\Elven\\M\\Boots.NIF"
+    "modl": "armor\\elveneldar3\\m\\boots.nif"
   },
   {
     "edid": "EnchElvenEldar3BootsFortSpeedOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F36",
     "full": "Sprint Boots",
-    "modl": "Armor\\Elven\\M\\Boots.NIF"
+    "modl": "armor\\elveneldar3\\m\\boots.nif"
   },
   {
     "edid": "EnchElvenEldar3BootsResistFrostOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F37",
     "full": "Winter's Night Boots",
-    "modl": "Armor\\Elven\\M\\Boots.NIF"
+    "modl": "armor\\elveneldar3\\m\\boots.nif"
   },
   {
     "edid": "EnchElvenEldar3BootsWaterwalkingOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F38",
     "full": "Boots of the Swampwalker",
-    "modl": "Armor\\Elven\\M\\Boots.NIF"
+    "modl": "armor\\elveneldar3\\m\\boots.nif"
   },
   {
     "edid": "EnchElvenEldar3CuirassCameleonOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F39",
     "full": "Melding Cuirass",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "armor\\elveneldar3\\m\\cuirass.nif"
   },
   {
     "edid": "EnchElvenEldar3CuirassFortHealthOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F3A",
     "full": "Full Moon Cuirass",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "armor\\elveneldar3\\m\\cuirass.nif"
   },
   {
     "edid": "EnchElvenEldar3CuirassFortMercantileOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F3B",
     "full": "Shady Dealer's Cuirass",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "armor\\elveneldar3\\m\\cuirass.nif"
   },
   {
     "edid": "EnchElvenEldar3CuirassResistNormalWeaponsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F3C",
     "full": "Dampening Cuirass",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "armor\\elveneldar3\\m\\cuirass.nif"
   },
   {
     "edid": "EnchElvenEldar3CuirassResistPoisonOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F3D",
     "full": "Cuirass of the Black Adder",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "armor\\elveneldar3\\m\\cuirass.nif"
   },
   {
     "edid": "EnchElvenEldar3GauntletsDetectLifeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F3E",
     "full": "Night's Gauntlets",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "armor\\elveneldar3\\m\\gauntlets.nif"
   },
   {
     "edid": "EnchElvenEldar3GauntletsFortMarksmanOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F3F",
     "full": "Trueshot Gauntlets",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "armor\\elveneldar3\\m\\gauntlets.nif"
   },
   {
     "edid": "EnchElvenEldar3GauntletsFortSecurityOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F40",
     "full": "Professional's Gauntlets",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "armor\\elveneldar3\\m\\gauntlets.nif"
   },
   {
     "edid": "EnchElvenEldar3GreavesFortAcrobaticsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F41",
     "full": "Greaves of the Jaguar",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar3\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldar3GreavesFortAgilityOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F42",
     "full": "Panther Greaves",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar3\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldar3GreavesFortFatigueOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F43",
     "full": "Sapphire Greaves",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar3\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldar3GreavesFortLightArmorOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F44",
     "full": "Greaves of the Scout",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar3\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldar3GreavesResistFrostOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F45",
     "full": "Winter's Night Greaves",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar3\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldar3GreavesResistParalysisOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F46",
     "full": "Stonebreaker Greaves",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar3\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldar3GreavesSpellAbsorptionOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F47",
     "full": "Greaves of the Void",
-    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+    "modl": "armor\\elveneldar3\\m\\greaves.nif"
   },
   {
     "edid": "EnchElvenEldar3HelmetNighteyeOOO",
@@ -9915,31 +9915,31 @@
     "edid": "EnchElvenEldar3ShieldMirrorOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F4A",
     "full": "Reflections Shield",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar3\\shield.nif"
   },
   {
     "edid": "EnchElvenEldar3ShieldReflectDamageOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F4B",
     "full": "Battering Shield",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar3\\shield.nif"
   },
   {
     "edid": "EnchElvenEldar3ShieldReflectSpellOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F4C",
     "full": "Moonbeam Shield",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar3\\shield.nif"
   },
   {
     "edid": "EnchElvenEldar3ShieldShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F4D",
     "full": "Shield of Midnight",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar3\\shield.nif"
   },
   {
     "edid": "EnchElvenEldar3ShieldFrostShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F4E",
     "full": "Winter's Night Shield",
-    "modl": "Armor\\Elven\\Shield.NIF"
+    "modl": "armor\\elveneldar3\\shield.nif"
   },
   {
     "edid": "DefStaffBlackOOO",
