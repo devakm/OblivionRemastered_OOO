@@ -942,6 +942,12 @@
     "modl": "Oblivion\\Clutter\\Containers\\ClawfleshContainer.NIF"
   },
   {
+    "edid": "ArenaLockbox",
+    "formid": "Oblivion.esm:094E6C",
+    "full": "LOC_FN_ArenaLockbox",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
     "edid": "SE12DungNaturalChestRoot2",
     "formid": "Oblivion.esm:09721D",
     "full": "LOC_FN_SE12DungNaturalChestRoot2",

@@ -10083,31 +10083,31 @@
     "edid": "EnchElvenEldar3CuirassCameleonOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F39",
     "full": "LOC_FN_EnchElvenEldar3CuirassCameleonOOO",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
   },
   {
     "edid": "EnchElvenEldar3CuirassFortHealthOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F3A",
     "full": "LOC_FN_EnchElvenEldar3CuirassFortHealthOOO",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
   },
   {
     "edid": "EnchElvenEldar3CuirassFortMercantileOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F3B",
     "full": "LOC_FN_EnchElvenEldar3CuirassFortMercantileOOO",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
   },
   {
     "edid": "EnchElvenEldar3CuirassResistNormalWeaponsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F3C",
     "full": "LOC_FN_EnchElvenEldar3CuirassResistNormalWeaponsOOO",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
   },
   {
     "edid": "EnchElvenEldar3CuirassResistPoisonOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F3D",
     "full": "LOC_FN_EnchElvenEldar3CuirassResistPoisonOOO",
-    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
+    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
   },
   {
     "edid": "EnchElvenEldar3GauntletsDetectLifeOOO",
