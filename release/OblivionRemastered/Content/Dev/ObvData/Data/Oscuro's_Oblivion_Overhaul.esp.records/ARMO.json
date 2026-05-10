@@ -5205,43 +5205,43 @@
     "edid": "CMIronBattleShield01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00124C",
     "full": "LOC_FN_CMIronBattleShield01OOO",
-    "modl": "Armor\\CMBattleShields\\CMBattleShield001.nif"
+    "modl": "Armor\\Iron\\Shield.NIF"
   },
   {
     "edid": "CMIronBattleShield02OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00124D",
     "full": "LOC_FN_CMIronBattleShield02OOO",
-    "modl": "Armor\\CMBattleShields\\CMBattleShield002.nif"
+    "modl": "Armor\\Chainmail\\Shield.NIF"
   },
   {
     "edid": "CMIronBattleShield03OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00124E",
     "full": "LOC_FN_CMIronBattleShield03OOO",
-    "modl": "Armor\\CMBattleShields\\CMBattleShield003.nif"
+    "modl": "Armor\\Chainmail\\Shield.NIF"
   },
   {
     "edid": "CMIronBattleShield04OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00124F",
     "full": "LOC_FN_CMIronBattleShield04OOO",
-    "modl": "Armor\\CMBattleShields\\CMBattleShield004.nif"
+    "modl": "Armor\\Steel\\Shield.NIF"
   },
   {
     "edid": "CMIronBattleShield05OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001250",
     "full": "LOC_FN_CMIronBattleShield05OOO",
-    "modl": "Armor\\CMBattleShields\\CMBattleShield005.nif"
+    "modl": "Armor\\Orcish\\Shield.NIF"
   },
   {
     "edid": "CMIronBattleShield06OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001251",
     "full": "LOC_FN_CMIronBattleShield06OOO",
-    "modl": "Armor\\CMBattleShields\\CMBattleShield006.nif"
+    "modl": "Armor\\Chainmail\\Shield.NIF"
   },
   {
     "edid": "CMIronBattleShield07OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001252",
     "full": "LOC_FN_CMIronBattleShield07OOO",
-    "modl": "Armor\\CMBattleShields\\CMBattleShield007.nif"
+    "modl": "Armor\\Ebony\\Shield.NIF"
   },
   {
     "edid": "CMIronBattleShield08OOO",
@@ -5259,13 +5259,13 @@
     "edid": "CMIronBattleShield10OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001255",
     "full": "LOC_FN_CMIronBattleShield10OOO",
-    "modl": "Armor\\CMBattleShields\\CMBattleShield010.nif"
+    "modl": "Armor\\Dwarven\\Shield.NIF"
   },
   {
     "edid": "CMIronBattleShield11OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001256",
     "full": "LOC_FN_CMIronBattleShield11OOO",
-    "modl": "Armor\\CMBattleShields\\CMBattleShield011.nif"
+    "modl": "Armor\\Iron\\Shield.NIF"
   },
   {
     "edid": "EnchBGlassGreavesFortAgilityOOO",
@@ -5763,31 +5763,31 @@
     "edid": "DefStaffUnique1OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002593",
     "full": "LOC_FN_DefStaffUnique1OOO",
-    "modl": "armor\\DefensiveStaves\\staffunique1.nif"
+    "modl": "Armor\\Dwarven\\Shield.NIF"
   },
   {
     "edid": "DefStaffUnique2OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00259B",
     "full": "LOC_FN_DefStaffUnique2OOO",
-    "modl": "armor\\DefensiveStaves\\staffunique2.nif"
+    "modl": "Armor\\Orcish\\Shield.NIF"
   },
   {
     "edid": "DefStaffUnique3OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00259D",
     "full": "LOC_FN_DefStaffUnique3OOO",
-    "modl": "armor\\DefensiveStaves\\staffunique3.nif"
+    "modl": "Armor\\Iron\\Shield.NIF"
   },
   {
     "edid": "DefStaffUnique4OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00259E",
     "full": "LOC_FN_DefStaffUnique4OOO",
-    "modl": "armor\\DefensiveStaves\\ashenstaff.nif"
+    "modl": "Armor\\Chainmail\\Shield.NIF"
   },
   {
     "edid": "DefStaffUnique5OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00259F",
     "full": "LOC_FN_DefStaffUnique5OOO",
-    "modl": "armor\\DefensiveStaves\\elvenstaff.nif"
+    "modl": "Armor\\Ebony\\Shield.NIF"
   },
   {
     "edid": "ElvenEldarGreavesOOO",
@@ -8175,13 +8175,13 @@
     "edid": "ReguardNobilityOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01AFCB",
     "full": "LOC_FN_ReguardNobilityOOO",
-    "modl": "armor\\CMRedguardScaled\\RedguardShield.nif"
+    "modl": "Armor\\AmelionCeremonial\\Shield.NIF"
   },
   {
     "edid": "CMIronBattleShield08OOOSpecial",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C2DD",
     "full": "LOC_FN_CMIronBattleShield08OOOSpecial",
-    "modl": "Armor\\CMBattleShields\\CMBattleShield008.nif"
+    "modl": "Armor\\Ebony\\Shield.NIF"
   },
   {
     "edid": "SteelBootsWorn",
@@ -8475,7 +8475,7 @@
     "edid": "CMOrcNobilityOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027167",
     "full": "LOC_FN_CMOrcNobilityOOO",
-    "modl": "Armor\\Orcish\\Helmet.NIF"
+    "modl": "Armor\\Orcish\\Shield.NIF"
   },
   {
     "edid": "DaedricBootsVA",

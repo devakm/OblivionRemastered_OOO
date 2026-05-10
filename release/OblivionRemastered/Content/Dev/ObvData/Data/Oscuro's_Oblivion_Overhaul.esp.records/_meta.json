@@ -46,14 +46,14 @@
     "masters": [
       "Oblivion.esm",
       "DLCBattlehornCastle.esp",
+      "DLCFrostcrag.esp",
       "DLCMehrunesRazor.esp",
       "DLCOrrery.esp",
       "DLCSpellTomes.esp",
       "DLCThievesDen.esp",
       "DLCVileLair.esp",
       "Knights.esp",
-      "AltarESPMain.esp",
-      "DLCFrostcrag.esp"
+      "AltarESPMain.esp"
     ],
     "version": 1.0
   }
