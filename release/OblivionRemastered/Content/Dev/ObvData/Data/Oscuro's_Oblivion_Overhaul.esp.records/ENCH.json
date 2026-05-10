@@ -66,6 +66,12 @@
     "modl": null
   },
   {
+    "edid": "TGGrayCowlEnchanment",
+    "formid": "Oblivion.esm:03A82C",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "EnWeapAxeofHazards",
     "formid": "Oblivion.esm:03CCF4",
     "full": null,
@@ -3762,7 +3768,7 @@
     "modl": null
   },
   {
-    "edid": "1ENgrayfoxgloves",
+    "edid": "1ENgrayfoxglovesWar",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002574",
     "full": null,
     "modl": null
@@ -4176,7 +4182,7 @@
     "modl": null
   },
   {
-    "edid": "1ENgrayfoxhood",
+    "edid": "1ENgrayfoxhoodLoot",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0073E6",
     "full": null,
     "modl": null
@@ -4334,6 +4340,42 @@
   {
     "edid": "OOOHFEnchArmorGreaves",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE13",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "1ENgrayfoxhoodDeception",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE4E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "1ENgrayfoxhoodWar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE4F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "1ENgrayfoxbootsDeception",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE50",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "1ENgrayfoxcuirassDeception",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE51",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "1ENgrayfoxglovesDeception",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE52",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "1ENgrayfoxgreavesDeception",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE53",
     "full": null,
     "modl": null
   },
@@ -5232,19 +5274,19 @@
     "modl": null
   },
   {
-    "edid": "1ENgrayfoxcuirass",
+    "edid": "1ENgrayfoxcuirassWar",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0513C7",
     "full": null,
     "modl": null
   },
   {
-    "edid": "1ENgrayfoxboots",
+    "edid": "1ENgrayfoxbootsWar",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0513C8",
     "full": null,
     "modl": null
   },
   {
-    "edid": "1ENgrayfoxgreaves",
+    "edid": "1ENgrayfoxgreavesWar",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0513C9",
     "full": null,
     "modl": null

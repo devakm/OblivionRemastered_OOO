@@ -6270,33 +6270,33 @@
     "modl": "Armor\\GoldenSaint\\Shield.NIF"
   },
   {
-    "edid": "1grayfoxsboots",
+    "edid": "1grayfoxsbootsDeception",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005673",
-    "full": "LOC_FN_1grayfoxsboots",
+    "full": "LOC_FN_1grayfoxsbootsDeception",
     "modl": "Armor\\Thief\\M\\Boots.NIF"
   },
   {
-    "edid": "1grayfoxsbracers",
+    "edid": "1grayfoxsbracersDeception",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005674",
-    "full": "LOC_FN_1grayfoxsbracers",
+    "full": "LOC_FN_1grayfoxsbracersDeception",
     "modl": "Armor\\Bracers\\Bracer01M.NIF"
   },
   {
-    "edid": "1grayfoxscuirass",
+    "edid": "1grayfoxscuirassDeception",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005675",
-    "full": "LOC_FN_1grayfoxscuirass",
+    "full": "LOC_FN_1grayfoxscuirassDeception",
     "modl": "Armor\\Thief\\M\\Cuirass.NIF"
   },
   {
-    "edid": "1grayfoxsgloves",
+    "edid": "1grayfoxsglovesDeception",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005676",
-    "full": "LOC_FN_1grayfoxsgloves",
+    "full": "LOC_FN_1grayfoxsglovesDeception",
     "modl": "Armor\\Thief\\M\\Gauntlets.NIF"
   },
   {
-    "edid": "1grayfoxsgreaves",
+    "edid": "1grayfoxsgreavesDeception",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005677",
-    "full": "LOC_FN_1grayfoxsgreaves",
+    "full": "LOC_FN_1grayfoxsgreavesDeception",
     "modl": "Armor\\Thief\\M\\Greaves.NIF"
   },
   {
@@ -7506,10 +7506,10 @@
     "modl": "Armor\\Ebony\\Shield.NIF"
   },
   {
-    "edid": "1greyfoxsboots",
+    "edid": "1greyfoxsbootsWar",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0073E7",
-    "full": "Gray Fox's Boots",
-    "modl": "armor\\Gray Fox Armory\\m\\greyfoxsboots.nif"
+    "full": "LOC_FN_1greyfoxsbootsWar",
+    "modl": "Armor\\Thief\\M\\Boots.NIF"
   },
   {
     "edid": "UniqueGMithrilGreavesOOO",
@@ -10236,10 +10236,10 @@
     "modl": "Armor\\Daedric\\M\\Helmet.NIF"
   },
   {
-    "edid": "1greyfoxsgreaves",
+    "edid": "1greyfoxsgreavesWar",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0513CD",
-    "full": "LOC_FN_1greyfoxsgreaves",
-    "modl": "armor\\Gray Fox Armory\\m\\greyfoxsgreaves.nif"
+    "full": "LOC_FN_1greyfoxsgreavesWar",
+    "modl": "Armor\\Thief\\M\\Greaves.NIF"
   },
   {
     "edid": "1grayfoxarmor",
@@ -10248,22 +10248,22 @@
     "modl": "armor\\Gray Fox Armory\\m\\grayfoxarmor.nif"
   },
   {
-    "edid": "1greyfoxscuirass",
+    "edid": "1greyfoxscuirassWar",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0513CF",
-    "full": "LOC_FN_1greyfoxscuirass",
-    "modl": "armor\\Gray Fox Armory\\m\\greyfoxscuirass.nif"
+    "full": "LOC_FN_1greyfoxscuirassWar",
+    "modl": "Armor\\Thief\\M\\Cuirass.NIF"
   },
   {
-    "edid": "1greyfoxsgloves",
+    "edid": "1greyfoxsglovesWar",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0513D0",
-    "full": "LOC_FN_1greyfoxsgloves",
-    "modl": "armor\\Gray Fox Armory\\m\\greyfoxsgloves.nif"
+    "full": "LOC_FN_1greyfoxsglovesWar",
+    "modl": "Armor\\Thief\\M\\Gauntlets.NIF"
   },
   {
-    "edid": "1greyfoxsbracers",
+    "edid": "1greyfoxsbracersWar",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0513D1",
-    "full": "LOC_FN_1greyfoxsbracers",
-    "modl": "armor\\Gray Fox Armory\\m\\greyfoxsbracers.nif"
+    "full": "LOC_FN_1greyfoxsbracersWar",
+    "modl": "Armor\\Bracers\\Bracer01M.NIF"
   },
   {
     "edid": "OOOSEHerdirArmor",

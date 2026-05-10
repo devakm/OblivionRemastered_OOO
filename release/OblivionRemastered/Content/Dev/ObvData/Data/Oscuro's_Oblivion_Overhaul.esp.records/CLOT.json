@@ -252,6 +252,12 @@
     "modl": "Clothes\\UpperClass\\01\\M\\Shoes.NIF"
   },
   {
+    "edid": "TGGrayFoxCowl",
+    "formid": "Oblivion.esm:022E81",
+    "full": "LOC_FN_TGGrayFoxCowl",
+    "modl": "Armor\\CowloftheGrayFox\\Helmet.NIF"
+  },
+  {
     "edid": "UpperShirt03",
     "formid": "Oblivion.esm:02319D",
     "full": "LOC_FN_UpperShirt03",
@@ -2460,22 +2466,22 @@
     "modl": "Clothes\\LowerClass\\05\\M\\Gauntlets.NIF"
   },
   {
-    "edid": "1grayfoxshood",
+    "edid": "1grayfoxshoodDeception",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0073E3",
-    "full": "Gray Fox's Hood",
-    "modl": "armor\\Gray Fox Armory\\m\\grayfoxshood.nif"
+    "full": "LOC_FN_GrayFoxHoodDeception",
+    "modl": "Clothes\\RobeDarkBrotherhood\\Hood.NIF"
   },
   {
-    "edid": "1greyfoxshood",
+    "edid": "1greyfoxshoodWar",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0073E4",
-    "full": "Grey Fox's Hood",
-    "modl": "armor\\Gray Fox Armory\\m\\greyfoxshood.nif"
+    "full": "LOC_FN_GrayFoxHoodWar",
+    "modl": "Clothes\\RobeDarkBrotherhood\\Hood.NIF"
   },
   {
-    "edid": "1grayfoxhood",
+    "edid": "1grayfoxhoodLoot",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0073E5",
-    "full": "Gray Fox Hood",
-    "modl": "armor\\Gray Fox Armory\\m\\grayfoxhood.nif"
+    "full": "LOC_FN_GrayFoxHoodLoot",
+    "modl": "Clothes\\RobeDarkBrotherhood\\Hood.NIF"
   },
   {
     "edid": "XDruidMonkRobeOOOBosmerGood",
