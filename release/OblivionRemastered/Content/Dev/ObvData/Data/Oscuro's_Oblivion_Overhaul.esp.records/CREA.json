@@ -4938,6 +4938,42 @@
     "modl": "Creatures\\Imp\\Skeleton.NIF"
   },
   {
+    "edid": "CreatureSkeleton5Lord01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE34",
+    "full": "LOC_FN_CreatureSkeleton5Lord01",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "CreatureSkeleton5Lord02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE35",
+    "full": "LOC_FN_CreatureSkeleton5Lord02",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "CreatureSkeleton5Lord03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE36",
+    "full": "LOC_FN_CreatureSkeleton5Lord03",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "CreatureSkeleton5LordArcher01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE3C",
+    "full": "LOC_FN_CreatureSkeleton5LordArcher01",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "CreatureSkeleton5LordArcher02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE3D",
+    "full": "LOC_FN_CreatureSkeleton5LordArcher02",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "CreatureSkeleton5LordArcher03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE3E",
+    "full": "LOC_FN_CreatureSkeleton5LordArcher03",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
     "edid": "CreatureGolemGlass3Summon",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00DF56",
     "full": "LOC_FN_CreatureGolemGlass3Summon",

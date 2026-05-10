@@ -1,0 +1,110 @@
+[
+  {
+    "edid": "DEM02MythicDawnGuardF01",
+    "formid": "AltarDeluxe.esp:014D7D",
+    "full": "LOC_FN_DEM02MythicDawnGuardF01",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "DEM02MythicDawnGuardF02",
+    "formid": "AltarDeluxe.esp:014D7E",
+    "full": "LOC_FN_DEM02MythicDawnGuardF02",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "DEM02MythicDawnGuardF03",
+    "formid": "AltarDeluxe.esp:014D7F",
+    "full": "LOC_FN_DEM02MythicDawnGuardF03",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "DEM02MythicDawnGuardM01",
+    "formid": "AltarDeluxe.esp:014D80",
+    "full": "LOC_FN_DEM02MythicDawnGuardM01",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "DEM02MythicDawnGuardM02",
+    "formid": "AltarDeluxe.esp:014D81",
+    "full": "LOC_FN_DEM02MythicDawnGuardM02",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "DEM02MythicDawnGuardM03",
+    "formid": "AltarDeluxe.esp:014D82",
+    "full": "LOC_FN_DEM02MythicDawnGuardM03",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "DEM02MythicDawnAgentF01",
+    "formid": "AltarDeluxe.esp:014D98",
+    "full": "LOC_FN_DEM02MythicDawnAgentF01",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "DEM02MythicDawnAgentM01",
+    "formid": "AltarDeluxe.esp:014D9A",
+    "full": "LOC_FN_DEM02MythicDawnAgentM01",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "DEM02MythicDawnAgentF02",
+    "formid": "AltarDeluxe.esp:014D9C",
+    "full": "LOC_FN_DEM02MythicDawnAgentF02",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "DEM02MythicDawnAgentM02",
+    "formid": "AltarDeluxe.esp:014D9E",
+    "full": "LOC_FN_DEM02MythicDawnAgentM02",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "DEM02MythicDawnAgentM03",
+    "formid": "AltarDeluxe.esp:014DA0",
+    "full": "LOC_FN_DEM02MythicDawnAgentM03",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "DEM02Harbinger",
+    "formid": "AltarDeluxe.esp:014E15",
+    "full": "LOC_FN_DEM02Harbinger",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "DEM02MythicDawnGuardF04",
+    "formid": "AltarDeluxe.esp:014E17",
+    "full": "LOC_FN_DEM02MythicDawnGuardF04",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "DEM02MythicDawnGuardM04",
+    "formid": "AltarDeluxe.esp:014E18",
+    "full": "LOC_FN_DEM02MythicDawnGuardM04",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "DEM02MythicDawnLeader",
+    "formid": "AltarDeluxe.esp:014E1A",
+    "full": "LOC_FN_DEM02MythicDawnLeader",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "DEM02Soldier",
+    "formid": "AltarDeluxe.esp:014E1C",
+    "full": "LOC_FN_DEM02Soldier",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "MQ06MythicDawnGuardRandomMale",
+    "formid": "Oblivion.esm:022C82",
+    "full": "LOC_FN_MQ06MythicDawnGuardRandomMale",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "IlavDralgoner",
+    "formid": "Oblivion.esm:02D6EC",
+    "full": "LOC_FN_IlavDralgoner",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  }
+]

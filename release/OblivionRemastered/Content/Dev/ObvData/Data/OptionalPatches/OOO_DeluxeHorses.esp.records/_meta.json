@@ -1,0 +1,17 @@
+{
+  "esp": "OOO_DeluxeHorses.esp",
+  "record_types": [
+    "CREA",
+    "FACT",
+    "SCPT"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "DLCHorseArmor.esp",
+      "Knights.esp",
+      "AltarDeluxe.esp"
+    ],
+    "version": 1.0
+  }
+}

@@ -1,0 +1,43 @@
+[
+  {
+    "edid": "LL2MageLvl100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:037B27"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A8D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A95"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A97"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A98"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A99"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:17C9F3"
+      }
+    ],
+    "formid": "Oblivion.esm:056AA5"
+  }
+]

@@ -3648,6 +3648,12 @@
     "modl": null
   },
   {
+    "edid": "AbUndeadBoneResistLordOscuro",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE39",
+    "full": "LOC_FN_AbUndeadBoneResistBossOscuro",
+    "modl": null
+  },
+  {
     "edid": "ValenSummon3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0100F4",
     "full": "LOC_FN_ValenSummon3",

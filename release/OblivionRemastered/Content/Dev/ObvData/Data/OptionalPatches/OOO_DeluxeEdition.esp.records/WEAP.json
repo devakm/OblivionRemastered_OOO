@@ -1,0 +1,710 @@
+[
+  {
+    "edid": "DEMShortswordCataclysm3",
+    "formid": "AltarDeluxe.esp:014EC7",
+    "full": "LOC_FN_DEMShortswordCataclysm3",
+    "modl": "Weapons\\Iron\\ShortSword.NIF"
+  },
+  {
+    "edid": "DEMShortswordCataclysm4",
+    "formid": "AltarDeluxe.esp:014EC8",
+    "full": "LOC_FN_DEMShortswordCataclysm4",
+    "modl": "Weapons\\Iron\\ShortSword.NIF"
+  },
+  {
+    "edid": "DEMShortswordCataclysm5",
+    "formid": "AltarDeluxe.esp:014EC9",
+    "full": "LOC_FN_DEMShortswordCataclysm5",
+    "modl": "Weapons\\Iron\\ShortSword.NIF"
+  },
+  {
+    "edid": "DEMShortswordCataclysm6",
+    "formid": "AltarDeluxe.esp:014ECA",
+    "full": "LOC_FN_DEMShortswordCataclysm6",
+    "modl": "Weapons\\Iron\\ShortSword.NIF"
+  },
+  {
+    "edid": "DEMShortswordCataclysm7",
+    "formid": "AltarDeluxe.esp:014ECB",
+    "full": "LOC_FN_DEMShortswordCataclysm7",
+    "modl": "Weapons\\Iron\\ShortSword.NIF"
+  },
+  {
+    "edid": "DEMShortswordCataclysm8",
+    "formid": "AltarDeluxe.esp:014ECC",
+    "full": "LOC_FN_DEMShortswordCataclysm8",
+    "modl": "Weapons\\Iron\\ShortSword.NIF"
+  },
+  {
+    "edid": "DEMDaggerCataclysm1",
+    "formid": "AltarDeluxe.esp:014ECD",
+    "full": "LOC_FN_DEMDaggerCataclysm1",
+    "modl": "Weapons\\Iron\\Dagger.NIF"
+  },
+  {
+    "edid": "DEMDaggerCataclysm2",
+    "formid": "AltarDeluxe.esp:014ECE",
+    "full": "LOC_FN_DEMDaggerCataclysm2",
+    "modl": "Weapons\\Iron\\Dagger.NIF"
+  },
+  {
+    "edid": "DEMDaggerCataclysm4",
+    "formid": "AltarDeluxe.esp:014ED0",
+    "full": "LOC_FN_DEMDaggerCataclysm4",
+    "modl": "Weapons\\Iron\\Dagger.NIF"
+  },
+  {
+    "edid": "DEMDaggerCataclysm5",
+    "formid": "AltarDeluxe.esp:014ED1",
+    "full": "LOC_FN_DEMDaggerCataclysm5",
+    "modl": "Weapons\\Iron\\Dagger.NIF"
+  },
+  {
+    "edid": "DEMDaggerCataclysm6",
+    "formid": "AltarDeluxe.esp:014ED2",
+    "full": "LOC_FN_DEMDaggerCataclysm6",
+    "modl": "Weapons\\Iron\\Dagger.NIF"
+  },
+  {
+    "edid": "DEMDaggerCataclysm7",
+    "formid": "AltarDeluxe.esp:014ED3",
+    "full": "LOC_FN_DEMDaggerCataclysm7",
+    "modl": "Weapons\\Iron\\Dagger.NIF"
+  },
+  {
+    "edid": "DEMDaggerCataclysm8",
+    "formid": "AltarDeluxe.esp:014ED4",
+    "full": "LOC_FN_DEMDaggerCataclysm8",
+    "modl": "Weapons\\Iron\\Dagger.NIF"
+  },
+  {
+    "edid": "DEMLongswordCataclysm1",
+    "formid": "AltarDeluxe.esp:014ED5",
+    "full": "LOC_FN_DEMLongswordCataclysm1",
+    "modl": "Weapons\\Iron\\LongSword.NIF"
+  },
+  {
+    "edid": "DEMLongswordCataclysm3",
+    "formid": "AltarDeluxe.esp:014ED7",
+    "full": "LOC_FN_DEMLongswordCataclysm3",
+    "modl": "Weapons\\Iron\\LongSword.NIF"
+  },
+  {
+    "edid": "DEMLongswordCataclysm4",
+    "formid": "AltarDeluxe.esp:014ED8",
+    "full": "LOC_FN_DEMLongswordCataclysm4",
+    "modl": "Weapons\\Iron\\LongSword.NIF"
+  },
+  {
+    "edid": "DEMLongswordCataclysm5",
+    "formid": "AltarDeluxe.esp:014ED9",
+    "full": "LOC_FN_DEMLongswordCataclysm5",
+    "modl": "Weapons\\Iron\\LongSword.NIF"
+  },
+  {
+    "edid": "DEMLongswordCataclysm6",
+    "formid": "AltarDeluxe.esp:014EDA",
+    "full": "LOC_FN_DEMLongswordCataclysm6",
+    "modl": "Weapons\\Iron\\LongSword.NIF"
+  },
+  {
+    "edid": "DEMLongswordCataclysm7",
+    "formid": "AltarDeluxe.esp:014EDB",
+    "full": "LOC_FN_DEMLongswordCataclysm7",
+    "modl": "Weapons\\Iron\\LongSword.NIF"
+  },
+  {
+    "edid": "DEMLongswordCataclysm8",
+    "formid": "AltarDeluxe.esp:014EDC",
+    "full": "LOC_FN_DEMLongswordCataclysm8",
+    "modl": "Weapons\\Iron\\LongSword.NIF"
+  },
+  {
+    "edid": "DEMClaymoreCataclysm1",
+    "formid": "AltarDeluxe.esp:014EDD",
+    "full": "LOC_FN_DEMClaymoreCataclysm1",
+    "modl": "Weapons\\Iron\\Claymore.NIF"
+  },
+  {
+    "edid": "DEMClaymoreCataclysm2",
+    "formid": "AltarDeluxe.esp:014EDE",
+    "full": "LOC_FN_DEMClaymoreCataclysm2",
+    "modl": "Weapons\\Iron\\Claymore.NIF"
+  },
+  {
+    "edid": "DEMClaymoreCataclysm3",
+    "formid": "AltarDeluxe.esp:014EDF",
+    "full": "LOC_FN_DEMClaymoreCataclysm3",
+    "modl": "Weapons\\Iron\\Claymore.NIF"
+  },
+  {
+    "edid": "DEMClaymoreCataclysm4",
+    "formid": "AltarDeluxe.esp:014EE0",
+    "full": "LOC_FN_DEMClaymoreCataclysm4",
+    "modl": "Weapons\\Iron\\Claymore.NIF"
+  },
+  {
+    "edid": "DEMClaymoreCataclysm5",
+    "formid": "AltarDeluxe.esp:014EE1",
+    "full": "LOC_FN_DEMClaymoreCataclysm5",
+    "modl": "Weapons\\Iron\\Claymore.NIF"
+  },
+  {
+    "edid": "DEMClaymoreCataclysm6",
+    "formid": "AltarDeluxe.esp:014EE2",
+    "full": "LOC_FN_DEMClaymoreCataclysm6",
+    "modl": "Weapons\\Iron\\Claymore.NIF"
+  },
+  {
+    "edid": "DEMClaymoreCataclysm7",
+    "formid": "AltarDeluxe.esp:014EE3",
+    "full": "LOC_FN_DEMClaymoreCataclysm7",
+    "modl": "Weapons\\Iron\\Claymore.NIF"
+  },
+  {
+    "edid": "DEMClaymoreCataclysm8",
+    "formid": "AltarDeluxe.esp:014EE4",
+    "full": "LOC_FN_DEMClaymoreCataclysm8",
+    "modl": "Weapons\\Iron\\Claymore.NIF"
+  },
+  {
+    "edid": "DEMMaceCataclysm1",
+    "formid": "AltarDeluxe.esp:014EE5",
+    "full": "LOC_FN_DEMMaceCataclysm1",
+    "modl": "Weapons\\Iron\\Mace.NIF"
+  },
+  {
+    "edid": "DEMMaceCataclysm2",
+    "formid": "AltarDeluxe.esp:014EE6",
+    "full": "LOC_FN_DEMMaceCataclysm2",
+    "modl": "Weapons\\Iron\\Mace.NIF"
+  },
+  {
+    "edid": "DEMMaceCataclysm4",
+    "formid": "AltarDeluxe.esp:014EE8",
+    "full": "LOC_FN_DEMMaceCataclysm4",
+    "modl": "Weapons\\Iron\\Mace.NIF"
+  },
+  {
+    "edid": "DEMMaceCataclysm8",
+    "formid": "AltarDeluxe.esp:014EEC",
+    "full": "LOC_FN_DEMMaceCataclysm8",
+    "modl": "Weapons\\Iron\\Mace.NIF"
+  },
+  {
+    "edid": "DEMWarAxeCataclysm1",
+    "formid": "AltarDeluxe.esp:014EED",
+    "full": "LOC_FN_DEMWarAxeCataclysm1",
+    "modl": "Weapons\\Iron\\WarAxe.NIF"
+  },
+  {
+    "edid": "DEMWarAxeCataclysm3",
+    "formid": "AltarDeluxe.esp:014EEF",
+    "full": "LOC_FN_DEMWarAxeCataclysm3",
+    "modl": "Weapons\\Iron\\WarAxe.NIF"
+  },
+  {
+    "edid": "DEMWarAxeCataclysm4",
+    "formid": "AltarDeluxe.esp:014EF0",
+    "full": "LOC_FN_DEMWarAxeCataclysm4",
+    "modl": "Weapons\\Iron\\WarAxe.NIF"
+  },
+  {
+    "edid": "DEMWarAxeCataclysm5",
+    "formid": "AltarDeluxe.esp:014EF1",
+    "full": "LOC_FN_DEMWarAxeCataclysm5",
+    "modl": "Weapons\\Iron\\WarAxe.NIF"
+  },
+  {
+    "edid": "DEMWarAxeCataclysm6",
+    "formid": "AltarDeluxe.esp:014EF2",
+    "full": "LOC_FN_DEMWarAxeCataclysm6",
+    "modl": "Weapons\\Iron\\WarAxe.NIF"
+  },
+  {
+    "edid": "DEMWarAxeCataclysm7",
+    "formid": "AltarDeluxe.esp:014EF3",
+    "full": "LOC_FN_DEMWarAxeCataclysm7",
+    "modl": "Weapons\\Iron\\WarAxe.NIF"
+  },
+  {
+    "edid": "DEMWarAxeCataclysm8",
+    "formid": "AltarDeluxe.esp:014EF4",
+    "full": "LOC_FN_DEMWarAxeCataclysm8",
+    "modl": "Weapons\\Iron\\WarAxe.NIF"
+  },
+  {
+    "edid": "DEMBattleAxeCataclysm1",
+    "formid": "AltarDeluxe.esp:014EF5",
+    "full": "LOC_FN_DEMBattleAxeCataclysm1",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "DEMBattleAxeCataclysm2",
+    "formid": "AltarDeluxe.esp:014EF6",
+    "full": "LOC_FN_DEMBattleAxeCataclysm2",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "DEMBattleAxeCataclysm3",
+    "formid": "AltarDeluxe.esp:014EF7",
+    "full": "LOC_FN_DEMBattleAxeCataclysm3",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "DEMBattleAxeCataclysm4",
+    "formid": "AltarDeluxe.esp:014EF8",
+    "full": "LOC_FN_DEMBattleAxeCataclysm4",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "DEMBattleAxeCataclysm5",
+    "formid": "AltarDeluxe.esp:014EF9",
+    "full": "LOC_FN_DEMBattleAxeCataclysm5",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "DEMBattleAxeCataclysm6",
+    "formid": "AltarDeluxe.esp:014EFA",
+    "full": "LOC_FN_DEMBattleAxeCataclysm6",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "DEMBattleAxeCataclysm7",
+    "formid": "AltarDeluxe.esp:014EFB",
+    "full": "LOC_FN_DEMBattleAxeCataclysm7",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "DEMBattleAxeCataclysm8",
+    "formid": "AltarDeluxe.esp:014EFC",
+    "full": "LOC_FN_DEMBattleAxeCataclysm8",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "DEMWarhammerCataclysm1",
+    "formid": "AltarDeluxe.esp:014EFD",
+    "full": "LOC_FN_DEMWarhammerCataclysm1",
+    "modl": "Weapons\\Iron\\Warhammer.NIF"
+  },
+  {
+    "edid": "DEMWarhammerCataclysm2",
+    "formid": "AltarDeluxe.esp:014EFE",
+    "full": "LOC_FN_DEMWarhammerCataclysm2",
+    "modl": "Weapons\\Iron\\Warhammer.NIF"
+  },
+  {
+    "edid": "DEMWarhammerCataclysm3",
+    "formid": "AltarDeluxe.esp:014EFF",
+    "full": "LOC_FN_DEMWarhammerCataclysm3",
+    "modl": "Weapons\\Iron\\Warhammer.NIF"
+  },
+  {
+    "edid": "DEMWarhammerCataclysm4",
+    "formid": "AltarDeluxe.esp:014F00",
+    "full": "LOC_FN_DEMWarhammerCataclysm4",
+    "modl": "Weapons\\Iron\\Warhammer.NIF"
+  },
+  {
+    "edid": "DEMWarhammerCataclysm5",
+    "formid": "AltarDeluxe.esp:014F01",
+    "full": "LOC_FN_DEMWarhammerCataclysm5",
+    "modl": "Weapons\\Iron\\Warhammer.NIF"
+  },
+  {
+    "edid": "DEMWarhammerCataclysm6",
+    "formid": "AltarDeluxe.esp:014F02",
+    "full": "LOC_FN_DEMWarhammerCataclysm6",
+    "modl": "Weapons\\Iron\\Warhammer.NIF"
+  },
+  {
+    "edid": "DEMWarhammerCataclysm7",
+    "formid": "AltarDeluxe.esp:014F03",
+    "full": "LOC_FN_DEMWarhammerCataclysm7",
+    "modl": "Weapons\\Iron\\Warhammer.NIF"
+  },
+  {
+    "edid": "DEMWarhammerCataclysm8",
+    "formid": "AltarDeluxe.esp:014F04",
+    "full": "LOC_FN_DEMWarhammerCataclysm8",
+    "modl": "Weapons\\Iron\\Warhammer.NIF"
+  },
+  {
+    "edid": "DEMBowCataclysm2",
+    "formid": "AltarDeluxe.esp:014F06",
+    "full": "LOC_FN_DEMBowCataclysm2",
+    "modl": "Weapons\\Iron\\Bow.NIF"
+  },
+  {
+    "edid": "DEMBowCataclysm3",
+    "formid": "AltarDeluxe.esp:014F07",
+    "full": "LOC_FN_DEMBowCataclysm3",
+    "modl": "Weapons\\Iron\\Bow.NIF"
+  },
+  {
+    "edid": "DEMBowCataclysm7",
+    "formid": "AltarDeluxe.esp:014F0B",
+    "full": "LOC_FN_DEMBowCataclysm7",
+    "modl": "Weapons\\Iron\\Bow.NIF"
+  },
+  {
+    "edid": "DEMBowCataclysm8",
+    "formid": "AltarDeluxe.esp:014F0C",
+    "full": "LOC_FN_DEMBowCataclysm8",
+    "modl": "Weapons\\Iron\\Bow.NIF"
+  },
+  {
+    "edid": "DEAShortswordOrder3",
+    "formid": "AltarDeluxe.esp:014F0F",
+    "full": "LOC_FN_DEAShortswordOrder3",
+    "modl": "Weapons\\Iron\\ShortSword.NIF"
+  },
+  {
+    "edid": "DEAShortswordOrder4",
+    "formid": "AltarDeluxe.esp:014F10",
+    "full": "LOC_FN_DEAShortswordOrder4",
+    "modl": "Weapons\\Iron\\ShortSword.NIF"
+  },
+  {
+    "edid": "DEAShortswordOrder5",
+    "formid": "AltarDeluxe.esp:014F11",
+    "full": "LOC_FN_DEAShortswordOrder5",
+    "modl": "Weapons\\Iron\\ShortSword.NIF"
+  },
+  {
+    "edid": "DEAShortswordOrder6",
+    "formid": "AltarDeluxe.esp:014F12",
+    "full": "LOC_FN_DEAShortswordOrder6",
+    "modl": "Weapons\\Iron\\ShortSword.NIF"
+  },
+  {
+    "edid": "DEAShortswordOrder7",
+    "formid": "AltarDeluxe.esp:014F13",
+    "full": "LOC_FN_DEAShortswordOrder7",
+    "modl": "Weapons\\Iron\\ShortSword.NIF"
+  },
+  {
+    "edid": "DEAShortswordOrder8",
+    "formid": "AltarDeluxe.esp:014F14",
+    "full": "LOC_FN_DEAShortswordOrder8",
+    "modl": "Weapons\\Iron\\ShortSword.NIF"
+  },
+  {
+    "edid": "DEADaggerOrder1",
+    "formid": "AltarDeluxe.esp:014F15",
+    "full": "LOC_FN_DEADaggerOrder1",
+    "modl": "Weapons\\Iron\\Dagger.NIF"
+  },
+  {
+    "edid": "DEADaggerOrder2",
+    "formid": "AltarDeluxe.esp:014F16",
+    "full": "LOC_FN_DEADaggerOrder2",
+    "modl": "Weapons\\Iron\\Dagger.NIF"
+  },
+  {
+    "edid": "DEADaggerOrder4",
+    "formid": "AltarDeluxe.esp:014F18",
+    "full": "LOC_FN_DEADaggerOrder4",
+    "modl": "Weapons\\Iron\\Dagger.NIF"
+  },
+  {
+    "edid": "DEADaggerOrder5",
+    "formid": "AltarDeluxe.esp:014F19",
+    "full": "LOC_FN_DEADaggerOrder5",
+    "modl": "Weapons\\Iron\\Dagger.NIF"
+  },
+  {
+    "edid": "DEADaggerOrder6",
+    "formid": "AltarDeluxe.esp:014F1A",
+    "full": "LOC_FN_DEADaggerOrder6",
+    "modl": "Weapons\\Iron\\Dagger.NIF"
+  },
+  {
+    "edid": "DEADaggerOrder7",
+    "formid": "AltarDeluxe.esp:014F1B",
+    "full": "LOC_FN_DEADaggerOrder7",
+    "modl": "Weapons\\Iron\\Dagger.NIF"
+  },
+  {
+    "edid": "DEADaggerOrder8",
+    "formid": "AltarDeluxe.esp:014F1C",
+    "full": "LOC_FN_DEADaggerOrder8",
+    "modl": "Weapons\\Iron\\Dagger.NIF"
+  },
+  {
+    "edid": "DEALongswordOrder1",
+    "formid": "AltarDeluxe.esp:014F1D",
+    "full": "LOC_FN_DEALongswordOrder1",
+    "modl": "Weapons\\Iron\\LongSword.NIF"
+  },
+  {
+    "edid": "DEALongswordOrder3",
+    "formid": "AltarDeluxe.esp:014F1F",
+    "full": "LOC_FN_DEALongswordOrder3",
+    "modl": "Weapons\\Iron\\LongSword.NIF"
+  },
+  {
+    "edid": "DEALongswordOrder4",
+    "formid": "AltarDeluxe.esp:014F20",
+    "full": "LOC_FN_DEALongswordOrder4",
+    "modl": "Weapons\\Iron\\LongSword.NIF"
+  },
+  {
+    "edid": "DEALongswordOrder5",
+    "formid": "AltarDeluxe.esp:014F21",
+    "full": "LOC_FN_DEALongswordOrder5",
+    "modl": "Weapons\\Iron\\LongSword.NIF"
+  },
+  {
+    "edid": "DEALongswordOrder6",
+    "formid": "AltarDeluxe.esp:014F22",
+    "full": "LOC_FN_DEALongswordOrder6",
+    "modl": "Weapons\\Iron\\LongSword.NIF"
+  },
+  {
+    "edid": "DEALongswordOrder7",
+    "formid": "AltarDeluxe.esp:014F23",
+    "full": "LOC_FN_DEALongswordOrder7",
+    "modl": "Weapons\\Iron\\LongSword.NIF"
+  },
+  {
+    "edid": "DEALongswordOrder8",
+    "formid": "AltarDeluxe.esp:014F24",
+    "full": "LOC_FN_DEALongswordOrder8",
+    "modl": "Weapons\\Iron\\LongSword.NIF"
+  },
+  {
+    "edid": "DEAClaymoreOrder1",
+    "formid": "AltarDeluxe.esp:014F25",
+    "full": "LOC_FN_DEAClaymoreOrder1",
+    "modl": "Weapons\\Iron\\Claymore.NIF"
+  },
+  {
+    "edid": "DEAClaymoreOrder2",
+    "formid": "AltarDeluxe.esp:014F26",
+    "full": "LOC_FN_DEAClaymoreOrder2",
+    "modl": "Weapons\\Iron\\Claymore.NIF"
+  },
+  {
+    "edid": "DEAClaymoreOrder3",
+    "formid": "AltarDeluxe.esp:014F27",
+    "full": "LOC_FN_DEAClaymoreOrder3",
+    "modl": "Weapons\\Iron\\Claymore.NIF"
+  },
+  {
+    "edid": "DEAClaymoreOrder4",
+    "formid": "AltarDeluxe.esp:014F28",
+    "full": "LOC_FN_DEAClaymoreOrder4",
+    "modl": "Weapons\\Iron\\Claymore.NIF"
+  },
+  {
+    "edid": "DEAClaymoreOrder5",
+    "formid": "AltarDeluxe.esp:014F29",
+    "full": "LOC_FN_DEAClaymoreOrder5",
+    "modl": "Weapons\\Iron\\Claymore.NIF"
+  },
+  {
+    "edid": "DEAClaymoreOrder6",
+    "formid": "AltarDeluxe.esp:014F2A",
+    "full": "LOC_FN_DEAClaymoreOrder6",
+    "modl": "Weapons\\Iron\\Claymore.NIF"
+  },
+  {
+    "edid": "DEAClaymoreOrder7",
+    "formid": "AltarDeluxe.esp:014F2B",
+    "full": "LOC_FN_DEAClaymoreOrder7",
+    "modl": "Weapons\\Iron\\Claymore.NIF"
+  },
+  {
+    "edid": "DEAClaymoreOrder8",
+    "formid": "AltarDeluxe.esp:014F2C",
+    "full": "LOC_FN_DEAClaymoreOrder8",
+    "modl": "Weapons\\Iron\\Claymore.NIF"
+  },
+  {
+    "edid": "DEAMaceOrder1",
+    "formid": "AltarDeluxe.esp:014F2D",
+    "full": "LOC_FN_DEAMaceOrder1",
+    "modl": "Weapons\\Iron\\Mace.NIF"
+  },
+  {
+    "edid": "DEAMaceOrder2",
+    "formid": "AltarDeluxe.esp:014F2E",
+    "full": "LOC_FN_DEAMaceOrder2",
+    "modl": "Weapons\\Iron\\Mace.NIF"
+  },
+  {
+    "edid": "DEAMaceOrder4",
+    "formid": "AltarDeluxe.esp:014F30",
+    "full": "LOC_FN_DEAMaceOrder4",
+    "modl": "Weapons\\Iron\\Mace.NIF"
+  },
+  {
+    "edid": "DEAMaceOrder8",
+    "formid": "AltarDeluxe.esp:014F34",
+    "full": "LOC_FN_DEAMaceOrder8",
+    "modl": "Weapons\\Iron\\Mace.NIF"
+  },
+  {
+    "edid": "DEAWarAxeOrder1",
+    "formid": "AltarDeluxe.esp:014F35",
+    "full": "LOC_FN_DEAWarAxeOrder1",
+    "modl": "Weapons\\Iron\\WarAxe.NIF"
+  },
+  {
+    "edid": "DEAWarAxeOrder3",
+    "formid": "AltarDeluxe.esp:014F37",
+    "full": "LOC_FN_DEAWarAxeOrder3",
+    "modl": "Weapons\\Iron\\WarAxe.NIF"
+  },
+  {
+    "edid": "DEAWarAxeOrder4",
+    "formid": "AltarDeluxe.esp:014F38",
+    "full": "LOC_FN_DEAWarAxeOrder4",
+    "modl": "Weapons\\Iron\\WarAxe.NIF"
+  },
+  {
+    "edid": "DEAWarAxeOrder5",
+    "formid": "AltarDeluxe.esp:014F39",
+    "full": "LOC_FN_DEAWarAxeOrder5",
+    "modl": "Weapons\\Iron\\WarAxe.NIF"
+  },
+  {
+    "edid": "DEAWarAxeOrder6",
+    "formid": "AltarDeluxe.esp:014F3A",
+    "full": "LOC_FN_DEAWarAxeOrder6",
+    "modl": "Weapons\\Iron\\WarAxe.NIF"
+  },
+  {
+    "edid": "DEAWarAxeOrder7",
+    "formid": "AltarDeluxe.esp:014F3B",
+    "full": "LOC_FN_DEAWarAxeOrder7",
+    "modl": "Weapons\\Iron\\WarAxe.NIF"
+  },
+  {
+    "edid": "DEAWarAxeOrder8",
+    "formid": "AltarDeluxe.esp:014F3C",
+    "full": "LOC_FN_DEAWarAxeOrder8",
+    "modl": "Weapons\\Iron\\WarAxe.NIF"
+  },
+  {
+    "edid": "DEABattleAxeOrder1",
+    "formid": "AltarDeluxe.esp:014F3D",
+    "full": "LOC_FN_DEABattleAxeOrder1",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "DEABattleAxeOrder2",
+    "formid": "AltarDeluxe.esp:014F3E",
+    "full": "LOC_FN_DEABattleAxeOrder2",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "DEABattleAxeOrder3",
+    "formid": "AltarDeluxe.esp:014F3F",
+    "full": "LOC_FN_DEABattleAxeOrder3",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "DEABattleAxeOrder4",
+    "formid": "AltarDeluxe.esp:014F40",
+    "full": "LOC_FN_DEABattleAxeOrder4",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "DEABattleAxeOrder5",
+    "formid": "AltarDeluxe.esp:014F41",
+    "full": "LOC_FN_DEABattleAxeOrder5",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "DEABattleAxeOrder6",
+    "formid": "AltarDeluxe.esp:014F42",
+    "full": "LOC_FN_DEABattleAxeOrder6",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "DEABattleAxeOrder7",
+    "formid": "AltarDeluxe.esp:014F43",
+    "full": "LOC_FN_DEABattleAxeOrder7",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "DEABattleAxeOrder8",
+    "formid": "AltarDeluxe.esp:014F44",
+    "full": "LOC_FN_DEABattleAxeOrder8",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "DEAWarhammerOrder1",
+    "formid": "AltarDeluxe.esp:014F45",
+    "full": "LOC_FN_DEAWarhammerOrder1",
+    "modl": "Weapons\\Iron\\Warhammer.NIF"
+  },
+  {
+    "edid": "DEAWarhammerOrder2",
+    "formid": "AltarDeluxe.esp:014F46",
+    "full": "LOC_FN_DEAWarhammerOrder2",
+    "modl": "Weapons\\Iron\\Warhammer.NIF"
+  },
+  {
+    "edid": "DEAWarhammerOrder3",
+    "formid": "AltarDeluxe.esp:014F47",
+    "full": "LOC_FN_DEAWarhammerOrder3",
+    "modl": "Weapons\\Iron\\Warhammer.NIF"
+  },
+  {
+    "edid": "DEAWarhammerOrder4",
+    "formid": "AltarDeluxe.esp:014F48",
+    "full": "LOC_FN_DEAWarhammerOrder4",
+    "modl": "Weapons\\Iron\\Warhammer.NIF"
+  },
+  {
+    "edid": "DEAWarhammerOrder5",
+    "formid": "AltarDeluxe.esp:014F49",
+    "full": "LOC_FN_DEAWarhammerOrder5",
+    "modl": "Weapons\\Iron\\Warhammer.NIF"
+  },
+  {
+    "edid": "DEAWarhammerOrder6",
+    "formid": "AltarDeluxe.esp:014F4A",
+    "full": "LOC_FN_DEAWarhammerOrder6",
+    "modl": "Weapons\\Iron\\Warhammer.NIF"
+  },
+  {
+    "edid": "DEAWarhammerOrder7",
+    "formid": "AltarDeluxe.esp:014F4B",
+    "full": "LOC_FN_DEAWarhammerOrder7",
+    "modl": "Weapons\\Iron\\Warhammer.NIF"
+  },
+  {
+    "edid": "DEAWarhammerOrder8",
+    "formid": "AltarDeluxe.esp:014F4C",
+    "full": "LOC_FN_DEAWarhammerOrder8",
+    "modl": "Weapons\\Iron\\Warhammer.NIF"
+  },
+  {
+    "edid": "DEABowOrder5",
+    "formid": "AltarDeluxe.esp:014F51",
+    "full": "LOC_FN_DEABowOrder5",
+    "modl": "Weapons\\Iron\\Bow.NIF"
+  },
+  {
+    "edid": "DEABowOrder6",
+    "formid": "AltarDeluxe.esp:014F52",
+    "full": "LOC_FN_DEABowOrder6",
+    "modl": "Weapons\\Iron\\Bow.NIF"
+  },
+  {
+    "edid": "DEABowOrder7",
+    "formid": "AltarDeluxe.esp:014F53",
+    "full": "LOC_FN_DEABowOrder7",
+    "modl": "Weapons\\Iron\\Bow.NIF"
+  },
+  {
+    "edid": "DEABowOrder8",
+    "formid": "AltarDeluxe.esp:014F54",
+    "full": "LOC_FN_DEABowOrder8",
+    "modl": "Weapons\\Iron\\Bow.NIF"
+  }
+]

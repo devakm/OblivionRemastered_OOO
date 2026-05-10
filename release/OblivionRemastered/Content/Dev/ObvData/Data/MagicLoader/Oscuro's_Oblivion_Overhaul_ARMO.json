@@ -1,6 +1,16 @@
 {
 "Plugin": "Oscuro's_Oblivion_Overhaul.esp",
 "FullNames": {
+	"LOC_FN_DwarvenBoots": "Dwemer Boots",
+	"LOC_FN_ReplicaDwarvenShield": "Dwemer Ceremonial Shield",
+	"LOC_FN_DwarvenCuirass": "Dwemer Cuirass",
+	"LOC_FN_DwarvenGauntlets": "Dwemer Gauntlets",
+	"LOC_FN_DwarvenGreaves": "Dwemer Greaves",
+	"LOC_FN_DwarvenHelmet": "Dwemer Helmet",
+	"LOC_FN_ArenaDwarvenHelmet": "Dwemer Helmet",
+	"LOC_FN_ArenaDwarvenShield": "Dwemer Shield",
+	"LOC_FN_DwarvenShield": "Dwemer Shield",
+	"LOC_FN_EnchDaedricShieldFortBlock": "Dwemerskin Shield",
     "LOC_FN_EnchElvenEldar3ShieldFrostShieldOOO": "Winter's Night Shield",
     "LOC_FN_EnchElvenEldar3ShieldShieldOOO": "Shield of Midnight",
     "LOC_FN_EnchElvenEldar3ShieldReflectSpellOOO": "Moonbeam Shield",

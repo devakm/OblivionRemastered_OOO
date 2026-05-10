@@ -1,0 +1,14 @@
+{
+  "esp": "OOO_UnlimitedRingsReduxPatch.esp",
+  "record_types": [
+    "CLOT",
+    "LVSP"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "UnlimitedRingsRedux.esp"
+    ],
+    "version": 1.0
+  }
+}

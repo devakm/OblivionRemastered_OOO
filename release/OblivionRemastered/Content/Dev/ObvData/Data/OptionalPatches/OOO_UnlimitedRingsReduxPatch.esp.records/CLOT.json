@@ -1,0 +1,602 @@
+[
+  {
+    "edid": "MS12RingVipereye01",
+    "formid": "Oblivion.esm:01C4DA",
+    "full": "LOC_FN_MS12RingVipereye01",
+    "modl": "Clothes\\Ring\\RingSilverEmerald.NIF"
+  },
+  {
+    "edid": "FGD04ShieldRing10",
+    "formid": "Oblivion.esm:02EE74",
+    "full": "LOC_FN_FGD04ShieldRing10",
+    "modl": "Clothes\\Ring\\Novice01.NIF"
+  },
+  {
+    "edid": "JewelryRing4Silver3Ruby",
+    "formid": "Oblivion.esm:038014",
+    "full": "LOC_FN_JewelryRing4Silver3Ruby",
+    "modl": "Clothes\\Ring\\RingSilverRuby.NIF"
+  },
+  {
+    "edid": "JewelryRing3Jade2Topaz",
+    "formid": "Oblivion.esm:03801C",
+    "full": "LOC_FN_JewelryRing3Jade2Topaz",
+    "modl": "Clothes\\Ring\\RingJadeTopaz.NIF"
+  },
+  {
+    "edid": "JewelryRing3Jade3Ruby",
+    "formid": "Oblivion.esm:03801D",
+    "full": "LOC_FN_JewelryRing3Jade3Ruby",
+    "modl": "Clothes\\Ring\\RingJadeRuby.NIF"
+  },
+  {
+    "edid": "JewelryRing3Jade4Sapphire",
+    "formid": "Oblivion.esm:03801E",
+    "full": "LOC_FN_JewelryRing3Jade4Sapphire",
+    "modl": "Clothes\\Ring\\RingJadeSapphire.NIF"
+  },
+  {
+    "edid": "JewelryRing4Silver4Sapphire",
+    "formid": "Oblivion.esm:038020",
+    "full": "LOC_FN_JewelryRing4Silver4Sapphire",
+    "modl": "Clothes\\Ring\\RingSilverSapphire.NIF"
+  },
+  {
+    "edid": "JewelryRing4Silver5Emerald",
+    "formid": "Oblivion.esm:038021",
+    "full": "LOC_FN_JewelryRing4Silver5Emerald",
+    "modl": "Clothes\\Ring\\RingSilverEmerald.NIF"
+  },
+  {
+    "edid": "JewelryRing5Gold4Sapphire",
+    "formid": "Oblivion.esm:038022",
+    "full": "LOC_FN_JewelryRing5Gold4Sapphire",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "JewelryRing5Gold5Emerald",
+    "formid": "Oblivion.esm:038023",
+    "full": "LOC_FN_JewelryRing5Gold5Emerald",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "JewelryRing5Gold6Diamond",
+    "formid": "Oblivion.esm:038024",
+    "full": "LOC_FN_JewelryRing5Gold6Diamond",
+    "modl": "Clothes\\Ring\\RingGoldDiamond.NIF"
+  },
+  {
+    "edid": "JewelryRing6Ebony5Emerald",
+    "formid": "Oblivion.esm:038025",
+    "full": "LOC_FN_JewelryRing6Ebony5Emerald",
+    "modl": "Clothes\\Ring\\RingEbonyEmerald.NIF"
+  },
+  {
+    "edid": "JewelryRing6Ebony6Diamond",
+    "formid": "Oblivion.esm:038026",
+    "full": "LOC_FN_JewelryRing6Ebony6Diamond",
+    "modl": "Clothes\\Ring\\RingEbonyDiamond.NIF"
+  },
+  {
+    "edid": "MS12RingVipereye05",
+    "formid": "Oblivion.esm:06B654",
+    "full": "LOC_FN_MS12RingVipereye05",
+    "modl": "Clothes\\Ring\\RingSilverEmerald.NIF"
+  },
+  {
+    "edid": "MS12RingVipereye10",
+    "formid": "Oblivion.esm:06B655",
+    "full": "LOC_FN_MS12RingVipereye10",
+    "modl": "Clothes\\Ring\\RingSilverEmerald.NIF"
+  },
+  {
+    "edid": "MS12RingVipereye15",
+    "formid": "Oblivion.esm:06B656",
+    "full": "LOC_FN_MS12RingVipereye15",
+    "modl": "Clothes\\Ring\\RingSilverEmerald.NIF"
+  },
+  {
+    "edid": "MS12RingVipereye20",
+    "formid": "Oblivion.esm:06B657",
+    "full": "LOC_FN_MS12RingVipereye20",
+    "modl": "Clothes\\Ring\\RingSilverEmerald.NIF"
+  },
+  {
+    "edid": "MS12RingVipereye25",
+    "formid": "Oblivion.esm:06B658",
+    "full": "LOC_FN_MS12RingVipereye25",
+    "modl": "Clothes\\Ring\\RingSilverEmerald.NIF"
+  },
+  {
+    "edid": "FGD04ShieldRing20",
+    "formid": "Oblivion.esm:07B7A5",
+    "full": "LOC_FN_FGD04ShieldRing20",
+    "modl": "Clothes\\Ring\\Novice01.NIF"
+  },
+  {
+    "edid": "FGD04ShieldRing30",
+    "formid": "Oblivion.esm:07B7A6",
+    "full": "LOC_FN_FGD04ShieldRing30",
+    "modl": "Clothes\\Ring\\Novice01.NIF"
+  },
+  {
+    "edid": "EnchRingChameleonGoldSapphire",
+    "formid": "Oblivion.esm:091AB1",
+    "full": "LOC_FN_EnchRingChameleonGoldSapphire",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingChameleonGoldEmerald",
+    "formid": "Oblivion.esm:091AB2",
+    "full": "LOC_FN_EnchRingChameleonGoldEmerald",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingDetectLifeSilverEmerald",
+    "formid": "Oblivion.esm:091AB6",
+    "full": "LOC_FN_EnchRingDetectLifeSilverEmerald",
+    "modl": "Clothes\\Ring\\RingSilverEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingDetectLifeGoldEmerald",
+    "formid": "Oblivion.esm:091AB7",
+    "full": "LOC_FN_EnchRingDetectLifeGoldEmerald",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingDetectLifeEbonyDiamond",
+    "formid": "Oblivion.esm:091AB8",
+    "full": "LOC_FN_EnchRingDetectLifeEbonyDiamond",
+    "modl": "Clothes\\Ring\\RingEbonyDiamond.NIF"
+  },
+  {
+    "edid": "EnchRingFeatherBrassTopaz",
+    "formid": "Oblivion.esm:091ABB",
+    "full": "LOC_FN_EnchRingFeatherBrassTopaz",
+    "modl": "Clothes\\Ring\\Novice01.NIF"
+  },
+  {
+    "edid": "EnchRingFireShieldBrassTopaz",
+    "formid": "Oblivion.esm:091ABE",
+    "full": "LOC_FN_EnchRingFireShieldBrassTopaz",
+    "modl": "Clothes\\Ring\\RiingBrassTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAttrStrengthEbonyEmerald",
+    "formid": "Oblivion.esm:091AC0",
+    "full": "LOC_FN_EnchRingFortifyAttrStrengthEbonyEmerald",
+    "modl": "Clothes\\Ring\\RingEbonyEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAttrStrengthEbonyDiamond",
+    "formid": "Oblivion.esm:091AC1",
+    "full": "LOC_FN_EnchRingFortifyAttrStrengthEbonyDiamond",
+    "modl": "Clothes\\Ring\\RingEbonyDiamond.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAttrIntelligenceGoldSapphire",
+    "formid": "Oblivion.esm:091AC3",
+    "full": "LOC_FN_EnchRingFortifyAttrIntelligenceGoldSapphire",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAttrIntelligenceGoldEmerald",
+    "formid": "Oblivion.esm:091AC4",
+    "full": "LOC_FN_EnchRingFortifyAttrIntelligenceGoldEmerald",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAttrWillpowerJadeTopaz",
+    "formid": "Oblivion.esm:091AC6",
+    "full": "LOC_FN_EnchRingFortifyAttrWillpowerJadeTopaz",
+    "modl": "Clothes\\Ring\\RingJadeTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAttrWillpowerJadeRuby",
+    "formid": "Oblivion.esm:091AC7",
+    "full": "LOC_FN_EnchRingFortifyAttrWillpowerJadeRuby",
+    "modl": "Clothes\\Ring\\RingJadeRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAttrAgilityCopperTopaz",
+    "formid": "Oblivion.esm:091ACA",
+    "full": "LOC_FN_EnchRingFortifyAttrAgilityCopperTopaz",
+    "modl": "Clothes\\Ring\\RingCopperTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAttrSpeedSilverRuby",
+    "formid": "Oblivion.esm:091ACC",
+    "full": "LOC_FN_EnchRingFortifyAttrSpeedSilverRuby",
+    "modl": "Clothes\\Ring\\RingSilverRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAttrSpeedSilverSapphire",
+    "formid": "Oblivion.esm:091ACD",
+    "full": "LOC_FN_EnchRingFortifyAttrSpeedSilverSapphire",
+    "modl": "Clothes\\Ring\\RingSilverSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyEnduranceBrassTopaz",
+    "formid": "Oblivion.esm:091AD0",
+    "full": "LOC_FN_EnchRingFortifyEnduranceBrassTopaz",
+    "modl": "Clothes\\Ring\\RiingBrassTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyFatigueJadeTopaz",
+    "formid": "Oblivion.esm:091AD9",
+    "full": "LOC_FN_EnchRingFortifyFatigueJadeTopaz",
+    "modl": "Clothes\\Ring\\RingJadeTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyHealthJadeRuby",
+    "formid": "Oblivion.esm:091C22",
+    "full": "LOC_FN_EnchRingFortifyHealthJadeRuby",
+    "modl": "Clothes\\Ring\\RingJadeRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyHealthSilverRuby",
+    "formid": "Oblivion.esm:091C23",
+    "full": "LOC_FN_EnchRingFortifyHealthSilverRuby",
+    "modl": "Clothes\\Ring\\RingSilverRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyMagickaEbonyEmerald",
+    "formid": "Oblivion.esm:091C25",
+    "full": "LOC_FN_EnchRingFortifyMagickaEbonyEmerald",
+    "modl": "Clothes\\Ring\\RingEbonyEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyMagickaEbonyDiamond",
+    "formid": "Oblivion.esm:091C26",
+    "full": "LOC_FN_EnchRingFortifyMagickaEbonyDiamond",
+    "modl": "Clothes\\Ring\\RingEbonyDiamond.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyArmorerBrassTopaz",
+    "formid": "Oblivion.esm:091C29",
+    "full": "LOC_FN_EnchRingFortifyArmorerBrassTopaz",
+    "modl": "Clothes\\Ring\\RingCopperTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAthleticsSilverRuby",
+    "formid": "Oblivion.esm:091C2B",
+    "full": "LOC_FN_EnchRingFortifyAthleticsSilverRuby",
+    "modl": "Clothes\\Ring\\RingSilverRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAthleticsSilverSapphire",
+    "formid": "Oblivion.esm:091C2C",
+    "full": "LOC_FN_EnchRingFortifyAthleticsSilverSapphire",
+    "modl": "Clothes\\Ring\\RingSilverSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyBladeEbonyEmerald",
+    "formid": "Oblivion.esm:091C2E",
+    "full": "LOC_FN_EnchRingFortifyBladeEbonyEmerald",
+    "modl": "Clothes\\Ring\\RingEbonyEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyBladeEbonyDiamond",
+    "formid": "Oblivion.esm:091C2F",
+    "full": "LOC_FN_EnchRingFortifyBladeEbonyDiamond",
+    "modl": "Clothes\\Ring\\RingEbonyDiamond.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyBlockBrassTopaz",
+    "formid": "Oblivion.esm:091C32",
+    "full": "LOC_FN_EnchRingFortifyBlockBrassTopaz",
+    "modl": "Clothes\\Ring\\RiingBrassTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyBluntEbonyEmerald",
+    "formid": "Oblivion.esm:091C34",
+    "full": "LOC_FN_EnchRingFortifyBluntEbonyEmerald",
+    "modl": "Clothes\\Ring\\RingEbonyEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyBluntEbonyDiamond",
+    "formid": "Oblivion.esm:091C35",
+    "full": "LOC_FN_EnchRingFortifyBluntEbonyDiamond",
+    "modl": "Clothes\\Ring\\RingEbonyDiamond.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyHandtoHandEbonyEmerald",
+    "formid": "Oblivion.esm:091C37",
+    "full": "LOC_FN_EnchRingFortifyHandtoHandEbonyEmerald",
+    "modl": "Clothes\\Ring\\RingEbonyDiamond.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyHandtoHandEbonyDiamond",
+    "formid": "Oblivion.esm:091C38",
+    "full": "LOC_FN_EnchRingFortifyHandtoHandEbonyDiamond",
+    "modl": "Clothes\\Ring\\RingEbonyDiamond.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyHeavyArmorBrassTopaz",
+    "formid": "Oblivion.esm:091C3B",
+    "full": "LOC_FN_EnchRingFortifyHeavyArmorBrassTopaz",
+    "modl": "Clothes\\Ring\\RiingBrassTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAcrobaticsSilverRuby",
+    "formid": "Oblivion.esm:091C3D",
+    "full": "LOC_FN_EnchRingFortifyAcrobaticsSilverRuby",
+    "modl": "Clothes\\Ring\\RingSilverRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAcrobaticsSilverSapphire",
+    "formid": "Oblivion.esm:091C3E",
+    "full": "LOC_FN_EnchRingFortifyAcrobaticsSilverSapphire",
+    "modl": "Clothes\\Ring\\RingSilverSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyLightArmorSilverRuby",
+    "formid": "Oblivion.esm:091C40",
+    "full": "LOC_FN_EnchRingFortifyLightArmorSilverRuby",
+    "modl": "Clothes\\Ring\\RingSilverRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyLightArmorSilverSapphire",
+    "formid": "Oblivion.esm:091C41",
+    "full": "LOC_FN_EnchRingFortifyLightArmorSilverSapphire",
+    "modl": "Clothes\\Ring\\RingSilverSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyMarksmanCopperTopaz",
+    "formid": "Oblivion.esm:092AAC",
+    "full": "LOC_FN_EnchRingFortifyMarksmanCopperTopaz",
+    "modl": "Clothes\\Ring\\RingCopperTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifySecurityCopperTopaz",
+    "formid": "Oblivion.esm:092AB2",
+    "full": "LOC_FN_EnchRingFortifySecurityCopperTopaz",
+    "modl": "Clothes\\Ring\\RingCopperTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifySneakCopperTopaz",
+    "formid": "Oblivion.esm:092AB5",
+    "full": "LOC_FN_EnchRingFortifySneakCopperTopaz",
+    "modl": "Clothes\\Ring\\RingCopperTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAlchemyGold",
+    "formid": "Oblivion.esm:092AB9",
+    "full": "LOC_FN_EnchRingFortifyAlchemyGold",
+    "modl": "Clothes\\Ring\\RingGold.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAlchemyGoldSapphire",
+    "formid": "Oblivion.esm:092ABA",
+    "full": "LOC_FN_EnchRingFortifyAlchemyGoldSapphire",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAlchemyGoldEmerald",
+    "formid": "Oblivion.esm:092ABB",
+    "full": "LOC_FN_EnchRingFortifyAlchemyGoldEmerald",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAlterationJadeTopaz",
+    "formid": "Oblivion.esm:092ABD",
+    "full": "LOC_FN_EnchRingFortifyAlterationJadeTopaz",
+    "modl": "Clothes\\Ring\\RingJadeTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAlterationJadeRuby",
+    "formid": "Oblivion.esm:092ABE",
+    "full": "LOC_FN_EnchRingFortifyAlterationJadeRuby",
+    "modl": "Clothes\\Ring\\RingJadeRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyConjurationGoldSapphire",
+    "formid": "Oblivion.esm:092AC0",
+    "full": "LOC_FN_EnchRingFortifyConjurationGoldSapphire",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyConjurationGoldEmerald",
+    "formid": "Oblivion.esm:092AC1",
+    "full": "LOC_FN_EnchRingFortifyConjurationGoldEmerald",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyDestructionJadeTopaz",
+    "formid": "Oblivion.esm:092AC3",
+    "full": "LOC_FN_EnchRingFortifyDestructionJadeTopaz",
+    "modl": "Clothes\\Ring\\RingJadeTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyDestructionJadeRuby",
+    "formid": "Oblivion.esm:092AC4",
+    "full": "LOC_FN_EnchRingFortifyDestructionJadeRuby",
+    "modl": "Clothes\\Ring\\RingJadeRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyMysticismGoldSapphire",
+    "formid": "Oblivion.esm:092AC9",
+    "full": "LOC_FN_EnchRingFortifyMysticismGoldSapphire",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyMysticismGoldEmerald",
+    "formid": "Oblivion.esm:092ACA",
+    "full": "LOC_FN_EnchRingFortifyMysticismGoldEmerald",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyRestorationJadeTopaz",
+    "formid": "Oblivion.esm:092ACC",
+    "full": "LOC_FN_EnchRingFortifyRestorationJadeTopaz",
+    "modl": "Clothes\\Ring\\RingJadeTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyRestorationJadeRuby",
+    "formid": "Oblivion.esm:092ACD",
+    "full": "LOC_FN_EnchRingFortifyRestorationJadeRuby",
+    "modl": "Clothes\\Ring\\RingJadeRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFrostShieldSilverRuby",
+    "formid": "Oblivion.esm:0937F0",
+    "full": "LOC_FN_EnchRingFrostShieldSilverRuby",
+    "modl": "Clothes\\Ring\\RingSilverRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFrostShieldSilverSapphire",
+    "formid": "Oblivion.esm:0937F1",
+    "full": "LOC_FN_EnchRingFrostShieldSilverSapphire",
+    "modl": "Clothes\\Ring\\RingSilverSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingLightCopperTopaz",
+    "formid": "Oblivion.esm:0937F4",
+    "full": "LOC_FN_EnchRingLightCopperTopaz",
+    "modl": "Clothes\\Ring\\RingCopperTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingNighteyeJadeTopaz",
+    "formid": "Oblivion.esm:0937F7",
+    "full": "LOC_FN_EnchRingNighteyeJadeTopaz",
+    "modl": "Clothes\\Ring\\RingJadeTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingReflectDamageGoldSapphire",
+    "formid": "Oblivion.esm:0937F8",
+    "full": "LOC_FN_EnchRingReflectDamageGoldSapphire",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingReflectDamageGoldEmerald",
+    "formid": "Oblivion.esm:0937F9",
+    "full": "LOC_FN_EnchRingReflectDamageGoldEmerald",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingResistDiseaseJadeTopaz",
+    "formid": "Oblivion.esm:098417",
+    "full": "LOC_FN_EnchRingResistDiseaseJadeTopaz",
+    "modl": "Clothes\\Ring\\RingJadeTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingResistDiseaseJadeRuby",
+    "formid": "Oblivion.esm:098418",
+    "full": "LOC_FN_EnchRingResistDiseaseJadeRuby",
+    "modl": "Clothes\\Ring\\RingJadeRuby.NIF"
+  },
+  {
+    "edid": "EnchRingResistFireBrassPearl",
+    "formid": "Oblivion.esm:09841A",
+    "full": "LOC_FN_EnchRingResistFireBrassPearl",
+    "modl": "Clothes\\Ring\\RingBrassPearl.NIF"
+  },
+  {
+    "edid": "EnchRingResistFireBrassTopaz",
+    "formid": "Oblivion.esm:09841B",
+    "full": "LOC_FN_EnchRingResistFireBrassTopaz",
+    "modl": "Clothes\\Ring\\RiingBrassTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingResistFrostSilverRuby",
+    "formid": "Oblivion.esm:09841D",
+    "full": "LOC_FN_EnchRingResistFrostSilverRuby",
+    "modl": "Clothes\\Ring\\RingSilverRuby.NIF"
+  },
+  {
+    "edid": "EnchRingResistFrostSilverSapphire",
+    "formid": "Oblivion.esm:09841E",
+    "full": "LOC_FN_EnchRingResistFrostSilverSapphire",
+    "modl": "Clothes\\Ring\\RingSilverSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingResistMagickaEbonyEmerald",
+    "formid": "Oblivion.esm:098420",
+    "full": "LOC_FN_EnchRingResistMagickaEbonyEmerald",
+    "modl": "Clothes\\Ring\\RingEbonyEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingResistMagickaEbonyDiamond",
+    "formid": "Oblivion.esm:098421",
+    "full": "LOC_FN_EnchRingResistMagickaEbonyDiamond",
+    "modl": "Clothes\\Ring\\RingEbonyDiamond.NIF"
+  },
+  {
+    "edid": "EnchRingResistNormalWeaponsGoldSapphire",
+    "formid": "Oblivion.esm:098423",
+    "full": "LOC_FN_EnchRingResistNormalWeaponsGoldSapphire",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingResistNormalWeaponsGoldEmerald",
+    "formid": "Oblivion.esm:098424",
+    "full": "LOC_FN_EnchRingResistNormalWeaponsGoldEmerald",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingResistParalysisJadeSapphire",
+    "formid": "Oblivion.esm:098425",
+    "full": "LOC_FN_EnchRingResistParalysisJadeSapphire",
+    "modl": "Clothes\\Ring\\RingJadeSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingResistParalysisSilverSapphire",
+    "formid": "Oblivion.esm:098426",
+    "full": "LOC_FN_EnchRingResistParalysisSilverSapphire",
+    "modl": "Clothes\\Ring\\RingSilverSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingResistParalysisGoldSapphire",
+    "formid": "Oblivion.esm:098427",
+    "full": "LOC_FN_EnchRingResistParalysisGoldSapphire",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingResistPoisonSilverEmerald",
+    "formid": "Oblivion.esm:098428",
+    "full": "LOC_FN_EnchRingResistPoisonSilverEmerald",
+    "modl": "Clothes\\Ring\\RingSilverEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingResistPoisonGoldEmerald",
+    "formid": "Oblivion.esm:098429",
+    "full": "LOC_FN_EnchRingResistPoisonGoldEmerald",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingResistPoisonEbonyEmerald",
+    "formid": "Oblivion.esm:09842A",
+    "full": "LOC_FN_EnchRingResistPoisonEbonyEmerald",
+    "modl": "Clothes\\Ring\\RingEbonyEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingResistShockCopperTopaz",
+    "formid": "Oblivion.esm:09842D",
+    "full": "LOC_FN_EnchRingResistShockCopperTopaz",
+    "modl": "Clothes\\Ring\\RingCopperTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingShieldCopperTopaz",
+    "formid": "Oblivion.esm:098439",
+    "full": "LOC_FN_EnchRingShieldCopperTopaz",
+    "modl": "Clothes\\Ring\\RingCopperTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingShockShieldCopperTopaz",
+    "formid": "Oblivion.esm:09843C",
+    "full": "LOC_FN_EnchRingShockShieldCopperTopaz",
+    "modl": "Clothes\\Ring\\RingCopperTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingofWizardry",
+    "formid": "Oblivion.esm:09844A",
+    "full": "LOC_FN_EnchRingofWizardry",
+    "modl": "Clothes\\Ring\\RingJade.NIF"
+  },
+  {
+    "edid": "EnchRingMundane",
+    "formid": "Oblivion.esm:09844B",
+    "full": "LOC_FN_EnchRingMundane",
+    "modl": "Clothes\\Ring\\RingGold.NIF"
+  }
+]

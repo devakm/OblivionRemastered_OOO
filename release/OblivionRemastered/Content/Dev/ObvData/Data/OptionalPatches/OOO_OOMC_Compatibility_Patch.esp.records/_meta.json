@@ -1,0 +1,16 @@
+{
+  "esp": "OOO_OOMC_Compatibility_Patch.esp",
+  "record_types": [
+    "NPC_"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "DLCOrrery.esp",
+      "AltarESPMain.esp",
+      "OOMC_ImperialCityMages.esp",
+      "Oscuro's_Oblivion_Overhaul.esp"
+    ],
+    "version": 1.0
+  }
+}

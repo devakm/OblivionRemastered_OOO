@@ -1,0 +1,19 @@
+{
+  "esp": "OOO_DeluxeEdition.esp",
+  "record_types": [
+    "ARMO",
+    "CREA",
+    "NPC_",
+    "SCPT",
+    "WEAP"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "AltarESPMain.esp",
+      "AltarDeluxe.esp",
+      "Oscuro's_Oblivion_Overhaul.esp"
+    ],
+    "version": 1.0
+  }
+}

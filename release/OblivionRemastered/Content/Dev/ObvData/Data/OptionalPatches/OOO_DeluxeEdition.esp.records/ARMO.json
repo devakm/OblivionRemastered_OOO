@@ -1,0 +1,182 @@
+[
+  {
+    "edid": "DEMLightShieldCataclysm6",
+    "formid": "AltarDeluxe.esp:014F5A",
+    "full": "LOC_FN_DEMLightShieldCataclysm6",
+    "modl": null
+  },
+  {
+    "edid": "DEMHeavyShieldCataclysm6",
+    "formid": "AltarDeluxe.esp:014F60",
+    "full": "LOC_FN_DEMHeavyShieldCataclysm6",
+    "modl": null
+  },
+  {
+    "edid": "DEMLightHelmCataclysm6",
+    "formid": "AltarDeluxe.esp:014F66",
+    "full": "LOC_FN_DEMLightHelmCataclysm6",
+    "modl": null
+  },
+  {
+    "edid": "DEMHeavyHelmCataclysm6",
+    "formid": "AltarDeluxe.esp:014F6C",
+    "full": "LOC_FN_DEMHeavyHelmCataclysm6",
+    "modl": null
+  },
+  {
+    "edid": "DEMLightCuirassCataclysm6",
+    "formid": "AltarDeluxe.esp:014F72",
+    "full": "LOC_FN_DEMLightCuirassCataclysm6",
+    "modl": null
+  },
+  {
+    "edid": "DEMHeavyCuirassCataclysm6",
+    "formid": "AltarDeluxe.esp:014F78",
+    "full": "LOC_FN_DEMHeavyCuirassCataclysm6",
+    "modl": null
+  },
+  {
+    "edid": "DEMLightGauntletsCataclysm6",
+    "formid": "AltarDeluxe.esp:014F7E",
+    "full": "LOC_FN_DEMLightGauntletsCataclysm6",
+    "modl": null
+  },
+  {
+    "edid": "DEMHeavyGauntletsCataclysm6",
+    "formid": "AltarDeluxe.esp:014F84",
+    "full": "LOC_FN_DEMHeavyGauntletsCataclysm6",
+    "modl": null
+  },
+  {
+    "edid": "DEMLightGreavesCataclysm6",
+    "formid": "AltarDeluxe.esp:014F8A",
+    "full": "LOC_FN_DEMLightGreavesCataclysm6",
+    "modl": null
+  },
+  {
+    "edid": "DEMHeavyGreavesCataclysm6",
+    "formid": "AltarDeluxe.esp:014F90",
+    "full": "LOC_FN_DEMHeavyGreavesCataclysm6",
+    "modl": null
+  },
+  {
+    "edid": "DEMLightBootsCataclysm6",
+    "formid": "AltarDeluxe.esp:014F96",
+    "full": "LOC_FN_DEMLightBootsCataclysm6",
+    "modl": null
+  },
+  {
+    "edid": "DEMHeavyBootsCataclysm6",
+    "formid": "AltarDeluxe.esp:014F9C",
+    "full": "LOC_FN_DEMHeavyBootsCataclysm6",
+    "modl": null
+  },
+  {
+    "edid": "DEALightShieldOrder6",
+    "formid": "AltarDeluxe.esp:014FA2",
+    "full": "LOC_FN_DEALightShieldOrder6",
+    "modl": null
+  },
+  {
+    "edid": "DEAHeavyShieldOrder6",
+    "formid": "AltarDeluxe.esp:014FA8",
+    "full": "LOC_FN_DEAHeavyShieldOrder6",
+    "modl": null
+  },
+  {
+    "edid": "DEALightHelmOrder6",
+    "formid": "AltarDeluxe.esp:014FAE",
+    "full": "LOC_FN_DEALightHelmOrder6",
+    "modl": null
+  },
+  {
+    "edid": "DEAHeavyHelmOrder6",
+    "formid": "AltarDeluxe.esp:014FB4",
+    "full": "LOC_FN_DEAHeavyHelmOrder6",
+    "modl": null
+  },
+  {
+    "edid": "DEALightCuirassOrder6",
+    "formid": "AltarDeluxe.esp:014FBA",
+    "full": "LOC_FN_DEALightCuirassOrder6",
+    "modl": null
+  },
+  {
+    "edid": "DEAHeavyCuirassOrder6",
+    "formid": "AltarDeluxe.esp:014FD4",
+    "full": "LOC_FN_DEAHeavyCuirassOrder6",
+    "modl": null
+  },
+  {
+    "edid": "DEALightGauntletsOrder6",
+    "formid": "AltarDeluxe.esp:014FDA",
+    "full": "LOC_FN_DEALightGauntletsOrder6",
+    "modl": null
+  },
+  {
+    "edid": "DEAHeavyGauntletsOrder6",
+    "formid": "AltarDeluxe.esp:014FE0",
+    "full": "LOC_FN_DEAHeavyGauntletsOrder6",
+    "modl": null
+  },
+  {
+    "edid": "DEALightGreavesOrder6",
+    "formid": "AltarDeluxe.esp:014FE6",
+    "full": "LOC_FN_DEALightGreavesOrder6",
+    "modl": null
+  },
+  {
+    "edid": "DEAHeavyGreavesOrder6",
+    "formid": "AltarDeluxe.esp:014FEC",
+    "full": "LOC_FN_DEAHeavyGreavesOrder6",
+    "modl": null
+  },
+  {
+    "edid": "DEALightBootsOrder6",
+    "formid": "AltarDeluxe.esp:014FF2",
+    "full": "LOC_FN_DEALightBootsOrder6",
+    "modl": null
+  },
+  {
+    "edid": "DEAHeavyBootsOrder6",
+    "formid": "AltarDeluxe.esp:014FF8",
+    "full": "LOC_FN_DEAHeavyBootsOrder6",
+    "modl": null
+  },
+  {
+    "edid": "HeavenFuryBootsGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C84",
+    "full": "LOC_FN_HeavenFuryBootsGold",
+    "modl": "Armor\\NDPelinal\\M\\NDBoots.NIF"
+  },
+  {
+    "edid": "HeavenFuryCuirassGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C85",
+    "full": "LOC_FN_HeavenFuryCuirassGold",
+    "modl": "Armor\\NDPelinal\\M\\NDCuirass.NIF"
+  },
+  {
+    "edid": "HeavenFuryGauntletsGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C86",
+    "full": "LOC_FN_HeavenFuryGauntletsGold",
+    "modl": "Armor\\NDPelinal\\M\\NDGauntlets.NIF"
+  },
+  {
+    "edid": "HeavenFuryGreavesGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C87",
+    "full": "LOC_FN_HeavenFuryGreavesGold",
+    "modl": "Armor\\NDPelinal\\M\\NDGreaves.NIF"
+  },
+  {
+    "edid": "HeavenFuryHelmetGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C88",
+    "full": "LOC_FN_HeavenFuryHelmetGold",
+    "modl": "Armor\\NDPelinal\\M\\NDHelmet.NIF"
+  },
+  {
+    "edid": "HeavenFuryShieldGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C8A",
+    "full": "LOC_FN_HeavenFuryShieldGold",
+    "modl": "Armor\\NDPelinal\\M\\NDShield.NIF"
+  }
+]
