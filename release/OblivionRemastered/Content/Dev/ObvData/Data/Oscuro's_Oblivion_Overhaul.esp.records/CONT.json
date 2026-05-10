@@ -1290,6 +1290,42 @@
     "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
+    "edid": "ChestDefStaffAlyeid",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A0",
+    "full": "Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ChestDefStaffAlyeidBoss3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A3",
+    "full": "Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ChestDefStaffUpper4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A6",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestDefStaffUpper2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A7",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestDefStaffAlyeidBoss5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A8",
+    "full": "Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ChestDefStaffLower1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A9",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
     "edid": "ZOOOChestJewelry01NobleTop",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0026F7",
     "full": "LOC_FN_ZOOOChestJewelry01NobleTop",

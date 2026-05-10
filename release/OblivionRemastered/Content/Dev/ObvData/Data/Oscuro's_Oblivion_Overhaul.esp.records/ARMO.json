@@ -5889,13 +5889,13 @@
     "edid": "DreadBootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002650",
     "full": "LOC_FN_DreadBootsOOO",
-    "modl": "armor\\Dread Armor\\m\\ooodbootsm.nif"
+    "modl": "Armor\\Daedric\\M\\Boots.NIF"
   },
   {
     "edid": "DreadCuirassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002651",
     "full": "LOC_FN_DreadCuirassOOO",
-    "modl": "armor\\Dread Armor\\m\\ooodcuirassm.nif"
+    "modl": "Armor\\Daedric\\M\\Cuirass.NIF"
   },
   {
     "edid": "DreadGauntletsOOO",
@@ -7938,6 +7938,12 @@
     "modl": "Armor\\Legion\\M\\Cuirass.NIF"
   },
   {
+    "edid": "BraidedGreaves",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DDFC",
+    "full": "LOC_FN_BraidedGreaves",
+    "modl": "Armor\\Elven\\M\\Greaves.NIF"
+  },
+  {
     "edid": "LegionCuirassImperialCapeRed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0116F6",
     "full": "LOC_FN_LegionCuirassImperialCapeRed",
@@ -9237,43 +9243,43 @@
     "edid": "Goblinshield1OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038E02",
     "full": "LOC_FN_Goblinshield1OOO",
-    "modl": "armor\\FPGoblinShield\\g1shield.nif"
+    "modl": "Armor\\Leather\\Shield.NIF"
   },
   {
     "edid": "Goblinshield2OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038E03",
     "full": "LOC_FN_Goblinshield2OOO",
-    "modl": "armor\\FPGoblinShield\\g2shield.nif"
+    "modl": "Armor\\Leather\\Shield.NIF"
   },
   {
     "edid": "Goblinshield3OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038E04",
     "full": "LOC_FN_Goblinshield3OOO",
-    "modl": "armor\\FPGoblinShield\\g3shield.nif"
+    "modl": "Armor\\Leather\\Shield.NIF"
   },
   {
     "edid": "Goblinshield4OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038E05",
     "full": "LOC_FN_Goblinshield4OOO",
-    "modl": "armor\\FPGoblinShield\\g4shield.nif"
+    "modl": "Armor\\Leather\\Shield.NIF"
   },
   {
     "edid": "Goblinshield5OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038E06",
     "full": "LOC_FN_Goblinshield5OOO",
-    "modl": "armor\\FPGoblinShield\\g5shield.nif"
+    "modl": "Armor\\Leather\\Shield.NIF"
   },
   {
     "edid": "Goblinshield6OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038E07",
     "full": "LOC_FN_Goblinshield6OOO",
-    "modl": "armor\\FPGoblinShield\\g6shield.nif"
+    "modl": "Armor\\Leather\\Shield.NIF"
   },
   {
     "edid": "Goblinshield7OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038E08",
     "full": "LOC_FN_Goblinshield7OOO",
-    "modl": "armor\\FPGoblinShield\\g7shield.nif"
+    "modl": "Armor\\Leather\\Shield.NIF"
   },
   {
     "edid": "EYCCAbootsOOO",
@@ -9411,73 +9417,73 @@
     "edid": "HeavyBraidedBootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF3",
     "full": "LOC_FN_HeavyBraidedBootsOOO",
-    "modl": "Armor\\Orcish\\M\\Boots.NIF"
+    "modl": "Armor\\Elven\\M\\Boots.NIF"
   },
   {
     "edid": "HeavyBraidedCuirassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF4",
     "full": "LOC_FN_HeavyBraidedCuirassOOO",
-    "modl": "Armor\\Orcish\\M\\Cuirass.NIF"
+    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
   },
   {
     "edid": "HeavyBraidedGauntletsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF5",
     "full": "LOC_FN_HeavyBraidedGauntletsOOO",
-    "modl": "Armor\\Orcish\\M\\Gauntlets.NIF"
+    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
   },
   {
     "edid": "HeavyBraidedGreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF6",
     "full": "LOC_FN_HeavyBraidedGreavesOOO",
-    "modl": "Armor\\Orcish\\M\\Greaves.NIF"
+    "modl": "Armor\\Elven\\M\\Greaves.NIF"
   },
   {
     "edid": "HeavyBraidedHelmetOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF7",
     "full": "LOC_FN_HeavyBraidedHelmetOOO",
-    "modl": "Armor\\Orcish\\Helmet.NIF"
+    "modl": "Armor\\Elven\\Helmet.NIF"
   },
   {
     "edid": "HeavyBraidedShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF8",
     "full": "LOC_FN_HeavyBraidedShieldOOO",
-    "modl": "Armor\\Orcish\\Shield.NIF"
+    "modl": "Armor\\Elven\\Shield.NIF"
   },
   {
     "edid": "BraidedBootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF9",
     "full": "LOC_FN_BraidedBootsOOO",
-    "modl": "armor\\Braided\\m\\bboots.nif"
+    "modl": "Armor\\Elven\\M\\Boots.NIF"
   },
   {
     "edid": "BraidedGlovesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDFA",
     "full": "LOC_FN_BraidedGlovesOOO",
-    "modl": "armor\\Braided\\m\\bgauntlet.nif"
+    "modl": "Armor\\Elven\\M\\Gauntlets.NIF"
   },
   {
     "edid": "BraidedHelmetOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDFB",
     "full": "LOC_FN_BraidedHelmetOOO",
-    "modl": "armor\\Braided\\bhelmet.nif"
+    "modl": "Armor\\Elven\\Helmet.NIF"
   },
   {
     "edid": "BraidedHoodOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDFC",
     "full": "LOC_FN_BraidedHoodOOO",
-    "modl": "armor\\Braided\\bhood.nif"
+    "modl": "Clothes\\RobeMCBlack\\Hood.NIF"
   },
   {
     "edid": "BraidedShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDFD",
     "full": "LOC_FN_BraidedShieldOOO",
-    "modl": "armor\\Braided\\bshield.nif"
+    "modl": "Armor\\Elven\\Shield.NIF"
   },
   {
     "edid": "BraidedSuitOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDFE",
     "full": "LOC_FN_BraidedSuitOOO",
-    "modl": "armor\\Braided\\m\\bshirt.nif"
+    "modl": "Armor\\Elven\\M\\Cuirass.NIF"
   },
   {
     "edid": "OOOSEObeliskMaskBeast1",

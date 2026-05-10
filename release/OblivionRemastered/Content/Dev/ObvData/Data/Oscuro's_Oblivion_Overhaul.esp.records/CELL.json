@@ -50,7 +50,7 @@
   {
     "edid": "BramblepointCave",
     "formid": "Oblivion.esm:0149A4",
-    "full": "Bramblepoint Cave",
+    "full": "LOC_FN_BramblepointCave",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -194,7 +194,7 @@
   {
     "edid": "Veyond04",
     "formid": "Oblivion.esm:015F85",
-    "full": "Veyond Gandrasel",
+    "full": "LOC_FN_Veyond04",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -330,7 +330,7 @@
   {
     "edid": "SkingradUurasTheShepherdsHouse",
     "formid": "Oblivion.esm:027D4C",
-    "full": "Uuras the Shepherd's House",
+    "full": "LOC_FN_SkingradUurasTheShepherdsHouse",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -370,7 +370,7 @@
   {
     "edid": "SkingradWestWealdInnUpstairs",
     "formid": "Oblivion.esm:02AD8B",
-    "full": "West Weald Inn Upstairs",
+    "full": "LOC_FN_SkingradWestWealdInnUpstairs",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -418,7 +418,7 @@
   {
     "edid": "ICMarketDistrictRindirsStaffs",
     "formid": "Oblivion.esm:02C16D",
-    "full": "Rindir's Staffs",
+    "full": "LOC_FN_ICMarketDistrictRindirsStaffs",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -594,7 +594,7 @@
   {
     "edid": "TheDrunkenDragonInn",
     "formid": "Oblivion.esm:030FCD",
-    "full": "TheDrunkenDragonInn",
+    "full": "LOC_FN_TheDrunkenDragonInn",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -642,7 +642,7 @@
   {
     "edid": "CheydinhalCastleCountyHall",
     "formid": "Oblivion.esm:031B59",
-    "full": "Castle Cheydinhal County Hall",
+    "full": "LOC_FN_CheydinhalCastleCountyHall",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -682,7 +682,7 @@
   {
     "edid": "ICPalaceOcatoChambers",
     "formid": "Oblivion.esm:03ABFC",
-    "full": "Imperial Battlemage's Chambers",
+    "full": "LOC_FN_ICPalaceOcatoChambers",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -914,7 +914,7 @@
   {
     "edid": "ICImperialLegionWatchTowerNWCaptainsQuarters",
     "formid": "Oblivion.esm:05397F",
-    "full": "Northwest Watch Captain's Quarters",
+    "full": "LOC_FN_ICImperialLegionWatchTowerNWCaptainsQuarters",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -1010,7 +1010,7 @@
   {
     "edid": "FingerbowlCave02",
     "formid": "Oblivion.esm:083715",
-    "full": "Fingerbowl Cave - Servant Crypt",
+    "full": "LOC_FN_FingerbowlCave02",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -1026,7 +1026,7 @@
   {
     "edid": "ICArcaneUniversityMageQuartersUpstairs",
     "formid": "Oblivion.esm:08440D",
-    "full": "Mage Quarters Upper Level ",
+    "full": "LOC_FN_ICArcaneUniversityMageQuartersUpstairs",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -1146,7 +1146,7 @@
   {
     "edid": "JakbenTombInterior",
     "formid": "Oblivion.esm:090AC1",
-    "full": "Catacombs",
+    "full": "LOC_FN_JakbenTombInterior",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -1234,7 +1234,7 @@
   {
     "edid": "CheydinhalBridgeInnBasement",
     "formid": "Oblivion.esm:095349",
-    "full": "Cheydinhal Bridge Inn Basement",
+    "full": "LOC_FN_CheydinhalBridgeInnBasement",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
