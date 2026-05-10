@@ -1994,7 +1994,7 @@
   {
     "edid": "zOOOArondar03",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007C0B",
-    "full": "Arondar Arestenia",
+    "full": "LOC_FN_zOOOArondar03",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -2002,7 +2002,7 @@
   {
     "edid": "zOOOArondar02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007C0C",
-    "full": "Arondar Arestel",
+    "full": "LOC_FN_zOOOArondar02",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
