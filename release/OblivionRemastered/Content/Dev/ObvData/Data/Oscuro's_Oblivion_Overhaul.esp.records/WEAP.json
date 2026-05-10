@@ -9780,6 +9780,114 @@
     "modl": "Weapons\\Ebony\\Claymore.NIF"
   },
   {
+    "edid": "WeapHarbingerShortswordOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE67",
+    "full": "LOC_FN_WeapHarbingerShortswordOOO",
+    "modl": "Weapons\\Iron\\ShortSword.NIF"
+  },
+  {
+    "edid": "WeapHarbingerDaggerOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE68",
+    "full": "LOC_FN_WeapHarbingerDaggerOOO",
+    "modl": "Weapons\\Iron\\Dagger.NIF"
+  },
+  {
+    "edid": "WeapHarbingerLongswordOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE69",
+    "full": "LOC_FN_WeapHarbingerLongswordOOO",
+    "modl": "Weapons\\Iron\\LongSword.NIF"
+  },
+  {
+    "edid": "WeapHarbingerClaymoreOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE6A",
+    "full": "LOC_FN_WeapHarbingerClaymoreOOO",
+    "modl": "Weapons\\Iron\\Claymore.NIF"
+  },
+  {
+    "edid": "WeapHarbingerMaceOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE6B",
+    "full": "LOC_FN_WeapHarbingerMaceOOO",
+    "modl": "Weapons\\Iron\\Mace.NIF"
+  },
+  {
+    "edid": "WeapHarbingerWarAxeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE6C",
+    "full": "LOC_FN_WeapHarbingerWarAxeOOO",
+    "modl": "Weapons\\Iron\\WarAxe.NIF"
+  },
+  {
+    "edid": "WeapHarbingerBattleAxeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE6D",
+    "full": "LOC_FN_WeapHarbingerBattleAxeOOO",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "WeapHarbingerWarhammerOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE6E",
+    "full": "LOC_FN_WeapHarbingerWarhammerOOO",
+    "modl": "Weapons\\Iron\\Warhammer.NIF"
+  },
+  {
+    "edid": "WeapHarbingerBowOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE6F",
+    "full": "LOC_FN_WeapHarbingerBowOOO",
+    "modl": "Weapons\\Iron\\Bow.NIF"
+  },
+  {
+    "edid": "WeapRoyalBattleAxeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE71",
+    "full": "LOC_FN_WeapRoyalBattleAxeOOO",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "WeapRoyalBowOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE72",
+    "full": "LOC_FN_WeapRoyalBowOOO",
+    "modl": "Weapons\\Iron\\Bow.NIF"
+  },
+  {
+    "edid": "WeapRoyalClaymoreOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE73",
+    "full": "LOC_FN_WeapRoyalClaymoreOOO",
+    "modl": "Weapons\\Iron\\Claymore.NIF"
+  },
+  {
+    "edid": "WeapRoyalDaggerOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE74",
+    "full": "LOC_FN_WeapRoyalDaggerOOO",
+    "modl": "Weapons\\Iron\\Dagger.NIF"
+  },
+  {
+    "edid": "WeapRoyalLongswordOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE75",
+    "full": "LOC_FN_WeapRoyalLongswordOOO",
+    "modl": "Weapons\\Iron\\LongSword.NIF"
+  },
+  {
+    "edid": "WeapRoyalMaceOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE76",
+    "full": "LOC_FN_WeapRoyalMaceOOO",
+    "modl": "Weapons\\Iron\\Mace.NIF"
+  },
+  {
+    "edid": "WeapRoyalShortswordOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE77",
+    "full": "LOC_FN_WeapRoyalShortswordOOO",
+    "modl": "Weapons\\Iron\\ShortSword.NIF"
+  },
+  {
+    "edid": "WeapRoyalWarAxeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE78",
+    "full": "LOC_FN_WeapRoyalWarAxeOOO",
+    "modl": "Weapons\\Iron\\WarAxe.NIF"
+  },
+  {
+    "edid": "WeapRoyalWarhammerOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE79",
+    "full": "LOC_FN_WeapRoyalWarhammerOOO",
+    "modl": "Weapons\\Iron\\Warhammer.NIF"
+  },
+  {
     "edid": "OOOSEAmberDaggerB",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:012A5A",
     "full": "LOC_FN_OOOSEAmberDaggerB",
@@ -9999,7 +10107,7 @@
     "edid": "WeapSODZ",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:018338",
     "full": "LOC_FN_WeapSODZ",
-    "modl": "Weapons\\Dragonsword\\longsword.NIF"
+    "modl": "Weapons\\Glass\\MS18Chillrend.NIF"
   },
   {
     "edid": "OOOSE32MadnessLongsword",
@@ -10923,19 +11031,19 @@
     "edid": "WeapSeverianBlackHandDaikatana",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033EF1",
     "full": "LOC_FN_WeapSeverianBlackHandDaikatana",
-    "modl": "Weapons\\SeverianKatana\\blackhanddaikatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
     "edid": "WeapSeverianBlackHandKatana",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033EF2",
     "full": "LOC_FN_WeapSeverianBlackHandKatana",
-    "modl": "Weapons\\SeverianKatana\\blackhandkatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
   },
   {
     "edid": "WeapSeverianDaedricDaikatana",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033EF3",
     "full": "LOC_FN_WeapSeverianDaedricDaikatana",
-    "modl": "Weapons\\SeverianKatana\\daedricdaikatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
     "edid": "WeapSeverianDaedricKatana",
@@ -10947,7 +11055,7 @@
     "edid": "WeapSeverianDwarvenDaikatana",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033EF5",
     "full": "LOC_FN_WeapSeverianDwarvenDaikatana",
-    "modl": "Weapons\\SeverianKatana\\dwarvendaikatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
     "edid": "WeapSeverianDwarvenKatana",
@@ -10959,7 +11067,7 @@
     "edid": "WeapSeverianEbonyDaikatana",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033EF7",
     "full": "LOC_FN_WeapSeverianEbonyDaikatana",
-    "modl": "Weapons\\SeverianKatana\\ebonydaikatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
     "edid": "WeapSeverianEbonyKatana",
@@ -10971,7 +11079,7 @@
     "edid": "WeapSeverianElvenDaikatana",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033EF9",
     "full": "LOC_FN_WeapSeverianElvenDaikatana",
-    "modl": "Weapons\\SeverianKatana\\elvendaikatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
     "edid": "WeapSeverianElvenKatana",
@@ -10983,7 +11091,7 @@
     "edid": "WeapSeverianGlassDaikatana",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033EFB",
     "full": "LOC_FN_WeapSeverianGlassDaikatana",
-    "modl": "Weapons\\SeverianKatana\\glassdaikatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
     "edid": "WeapSeverianGlassKatana",
@@ -10995,7 +11103,7 @@
     "edid": "WeapSeverianIronDaikatana",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033EFD",
     "full": "LOC_FN_WeapSeverianIronDaikatana",
-    "modl": "Weapons\\SeverianKatana\\irondaikatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
     "edid": "WeapSeverianIronKatana",
@@ -11007,7 +11115,7 @@
     "edid": "WeapSeverianSilverDaikatana",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033EFF",
     "full": "LOC_FN_WeapSeverianSilverDaikatana",
-    "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
     "edid": "WeapSeverianSilverKatana",
@@ -11019,7 +11127,7 @@
     "edid": "WeapSeverianSteelDaikatana",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033F01",
     "full": "LOC_FN_WeapSeverianSteelDaikatana",
-    "modl": "Weapons\\SeverianKatana\\steeldaikatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
     "edid": "WeapSeverianSteelKatana",

@@ -8106,6 +8106,78 @@
     "modl": "Armor\\Mithril\\M\\Cuirass.NIF"
   },
   {
+    "edid": "UniqueHarbingerBootsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE56",
+    "full": "LOC_FN_UniqueHarbingerBootsOOO",
+    "modl": "Armor\\Glass\\M\\Boots.NIF"
+  },
+  {
+    "edid": "UniqueHarbingerCuirassOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE57",
+    "full": "LOC_FN_UniqueHarbingerCuirassOOO",
+    "modl": "Armor\\Glass\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "UniqueHarbingerGauntletsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE58",
+    "full": "LOC_FN_UniqueHarbingerGauntletsOOO",
+    "modl": "Armor\\Glass\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "UniqueHarbingerGreavesOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE59",
+    "full": "LOC_FN_UniqueHarbingerGreavesOOO",
+    "modl": "Armor\\Glass\\M\\Boots.NIF"
+  },
+  {
+    "edid": "UniqueHarbingerHelmetOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE5A",
+    "full": "LOC_FN_UniqueHarbingerHelmetOOO",
+    "modl": "Armor\\Glass\\Helmet.NIF"
+  },
+  {
+    "edid": "UniqueHarbingerShieldOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE5B",
+    "full": "LOC_FN_UniqueHarbingerShieldOOO",
+    "modl": "Armor\\Glass\\Shield.NIF"
+  },
+  {
+    "edid": "UniqueAncestralBootsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE61",
+    "full": "LOC_FN_UniqueAncestralBootsOOO",
+    "modl": "Armor\\AmelionCeremonial\\M\\Boots.NIF"
+  },
+  {
+    "edid": "UniqueAncestralCuirassOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE62",
+    "full": "LOC_FN_UniqueAncestralCuirassOOO",
+    "modl": "Armor\\AmelionCeremonial\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "UniqueAncestralGauntletsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE63",
+    "full": "LOC_FN_UniqueAncestralGauntletsOOO",
+    "modl": "Armor\\AmelionCeremonial\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "UniqueAncestralGreavesOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE64",
+    "full": "LOC_FN_UniqueAncestralGreavesOOO",
+    "modl": "Armor\\AmelionCeremonial\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "UniqueAncestralHelmetOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE65",
+    "full": "LOC_FN_UniqueAncestralHelmetOOO",
+    "modl": "Armor\\AmelionCeremonial\\M\\Helmet.NIF"
+  },
+  {
+    "edid": "UniqueAncestralShieldOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE66",
+    "full": "LOC_FN_UniqueAncestralShieldOOO",
+    "modl": "Armor\\AmelionCeremonial\\Shield.NIF"
+  },
+  {
     "edid": "LegionCuirassImperialCapeRed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0116F6",
     "full": "LOC_FN_LegionCuirassImperialCapeRed",

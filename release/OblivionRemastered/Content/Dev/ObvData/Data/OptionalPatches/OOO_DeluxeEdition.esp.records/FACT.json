@@ -1,8 +1,20 @@
 [
   {
+    "edid": "MythicDawn",
+    "formid": "Oblivion.esm:029F82",
+    "full": "LOC_FN_MythicDawn",
+    "modl": null
+  },
+  {
     "edid": "HorsePC",
     "formid": "Oblivion.esm:0C792B",
     "full": "LOC_FN_HorsePC",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOBoars",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CD9D",
+    "full": "LOC_FN_ZOOOBoars",
     "modl": null
   }
 ]

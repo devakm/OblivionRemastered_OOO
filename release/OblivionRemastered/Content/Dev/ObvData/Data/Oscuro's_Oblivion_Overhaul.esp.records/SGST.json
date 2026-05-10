@@ -202,5 +202,23 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE48",
     "full": "LOC_FN_zOOOVoidStoneResistMAG6",
     "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "AyleidFireDmgFireShld",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE85",
+    "full": "LOC_FN_AyleidFireDmgFireShld",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "AyleidFrostDmgFrostShld",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE86",
+    "full": "LOC_FN_AyleidFrostDmgFrostShld",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "AyleidShockDmgShockShld",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE87",
+    "full": "LOC_FN_AyleidShockDmgShockShld",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
   }
 ]

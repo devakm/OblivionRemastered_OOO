@@ -1,6 +1,9 @@
 {
   "Plugin": "Oscuro's_Oblivion_Overhaul.esp",
   "NewStrings": {
+    "LOC_FN_AyleidFireDmgFireShld": "Ayleid Flameguard Stone",
+    "LOC_FN_AyleidFrostDmgFrostShld": "Ayleid Frostguard Stone",
+    "LOC_FN_AyleidShockDmgShockShld": "Ayleid Shockguard Stone",
     "LOC_FN_bgSDStoneFireOOO": "Fire Stone",
     "LOC_FN_bgSDStoneFrostOOO": "Frost Stone",
     "LOC_FN_bgSDStoneShockOOO": "Shock Stone",
