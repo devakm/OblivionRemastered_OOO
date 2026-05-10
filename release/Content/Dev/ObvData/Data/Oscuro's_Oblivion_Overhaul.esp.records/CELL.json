@@ -1,5 +1,13 @@
 [
   {
+    "edid": "AnvilCastlePrivateQuarters",
+    "formid": "Oblivion.esm:007966",
+    "full": "Castle Anvil Private Quarters",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "SageGlenHollow",
     "formid": "Oblivion.esm:0149B0",
     "full": "LOC_FN_SageGlenHollow",
@@ -8,9 +16,33 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "CollapsedMine",
+    "formid": "Oblivion.esm:015C3C",
+    "full": "LOC_FN_CollapsedMine",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "FortFacian",
+    "formid": "Oblivion.esm:015E1E",
+    "full": "Fort Facian",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "FortHorunn",
     "formid": "Oblivion.esm:015E28",
     "full": "LOC_FN_FortHorunn",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "FortFlecia",
+    "formid": "Oblivion.esm:015E2B",
+    "full": "LOC_FN_FortFlecia",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -26,7 +58,31 @@
   {
     "edid": "SkingradTwoSistersLodgeUpstairs",
     "formid": "Oblivion.esm:028C91",
-    "full": "Two Sisters Lodge Upstairs",
+    "full": "LOC_FN_SkingradTwoSistersLodgeUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "AnvilCastleRoyalQuarters",
+    "formid": "Oblivion.esm:02C37D",
+    "full": "LOC_FN_AnvilCastleRoyalQuarters",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "AnvilFightersGuild",
+    "formid": "Oblivion.esm:0308CB",
+    "full": "LOC_FN_AnvilFightersGuild",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "FortFacian02",
+    "formid": "Oblivion.esm:03CD75",
+    "full": "LOC_FN_FortFacian02",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -43,6 +99,14 @@
     "edid": "ICMarketDistrictAFightingChanceUpstairs",
     "formid": "Oblivion.esm:049AEF",
     "full": "LOC_FN_ICMarketDistrictAFightingChanceUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "CollapsedMine02",
+    "formid": "Oblivion.esm:0579E9",
+    "full": "Collapsed Mine - Breakthrough",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -74,7 +138,7 @@
   {
     "edid": "Nornalhorst02",
     "formid": "Oblivion.esm:0A3DFB",
-    "full": "Nornalhorst Sel Gandrevla",
+    "full": "LOC_FN_Nornalhorst02",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -104,9 +168,49 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "zOOOBarastas",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:000D61",
+    "full": "LOC_FN_zOOOBarastas",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "zOOONarind",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002158",
+    "full": "Narind",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "zOOONarid02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002159",
+    "full": "Narind Vadosel",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Yeleri",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002642",
+    "full": "Yeleri",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Yeleri03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0028E2",
+    "full": "Yeleri Verasdel",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "Rosulas",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003594",
-    "full": "Rosulas",
+    "full": "LOC_FN_Rosulas",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -114,7 +218,7 @@
   {
     "edid": "Rosulas02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003769",
-    "full": "Rosulas Vasgedal",
+    "full": "LOC_FN_Rosulas02",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -122,7 +226,23 @@
   {
     "edid": "Varastal",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003C34",
-    "full": "Varastal",
+    "full": "LOC_FN_Varastal",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Dostares",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0043BA",
+    "full": "LOC_FN_Dostares",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Dostares02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00453A",
+    "full": "Dostares Sevadal",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -136,9 +256,41 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "zOOOArondar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007065",
+    "full": "LOC_FN_zOOOArondar",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "GraveGroundCave",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01630A",
-    "full": "Grave Ground Cave",
+    "full": "LOC_FN_GraveGroundCave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "DrownedHopesCave",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01753F",
+    "full": "LOC_FN_DrownedHopesCave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "DrownedHopesCave02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:017645",
+    "full": "Silent Lament's Hollow",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "RedGillCaverns",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01948B",
+    "full": "LOC_FN_RedGillCaverns",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -152,9 +304,33 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "GloomWayCave",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01E620",
+    "full": "Gloom Way Cave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "GloomWayCave02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01E79C",
+    "full": "LOC_FN_GloomWayCave02",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "OOOWasteCell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AEEE",
+    "full": "OOO's Waste Cell",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "MarshPunk",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02EFE5",
-    "full": "Dummy cell so GetInCell function will work",
+    "full": "LOC_FN_MarshPunk",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -162,7 +338,7 @@
   {
     "edid": "BrokenToothCave",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:039749",
-    "full": "Broken Tooth Cave",
+    "full": "LOC_FN_BrokenToothCave",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -170,7 +346,7 @@
   {
     "edid": "BrokenToothCave02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0398D0",
-    "full": "Shattered Bone Halls",
+    "full": "LOC_FN_BrokenToothCave02",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -178,7 +354,7 @@
   {
     "edid": "ThunderingStepsCave",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:039FAD",
-    "full": "Thundering Steps Cave",
+    "full": "LOC_FN_ThunderingStepsCave",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -186,7 +362,7 @@
   {
     "edid": "ThunderingSteps02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03A070",
-    "full": "Thundering Howl Caverns",
+    "full": "LOC_FN_ThunderingSteps02",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0

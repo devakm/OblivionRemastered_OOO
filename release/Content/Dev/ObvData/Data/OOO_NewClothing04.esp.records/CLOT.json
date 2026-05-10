@@ -12,12 +12,6 @@
     "modl": "Clothes\\RobeMCBlack\\Hood.NIF"
   },
   {
-    "edid": "WristIrons",
-    "formid": "Oblivion.esm:0BE335",
-    "full": "LOC_FN_WristIrons",
-    "modl": "Clothes\\LowerClass\\05\\M\\Gauntlets.NIF"
-  },
-  {
     "edid": "XElvenRobeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001BA2",
     "full": "Elven Robe",
@@ -34,6 +28,12 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001C9D",
     "full": "Silverthorn Robe",
     "modl": "Clothes\\RobeMCBlack\\M\\RobeMCBlack.NIF"
+  },
+  {
+    "edid": "KDVermillionGlovesOOOZLadyEmber",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001C9E",
+    "full": "Incandescent Gloves",
+    "modl": "Clothes\\LowerClass\\05\\M\\Gauntlets.NIF"
   },
   {
     "edid": "KDVermillionHoodOOO",
@@ -72,6 +72,18 @@
     "modl": "Clothes\\RobeLC02\\hood.NIF"
   },
   {
+    "edid": "JewelryRing5Gold7Opal",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00342F",
+    "full": "Gold Opal Ring",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "zOOODBSignetElite",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E9B",
+    "full": "Dragonborne Elite Ring",
+    "modl": "Clothes\\Ring\\UlfgarFamily.NIF"
+  },
+  {
     "edid": "XDeadricwizardOOOZladyember",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00465F",
     "full": "Ember of Oblivion",
@@ -82,6 +94,12 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004661",
     "full": "Ember of Oblivion",
     "modl": "Clothes\\RobeUC02\\M\\RobeUC02M.NIF"
+  },
+  {
+    "edid": "KDVermillionGlovesOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004665",
+    "full": "Vermillion Gloves",
+    "modl": "Clothes\\LowerClass\\05\\M\\Gauntlets.NIF"
   },
   {
     "edid": "KDVermillionHoodOOOZLadyEmber",
@@ -124,6 +142,18 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005B73",
     "full": "Lien Valeth's Robe",
     "modl": "Clothes\\Wizard\\Shirt.NIF"
+  },
+  {
+    "edid": "UpperShoes04ZLien",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005B74",
+    "full": "Lien Valeth's Shoes",
+    "modl": "Clothes\\Wizard\\Shoes.NIF"
+  },
+  {
+    "edid": "LowerRobe01whiteZPutridHand",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005B76",
+    "full": "Putrid Hand Master's Robe",
+    "modl": "Clothes\\MonkWhite\\M\\Shirt.NIF"
   },
   {
     "edid": "KDSilverthornHoodOOOZNoor",
@@ -312,6 +342,12 @@
     "modl": "Clothes\\RobeLC02\\hood.NIF"
   },
   {
+    "edid": "zOOOFollowRing",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007B59",
+    "full": "Dragonborne Followship Ring",
+    "modl": "Clothes\\Ring\\RingBrass.NIF"
+  },
+  {
     "edid": "XUnderkingrobeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00966A",
     "full": "Darkheart Robe",
@@ -372,6 +408,114 @@
     "modl": "Clothes\\RobeMCBlack\\Hood.NIF"
   },
   {
+    "edid": "zOOODBSignetReward",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C0D1",
+    "full": "Dragonborne Ring",
+    "modl": "Clothes\\Ring\\UlfgarFamily.NIF"
+  },
+  {
+    "edid": "zOOODBWeaponRing",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0127A9",
+    "full": "Dummy ring for weapon reward",
+    "modl": "Clothes\\Ring\\UlfgarFamily.NIF"
+  },
+  {
+    "edid": "LowerShoesZGoblinJim",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014308",
+    "full": "Ward of Elements",
+    "modl": "Clothes\\LowerClass\\02\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "zJewelryAmulet3JadeSlaver",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CA7D",
+    "full": "Chief Faylu Jade Amulet",
+    "modl": "Clothes\\Amulet\\AmuletJadeJeweled.NIF"
+  },
+  {
+    "edid": "JewelryRing3Jade4SapphireLerys",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CA8E",
+    "full": "Lerys' Legacy Heirloom",
+    "modl": "Clothes\\Ring\\RingJadeSapphire.NIF"
+  },
+  {
+    "edid": "JewelryRing2Copper3RubyApria",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01DA3E",
+    "full": "Lady Apria's Ruby Band",
+    "modl": "Clothes\\Ring\\RingCopperRuby.NIF"
+  },
+  {
+    "edid": "UpperPants01INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027BB6",
+    "full": "Green Silk Pants (unisex)",
+    "modl": "Clothes\\UpperClass\\01\\M\\Pants.NIF"
+  },
+  {
+    "edid": "UpperPants04INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027BB7",
+    "full": "Red Velvet Pants (unisex)",
+    "modl": "Clothes\\UpperClass\\04\\M\\Pants.NIF"
+  },
+  {
+    "edid": "UpperPants06INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027BB8",
+    "full": "Blue Silk Pants (unisex)",
+    "modl": "Clothes\\UpperClass\\UCCountCountess\\M\\Pants.NIF"
+  },
+  {
+    "edid": "UpperSkirt01INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027BB9",
+    "full": "Green Silk Skirt (unisex)",
+    "modl": "Clothes\\UpperClass\\01\\F\\pants.nif"
+  },
+  {
+    "edid": "UpperSkirt04INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027BBA",
+    "full": "Red Velvet Skirt (unisex)",
+    "modl": "Clothes\\UpperClass\\04\\F\\pants.nif"
+  },
+  {
+    "edid": "UpperSkirt06INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027BBB",
+    "full": "Blue Silk Skirt (unisex)",
+    "modl": "Clothes\\UpperClass\\UCCountCountess\\F\\pants.nif"
+  },
+  {
+    "edid": "MiddlePants01INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027BBC",
+    "full": "Brown Linen Pants (unisex)",
+    "modl": "Clothes\\MiddleClass\\01\\M\\Pants.NIF"
+  },
+  {
+    "edid": "MiddlePants02INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027BBD",
+    "full": "Tan Linen Pants (unisex)",
+    "modl": "Clothes\\MiddleClass\\02\\M\\Pants.NIF"
+  },
+  {
+    "edid": "MiddlePants04INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027BBE",
+    "full": "Burgundy Linen Pants (unisex)",
+    "modl": "Clothes\\MiddleClass\\04\\M\\Pants.NIF"
+  },
+  {
+    "edid": "MiddleSkirt01INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027BBF",
+    "full": "Brown Linen Skirt (unisex)",
+    "modl": "Clothes\\MiddleClass\\01\\F\\pants.nif"
+  },
+  {
+    "edid": "MiddleSkirt02INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027BC0",
+    "full": "Tan Linen Skirt (unisex)",
+    "modl": "Clothes\\MiddleClass\\02\\F\\pants.nif"
+  },
+  {
+    "edid": "MiddleSkirt04INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027BC1",
+    "full": "Burgundy Linen Skirt (unisex)",
+    "modl": "Clothes\\MiddleClass\\04\\F\\pants.nif"
+  },
+  {
     "edid": "UpperRobe02ZLordOblivion",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02A650",
     "full": "Fire of Oblivion",
@@ -418,6 +562,36 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F75",
     "full": "Exquisite Gown",
     "modl": "Clothes\\RobeUC01\\M\\RobeUC01M.NIF"
+  },
+  {
+    "edid": "zOOODBArmorRing",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06E9F7",
+    "full": "Dummy ring for armor reward",
+    "modl": "Clothes\\Ring\\UlfgarFamily.NIF"
+  },
+  {
+    "edid": "zOOODBSignet",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06E9F8",
+    "full": "Dragonborne Ring",
+    "modl": "Clothes\\Ring\\UlfgarFamily.NIF"
+  },
+  {
+    "edid": "zOOODBAmuletReward",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA5F",
+    "full": "Dragonborne Amulet",
+    "modl": "Clothes\\Amulet\\AmuletJadeJeweled.NIF"
+  },
+  {
+    "edid": "zOOODBSignetAlain",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA60",
+    "full": "Dragonborne Ring",
+    "modl": "Clothes\\Ring\\UlfgarFamily.NIF"
+  },
+  {
+    "edid": "zOOODBAmuletAlain",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA61",
+    "full": "Dragonborne Amulet",
+    "modl": "Clothes\\Amulet\\AmuletJadeJeweled.NIF"
   },
   {
     "edid": "OOOSEZealotHood3",

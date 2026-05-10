@@ -18,18 +18,6 @@
     "modl": "Weapons\\Glass\\Bow.NIF"
   },
   {
-    "edid": "rdMithrilWarAxeOOOHoar",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0010BF",
-    "full": "Hang'em",
-    "modl": "Weapons\\RD\\rdmithrilaxe.nif"
-  },
-  {
-    "edid": "rdKukriOOOBellamont",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001630",
-    "full": "Vengeance",
-    "modl": "Weapons\\RD\\rdkukri.nif"
-  },
-  {
     "edid": "WeapMaulerFineWoodOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002082",
     "full": "Fine Wooden Mauler",
@@ -66,30 +54,6 @@
     "modl": "Weapons\\templar\\club\\TheMaulerMarble.nif"
   },
   {
-    "edid": "rdKukriOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C40E",
-    "full": "Kukri",
-    "modl": "Weapons\\RD\\rdkukri.nif"
-  },
-  {
-    "edid": "rdMithrilWarAxeOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C40F",
-    "full": "Mithril War Axe",
-    "modl": "Weapons\\RD\\rdmithrilaxe.nif"
-  },
-  {
-    "edid": "rdSteelBeardedWarAxeOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C411",
-    "full": "Steel Bearded War Axe",
-    "modl": "Weapons\\RD\\rd1hsteelbeardaxe.nif"
-  },
-  {
-    "edid": "rdTwoHeadBattleAxeOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C413",
-    "full": "Double-Headed Battle Axe",
-    "modl": "Weapons\\RD\\rdvikingaxe1.nif"
-  },
-  {
     "edid": "WeapCetRapier2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00D468",
     "full": "Noble Dark Steel Rapier",
@@ -106,12 +70,6 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00D46C",
     "full": "Edge of Darkness",
     "modl": "Weapons\\Cetrapier\\cetrapier.nif"
-  },
-  {
-    "edid": "ShadowMailBowOOOFlame",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:019D3E",
-    "full": "Shadow Bow of Flames",
-    "modl": "weapons\\ShadowMail\\bow.nif"
   },
   {
     "edid": "WeapBlackGlassScytheOOO",
@@ -400,30 +358,6 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0359D9",
     "full": "Blade of Vengeance",
     "modl": "Weapons\\bladeofvengeance\\bladeofvengeance.nif"
-  },
-  {
-    "edid": "ShadowMailBladeOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:038864",
-    "full": "Sword of Shadow",
-    "modl": "weapons\\ShadowMail\\ShadowBlade.nif"
-  },
-  {
-    "edid": "ShadowMailBowOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:038865",
-    "full": "Shadow Bow",
-    "modl": "weapons\\ShadowMail\\bow.nif"
-  },
-  {
-    "edid": "ShadowMailClaymoreOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:038866",
-    "full": "Claymore of Shadow ",
-    "modl": "weapons\\ShadowMail\\Claymore.nif"
-  },
-  {
-    "edid": "ShadowMailShortBladeOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:038867",
-    "full": "Shortsword of Shadow",
-    "modl": "weapons\\ShadowMail\\shortsword.nif"
   },
   {
     "edid": "WeapCetRapier",

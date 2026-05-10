@@ -114,12 +114,6 @@
     "modl": "Armor\\Mithril\\M\\Cuirass.NIF"
   },
   {
-    "edid": "KDWhiteRoseHelmOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:027162",
-    "full": "White Rose Helm",
-    "modl": "armor\\KDwhiterose\\whiterosehelm.nif"
-  },
-  {
     "edid": "KDWhiteRoseHGauntletsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027163",
     "full": "White Rose Gauntlets",

@@ -56,14 +56,14 @@
   {
     "edid": "DeskClutterMiddle02",
     "formid": "Oblivion.esm:024458",
-    "full": "Desk",
-    "modl": "harvest\\containers\\XMSharvestMiddleDesk01HiFi.nif"
+    "full": "LOC_FN_DeskClutterMiddle02",
+    "modl": "Furniture\\MiddleClass\\MiddleDesk01.NIF"
   },
   {
     "edid": "DeskClutterUpper01",
     "formid": "Oblivion.esm:024466",
-    "full": "Desk",
-    "modl": "harvest\\containers\\XMSharvestUpperDesk01HiFi.nif"
+    "full": "LOC_FN_DeskClutterUpper01",
+    "modl": "Furniture\\UpperClass\\UpperDesk01.NIF"
   },
   {
     "edid": "DeskClutterUpper02",
@@ -128,8 +128,8 @@
   {
     "edid": "DeskExecClutter01",
     "formid": "Oblivion.esm:024951",
-    "full": "Desk",
-    "modl": "harvest\\containers\\XMSharvestUpperExecDesk01HiFi.nif"
+    "full": "LOC_FN_DeskExecClutter01",
+    "modl": "Furniture\\UpperClass\\UpperExecDesk01.NIF"
   },
   {
     "edid": "ChestClutterUpperSame02",
@@ -140,8 +140,8 @@
   {
     "edid": "MG03ArenimDesk",
     "formid": "Oblivion.esm:02C678",
-    "full": "Desk",
-    "modl": "harvest\\containers\\XMSharvestMiddleDesk01HiFi.nif"
+    "full": "LOC_FN_MG03ArenimDesk",
+    "modl": "Clutter\\MiddleClass\\MiddleDesk01.NIF"
   },
   {
     "edid": "DungOblivionBagOfBones",
@@ -788,8 +788,8 @@
   {
     "edid": "MG06Desk01",
     "formid": "Oblivion.esm:07B737",
-    "full": "Desk",
-    "modl": "harvest\\containers\\XMSharvestUpperExecDesk01HiFi.nif"
+    "full": "LOC_FN_MG06Desk01",
+    "modl": "Furniture\\UpperClass\\UpperExecDesk01.NIF"
   },
   {
     "edid": "Dark02CaptainChest",
@@ -1149,7 +1149,7 @@
     "edid": "1grayfoxarmorychest",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0011D7",
     "full": "Gray Fox's Armory",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
   },
   {
     "edid": "VendorRindirsStaffsDefStaffsOOO",

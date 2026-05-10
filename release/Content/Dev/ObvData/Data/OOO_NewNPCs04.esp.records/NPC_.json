@@ -1698,6 +1698,168 @@
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
+    "edid": "BanditAmazonMeleeFemale6A",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109A0",
+    "full": "Amazon Man-Eater",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "BanditAmazonBossFemale7",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109A1",
+    "full": "Amazon Wise Mother",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditAmazonBossFemale8",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109A2",
+    "full": "Amazon Wise Mother",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditAmazonBossFemale7B",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109A3",
+    "full": "Amazon Wise Mother",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditAmazonBossFemale8B",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109A4",
+    "full": "Amazon Wise Mother",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditAmazonMeleeFemale6B",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109A5",
+    "full": "Amazon Man-Eater",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "BanditAmazonMeleeFemale6C",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109A6",
+    "full": "Amazon Man-Eater",
+    "modl": "characters\\_Male\\skeletonbeast.nif"
+  },
+  {
+    "edid": "BanditAmazonMeleeFemale6D",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109A7",
+    "full": "Amazon Man-Eater",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "BanditAmazonMeleeFemale6E",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109A8",
+    "full": "Amazon Man-Eater",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "BanditAmazonMissileFemale6A",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109A9",
+    "full": "Amazon Man-Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditAmazonMissileFemale6B",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109AA",
+    "full": "Amazon Man-Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditAmazonMissileFemale6C",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109AB",
+    "full": "Amazon Man-Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditAmazonMissileFemale6D",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109AC",
+    "full": "Amazon Man-Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditAmazonMissileFemale6E",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109AD",
+    "full": "Amazon Man-Hunter",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditAmazonWizardFemale6A",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109AE",
+    "full": "Amazon Raging Priestess",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditAmazonWizardFemale6B",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109AF",
+    "full": "Amazon Raging Priestess",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditAmazonWizardFemale6C",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109B0",
+    "full": "Amazon Raging Priestess",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditAmazonWizardFemale6D",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109B1",
+    "full": "Amazon Raging Priestess",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditAmazonWizardFemale6E",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109B2",
+    "full": "Amazon Raging Priestess",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditBlackBowBoss4Female4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109B3",
+    "full": "Black Bow Ringleader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditBlackBowBoss4Male4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109B4",
+    "full": "Black Bow Ringleader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditBlackBowFemale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109B5",
+    "full": "Black Bow Bandit",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditBlackBowFemale6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109B6",
+    "full": "Black Bow Bandit",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditBlackBowMale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109B7",
+    "full": "Black Bow Bandit",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditBlackBowMale6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109B8",
+    "full": "Black Bow Bandit",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditBossFemale4OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109B9",
+    "full": "Bandit Ringleader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditBossMale4OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0109BA",
+    "full": "Bandit Ringleader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
     "edid": "BanditHighwayman07",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0109BB",
     "full": "Highwayman",
@@ -1722,6 +1884,114 @@
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
+    "edid": "BanditMeleeFemale5A",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010EAE",
+    "full": "Bandit",
+    "modl": "Characters\\_Male\\SkeletonBeast.NIF"
+  },
+  {
+    "edid": "BanditMeleeFemale5B",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010EAF",
+    "full": "Bandit",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditMeleeFemale5C",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010EB1",
+    "full": "Bandit",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditMeleeFemale5D",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010EB2",
+    "full": "Bandit",
+    "modl": "Characters\\_Male\\SkeletonBeast.NIF"
+  },
+  {
+    "edid": "BanditMeleeMale5A",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010EB3",
+    "full": "Bandit",
+    "modl": "Characters\\_Male\\SkeletonBeast.NIF"
+  },
+  {
+    "edid": "BanditMeleeMale5B",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010EB4",
+    "full": "Bandit",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditMeleeMale5C",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010EB5",
+    "full": "Bandit",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditMeleeMale5D",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010EB6",
+    "full": "Bandit",
+    "modl": "Characters\\_Male\\SkeletonBeast.NIF"
+  },
+  {
+    "edid": "BanditMissileFemale5A",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010EB7",
+    "full": "Bandit Bowman",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditMissileFemale5C",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010EB8",
+    "full": "Bandit Bowman",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditMissileFemale5B",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010EB9",
+    "full": "Bandit Bowman",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditMissileFemale5D",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010EBA",
+    "full": "Bandit Bowman",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditMissileMale5A",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010EBB",
+    "full": "Bandit Bowman",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditMissileMale5C",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010EBC",
+    "full": "Bandit Bowman",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditMissileMale5B",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010EBD",
+    "full": "Bandit Bowman",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditMissileMale5D",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010EBE",
+    "full": "Bandit Bowman",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditWizardFemale5A",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010EC3",
+    "full": "Bandit Hedge Wizard",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditWizardFemale5C",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010EC4",
+    "full": "Bandit Hedge Wizard",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
     "edid": "BanditWizardMale5A",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:010EC5",
     "full": "Bandit Hedge Wizard",
@@ -1742,6 +2012,18 @@
   {
     "edid": "BanditWizardMale5D",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:010EC8",
+    "full": "Bandit Hedge Wizard",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditWizardFemale5B",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010EC9",
+    "full": "Bandit Hedge Wizard",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BanditWizardFemale5D",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010ECA",
     "full": "Bandit Hedge Wizard",
     "modl": "Characters\\_Male\\skeleton.nif"
   },

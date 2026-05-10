@@ -2256,6 +2256,12 @@
     "modl": "OOOSE\\Matrix\\MadnessHelmet.nif"
   },
   {
+    "edid": "GemZEmeraldJephre",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C39A",
+    "full": "Heart of the Wild Woods",
+    "modl": "clutter\\GX\\Gems\\Jephreemerald.nif"
+  },
+  {
     "edid": "Gem0PlatinumBar",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CE17",
     "full": "Platinum Bar",

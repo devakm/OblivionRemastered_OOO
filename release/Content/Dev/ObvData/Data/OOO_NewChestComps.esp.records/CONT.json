@@ -224,7 +224,7 @@
   {
     "edid": "MG06Desk01",
     "formid": "Oblivion.esm:07B737",
-    "full": "Desk",
+    "full": "LOC_FN_MG06Desk01",
     "modl": "Furniture\\UpperClass\\UpperExecDesk01.NIF"
   },
   {
@@ -292,12 +292,6 @@
     "formid": "Oblivion.esm:18B72C",
     "full": "LOC_FN_ChestJewelryMiddle01",
     "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
-  },
-  {
-    "edid": "1grayfoxarmorychest",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0011D7",
-    "full": "Gray Fox's Armory",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
   },
   {
     "edid": "ZOOOChestJewelry01NobleT100AlvaUlani",

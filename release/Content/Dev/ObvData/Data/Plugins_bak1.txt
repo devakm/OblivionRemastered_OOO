@@ -1,0 +1,27 @@
+Oblivion.esm
+DLCBattlehornCastle.esp
+DLCFrostcrag.esp
+DLCHorseArmor.esp
+DLCMehrunesRazor.esp
+DLCOrrery.esp
+DLCShiveringIsles.esp
+DLCSpellTomes.esp
+DLCThievesDen.esp
+DLCVileLair.esp
+Knights.esp
+AltarESPMain.esp
+AltarDeluxe.esp
+Unofficial Oblivion Remastered Patch.esp
+Unofficial Oblivion Remastered Patch - Deluxe.esp
+Quest NPCs Run.esp
+AbandonedHouseNewPlayerHome.esp
+Oscuro's_Oblivion_Overhaul.esm
+Oscuro's_Oblivion_Overhaul.esp
+Eli_WatersideHouse.esp
+EliStarterCamp.esp
+Battlehorn Castle Private Quarters.esp
+OOO_Horses.esp
+Shades_Simple_Saddlebags.esp
+MastercraftedSteelArmorAndWeaponsSet.esp
+OOO_UnlimitedRingsReduxPatch.esp
+OOOSIFIX.esp

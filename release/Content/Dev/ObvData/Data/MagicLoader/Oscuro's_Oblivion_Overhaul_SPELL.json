@@ -11,6 +11,10 @@
 		"LOC_FN_ScrollDrainHealth1Kill": "Kill (weak)",
 		"LOC_FN_ScrollDrainHealth3Kill": "Kill (potent)",
 		"LOC_FN_ScrollDrainHealth4Kill": "Kill (superior)",
-		"LOC_FN_ScrollDrainHealth5Kill": "Kill (master)"
+		"LOC_FN_ScrollDrainHealth5Kill": "Kill (master)",
+		"LOC_FN_FurCuirassWorn": "Worn Fur Cuirass",
+		"LOC_FN_LeatherCuirassWorn": "Worn Leather Cuirass",
+		"LOC_FN_ChainmailCuirassWorn": "Worn Chainmail Cuirass",
+		"LOC_FN_LOC_FN_MithrilCuirassWorn": "Worn Mithril Cuirass"
     }
 }

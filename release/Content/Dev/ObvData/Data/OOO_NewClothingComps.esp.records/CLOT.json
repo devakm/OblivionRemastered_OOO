@@ -120,10 +120,28 @@
     "modl": "Clothes\\RobeUC02\\hood.NIF"
   },
   {
+    "edid": "EnchAmuletSpellAbsorptionJeweled",
+    "formid": "Oblivion.esm:09843F",
+    "full": "Grand Amulet of Absorption",
+    "modl": "Clothes\\Amulet\\amuletjeweled.NIF"
+  },
+  {
+    "edid": "EnchAmuletReflectSpellJade",
+    "formid": "Oblivion.esm:09845B",
+    "full": "LOC_FN_EnchAmuletReflectSpellJade",
+    "modl": "Clothes\\Amulet\\AmuletJadeJeweled.NIF"
+  },
+  {
     "edid": "UpperRobe01",
     "formid": "Oblivion.esm:0A498F",
     "full": "LOC_FN_UpperRobe01",
     "modl": "Clothes\\Wizard\\Shirt.NIF"
+  },
+  {
+    "edid": "WristIrons",
+    "formid": "Oblivion.esm:0BE335",
+    "full": "LOC_FN_WristIrons",
+    "modl": "Clothes\\LowerClass\\05\\M\\Gauntlets.NIF"
   },
   {
     "edid": "LowerRobe02",
@@ -136,5 +154,77 @@
     "formid": "Oblivion.esm:12DD1F",
     "full": "LOC_FN_LowerRobe02hood",
     "modl": "Clothes\\RobeLCGrey\\Hood.NIF"
+  },
+  {
+    "edid": "KDVermillionGlovesOOOZLadyEmber",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001C9E",
+    "full": "Incandescent Gloves",
+    "modl": "Clothes\\LowerClass\\05\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "zOOODBSignetElite",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E9B",
+    "full": "Dragonborne Elite Ring",
+    "modl": "Clothes\\Ring\\UlfgarFamily.NIF"
+  },
+  {
+    "edid": "KDVermillionGlovesOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004665",
+    "full": "Vermillion Gloves",
+    "modl": "Clothes\\LowerClass\\05\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "zOOOFollowRing",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007B59",
+    "full": "Dragonborne Followship Ring",
+    "modl": "Clothes\\Ring\\RingBrass.NIF"
+  },
+  {
+    "edid": "zOOODBSignetReward",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C0D1",
+    "full": "Dragonborne Ring",
+    "modl": "Clothes\\Ring\\UlfgarFamily.NIF"
+  },
+  {
+    "edid": "zOOODBWeaponRing",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0127A9",
+    "full": "Dummy ring for weapon reward",
+    "modl": "Clothes\\Ring\\UlfgarFamily.NIF"
+  },
+  {
+    "edid": "zJewelryAmulet3JadeSlaver",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CA7D",
+    "full": "Chief Faylu Jade Amulet",
+    "modl": "Clothes\\Amulet\\AmuletJadeJeweled.NIF"
+  },
+  {
+    "edid": "zOOODBArmorRing",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06E9F7",
+    "full": "Dummy ring for armor reward",
+    "modl": "Clothes\\Ring\\UlfgarFamily.NIF"
+  },
+  {
+    "edid": "zOOODBSignet",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06E9F8",
+    "full": "Dragonborne Ring",
+    "modl": "Clothes\\Ring\\UlfgarFamily.NIF"
+  },
+  {
+    "edid": "zOOODBAmuletReward",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA5F",
+    "full": "Dragonborne Amulet",
+    "modl": "Clothes\\Amulet\\AmuletJadeJeweled.NIF"
+  },
+  {
+    "edid": "zOOODBSignetAlain",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA60",
+    "full": "Dragonborne Ring",
+    "modl": "Clothes\\Ring\\UlfgarFamily.NIF"
+  },
+  {
+    "edid": "zOOODBAmuletAlain",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA61",
+    "full": "Dragonborne Amulet",
+    "modl": "Clothes\\Amulet\\AmuletJadeJeweled.NIF"
   }
 ]

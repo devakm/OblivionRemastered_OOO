@@ -1,0 +1,312 @@
+[
+  {
+    "edid": "LL0SummonAllMajor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 25,
+        "ref_formid": "Oblivion.esm:0AA05C"
+      },
+      {
+        "count": 1,
+        "level": 25,
+        "ref_formid": "Oblivion.esm:0AA05E"
+      },
+      {
+        "count": 1,
+        "level": 25,
+        "ref_formid": "Oblivion.esm:0AA05F"
+      },
+      {
+        "count": 1,
+        "level": 25,
+        "ref_formid": "Oblivion.esm:0AA063"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "Oblivion.esm:03C414"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "Oblivion.esm:03C415"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "Oblivion.esm:0AA059"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "Oblivion.esm:0AA05A"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:03C416"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:03C417"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:0AA057"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:0AA058"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:0AA05B"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:0AA062"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "Oblivion.esm:03C413"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "Oblivion.esm:03C419"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "Oblivion.esm:0AA060"
+      }
+    ],
+    "formid": "Oblivion.esm:037C55"
+  },
+  {
+    "edid": "LL0SummonAllMajorLvl100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 25,
+        "ref_formid": "Oblivion.esm:0AA05C"
+      },
+      {
+        "count": 1,
+        "level": 25,
+        "ref_formid": "Oblivion.esm:0AA05E"
+      },
+      {
+        "count": 1,
+        "level": 25,
+        "ref_formid": "Oblivion.esm:0AA05F"
+      },
+      {
+        "count": 1,
+        "level": 25,
+        "ref_formid": "Oblivion.esm:0AA063"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "Oblivion.esm:03C414"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "Oblivion.esm:03C415"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "Oblivion.esm:0AA059"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "Oblivion.esm:0AA05A"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:03C416"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:03C417"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:0AA057"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:0AA058"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:0AA05B"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:0AA062"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "Oblivion.esm:03C413"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "Oblivion.esm:03C419"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "Oblivion.esm:0AA060"
+      }
+    ],
+    "formid": "Oblivion.esm:04C8FF"
+  },
+  {
+    "edid": "LL0SummonDaedraMajor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 25,
+        "ref_formid": "Oblivion.esm:0AA05E"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "Oblivion.esm:0AA059"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "Oblivion.esm:0AA05A"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:0AA057"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:0AA058"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:0AA05B"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "Oblivion.esm:03C413"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "Oblivion.esm:0AA060"
+      }
+    ],
+    "formid": "Oblivion.esm:04C944"
+  },
+  {
+    "edid": "LL0SummonDaedraMajorLvl100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 25,
+        "ref_formid": "Oblivion.esm:0AA05E"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "Oblivion.esm:0AA059"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "Oblivion.esm:0AA05A"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:0AA057"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:0AA058"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:0AA05B"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "Oblivion.esm:03C413"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "Oblivion.esm:0AA060"
+      }
+    ],
+    "formid": "Oblivion.esm:04C946"
+  },
+  {
+    "edid": "LL0DremoraMageSummonLvl100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 25,
+        "ref_formid": "Oblivion.esm:0AA05E"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "Oblivion.esm:0AA05A"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:0AA057"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:0AA058"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "Oblivion.esm:0AA060"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "Oblivion.esm:0AA061"
+      }
+    ],
+    "formid": "Oblivion.esm:0887F5"
+  }
+]

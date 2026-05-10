@@ -1,0 +1,18 @@
+{
+  "esp": "OOO_NoSpiderDaedra.esp",
+  "record_types": [
+    "LVLC",
+    "LVLI",
+    "LVSP",
+    "NPC_"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "DLCSpellTomes.esp",
+      "AltarESPMain.esp",
+      "Oscuro's_Oblivion_Overhaul.esm"
+    ],
+    "version": 1.0
+  }
+}

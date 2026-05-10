@@ -1,0 +1,29 @@
+{
+  "Plugin": "Oscuro's_Oblivion_Overhaul.esp",
+"FullNames": {
+  "LOC_FN_ThunderingSteps02": "Thundering Howl Caverns",
+  "LOC_FN_GraveGroundCave": "Grave Ground Cave",
+  "LOC_FN_Varastal": "Varastal",
+  "LOC_FN_RedGillCaverns": "Red Gill Cave",
+  "LOC_FN_Rosulas02": "Rosulas Vasgedal",
+  "LOC_FN_MarshPunk": "Dummy cell so GetInCell function will work",
+  "LOC_FN_ThunderingStepsCave": "Thundering Steps Cave",
+  "LOC_FN_Rosulas": "Rosulas",
+  "LOC_FN_BrokenToothCave": "Broken Tooth Cave",
+  "LOC_FN_BrokenToothCave02": "Shattered Bone Halls",
+},
+"NewCells": [
+  "3a070",
+  "1630a",
+  "3c34",
+  "1948b",
+  "3769",
+  "2efe5",
+  "39fad",
+  "3594",
+  "39749",
+  "398d0",
+  "6157",
+  "1cc27"
+]
+}

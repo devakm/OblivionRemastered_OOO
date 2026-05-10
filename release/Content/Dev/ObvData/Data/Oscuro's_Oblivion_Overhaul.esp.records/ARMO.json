@@ -6092,7 +6092,7 @@
   {
     "edid": "DaedricHelmetGhost",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003C2D",
-    "full": "Daedric Helmet",
+    "full": "LOC_FN_DaedricHelmet",
     "modl": "Armor\\Daedric\\M\\Helmet.NIF"
   },
   {

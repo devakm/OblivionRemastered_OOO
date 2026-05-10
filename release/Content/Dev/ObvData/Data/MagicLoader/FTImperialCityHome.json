@@ -1,0 +1,15 @@
+{
+	"Plugin": "FTImperialCityHome.esp",
+	"NewCells": [
+		"1323a"
+	],
+	"CellMap": {
+		"1323b": "/Game/Maps/Interiors/L_WarehouseBooks",
+		"1323c": "/Game/Maps/Interiors/L_WarehouseMisc"
+		},
+	"FullNames": {
+		"LOC_FN_AAFTImperialCityHouseGroundFloor": "My Imperial City House",
+		"LOC_FN_AAFTImperialCityHouseQuarters": "My Private Quarters",
+		"LOC_FN_AAFTImperialCItyHouseBasement": "My Basement"
+	}
+}

@@ -1,6 +1,7 @@
 {
   "esp": "OOO_NewNPCs04.esp",
   "record_types": [
+    "CLAS",
     "LVLC",
     "NPC_",
     "PACK",

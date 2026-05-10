@@ -2013,7 +2013,7 @@
     "edid": "KDVermillionGlovesOOOZLadyEmber",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001C9E",
     "full": "Incandescent Gloves",
-    "modl": "clothes\\KDRobes\\Mvermgaunt.nif"
+    "modl": "Clothes\\LowerClass\\05\\M\\Gauntlets.NIF"
   },
   {
     "edid": "KDVermillionHoodOOO",
@@ -2247,7 +2247,7 @@
     "edid": "KDVermillionGlovesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004665",
     "full": "Vermillion Gloves",
-    "modl": "clothes\\KDRobes\\Mvermgaunt.nif"
+    "modl": "Clothes\\LowerClass\\05\\M\\Gauntlets.NIF"
   },
   {
     "edid": "KDVermillionHoodOOOZLadyEmber",
@@ -3513,7 +3513,7 @@
     "edid": "zOOODBAmuletReward",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA5F",
     "full": "Dragonborne Amulet",
-    "modl": "armor\\DraconicArmor\\metamulet.nif"
+    "modl": "Clothes\\Amulet\\AmuletJadeJeweled.NIF"
   },
   {
     "edid": "zOOODBSignetAlain",
@@ -3525,7 +3525,7 @@
     "edid": "zOOODBAmuletAlain",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA61",
     "full": "Dragonborne Amulet",
-    "modl": "armor\\DraconicArmor\\metamulet.nif"
+    "modl": "Clothes\\Amulet\\AmuletJadeJeweled.NIF"
   },
   {
     "edid": "OOOHooves",

@@ -108,6 +108,12 @@
     "modl": "Armor\\Steel\\M\\Gauntlets.NIF"
   },
   {
+    "edid": "SteelCuirass",
+    "formid": "Oblivion.esm:0229A2",
+    "full": "LOC_FN_SteelCuirass",
+    "modl": "Armor\\Steel\\M\\Cuirass.NIF"
+  },
+  {
     "edid": "SteelGreaves",
     "formid": "Oblivion.esm:0229A3",
     "full": "LOC_FN_SteelGreaves",

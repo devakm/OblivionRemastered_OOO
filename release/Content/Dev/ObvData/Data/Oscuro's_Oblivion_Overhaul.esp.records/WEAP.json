@@ -8175,13 +8175,13 @@
     "edid": "rdMithrilWarAxeOOOHoar",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0010BF",
     "full": "Hang'em",
-    "modl": "Weapons\\RD\\rdmithrilaxe.nif"
+    "modl": "Weapons\\Silver\\WarAxe.NIF"
   },
   {
     "edid": "rdKukriOOOBellamont",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001630",
     "full": "Vengeance",
-    "modl": "Weapons\\RD\\rdkukri.nif"
+    "modl": "Weapons\\Steel\\DaggerFine.NIF"
   },
   {
     "edid": "WeapAyleidBattleAxeEnchFireblast",
@@ -9717,13 +9717,13 @@
     "edid": "rdKukriOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C40E",
     "full": "Kukri",
-    "modl": "Weapons\\RD\\rdkukri.nif"
+    "modl": "Weapons\\Steel\\DaggerFine.NIF"
   },
   {
     "edid": "rdMithrilWarAxeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C40F",
     "full": "Mithril War Axe",
-    "modl": "Weapons\\RD\\rdmithrilaxe.nif"
+    "modl": "Weapons\\Silver\\WarAxe.NIF"
   },
   {
     "edid": "rdSteelBeardedBattleAxeOOO",
@@ -9735,7 +9735,7 @@
     "edid": "rdSteelBeardedWarAxeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C411",
     "full": "Steel Bearded War Axe",
-    "modl": "Weapons\\RD\\rd1hsteelbeardaxe.nif"
+    "modl": "Weapons\\Steel\\WarAxeFine.NIF"
   },
   {
     "edid": "rdTemplarSwordOOO",
@@ -9747,7 +9747,7 @@
     "edid": "rdTwoHeadBattleAxeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C413",
     "full": "Double-Headed Battle Axe",
-    "modl": "Weapons\\RD\\rdvikingaxe1.nif"
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
   },
   {
     "edid": "WeapAkaviriZDaiKatanaOOO",
@@ -9981,7 +9981,7 @@
     "edid": "zzOOODBRewardStaff",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0150AD",
     "full": "Staff of Sickness",
-    "modl": "Weapons\\NewMagicStaves\\solidwoodstaffbrownoffense.nif"
+    "modl": "Staffs\\TestStaff.NIF"
   },
   {
     "edid": "OOOSEUniqueLizardSlayer",
@@ -10101,7 +10101,7 @@
     "edid": "ShadowMailBowOOOFlame",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:019D3E",
     "full": "Shadow Bow of Flames",
-    "modl": "weapons\\ShadowMail\\bow.nif"
+    "modl": "Weapons\\Steel\\Bow.NIF"
   },
   {
     "edid": "OOOSE32ZealotrySwordDaiA",
@@ -10232,8 +10232,8 @@
   {
     "edid": "ArenaSteelClaymore",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01D1BB",
-    "full": "Dwemer Claymore",
-    "modl": "Weapons\\Dwarven\\Claymore.NIF"
+    "full": "LOC_FN_WeapSteelClaymore",
+    "modl": "Weapons\\Steel\\Claymore.NIF"
   },
   {
     "edid": "WeapClubZNamira",
@@ -10696,12 +10696,6 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:029C24",
     "full": "Silvery Falls",
     "modl": "Weapons\\Silver\\Claymore.NIF"
-  },
-  {
-    "edid": "OOOSEHereticalAxe1",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AEF1",
-    "full": "War Axe of Heresy",
-    "modl": "OOOSE\\Weap\\Other\\HereticAxe.nif"
   },
   {
     "edid": "OOOSEHereticalAxe2",
@@ -11481,25 +11475,25 @@
     "edid": "ShadowMailBladeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038864",
     "full": "Sword of Shadow",
-    "modl": "weapons\\ShadowMail\\ShadowBlade.nif"
+    "modl": "Weapons\\BlackwaterBlade\\BlackwaterBlade.NIF"
   },
   {
     "edid": "ShadowMailBowOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038865",
     "full": "Shadow Bow",
-    "modl": "weapons\\ShadowMail\\bow.nif"
+    "modl": "Weapons\\Steel\\Bow.NIF"
   },
   {
     "edid": "ShadowMailClaymoreOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038866",
     "full": "Claymore of Shadow ",
-    "modl": "weapons\\ShadowMail\\Claymore.nif"
+    "modl": "Weapons\\Steel\\ClaymoreFine.NIF"
   },
   {
     "edid": "ShadowMailShortBladeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038867",
     "full": "Shortsword of Shadow",
-    "modl": "weapons\\ShadowMail\\shortsword.nif"
+    "modl": "Weapons\\Steel\\ShortswordFine.NIF"
   },
   {
     "edid": "WeapCetRapier",
@@ -13624,5 +13618,11 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:121478",
     "full": "Ravensword",
     "modl": "OOOSE\\weap\\other\\RavenSword.NIF"
+  },
+  {
+    "edid": "OOOSEHereticalAxe1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:92AEF1",
+    "full": "War Axe of Heresy",
+    "modl": "OOOSE\\Weap\\Other\\HereticAxe.nif"
   }
 ]

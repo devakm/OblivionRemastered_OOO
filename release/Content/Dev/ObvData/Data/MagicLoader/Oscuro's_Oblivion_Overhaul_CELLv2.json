@@ -1,0 +1,66 @@
+{
+    "Plugin": "Oscuro's_Oblivion_Overhaul.esp",
+    "NewCells": [
+        "DrownedHopesCave",
+        "DeepCoverCave",
+		"GraveGroundCave",
+		"RedGillCaverns"
+    ],
+    "FullNames": {
+        "LOC_FN_DrownedHopesCave": "Drowned Hopes Cave",
+        "LOC_FN_DeepCoverCave": "Deep Cover Cave",
+		"LOC_FN_GraveGroundCave": "Grave Ground Cave"
+    }
+,"FullNames": {
+  "LOC_FN_SageGlenHollow": "LOC_FN_SageGlenHollow",
+  "LOC_FN_Elenglynn": "LOC_FN_Elenglynn",
+  "LOC_FN_GreenmeadCave03": "LOC_FN_GreenmeadCave03",
+  "LOC_FN_FortHorunn": "LOC_FN_FortHorunn",
+  "LOC_FN_ThunderingSteps02": "Thundering Howl Caverns",
+  "LOC_FN_GraveGroundCave": "Grave Ground Cave",
+  "LOC_FN_Varastal": "Varastal",
+  "LOC_FN_RedGillCaverns": "Red Gill Cave",
+  "LOC_FN_SageGlenHollow02": "LOC_FN_SageGlenHollow02",
+  "LOC_FN_Rosulas02": "Rosulas Vasgedal",
+  "LOC_FN_MarshPunk": "Dummy cell so GetInCell function will work",
+  "LOC_FN_ThunderingStepsCave": "Thundering Steps Cave",
+  "LOC_FN_Nonungalo02": "LOC_FN_Nonungalo02",
+  "LOC_FN_Rosulas": "Rosulas",
+  "LOC_FN_ICTalosPlazaJakbenImbelHouseTop": "LOC_FN_ICTalosPlazaJakbenImbelHouseTop",
+  "LOC_FN_ICMarketDistrictAFightingChanceUpstairs": "LOC_FN_ICMarketDistrictAFightingChanceUpstairs",
+  "LOC_FN_Nonungalo": "LOC_FN_Nonungalo",
+  "LOC_FN_Nornalhorst02": "Nornalhorst Sel Gandrevla",
+  "LOC_FN_BrokenToothCave": "Broken Tooth Cave",
+  "LOC_FN_SkingradTwoSistersLodgeUpstairs": "Two Sisters Lodge Upstairs",
+  "LOC_FN_LipsandTarn02": "LOC_FN_LipsandTarn02",
+  "LOC_FN_BrokenToothCave02": "Shattered Bone Halls",
+  "LOC_FN_ShadowsRestCavern02": "LOC_FN_ShadowsRestCavern02"
+},
+"NewCells": [
+  "149b0",
+  "16634",
+  "a7954",
+  "15e28",
+  "3a070",
+  "1630a",
+  "3c34",
+  "1948b",
+  "5e1e0",
+  "3769",
+  "2efe5",
+  "39fad",
+  "a04e8",
+  "3594",
+  "3d867",
+  "49aef",
+  "a04e9",
+  "a3dfb",
+  "39749",
+  "28c91",
+  "a3dfc",
+  "398d0",
+  "a7949",
+  "6157",
+  "1cc27"
+]
+}

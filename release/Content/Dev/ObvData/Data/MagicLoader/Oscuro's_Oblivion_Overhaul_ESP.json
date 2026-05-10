@@ -1,0 +1,13 @@
+{
+    "Plugin": "Oscuro's_Oblivion_Overhaul.esp",
+    "NewCells": [
+        "DrownedHopesCave",
+        "DeepCoverCave",
+		"GraveGroundCave"
+    ],
+    "FullNames": {
+        "LOC_FN_DrownedHopesCave": "Drowned Hopes Cave",
+        "LOC_FN_DeepCoverCave": "Deep Cover Cave",
+		"LOC_FN_GraveGroundCave": "Grave Ground Cave"
+    }
+}

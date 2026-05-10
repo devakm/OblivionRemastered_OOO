@@ -1,0 +1,17 @@
+{
+    "Plugin": "Oscuro's_Oblivion_Overhaul.esm",
+    "NewCells": [
+        "ChorrolFighters",
+        "ThunderingSteps02",
+		"BloodClotCave02",
+		"Varastal",
+		"Dostares02"
+    ],
+    "FullNames": {
+        "LOC_FN_ChorrolFighters": "Chorrol Fighters",
+        "LOC_FN_ThunderingSteps02": "Thundering Howl Caverns",
+        "LOC_FN_BloodClotCave02": "Blood Stain Hollow",
+		"LOC_FN_Varastal": "Varastal",
+		"LOC_FN_Dostares02": "Dostares Sevadal"
+    }
+}

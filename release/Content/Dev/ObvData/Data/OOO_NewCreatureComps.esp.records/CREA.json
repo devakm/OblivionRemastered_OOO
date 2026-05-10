@@ -478,5 +478,41 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:034F86",
     "full": "Minotaur",
     "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOOOGargoyle",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:04088C",
+    "full": "Gargoyle",
+    "modl": "creatures\\OOO_gargoyle\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureOOOGargoyle02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0417E9",
+    "full": "Gargoyle",
+    "modl": "creatures\\OOO_gargoyle\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureOOOGargoyle03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0417EA",
+    "full": "Gargoyle",
+    "modl": "creatures\\OOO_gargoyle\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureOOOGargoyle04",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0417EB",
+    "full": "Gargoyle",
+    "modl": "creatures\\OOO_gargoyle\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureOOOGargoyle05",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0417EC",
+    "full": "Gargoyle",
+    "modl": "creatures\\OOO_gargoyle\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureOOOGargoyleFyreLightBoss",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0417EF",
+    "full": "Vicious Gargoyle",
+    "modl": "creatures\\OOO_gargoyle\\skeleton.nif"
   }
 ]

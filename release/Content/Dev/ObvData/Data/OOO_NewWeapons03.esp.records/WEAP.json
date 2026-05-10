@@ -1,131 +1,5 @@
 [
   {
-    "edid": "WeapSteelCutlassMaster",
-    "formid": "DLCThievesDen.esp:011AE1",
-    "full": "LOC_FN_WeapSteelCutlassMaster",
-    "modl": "Weapons\\Cutlass\\Cutlass.NIF"
-  },
-  {
-    "edid": "WeapSteelCutlassSharp",
-    "formid": "Oblivion.esm:0055AB",
-    "full": "LOC_FN_WeapSteelCutlassSharp",
-    "modl": "Weapons\\Cutlass\\Cutlass.NIF"
-  },
-  {
-    "edid": "WeapEbonyDagger",
-    "formid": "Oblivion.esm:035E6A",
-    "full": "LOC_FN_WeapEbonyDagger",
-    "modl": "Weapons\\Ebony\\Dagger.NIF"
-  },
-  {
-    "edid": "WeapEbonyShortsword",
-    "formid": "Oblivion.esm:035E6B",
-    "full": "LOC_FN_WeapEbonyShortsword",
-    "modl": "Weapons\\Ebony\\ShortSword.NIF"
-  },
-  {
-    "edid": "WeapEbonyWarAxe",
-    "formid": "Oblivion.esm:035E6C",
-    "full": "LOC_FN_WeapEbonyWarAxe",
-    "modl": "Weapons\\Ebony\\WarAxe.NIF"
-  },
-  {
-    "edid": "WeapEbonyMace",
-    "formid": "Oblivion.esm:035E6D",
-    "full": "LOC_FN_WeapEbonyMace",
-    "modl": "Weapons\\Ebony\\Mace.NIF"
-  },
-  {
-    "edid": "WeapEbonyLongsword",
-    "formid": "Oblivion.esm:035E6E",
-    "full": "LOC_FN_WeapEbonyLongsword",
-    "modl": "Weapons\\Ebony\\LongSword.NIF"
-  },
-  {
-    "edid": "WeapEbonyBattleAxe",
-    "formid": "Oblivion.esm:035E6F",
-    "full": "LOC_FN_WeapEbonyBattleAxe",
-    "modl": "Weapons\\Ebony\\Battleaxe.NIF"
-  },
-  {
-    "edid": "WeapEbonyClaymore",
-    "formid": "Oblivion.esm:035E70",
-    "full": "LOC_FN_WeapEbonyClaymore",
-    "modl": "Weapons\\Ebony\\Claymore.NIF"
-  },
-  {
-    "edid": "WeapEbonyWarHammer",
-    "formid": "Oblivion.esm:035E71",
-    "full": "LOC_FN_WeapEbonyWarHammer",
-    "modl": "Weapons\\Ebony\\Warhammer.NIF"
-  },
-  {
-    "edid": "WeapEbonyBow",
-    "formid": "Oblivion.esm:035E7B",
-    "full": "LOC_FN_WeapEbonyBow",
-    "modl": "Weapons\\Ebony\\Bow.NIF"
-  },
-  {
-    "edid": "WeapSteelCutlass",
-    "formid": "Oblivion.esm:03AA82",
-    "full": "LOC_FN_WeapSteelCutlass",
-    "modl": "Weapons\\Cutlass\\Cutlass.NIF"
-  },
-  {
-    "edid": "ArenaSteelBow",
-    "formid": "Oblivion.esm:0733D9",
-    "full": "LOC_FN_ArenaSteelBow",
-    "modl": "Weapons\\Steel\\Bow.NIF"
-  },
-  {
-    "edid": "ArenaSilverBow",
-    "formid": "Oblivion.esm:0733DA",
-    "full": "LOC_FN_ArenaSilverBow",
-    "modl": "Weapons\\Silver\\Bow.NIF"
-  },
-  {
-    "edid": "ArenaDwarvenBow",
-    "formid": "Oblivion.esm:0733DB",
-    "full": "LOC_FN_ArenaDwarvenBow",
-    "modl": "Weapons\\Dwarven\\Bow.NIF"
-  },
-  {
-    "edid": "ArenaGlassBow",
-    "formid": "Oblivion.esm:0733DC",
-    "full": "LOC_FN_ArenaGlassBow",
-    "modl": "Weapons\\Glass\\Bow.NIF"
-  },
-  {
-    "edid": "ArenaDaedricBow",
-    "formid": "Oblivion.esm:0733DD",
-    "full": "LOC_FN_ArenaDaedricBow",
-    "modl": "Weapons\\Daedric\\Bow.NIF"
-  },
-  {
-    "edid": "StaffofDamageSpeed",
-    "formid": "Oblivion.esm:0912EB",
-    "full": "LOC_FN_StaffofDamageSpeed",
-    "modl": "Staffs\\TestStaff.NIF"
-  },
-  {
-    "edid": "ArenaIronBow",
-    "formid": "Oblivion.esm:0977C6",
-    "full": "LOC_FN_ArenaIronBow",
-    "modl": "Weapons\\Iron\\Bow.NIF"
-  },
-  {
-    "edid": "ArenaElvenBow",
-    "formid": "Oblivion.esm:0977CC",
-    "full": "LOC_FN_ArenaElvenBow",
-    "modl": "Weapons\\Elven\\Bow.NIF"
-  },
-  {
-    "edid": "ArenaEbonyBow",
-    "formid": "Oblivion.esm:0977D0",
-    "full": "LOC_FN_ArenaEbonyBow",
-    "modl": "Weapons\\Ebony\\Bow.NIF"
-  },
-  {
     "edid": "WeaponSabreBrightwood1hOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:000D59",
     "full": "Sunwood Shining",
@@ -172,6 +46,18 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:000D60",
     "full": "Silver Two-handed Mace",
     "modl": "Weapons\\Silver\\Warhammer.NIF"
+  },
+  {
+    "edid": "rdMithrilWarAxeOOOHoar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0010BF",
+    "full": "Hang'em",
+    "modl": "Weapons\\Silver\\WarAxe.NIF"
+  },
+  {
+    "edid": "rdKukriOOOBellamont",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001630",
+    "full": "Vengeance",
+    "modl": "Weapons\\Steel\\DaggerFine.NIF"
   },
   {
     "edid": "WeapAyleidBattleAxeEnchFireblast",
@@ -1008,16 +894,40 @@
     "modl": "Weapons\\Iron\\WarAxe.NIF"
   },
   {
+    "edid": "rdKukriOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C40E",
+    "full": "Kukri",
+    "modl": "Weapons\\Steel\\DaggerFine.NIF"
+  },
+  {
+    "edid": "rdMithrilWarAxeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C40F",
+    "full": "Mithril War Axe",
+    "modl": "Weapons\\Silver\\WarAxe.NIF"
+  },
+  {
     "edid": "rdSteelBeardedBattleAxeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C410",
     "full": "Steel Bearded Battle Axe",
     "modl": "Weapons\\Steel\\BattleAxeFine.NIF"
   },
   {
+    "edid": "rdSteelBeardedWarAxeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C411",
+    "full": "Steel Bearded War Axe",
+    "modl": "Weapons\\Steel\\WarAxeFine.NIF"
+  },
+  {
     "edid": "rdTemplarSwordOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C412",
     "full": "Champion's Sword",
     "modl": "Weapons\\Ebony\\LongSword.NIF"
+  },
+  {
+    "edid": "rdTwoHeadBattleAxeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C413",
+    "full": "Double-Headed Battle Axe",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
   },
   {
     "edid": "WeapAkaviriZDaiKatanaOOO",
@@ -1089,7 +999,7 @@
     "edid": "zzOOODBRewardStaff",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0150AD",
     "full": "Staff of Sickness",
-    "modl": "Weapons\\NewMagicStaves\\solidwoodstaffbrownoffense.nif"
+    "modl": "Staffs\\TestStaff.NIF"
   },
   {
     "edid": "WeapSODZ",
@@ -1102,6 +1012,12 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:019D3D",
     "full": "Templar Longsword",
     "modl": "Weapons\\Silver\\LongSword.NIF"
+  },
+  {
+    "edid": "ShadowMailBowOOOFlame",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:019D3E",
+    "full": "Shadow Bow of Flames",
+    "modl": "Weapons\\Steel\\Bow.NIF"
   },
   {
     "edid": "WeapSpiritLongsword",
@@ -1150,6 +1066,12 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01AE86",
     "full": "Ghostly Warhammer",
     "modl": "Weapons\\Steel\\Warhammer.NIF"
+  },
+  {
+    "edid": "ArenaSteelClaymore",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01D1BB",
+    "full": "LOC_FN_WeapSteelClaymore",
+    "modl": "Weapons\\Steel\\Claymore.NIF"
   },
   {
     "edid": "WeapClubZNamira",
@@ -1408,6 +1330,30 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033F02",
     "full": "Steel Katana",
     "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
+  },
+  {
+    "edid": "ShadowMailBladeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:038864",
+    "full": "Sword of Shadow",
+    "modl": "Weapons\\BlackwaterBlade\\BlackwaterBlade.NIF"
+  },
+  {
+    "edid": "ShadowMailBowOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:038865",
+    "full": "Shadow Bow",
+    "modl": "Weapons\\Steel\\Bow.NIF"
+  },
+  {
+    "edid": "ShadowMailClaymoreOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:038866",
+    "full": "Claymore of Shadow ",
+    "modl": "Weapons\\Steel\\ClaymoreFine.NIF"
+  },
+  {
+    "edid": "ShadowMailShortBladeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:038867",
+    "full": "Shortsword of Shadow",
+    "modl": "Weapons\\Steel\\ShortswordFine.NIF"
   },
   {
     "edid": "WeapZElvenMaceNoor",

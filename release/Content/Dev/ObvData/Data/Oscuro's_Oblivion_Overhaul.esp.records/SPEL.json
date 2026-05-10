@@ -2970,6 +2970,12 @@
     "modl": null
   },
   {
+    "edid": "SummonWolfJephre",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005D60",
+    "full": "Summon Jephre's Hound",
+    "modl": null
+  },
+  {
     "edid": "ZAuraProtectionCarla",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005DBE",
     "full": "Carla's Aura of Protection",
@@ -3651,6 +3657,24 @@
     "edid": "PwSprigganSummonGW",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:017CBE",
     "full": "Summon Kodiak",
+    "modl": null
+  },
+  {
+    "edid": "SummonBoarJephre",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:017CBF",
+    "full": "Summon Jephre's Tusks",
+    "modl": null
+  },
+  {
+    "edid": "SummonLionJephre",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:017CC1",
+    "full": "Summon Jephre's Fangs",
+    "modl": null
+  },
+  {
+    "edid": "SummonSprigganJephre",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:017CC3",
+    "full": "Summon Jephre's Mistress",
     "modl": null
   },
   {
