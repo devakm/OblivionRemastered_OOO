@@ -6452,7 +6452,7 @@
   {
     "edid": "DeadSkeletonSpecialOOODreadSetHelmet",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04D52F",
-    "full": "Skeleton",
+    "full": "LOC_FN_DeadSkeletonSpecialOOODreadSetHelmet",
     "modl": "Creatures\\Skeleton\\skeleton.NIF"
   },
   {

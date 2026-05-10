@@ -1,6 +1,7 @@
 {
   "Plugin": "Oscuro's_Oblivion_Overhaul.esp",
   "NewStrings": {
-    "LOC_FN_AyleidStandardArrow": "Resilience"
+    "LOC_FN_AyleidStandardArrow": "Resilience",
+	"LOC_FN_Geomancy": "Geomancy"
   }
 }

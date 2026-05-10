@@ -26,7 +26,7 @@
   {
     "edid": "torch04",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003DEB",
-    "full": "Torch",
+    "full": "LOC_FN_Torch02",
     "modl": "Lights\\Torch02.nif"
   },
   {
@@ -182,7 +182,7 @@
   {
     "edid": "Torch03",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:051331",
-    "full": "Torch",
+    "full": "LOC_FN_Torch02",
     "modl": "Lights\\Torch02.nif"
   }
 ]
