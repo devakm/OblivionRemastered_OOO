@@ -3720,6 +3720,36 @@
     "modl": null
   },
   {
+    "edid": "OOOSE14PortalToSEWorld",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:07FE17",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE14PostQuestSCRIPT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:07FE19",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE14PortalToTamriel",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:07FE1F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE14SummonGateSCRIPT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:07FE20",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE14MarkerSCRIPT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:07FE28",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "OOOSE14ReviveSpellSCRIPT",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:07FE29",
     "full": null,

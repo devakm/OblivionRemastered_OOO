@@ -1576,6 +1576,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "FrostcragSpire02",
+    "formid": "Oblivion.esm:018093",
+    "full": "LOC_FN_FrostcragSpire02",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "SerpentsTrail",
     "formid": "Oblivion.esm:01C17D",
     "full": "LOC_FN_SerpentsTrail",

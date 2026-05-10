@@ -130,5 +130,11 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0471EE",
     "full": "LOC_FN_OOOHeartOfWildWoods",
     "modl": "Clutter\\Gems\\EmeraldFlawless.NIF"
+  },
+  {
+    "edid": "OOOSE14DoorMarkerActiv",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:07FE24",
+    "full": null,
+    "modl": "MarkerXHeading.NIF"
   }
 ]
