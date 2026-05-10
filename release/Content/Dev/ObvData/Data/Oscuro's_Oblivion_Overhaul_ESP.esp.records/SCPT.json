@@ -1,0 +1,38 @@
+[
+  {
+    "edid": "TrapHungerStatue05SCRIPT",
+    "formid": "Oblivion.esm:041F72",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SEFleshAtronach3Script",
+    "formid": "Oblivion.esm:043CA6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SEFleshAtronach4Script",
+    "formid": "Oblivion.esm:043CA7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SEFleshAtronach5Script",
+    "formid": "Oblivion.esm:043CA8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "Xirethard02RuinTRAPHunger02TargetSCRIPT",
+    "formid": "Oblivion.esm:055167",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "XPEbroccaHungerCustomSCRIPT",
+    "formid": "Oblivion.esm:05DB5F",
+    "full": null,
+    "modl": null
+  }
+]

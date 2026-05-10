@@ -1,0 +1,49 @@
+{
+  "esp": "Oscuro's_Oblivion_Overhaul137ESM.esp",
+  "record_types": [
+    "ACTI",
+    "ALCH",
+    "AMMO",
+    "ARMO",
+    "BOOK",
+    "CELL",
+    "CLAS",
+    "CLOT",
+    "CONT",
+    "CREA",
+    "CSTY",
+    "DIAL",
+    "DOOR",
+    "EFSH",
+    "ENCH",
+    "FACT",
+    "GLOB",
+    "GRAS",
+    "IDLE",
+    "INGR",
+    "KEYM",
+    "LIGH",
+    "LVLC",
+    "LVLI",
+    "LVSP",
+    "MISC",
+    "NPC_",
+    "PACK",
+    "QUST",
+    "RACE",
+    "SCPT",
+    "SGST",
+    "SLGM",
+    "SOUN",
+    "SPEL",
+    "STAT",
+    "WEAP"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "Oscuro's_Oblivion_Overhaul.esp"
+    ],
+    "version": 1.0
+  }
+}

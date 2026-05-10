@@ -1,0 +1,54 @@
+[
+  {
+    "edid": "LL0DrainHealthMajor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 25,
+        "ref_formid": "Oblivion.esm:04C913"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "Oblivion.esm:04C914"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:04C915"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:01DF84"
+      }
+    ],
+    "formid": "Oblivion.esm:04C916"
+  },
+  {
+    "edid": "LL0DrainHealthMajorLvl100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 25,
+        "ref_formid": "Oblivion.esm:04C913"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "Oblivion.esm:04C914"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:04C915"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:01DF84"
+      }
+    ],
+    "formid": "Oblivion.esm:04C917"
+  }
+]

@@ -1,0 +1,718 @@
+[
+  {
+    "edid": "SELL2ZealotSpells100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C91A"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A8D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A95"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A99"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:07FDC7"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:07FDC7"
+      }
+    ],
+    "formid": "Oblivion.esm:0411A1"
+  },
+  {
+    "edid": "SELL2DarkSeducer100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A8D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A99"
+      }
+    ],
+    "formid": "Oblivion.esm:04151B"
+  },
+  {
+    "edid": "SELL2GoldenSaintMage100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A8D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A95"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A99"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0CA0DA"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0CA0DC"
+      }
+    ],
+    "formid": "Oblivion.esm:04151D"
+  },
+  {
+    "edid": "SELL2DarkSeducerMage100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A8D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A95"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A99"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0CA0DA"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0CA0DC"
+      }
+    ],
+    "formid": "Oblivion.esm:04151E"
+  },
+  {
+    "edid": "SELL1DarkSeducerDestruction100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027490"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027490"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027561"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027578"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C917"
+      },
+      {
+        "count": 1,
+        "level": 8,
+        "ref_formid": "Oblivion.esm:02749B"
+      }
+    ],
+    "formid": "Oblivion.esm:04151F"
+  },
+  {
+    "edid": "SELL1GoldenSaintRestoration100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0274C2"
+      }
+    ],
+    "formid": "Oblivion.esm:041520"
+  },
+  {
+    "edid": "SELL1GoldenSaintDestruction100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027577"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C917"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C928"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C928"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C92B"
+      },
+      {
+        "count": 1,
+        "level": 8,
+        "ref_formid": "Oblivion.esm:04C927"
+      }
+    ],
+    "formid": "Oblivion.esm:041521"
+  },
+  {
+    "edid": "SELL1DestructionRangedOrderKnight100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0274B7"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0274B9"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C924"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C929"
+      }
+    ],
+    "formid": "Oblivion.esm:041F69"
+  },
+  {
+    "edid": "SELL1DestructionRangedOrderKnightLvl100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0274B8"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0274BA"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C928"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C92A"
+      }
+    ],
+    "formid": "Oblivion.esm:041F6A"
+  },
+  {
+    "edid": "SELL2OrderPriest1",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:044C4C"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:044C4E"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:044C4E"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A8D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A97"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A98"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A99"
+      }
+    ],
+    "formid": "Oblivion.esm:044C4B"
+  },
+  {
+    "edid": "SELL2OrderPriest2",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:037C7F"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:037CBE"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:037CC8"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:037CC9"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:044C4C"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:044C4E"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:044C55"
+      }
+    ],
+    "formid": "Oblivion.esm:044C4D"
+  },
+  {
+    "edid": "SELL1DestructionFrostMajor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0274B8"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0274B8"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C921"
+      },
+      {
+        "count": 1,
+        "level": 8,
+        "ref_formid": "Oblivion.esm:04C91C"
+      }
+    ],
+    "formid": "Oblivion.esm:044C4E"
+  },
+  {
+    "edid": "SELL1DestructionFireMajor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027490"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027490"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027561"
+      },
+      {
+        "count": 1,
+        "level": 8,
+        "ref_formid": "Oblivion.esm:02749B"
+      }
+    ],
+    "formid": "Oblivion.esm:044C4F"
+  },
+  {
+    "edid": "SELL1DestructionShockMajor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C928"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C928"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C92B"
+      },
+      {
+        "count": 1,
+        "level": 8,
+        "ref_formid": "Oblivion.esm:04C927"
+      }
+    ],
+    "formid": "Oblivion.esm:044C50"
+  },
+  {
+    "edid": "SELL1DestructionDamHealthMajor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027578"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C917"
+      }
+    ],
+    "formid": "Oblivion.esm:044C51"
+  },
+  {
+    "edid": "SELL1DestructionDamHealthMinor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:027577"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C916"
+      }
+    ],
+    "formid": "Oblivion.esm:044C52"
+  },
+  {
+    "edid": "SELL1DestructionFireMinor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:02748F"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:02749A"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:02755F"
+      }
+    ],
+    "formid": "Oblivion.esm:044C53"
+  },
+  {
+    "edid": "SELL1DestructionShockMinor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C924"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C924"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C925"
+      }
+    ],
+    "formid": "Oblivion.esm:044C54"
+  },
+  {
+    "edid": "SELL1DestructionFrostMinor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0274B7"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C91B"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C921"
+      }
+    ],
+    "formid": "Oblivion.esm:044C55"
+  },
+  {
+    "edid": "LL0DrainHealthMajor100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 25,
+        "ref_formid": "Oblivion.esm:04C913"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "Oblivion.esm:04C914"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:04C915"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:01DF84"
+      }
+    ],
+    "formid": "Oblivion.esm:04C916"
+  },
+  {
+    "edid": "LL0DrainHealthMajorLvl100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 25,
+        "ref_formid": "Oblivion.esm:04C913"
+      },
+      {
+        "count": 1,
+        "level": 50,
+        "ref_formid": "Oblivion.esm:04C914"
+      },
+      {
+        "count": 1,
+        "level": 75,
+        "ref_formid": "Oblivion.esm:04C915"
+      },
+      {
+        "count": 1,
+        "level": 100,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:01DF84"
+      }
+    ],
+    "formid": "Oblivion.esm:04C917"
+  },
+  {
+    "edid": "SELL2HereticSpells100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0459AE"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0459AE"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:04C91A"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A8D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A95"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A99"
+      }
+    ],
+    "formid": "Oblivion.esm:04DC44"
+  },
+  {
+    "edid": "SELL0SummonAtronachFleshLvl100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:07FDBE"
+      },
+      {
+        "count": 1,
+        "level": 5,
+        "ref_formid": "Oblivion.esm:07FDBC"
+      },
+      {
+        "count": 1,
+        "level": 10,
+        "ref_formid": "Oblivion.esm:07FDBD"
+      },
+      {
+        "count": 1,
+        "level": 15,
+        "ref_formid": "Oblivion.esm:07FDBF"
+      }
+    ],
+    "formid": "Oblivion.esm:07FDC4"
+  },
+  {
+    "edid": "SELL2HereticBossSpells100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0459AF"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A8D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A95"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A99"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0CA0DA"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0CA0DC"
+      }
+    ],
+    "formid": "Oblivion.esm:07FDC5"
+  },
+  {
+    "edid": "SELL2ZealotBossSpells100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A8D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A95"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:056A99"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:07FDC4"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0CA0DA"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0CA0DC"
+      }
+    ],
+    "formid": "Oblivion.esm:07FDC6"
+  },
+  {
+    "edid": "SELL0SummonAtronachFlesh100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:07FDBE"
+      },
+      {
+        "count": 1,
+        "level": 5,
+        "ref_formid": "Oblivion.esm:07FDBC"
+      },
+      {
+        "count": 1,
+        "level": 10,
+        "ref_formid": "Oblivion.esm:07FDBD"
+      },
+      {
+        "count": 1,
+        "level": 15,
+        "ref_formid": "Oblivion.esm:07FDBF"
+      }
+    ],
+    "formid": "Oblivion.esm:07FDC7"
+  }
+]

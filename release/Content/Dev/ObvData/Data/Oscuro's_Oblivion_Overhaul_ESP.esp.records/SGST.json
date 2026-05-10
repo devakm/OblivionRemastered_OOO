@@ -1,0 +1,92 @@
+[
+  {
+    "edid": "SSFireDmgFireShld1",
+    "formid": "Oblivion.esm:042053",
+    "full": "LOC_FN_SSFireDmgFireShld1",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSFireDmgFireShld2",
+    "formid": "Oblivion.esm:042054",
+    "full": "LOC_FN_SSFireDmgFireShld2",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSFireDmgFireShld3",
+    "formid": "Oblivion.esm:042055",
+    "full": "LOC_FN_SSFireDmgFireShld3",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSFireDmgFireShld4",
+    "formid": "Oblivion.esm:042056",
+    "full": "LOC_FN_SSFireDmgFireShld4",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSFireDmgFireShld5",
+    "formid": "Oblivion.esm:042057",
+    "full": "LOC_FN_SSFireDmgFireShld5",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSFrostDmgFrostShld1",
+    "formid": "Oblivion.esm:04205F",
+    "full": "LOC_FN_SSFrostDmgFrostShld1",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSFrostDmgFrostShld3",
+    "formid": "Oblivion.esm:042060",
+    "full": "LOC_FN_SSFrostDmgFrostShld3",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSFrostDmgFrostShld2",
+    "formid": "Oblivion.esm:042061",
+    "full": "LOC_FN_SSFrostDmgFrostShld2",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSFrostDmgFrostShld4",
+    "formid": "Oblivion.esm:042062",
+    "full": "LOC_FN_SSFrostDmgFrostShld4",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSFrostDmgFrostShld5",
+    "formid": "Oblivion.esm:042063",
+    "full": "LOC_FN_SSFrostDmgFrostShld5",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSShockDmgShockShld1",
+    "formid": "Oblivion.esm:04207D",
+    "full": "LOC_FN_SSShockDmgShockShld1",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSShockDmgShockShld2",
+    "formid": "Oblivion.esm:04207E",
+    "full": "LOC_FN_SSShockDmgShockShld2",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSShockDmgShockShld3",
+    "formid": "Oblivion.esm:04207F",
+    "full": "LOC_FN_SSShockDmgShockShld3",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSShockDmgShockShld4",
+    "formid": "Oblivion.esm:042080",
+    "full": "LOC_FN_SSShockDmgShockShld4",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSShockDmgShockShld5",
+    "formid": "Oblivion.esm:042081",
+    "full": "LOC_FN_SSShockDmgShockShld5",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  }
+]

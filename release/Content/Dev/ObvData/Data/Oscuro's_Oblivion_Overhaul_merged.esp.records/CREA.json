@@ -1,0 +1,1346 @@
+[
+  {
+    "edid": "CreatureMudCrab",
+    "formid": "Oblivion.esm:000B7F",
+    "full": "LOC_FN_CreatureMudCrab",
+    "modl": "Creatures\\MudCrab\\skeleton.NIF"
+  },
+  {
+    "edid": "CreatureXivilaiNOSUMMON",
+    "formid": "Oblivion.esm:000FE2",
+    "full": "LOC_FN_CreatureXivilaiNOSUMMON",
+    "modl": "Creatures\\Xivilai\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureXivilaiWeaponNOSUMMON",
+    "formid": "Oblivion.esm:000FE3",
+    "full": "LOC_FN_CreatureXivilaiWeaponNOSUMMON",
+    "modl": "Creatures\\Xivilai\\skeleton.nif"
+  },
+  {
+    "edid": "FGC06GoblinBoss",
+    "formid": "Oblivion.esm:0027D7",
+    "full": "LOC_FN_FGC06GoblinBoss",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureTroll",
+    "formid": "Oblivion.esm:002DBC",
+    "full": "LOC_FN_CreatureTroll",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "MSWraithSpectralSailor",
+    "formid": "Oblivion.esm:0055AC",
+    "full": "LOC_FN_MSWraithSpectralSailor",
+    "modl": "Creatures\\Wraith\\Skeleton.nif"
+  },
+  {
+    "edid": "GoblinTribeSoldierA",
+    "formid": "Oblivion.esm:007714",
+    "full": "LOC_FN_GoblinTribeSoldierA",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur3",
+    "formid": "Oblivion.esm:009D6B",
+    "full": "LOC_FN_CreatureMinotaur3",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur4",
+    "formid": "Oblivion.esm:009D6C",
+    "full": "LOC_FN_CreatureMinotaur4",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur1Weapon",
+    "formid": "Oblivion.esm:009D6D",
+    "full": "LOC_FN_CreatureMinotaur1Weapon",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur2Weapon",
+    "formid": "Oblivion.esm:009D6E",
+    "full": "LOC_FN_CreatureMinotaur2Weapon",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur4Weapon",
+    "formid": "Oblivion.esm:009D6F",
+    "full": "LOC_FN_CreatureMinotaur4Weapon",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "DAHircineMinotaurCompanion",
+    "formid": "Oblivion.esm:00A3B7",
+    "full": "LOC_FN_DAHircineMinotaurCompanion",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "DAHircineMinotaurLord",
+    "formid": "Oblivion.esm:00A3BB",
+    "full": "LOC_FN_DAHircineMinotaurLord",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "TG03LlathasaWraith1",
+    "formid": "Oblivion.esm:00AA05",
+    "full": "LOC_FN_TG03LlathasaWraith1",
+    "modl": "Creatures\\Wraith\\Skeleton.nif"
+  },
+  {
+    "edid": "TG03LlathasaWraith2Gloom",
+    "formid": "Oblivion.esm:00AA06",
+    "full": "LOC_FN_TG03LlathasaWraith2Gloom",
+    "modl": "Creatures\\Wraith\\Skeleton_Lord.nif"
+  },
+  {
+    "edid": "CreatureGoblin5Warlord",
+    "formid": "Oblivion.esm:00AB71",
+    "full": "LOC_FN_CreatureGoblin5Warlord",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureGoblin5WarlordArcher",
+    "formid": "Oblivion.esm:00ABD1",
+    "full": "LOC_FN_CreatureGoblin5WarlordArcher",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur2",
+    "formid": "Oblivion.esm:00B9ED",
+    "full": "LOC_FN_CreatureMinotaur2",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "FGC09Ogre",
+    "formid": "Oblivion.esm:00BE98",
+    "full": "LOC_FN_FGC09Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "FGC10troll",
+    "formid": "Oblivion.esm:00BED2",
+    "full": "LOC_FN_FGC10troll",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgre",
+    "formid": "Oblivion.esm:00C20D",
+    "full": "LOC_FN_CreatureOgre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "SECreatureHunger3",
+    "formid": "Oblivion.esm:012016",
+    "full": "LOC_FN_SECreatureHunger3",
+    "modl": "Creatures\\Hunger\\Skeleton.nif"
+  },
+  {
+    "edid": "SECreatureHunger4",
+    "formid": "Oblivion.esm:012017",
+    "full": "LOC_FN_SECreatureHunger4",
+    "modl": "Creatures\\Hunger\\Skeleton.nif"
+  },
+  {
+    "edid": "SECreatureHunger5",
+    "formid": "Oblivion.esm:012018",
+    "full": "LOC_FN_SECreatureHunger5",
+    "modl": "Creatures\\Hunger\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureSheep",
+    "formid": "Oblivion.esm:0151DD",
+    "full": "LOC_FN_CreatureSheep",
+    "modl": "Creatures\\Sheep\\Skeleton.NIF"
+  },
+  {
+    "edid": "FGD06Troll01",
+    "formid": "Oblivion.esm:015B00",
+    "full": "LOC_FN_FGD06Troll01",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureHorseBay",
+    "formid": "Oblivion.esm:015B90",
+    "full": "LOC_FN_CreatureHorseBay",
+    "modl": "Creatures\\Horse\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureHorsePaint",
+    "formid": "Oblivion.esm:015B93",
+    "full": "LOC_FN_CreatureHorsePaint",
+    "modl": "Creatures\\Horse\\Skeleton.NIF"
+  },
+  {
+    "edid": "TrollEasy",
+    "formid": "Oblivion.esm:01BF4D",
+    "full": "LOC_FN_TrollEasy",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "TrollMedium",
+    "formid": "Oblivion.esm:01BF4E",
+    "full": "LOC_FN_TrollMedium",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "TrollHard",
+    "formid": "Oblivion.esm:01BF4F",
+    "full": "LOC_FN_TrollHard",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "TrollVeryHard",
+    "formid": "Oblivion.esm:01BF50",
+    "full": "LOC_FN_TrollVeryHard",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "MS14PaintedTroll",
+    "formid": "Oblivion.esm:01C5A0",
+    "full": "LOC_FN_MS14PaintedTroll",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "TrollMediumNoWander",
+    "formid": "Oblivion.esm:01CEC2",
+    "full": "LOC_FN_TrollMediumNoWander",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureSkeleton4Champion",
+    "formid": "Oblivion.esm:01E5EA",
+    "full": "LOC_FN_CreatureSkeleton4Champion",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWraith2GloomWeapon",
+    "formid": "Oblivion.esm:01E5EB",
+    "full": "LOC_FN_CreatureWraith2GloomWeapon",
+    "modl": "Creatures\\Wraith\\Skeleton_Lord.nif"
+  },
+  {
+    "edid": "CreatureLich",
+    "formid": "Oblivion.esm:01E5EC",
+    "full": "LOC_FN_CreatureLich",
+    "modl": "Creatures\\Lich\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureAtronachFlame",
+    "formid": "Oblivion.esm:01E5EF",
+    "full": "LOC_FN_CreatureAtronachFlame",
+    "modl": "Creatures\\FlameAtronach\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureSkeleton2Guardian",
+    "formid": "Oblivion.esm:01E5F2",
+    "full": "LOC_FN_CreatureSkeleton2Guardian",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWraith0Faded",
+    "formid": "Oblivion.esm:01E5F3",
+    "full": "LOC_FN_CreatureWraith0Faded",
+    "modl": "Creatures\\Wraith\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureSkeleton3Hero",
+    "formid": "Oblivion.esm:01E5F4",
+    "full": "LOC_FN_CreatureSkeleton3Hero",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "CreatureDog",
+    "formid": "Oblivion.esm:01E5F5",
+    "full": "LOC_FN_CreatureDog",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfTimber",
+    "formid": "Oblivion.esm:01E5F6",
+    "full": "LOC_FN_CreatureWolfTimber",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMountainLion",
+    "formid": "Oblivion.esm:01E5FA",
+    "full": "LOC_FN_CreatureMountainLion",
+    "modl": "Creatures\\MountainLion\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur3Weapon",
+    "formid": "Oblivion.esm:01E647",
+    "full": "LOC_FN_CreatureMinotaur3Weapon",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurLordWeapon",
+    "formid": "Oblivion.esm:01E648",
+    "full": "LOC_FN_CreatureMinotaurLordWeapon",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImp",
+    "formid": "Oblivion.esm:01E649",
+    "full": "LOC_FN_CreatureImp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWillotheWisp",
+    "formid": "Oblivion.esm:01E64A",
+    "full": "LOC_FN_CreatureWillotheWisp",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureSpriggan",
+    "formid": "Oblivion.esm:01E64B",
+    "full": "LOC_FN_CreatureSpriggan",
+    "modl": "Creatures\\Spriggan\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureSpiderDaedra",
+    "formid": "Oblivion.esm:01E64C",
+    "full": "LOC_FN_CreatureSpiderDaedra",
+    "modl": "Creatures\\SpiderDaedra\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureXivilaiWeapon",
+    "formid": "Oblivion.esm:01E64D",
+    "full": "LOC_FN_CreatureXivilaiWeapon",
+    "modl": "Creatures\\Xivilai\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureHorseChestnut",
+    "formid": "Oblivion.esm:01F11C",
+    "full": "LOC_FN_CreatureHorseChestnut",
+    "modl": "Creatures\\Horse\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureGoblin1",
+    "formid": "Oblivion.esm:01FCB1",
+    "full": "LOC_FN_CreatureGoblin1",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureGoblin2Skirmisher",
+    "formid": "Oblivion.esm:01FCB2",
+    "full": "LOC_FN_CreatureGoblin2Skirmisher",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureGoblin3Berserker",
+    "formid": "Oblivion.esm:01FCB3",
+    "full": "LOC_FN_CreatureGoblin3Berserker",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureGoblin4Shaman",
+    "formid": "Oblivion.esm:01FCB4",
+    "full": "LOC_FN_CreatureGoblin4Shaman",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureSlaughterfish",
+    "formid": "Oblivion.esm:01FF21",
+    "full": "LOC_FN_CreatureSlaughterfish",
+    "modl": "Creatures\\Slaughterfish\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureAtronachFrost",
+    "formid": "Oblivion.esm:01FF22",
+    "full": "LOC_FN_CreatureAtronachFrost",
+    "modl": "Creatures\\FrostAtronach\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureAtronachStorm",
+    "formid": "Oblivion.esm:01FF23",
+    "full": "LOC_FN_CreatureAtronachStorm",
+    "modl": "Creatures\\StormAtronach\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureLandDreugh",
+    "formid": "Oblivion.esm:01FF25",
+    "full": "LOC_FN_CreatureLandDreugh",
+    "modl": "Creatures\\LandDreugh\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureSkeleton1",
+    "formid": "Oblivion.esm:024DDB",
+    "full": "LOC_FN_CreatureSkeleton1",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "CGRat01",
+    "formid": "Oblivion.esm:02509B",
+    "full": "LOC_FN_CGRat01",
+    "modl": "Creatures\\Rat\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureRat",
+    "formid": "Oblivion.esm:025314",
+    "full": "LOC_FN_CreatureRat",
+    "modl": "Creatures\\Rat\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieHeadless40",
+    "formid": "Oblivion.esm:025E4C",
+    "full": "LOC_FN_CreatureZombieHeadless4",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieHeadless3",
+    "formid": "Oblivion.esm:025E4D",
+    "full": "LOC_FN_CreatureZombieHeadless3",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieHeadless1",
+    "formid": "Oblivion.esm:025E4E",
+    "full": "LOC_FN_CreatureZombieHeadless1",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombie4",
+    "formid": "Oblivion.esm:025E4F",
+    "full": "LOC_FN_CreatureZombie4",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombie3",
+    "formid": "Oblivion.esm:025E55",
+    "full": "LOC_FN_CreatureZombie3",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombie2",
+    "formid": "Oblivion.esm:025E5E",
+    "full": "LOC_FN_CreatureZombie2",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombie1",
+    "formid": "Oblivion.esm:025E6E",
+    "full": "LOC_FN_CreatureZombie1",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieHeadless2",
+    "formid": "Oblivion.esm:025E6F",
+    "full": "LOC_FN_CreatureZombieHeadless2",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "DAMalacathOgre01",
+    "formid": "Oblivion.esm:026B60",
+    "full": "LOC_FN_DAMalacathOgre01",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "WeynonPriorySheepRam",
+    "formid": "Oblivion.esm:027388",
+    "full": "LOC_FN_WeynonPriorySheepRam",
+    "modl": "Creatures\\Sheep\\Skeleton.NIF"
+  },
+  {
+    "edid": "WeynonPriorySheep2",
+    "formid": "Oblivion.esm:02738A",
+    "full": "LOC_FN_WeynonPriorySheep2",
+    "modl": "Creatures\\Sheep\\Skeleton.NIF"
+  },
+  {
+    "edid": "FGC06Goblin",
+    "formid": "Oblivion.esm:02888E",
+    "full": "LOC_FN_FGC06Goblin",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "MS16BossOgre",
+    "formid": "Oblivion.esm:02AABC",
+    "full": "LOC_FN_MS16BossOgre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureDaedroth",
+    "formid": "Oblivion.esm:02B19A",
+    "full": "LOC_FN_CreatureDaedroth",
+    "modl": "Creatures\\Daedroth\\Skeleton.NIF"
+  },
+  {
+    "edid": "ICArenaSpriggan",
+    "formid": "Oblivion.esm:02C330",
+    "full": "LOC_FN_ICArenaSpriggan",
+    "modl": "Creatures\\Spriggan\\Skeleton.nif"
+  },
+  {
+    "edid": "GoblinTribePatrolA",
+    "formid": "Oblivion.esm:02D686",
+    "full": "LOC_FN_GoblinTribePatrolA",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeLeaderA",
+    "formid": "Oblivion.esm:02D6D3",
+    "full": "LOC_FN_GoblinTribeLeaderA",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeSoldierB",
+    "formid": "Oblivion.esm:02D6D4",
+    "full": "LOC_FN_GoblinTribeSoldierB",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeLeaderB",
+    "formid": "Oblivion.esm:02D737",
+    "full": "LOC_FN_GoblinTribeLeaderB",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribePatrolB",
+    "formid": "Oblivion.esm:02D738",
+    "full": "LOC_FN_GoblinTribePatrolB",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureScamp",
+    "formid": "Oblivion.esm:02D802",
+    "full": "LOC_FN_CreatureScamp",
+    "modl": "Creatures\\Scamp\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeLeaderC",
+    "formid": "Oblivion.esm:02FE7F",
+    "full": "LOC_FN_GoblinTribeLeaderC",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeSoldierC",
+    "formid": "Oblivion.esm:02FE93",
+    "full": "LOC_FN_GoblinTribeSoldierC",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribePatrolC",
+    "formid": "Oblivion.esm:02FEA3",
+    "full": "LOC_FN_GoblinTribePatrolC",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeGuardC",
+    "formid": "Oblivion.esm:02FEA4",
+    "full": "LOC_FN_GoblinTribeGuardC",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeGuardA",
+    "formid": "Oblivion.esm:030514",
+    "full": "LOC_FN_GoblinTribeGuardA",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeGuardB",
+    "formid": "Oblivion.esm:030516",
+    "full": "LOC_FN_GoblinTribeGuardB",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeLeaderD",
+    "formid": "Oblivion.esm:031318",
+    "full": "LOC_FN_GoblinTribeLeaderD",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeGuardD",
+    "formid": "Oblivion.esm:031319",
+    "full": "LOC_FN_GoblinTribeGuardD",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeSoldierD",
+    "formid": "Oblivion.esm:03131A",
+    "full": "LOC_FN_GoblinTribeSoldierD",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribePatrolD",
+    "formid": "Oblivion.esm:03131B",
+    "full": "LOC_FN_GoblinTribePatrolD",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeShamanB",
+    "formid": "Oblivion.esm:031531",
+    "full": "LOC_FN_GoblinTribeShamanB",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeShamanC",
+    "formid": "Oblivion.esm:031532",
+    "full": "LOC_FN_GoblinTribeShamanC",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeShamanA",
+    "formid": "Oblivion.esm:031534",
+    "full": "LOC_FN_GoblinTribeShamanA",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureDeerBuck",
+    "formid": "Oblivion.esm:03154F",
+    "full": "LOC_FN_CreatureDeerBuck",
+    "modl": "Creatures\\Deer\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureDeerDoe",
+    "formid": "Oblivion.esm:031550",
+    "full": "LOC_FN_CreatureDeerDoe",
+    "modl": "Creatures\\Deer\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureXivilai",
+    "formid": "Oblivion.esm:032655",
+    "full": "LOC_FN_CreatureXivilai",
+    "modl": "Creatures\\Xivilai\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWraith0FadedWeapon",
+    "formid": "Oblivion.esm:032656",
+    "full": "LOC_FN_CreatureWraith0FadedWeapon",
+    "modl": "Creatures\\Wraith\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWraith2Gloom",
+    "formid": "Oblivion.esm:032657",
+    "full": "LOC_FN_CreatureWraith2Gloom",
+    "modl": "Creatures\\Wraith\\Skeleton_Lord.nif"
+  },
+  {
+    "edid": "MQ09BladeSkeleton04",
+    "formid": "Oblivion.esm:033CD6",
+    "full": "LOC_FN_MQ09BladeSkeleton04",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "CreatureGhost",
+    "formid": "Oblivion.esm:033E70",
+    "full": "LOC_FN_CreatureGhost",
+    "modl": "Creatures\\Ghost\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureLichNether",
+    "formid": "Oblivion.esm:0343AA",
+    "full": "LOC_FN_CreatureLichNether",
+    "modl": "Creatures\\Lich\\Skeleton.nif"
+  },
+  {
+    "edid": "MS46GoblinSoldierA",
+    "formid": "Oblivion.esm:0343C1",
+    "full": "LOC_FN_MS46GoblinSoldierA",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureClannfear",
+    "formid": "Oblivion.esm:034EA3",
+    "full": "LOC_FN_CreatureClannfear",
+    "modl": "Creatures\\Clannfear\\Skeleton.NIF"
+  },
+  {
+    "edid": "FGC01Rat",
+    "formid": "Oblivion.esm:03571F",
+    "full": "LOC_FN_FGC01Rat",
+    "modl": "Creatures\\Rat\\Skeleton.NIF"
+  },
+  {
+    "edid": "MQ09WardenKastav",
+    "formid": "Oblivion.esm:035DA9",
+    "full": "LOC_FN_MQ09WardenKastav",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "MQ09BladeSkeleton01",
+    "formid": "Oblivion.esm:0364BA",
+    "full": "LOC_FN_MQ09BladeSkeleton01",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "MQ09BladeSkeleton02",
+    "formid": "Oblivion.esm:0364BB",
+    "full": "LOC_FN_MQ09BladeSkeleton02",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "MQ09BladeSkeleton03",
+    "formid": "Oblivion.esm:0364BC",
+    "full": "LOC_FN_MQ09BladeSkeleton03",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "MS06ShipSpiritCaptain",
+    "formid": "Oblivion.esm:0366BA",
+    "full": "LOC_FN_MS06ShipSpiritCaptain",
+    "modl": "Creatures\\Wraith\\Skeleton_Lord.nif"
+  },
+  {
+    "edid": "FGC10WillOTheWisp",
+    "formid": "Oblivion.esm:037568",
+    "full": "LOC_FN_FGC10WillOTheWisp",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
+  },
+  {
+    "edid": "SerpentsTrailOgre",
+    "formid": "Oblivion.esm:037C42",
+    "full": "LOC_FN_SerpentsTrailOgre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CGScaredyRat01",
+    "formid": "Oblivion.esm:0387D8",
+    "full": "LOC_FN_CGScaredyRat01",
+    "modl": "Creatures\\Rat\\Skeleton.NIF"
+  },
+  {
+    "edid": "MQ15CaveDaedraTemplate",
+    "formid": "Oblivion.esm:03CD1C",
+    "full": "LOC_FN_MQ15CaveDaedraTemplate",
+    "modl": "Creatures\\Clannfear\\Skeleton.NIF"
+  },
+  {
+    "edid": "ICArenaGoblinShaman",
+    "formid": "Oblivion.esm:03D797",
+    "full": "LOC_FN_ICArenaGoblinShaman",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "ICArenaMinotaurLord",
+    "formid": "Oblivion.esm:03D79E",
+    "full": "LOC_FN_ICArenaMinotaurLord",
+    "modl": "Creatures\\Minotaur\\Skeleton.nif"
+  },
+  {
+    "edid": "ICArenaOgre",
+    "formid": "Oblivion.esm:03D7AE",
+    "full": "LOC_FN_ICArenaOgre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureScampStunted",
+    "formid": "Oblivion.esm:03E9CB",
+    "full": "LOC_FN_CreatureScampStunted",
+    "modl": "Creatures\\Scamp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur1",
+    "formid": "Oblivion.esm:03F148",
+    "full": "LOC_FN_CreatureMinotaur1",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurLord",
+    "formid": "Oblivion.esm:03F14B",
+    "full": "LOC_FN_CreatureMinotaurLord",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CGDomesticRat01",
+    "formid": "Oblivion.esm:047B64",
+    "full": "LOC_FN_CGDomesticRat01",
+    "modl": "Creatures\\Rat\\Skeleton.NIF"
+  },
+  {
+    "edid": "CGRatAmbushA",
+    "formid": "Oblivion.esm:04E870",
+    "full": "LOC_FN_CGRatAmbushA",
+    "modl": "Creatures\\Rat\\Skeleton.NIF"
+  },
+  {
+    "edid": "CGScaredyRat02",
+    "formid": "Oblivion.esm:0521E3",
+    "full": "LOC_FN_CGScaredyRat02",
+    "modl": "Creatures\\Rat\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureGhostAncient0",
+    "formid": "Oblivion.esm:05D2BC",
+    "full": "LOC_FN_CreatureGhostAncient",
+    "modl": "Creatures\\Ghost\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureSheepRam",
+    "formid": "Oblivion.esm:05D558",
+    "full": "LOC_FN_CreatureSheepRam",
+    "modl": "Creatures\\Sheep\\Skeleton.NIF"
+  },
+  {
+    "edid": "MQ15XivilaiAnaxes",
+    "formid": "Oblivion.esm:05E1DC",
+    "full": "LOC_FN_MQ15XivilaiAnaxes",
+    "modl": "Creatures\\Xivilai\\skeleton.nif"
+  },
+  {
+    "edid": "LegionForesterBuck",
+    "formid": "Oblivion.esm:06143F",
+    "full": "LOC_FN_LegionForesterBuck",
+    "modl": "Creatures\\Deer\\Skeleton.NIF"
+  },
+  {
+    "edid": "LegionForesterDoe",
+    "formid": "Oblivion.esm:061440",
+    "full": "LOC_FN_LegionForesterDoe",
+    "modl": "Creatures\\Deer\\Skeleton.NIF"
+  },
+  {
+    "edid": "LichErandurVangaril",
+    "formid": "Oblivion.esm:064C18",
+    "full": "LOC_FN_LichErandurVangaril",
+    "modl": "Creatures\\Lich\\Skeleton.nif"
+  },
+  {
+    "edid": "CGRatPassive",
+    "formid": "Oblivion.esm:066A05",
+    "full": "LOC_FN_CGRatPassive",
+    "modl": "Creatures\\Rat\\Skeleton.NIF"
+  },
+  {
+    "edid": "Dark15WolfPet",
+    "formid": "Oblivion.esm:066A0C",
+    "full": "LOC_FN_Dark15WolfPet",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "SQ09SlaughterfishYoung",
+    "formid": "Oblivion.esm:068825",
+    "full": "LOC_FN_SQ09SlaughterfishYoung",
+    "modl": "Creatures\\Slaughterfish\\Skeleton.NIF"
+  },
+  {
+    "edid": "SQ09SlaughterfishSpawn",
+    "formid": "Oblivion.esm:068826",
+    "full": "LOC_FN_SQ09SlaughterfishSpawn",
+    "modl": "Creatures\\Slaughterfish\\Skeleton.NIF"
+  },
+  {
+    "edid": "SQ09Slaughterfish",
+    "formid": "Oblivion.esm:068827",
+    "full": "LOC_FN_SQ09Slaughterfish",
+    "modl": "Creatures\\Slaughterfish\\Skeleton.NIF"
+  },
+  {
+    "edid": "SQ09SlaughterfishAdult",
+    "formid": "Oblivion.esm:068828",
+    "full": "LOC_FN_SQ09SlaughterfishAdult",
+    "modl": "Creatures\\Slaughterfish\\Skeleton.NIF"
+  },
+  {
+    "edid": "SQ09SlaughterfishBroodMother",
+    "formid": "Oblivion.esm:068829",
+    "full": "LOC_FN_SQ09SlaughterfishBroodMother",
+    "modl": "Creatures\\Slaughterfish\\Skeleton.NIF"
+  },
+  {
+    "edid": "DarkGhostPerennia",
+    "formid": "Oblivion.esm:06AAA2",
+    "full": "LOC_FN_DarkGhostPerennia",
+    "modl": "Creatures\\Ghost\\Skeleton.nif"
+  },
+  {
+    "edid": "Dark09Skeleton02Melee",
+    "formid": "Oblivion.esm:06AB45",
+    "full": "LOC_FN_Dark09Skeleton02Melee",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "Dark09Skeleton01Missile",
+    "formid": "Oblivion.esm:06AB4A",
+    "full": "LOC_FN_Dark09Skeleton01Missile",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "SECreatureHunger2",
+    "formid": "Oblivion.esm:06D60B",
+    "full": "LOC_FN_SECreatureHunger2",
+    "modl": "Creatures\\Hunger\\Skeleton.nif"
+  },
+  {
+    "edid": "SECreatureHunger1",
+    "formid": "Oblivion.esm:06D610",
+    "full": "LOC_FN_SECreatureHunger1",
+    "modl": "Creatures\\Hunger\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureWolf",
+    "formid": "Oblivion.esm:06E912",
+    "full": "LOC_FN_CreatureWolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "UndercroftGhostAncient",
+    "formid": "Oblivion.esm:070913",
+    "full": "LOC_FN_UndercroftGhostAncient",
+    "modl": "Creatures\\Ghost\\Skeleton.nif"
+  },
+  {
+    "edid": "UndercroftWraith2Gloom",
+    "formid": "Oblivion.esm:070918",
+    "full": "LOC_FN_UndercroftWraith2Gloom",
+    "modl": "Creatures\\Wraith\\Skeleton_Lord.nif"
+  },
+  {
+    "edid": "UndercroftGhost",
+    "formid": "Oblivion.esm:07091A",
+    "full": "LOC_FN_UndercroftGhost",
+    "modl": "Creatures\\Ghost\\Skeleton.nif"
+  },
+  {
+    "edid": "MS12CreaturePalePassOgre03Rock",
+    "formid": "Oblivion.esm:07B7D4",
+    "full": "LOC_FN_MS12CreaturePalePassOgre03Rock",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "MS12CreaturePalePassOgre02Stone",
+    "formid": "Oblivion.esm:07B7D5",
+    "full": "LOC_FN_MS12CreaturePalePassOgre02Stone",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "MS12CreaturePalePassOgre04CBoss",
+    "formid": "Oblivion.esm:07B7D6",
+    "full": "LOC_FN_MS12CreaturePalePassOgre04CBoss",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "MS12CreaturePalePassOgre01Ground",
+    "formid": "Oblivion.esm:07B7D7",
+    "full": "LOC_FN_MS12CreaturePalePassOgre01Ground",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "DANocturnalTrollEasy",
+    "formid": "Oblivion.esm:084A40",
+    "full": "LOC_FN_DANocturnalTrollEasy",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "DANocturnalTrollHard",
+    "formid": "Oblivion.esm:084A41",
+    "full": "LOC_FN_DANocturnalTrollHard",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "DANocturnalTrollMedium",
+    "formid": "Oblivion.esm:084A42",
+    "full": "LOC_FN_DANocturnalTrollMedium",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "DANocturnalTrollVeryHard",
+    "formid": "Oblivion.esm:084A43",
+    "full": "LOC_FN_DANocturnalTrollVeryHard",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureSkeleton2GuardianArcher",
+    "formid": "Oblivion.esm:084B19",
+    "full": "LOC_FN_CreatureSkeleton2GuardianArcher",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "CreatureSkeleton1Archer",
+    "formid": "Oblivion.esm:084B1A",
+    "full": "LOC_FN_CreatureSkeleton1Archer",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "CreatureSkeleton3HeroArcher",
+    "formid": "Oblivion.esm:084B1B",
+    "full": "LOC_FN_CreatureSkeleton3HeroArcher",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "CreatureSkeleton4ChampionArcher",
+    "formid": "Oblivion.esm:084B1C",
+    "full": "LOC_FN_CreatureSkeleton4ChampionArcher",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "CreatureGoblin1Archer",
+    "formid": "Oblivion.esm:084B29",
+    "full": "LOC_FN_CreatureGoblin1Archer",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureGoblin2SkirmisherArcher",
+    "formid": "Oblivion.esm:084B2A",
+    "full": "LOC_FN_CreatureGoblin2SkirmisherArcher",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureGoblin3BerserkerArcher",
+    "formid": "Oblivion.esm:084B2B",
+    "full": "LOC_FN_CreatureGoblin3BerserkerArcher",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "MS02FirstGhost",
+    "formid": "Oblivion.esm:0855A2",
+    "full": "LOC_FN_MS02FirstGhost",
+    "modl": "Creatures\\Ghost\\Skeleton.nif"
+  },
+  {
+    "edid": "MS02HouseGhost",
+    "formid": "Oblivion.esm:0855A3",
+    "full": "LOC_FN_MS02HouseGhost",
+    "modl": "Creatures\\Ghost\\Skeleton.nif"
+  },
+  {
+    "edid": "MS02LorgrentheLich",
+    "formid": "Oblivion.esm:0855A4",
+    "full": "LOC_FN_MS02LorgrentheLich",
+    "modl": "Creatures\\Lich\\Skeleton.nif"
+  },
+  {
+    "edid": "LVDCreatureOgre",
+    "formid": "Oblivion.esm:08699E",
+    "full": "LOC_FN_LVDCreatureOgre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "LVDCreatureTroll",
+    "formid": "Oblivion.esm:08699F",
+    "full": "LOC_FN_LVDCreatureTroll",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "LVDCreatureMinotaur1Weapon",
+    "formid": "Oblivion.esm:0869A5",
+    "full": "LOC_FN_LVDCreatureMinotaur1Weapon",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "MQ15XivilaiMedrike",
+    "formid": "Oblivion.esm:0878B1",
+    "full": "LOC_FN_MQ15XivilaiMedrike",
+    "modl": "Creatures\\Xivilai\\skeleton.nif"
+  },
+  {
+    "edid": "DarkGuardianSanctuary",
+    "formid": "Oblivion.esm:088FA6",
+    "full": "LOC_FN_DarkGuardianSanctuary",
+    "modl": "Creatures\\Skeleton\\skeleton.NIF"
+  },
+  {
+    "edid": "DAClannfearBrute",
+    "formid": "Oblivion.esm:08ADC5",
+    "full": "LOC_FN_DAClannfearBrute",
+    "modl": "Creatures\\Clannfear\\Skeleton.NIF"
+  },
+  {
+    "edid": "MS05DreamworldMinotaur",
+    "formid": "Oblivion.esm:08C815",
+    "full": "LOC_FN_MS05DreamworldMinotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "BlackWoodCompanyDog",
+    "formid": "Oblivion.esm:08FF94",
+    "full": "LOC_FN_BlackWoodCompanyDog",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "MG12MucianusZombie",
+    "formid": "Oblivion.esm:091AA9",
+    "full": "LOC_FN_MG12MucianusZombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "MQ12LichKing",
+    "formid": "Oblivion.esm:09589E",
+    "full": "LOC_FN_MQ12LichKing",
+    "modl": "Creatures\\Lich\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureBearBlack",
+    "formid": "Oblivion.esm:097A15",
+    "full": "LOC_FN_CreatureBearBlack",
+    "modl": "Creatures\\Bear\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureBearBrown",
+    "formid": "Oblivion.esm:097A16",
+    "full": "LOC_FN_CreatureBearBrown",
+    "modl": "Creatures\\Bear\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureBoar",
+    "formid": "Oblivion.esm:097A17",
+    "full": "LOC_FN_CreatureBoar",
+    "modl": "Creatures\\Boar\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWraith1",
+    "formid": "Oblivion.esm:098301",
+    "full": "LOC_FN_CreatureWraith1",
+    "modl": "Creatures\\Wraith\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureWraith1Weapon",
+    "formid": "Oblivion.esm:098304",
+    "full": "LOC_FN_CreatureWraith1Weapon",
+    "modl": "Creatures\\Wraith\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureZombieDread1",
+    "formid": "Oblivion.esm:09851B",
+    "full": "LOC_FN_CreatureZombieDread1",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "DAMalacathOgre02",
+    "formid": "Oblivion.esm:09DB43",
+    "full": "LOC_FN_DAMalacathOgre02",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "DAMalacathOgre03",
+    "formid": "Oblivion.esm:09DB44",
+    "full": "LOC_FN_DAMalacathOgre03",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "DAMalacathOgre04",
+    "formid": "Oblivion.esm:09DB45",
+    "full": "LOC_FN_DAMalacathOgre04",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "DAMalacathOgre05",
+    "formid": "Oblivion.esm:09DB46",
+    "full": "LOC_FN_DAMalacathOgre05",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "DAMalacathOgre06",
+    "formid": "Oblivion.esm:09DB47",
+    "full": "LOC_FN_DAMalacathOgre06",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieDread2",
+    "formid": "Oblivion.esm:09F955",
+    "full": "LOC_FN_CreatureZombieDread2",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieDread3",
+    "formid": "Oblivion.esm:09F956",
+    "full": "LOC_FN_CreatureZombieDread3",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieDread4",
+    "formid": "Oblivion.esm:09F957",
+    "full": "LOC_FN_CreatureZombieDread4",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "DAMalacathOgre07",
+    "formid": "Oblivion.esm:09F98B",
+    "full": "LOC_FN_DAMalacathOgre07",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "DAMalacathOgre08",
+    "formid": "Oblivion.esm:09F98C",
+    "full": "LOC_FN_DAMalacathOgre08",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeShamanE",
+    "formid": "Oblivion.esm:0AA290",
+    "full": "LOC_FN_GoblinTribeShamanE",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeShamanF",
+    "formid": "Oblivion.esm:0AA621",
+    "full": "LOC_FN_GoblinTribeShamanF",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeShamanG",
+    "formid": "Oblivion.esm:0AA622",
+    "full": "LOC_FN_GoblinTribeShamanG",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeLeaderE",
+    "formid": "Oblivion.esm:0AA623",
+    "full": "LOC_FN_GoblinTribeLeaderE",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeLeaderF",
+    "formid": "Oblivion.esm:0AA624",
+    "full": "LOC_FN_GoblinTribeLeaderF",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeLeaderG",
+    "formid": "Oblivion.esm:0AA625",
+    "full": "LOC_FN_GoblinTribeLeaderG",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeGuardE",
+    "formid": "Oblivion.esm:0AA633",
+    "full": "LOC_FN_GoblinTribeGuardE",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeGuardF",
+    "formid": "Oblivion.esm:0AA634",
+    "full": "LOC_FN_GoblinTribeGuardF",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeGuardG",
+    "formid": "Oblivion.esm:0AA635",
+    "full": "LOC_FN_GoblinTribeGuardG",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribePatrolE",
+    "formid": "Oblivion.esm:0AA637",
+    "full": "LOC_FN_GoblinTribePatrolE",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribePatrolF",
+    "formid": "Oblivion.esm:0AA643",
+    "full": "LOC_FN_GoblinTribePatrolF",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribePatrolG",
+    "formid": "Oblivion.esm:0AA644",
+    "full": "LOC_FN_GoblinTribePatrolG",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeSoldierE",
+    "formid": "Oblivion.esm:0AA645",
+    "full": "LOC_FN_GoblinTribeSoldierE",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeSoldierF",
+    "formid": "Oblivion.esm:0AA646",
+    "full": "LOC_FN_GoblinTribeSoldierF",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "GoblinTribeSoldierG",
+    "formid": "Oblivion.esm:0AA647",
+    "full": "LOC_FN_GoblinTribeSoldierG",
+    "modl": "Creatures\\Goblin\\Skeleton.NIF"
+  },
+  {
+    "edid": "MQ15ParadiseMudCrab",
+    "formid": "Oblivion.esm:0BE345",
+    "full": "LOC_FN_MQ15ParadiseMudCrab",
+    "modl": "Creatures\\MudCrab\\skeleton.NIF"
+  },
+  {
+    "edid": "MQ12KingsZombie01",
+    "formid": "Oblivion.esm:0C5B3E",
+    "full": "LOC_FN_MQ12KingsZombie01",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "MQ12KingsZombie02",
+    "formid": "Oblivion.esm:0C5B3F",
+    "full": "LOC_FN_MQ12KingsZombie02",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "MQ12KingsZombie03",
+    "formid": "Oblivion.esm:0C5B40",
+    "full": "LOC_FN_MQ12KingsZombie03",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "DogBlackBowBoss",
+    "formid": "Oblivion.esm:0CA873",
+    "full": "LOC_FN_DogBlackBowBoss",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CGRatMagicTutorial",
+    "formid": "Oblivion.esm:0CD335",
+    "full": "LOC_FN_CGRatMagicTutorial",
+    "modl": "Creatures\\Rat\\Skeleton.NIF"
+  },
+  {
+    "edid": "DarkGhostRufioSummoned",
+    "formid": "Oblivion.esm:175F5F",
+    "full": "LOC_FN_DarkGhostRufioSummoned",
+    "modl": "Creatures\\Ghost\\Skeleton.nif"
+  },
+  {
+    "edid": "SQ01Ogre",
+    "formid": "Oblivion.esm:177A2E",
+    "full": "LOC_FN_SQ01Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "DEADCreatureHorsePaint",
+    "formid": "Oblivion.esm:18AD8A",
+    "full": "LOC_FN_DEADCreatureHorsePaint",
+    "modl": "Creatures\\Horse\\Skeleton.NIF"
+  },
+  {
+    "edid": "SQ06WestWealdBlackBear",
+    "formid": "Oblivion.esm:18AE38",
+    "full": "LOC_FN_SQ06WestWealdBlackBear",
+    "modl": "Creatures\\Bear\\Skeleton.NIF"
+  },
+  {
+    "edid": "SQ06WestWealdBrownBear",
+    "formid": "Oblivion.esm:18AE39",
+    "full": "LOC_FN_SQ06WestWealdBrownBear",
+    "modl": "Creatures\\Bear\\Skeleton.NIF"
+  },
+  {
+    "edid": "SQ06WestWealdBlackBearCub",
+    "formid": "Oblivion.esm:18AE3A",
+    "full": "LOC_FN_SQ06WestWealdBlackBearCub",
+    "modl": "Creatures\\Bear\\Skeleton.NIF"
+  },
+  {
+    "edid": "SQ06WestWealdBrownBearCub",
+    "formid": "Oblivion.esm:18AE3B",
+    "full": "LOC_FN_SQ06WestWealdBrownBearCub",
+    "modl": "Creatures\\Bear\\Skeleton.NIF"
+  },
+  {
+    "edid": "SQ06WestWealdBlackBearDenHunter",
+    "formid": "Oblivion.esm:18AE3D",
+    "full": "LOC_FN_SQ06WestWealdBlackBearDenHunter",
+    "modl": "Creatures\\Bear\\Skeleton.NIF"
+  },
+  {
+    "edid": "SQ06WestWealdBrownBearDenHunter",
+    "formid": "Oblivion.esm:18AE3E",
+    "full": "LOC_FN_SQ06WestWealdBrownBearDenHunter",
+    "modl": "Creatures\\Bear\\Skeleton.NIF"
+  },
+  {
+    "edid": "TG09CreatureSlaughterfish",
+    "formid": "Oblivion.esm:18BA1E",
+    "full": "LOC_FN_TG09CreatureSlaughterfish",
+    "modl": "Creatures\\Slaughterfish\\Skeleton.NIF"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "edid": "OOOSECreatureExterior3000AllowFalls",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0015D3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSECreatureInterior1500AllowFalls",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0015D4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE08AllyCommanderGreetPlayer2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00A362",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSECutterSleep",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00DDBA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOORelanBeginPatrol",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00DDBB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE10DyloraPostQuest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00DDBC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE10StaadaPostQuest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00DDBD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSheogorathGoToPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00DDBE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSESylDefaultSit",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:011AB7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32GuardPatrolBeginPatrolSkipFallout",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03929E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE03ZombieStayNearGrommok",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:063920",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSERelanWanderPatrol",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:06F822",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEGuardPatrolBeginPatrol",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:072D41",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE14AttackHomeDeepwallow",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:07FE10",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE14AttackHomeFellmoor",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:07FE12",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE14AttackHomeGates",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:07FE13",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE14AttackHomeHighcross",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:07FE14",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE14AttackHomeSplit",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:07FE15",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEMS43FollowPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:083CCF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE14HaskillForceGreet",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0A5D56",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE14AttackHomeHale",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0A6F5C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWanderInterior",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0B47DA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWanderExterior",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0B47DB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSECreatureExterior4500AllowFalls",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0BF665",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSECreatureInterior2000AllowFalls",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0BF666",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSECreatureInteriorSwims1500",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0CCC7F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSECreatureExteriorSwims3000",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0CCC80",
+    "full": null,
+    "modl": null
+  }
+]

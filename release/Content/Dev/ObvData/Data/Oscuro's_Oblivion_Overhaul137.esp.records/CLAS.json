@@ -1,0 +1,32 @@
+[
+  {
+    "edid": "BanditMelee",
+    "formid": "Oblivion.esm:03451A",
+    "full": "Bandit",
+    "modl": null
+  },
+  {
+    "edid": "BanditMissile",
+    "formid": "Oblivion.esm:03451B",
+    "full": "Bandit Archer",
+    "modl": null
+  },
+  {
+    "edid": "BanditBoss",
+    "formid": "Oblivion.esm:034520",
+    "full": "Bandit Boss",
+    "modl": null
+  },
+  {
+    "edid": "Guard",
+    "formid": "Oblivion.esm:034E6E",
+    "full": "Guard",
+    "modl": null
+  },
+  {
+    "edid": "KvatchSoldier",
+    "formid": "Oblivion.esm:066211",
+    "full": "Kvatch Guard",
+    "modl": null
+  }
+]

@@ -1,0 +1,1754 @@
+[
+  {
+    "edid": "BlackCloakTest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:000D62",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black\\cloak.nif"
+  },
+  {
+    "edid": "OOOSeducerClean",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0015A9",
+    "full": "",
+    "modl": "Clothes\\LowerClass\\05\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "XElvenRobeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:001BA2",
+    "full": "",
+    "modl": "clothes\\elvenrobe\\m\\elvenrobe.nif"
+  },
+  {
+    "edid": "LargeRedCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:001BA8",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\red\\largecloak.nif"
+  },
+  {
+    "edid": "LargeRedCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:001BA9",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\red\\largecape.nif"
+  },
+  {
+    "edid": "ThinRedCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:001BAA",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\red\\thincape.nif"
+  },
+  {
+    "edid": "thinredcloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:001BAB",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\red\\thincloak.nif"
+  },
+  {
+    "edid": "KDSilverthornHoodOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:001C9C",
+    "full": "",
+    "modl": "clothes\\KDRobes\\Silverthornhood.nif"
+  },
+  {
+    "edid": "KDSilverthornRobeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:001C9D",
+    "full": "",
+    "modl": "clothes\\KDRobes\\MSilverthorn.nif"
+  },
+  {
+    "edid": "KDVermillionGlovesOOOZLadyEmber",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:001C9E",
+    "full": "",
+    "modl": "clothes\\KDRobes\\Mvermgaunt.nif"
+  },
+  {
+    "edid": "KDVermillionHoodOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:001C9F",
+    "full": "",
+    "modl": "clothes\\KDRobes\\vermillionhood.nif"
+  },
+  {
+    "edid": "KDVermillionRobeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:001CA0",
+    "full": "",
+    "modl": "clothes\\KDRobes\\MVermillion.nif"
+  },
+  {
+    "edid": "XDruinnovicerobeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002089",
+    "full": "",
+    "modl": "clothes\\robemageoftheforest\\m\\robemageoftheforest.nif"
+  },
+  {
+    "edid": "VLargeRedCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002092",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\red\\verylargecape.nif"
+  },
+  {
+    "edid": "VLargeRedCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002093",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\red\\verylargecloak.nif"
+  },
+  {
+    "edid": "SmallRedCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002094",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\red\\tinycape.nif"
+  },
+  {
+    "edid": "SmallRedCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002095",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\red\\tinycloak.nif"
+  },
+  {
+    "edid": "ThinBlackCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002096",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black\\thincape.nif"
+  },
+  {
+    "edid": "ThinBlackCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002097",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black\\thincloak.nif"
+  },
+  {
+    "edid": "SmallBlackCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002098",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black\\tinycape.nif"
+  },
+  {
+    "edid": "SmallBlackCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002099",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black\\tinycloak.nif"
+  },
+  {
+    "edid": "ThinBlueCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0020A1",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\blue\\thincloak.nif"
+  },
+  {
+    "edid": "CrimsonCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002A8A",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\crimson\\cape.nif"
+  },
+  {
+    "edid": "CrimsonCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002A8B",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\crimson\\cloak.nif"
+  },
+  {
+    "edid": "LargeCrimsonCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002A8C",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\crimson\\largecape.nif"
+  },
+  {
+    "edid": "LargeCrimsonCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002A8D",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\crimson\\largecloak.nif"
+  },
+  {
+    "edid": "VLargeCrimsonCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002A8E",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\crimson\\verylargecloak.nif"
+  },
+  {
+    "edid": "VLargeCrimsonCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002A8F",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\crimson\\verylargecape.nif"
+  },
+  {
+    "edid": "SmallCrimsonCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002A90",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\crimson\\tinycape.nif"
+  },
+  {
+    "edid": "SmallCrimsonCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002A91",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\crimson\\tinycloak.nif"
+  },
+  {
+    "edid": "ThinCrimsonCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002A92",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\crimson\\thincape.nif"
+  },
+  {
+    "edid": "XbloodhoodOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002F4A",
+    "full": "",
+    "modl": "clothes\\bloodrobe\\hood.nif"
+  },
+  {
+    "edid": "XancienthoodOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002F4B",
+    "full": "",
+    "modl": "clothes\\dwarvenpreist\\hood.nif"
+  },
+  {
+    "edid": "XElvenhoodOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002F4D",
+    "full": "",
+    "modl": "clothes\\elvenrobe\\hood.nif"
+  },
+  {
+    "edid": "JewelryRing5Gold7Opal",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00342F",
+    "full": "",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "PurpleCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:003950",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\purple\\cape.nif"
+  },
+  {
+    "edid": "PurpleCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:003951",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\purple\\cloak.nif"
+  },
+  {
+    "edid": "SmallPurpleCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:003952",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\purple\\tinycape.nif"
+  },
+  {
+    "edid": "ThinPurpleCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:003953",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\purple\\thincape.nif"
+  },
+  {
+    "edid": "LargePurpleCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:003954",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\purple\\largecape.nif"
+  },
+  {
+    "edid": "VLargePurpleCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:003955",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\purple\\verylargecape.nif"
+  },
+  {
+    "edid": "SmallPurpleCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:003956",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\purple\\tinycloak.nif"
+  },
+  {
+    "edid": "ThinPurpleCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:003957",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\purple\\thincloak.nif"
+  },
+  {
+    "edid": "LargePurpleCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:003958",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\purple\\largecloak.nif"
+  },
+  {
+    "edid": "VLargePurpleCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:003959",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\purple\\verylargecloak.nif"
+  },
+  {
+    "edid": "zOOODBSignetElite",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:003E9B",
+    "full": "",
+    "modl": "Clothes\\Ring\\UlfgarFamily.NIF"
+  },
+  {
+    "edid": "XDeadricwizardOOOZladyember",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00465F",
+    "full": "",
+    "modl": "clothes\\deadricwizard\\shirt.nif"
+  },
+  {
+    "edid": "KDVermillionRobeOOOZLadyEmber",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:004661",
+    "full": "",
+    "modl": "clothes\\KDRobes\\MVermillion.nif"
+  },
+  {
+    "edid": "KDVermillionGlovesOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:004665",
+    "full": "",
+    "modl": "clothes\\KDRobes\\Mvermgaunt.nif"
+  },
+  {
+    "edid": "KDVermillionHoodOOOZLadyEmber",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:004667",
+    "full": "",
+    "modl": "clothes\\KDRobes\\vermillionhood.nif"
+  },
+  {
+    "edid": "XNecrocloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:005685",
+    "full": "",
+    "modl": "clothes\\Necrocloak\\Necrocloak.nif"
+  },
+  {
+    "edid": "XautumrobeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:005B6C",
+    "full": "",
+    "modl": "clothes\\autumrobe\\m\\autumrobe.nif"
+  },
+  {
+    "edid": "XautumhoodOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:005B6D",
+    "full": "",
+    "modl": "clothes\\autumrobe\\hood.nif"
+  },
+  {
+    "edid": "XUnderkingrobeOOOKW",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:005B71",
+    "full": "",
+    "modl": "clothes\\underkingrobe\\m\\underkingrobe.nif"
+  },
+  {
+    "edid": "XUnderkinghoodOOOKW",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:005B72",
+    "full": "",
+    "modl": "clothes\\underkingrobe\\hood.nif"
+  },
+  {
+    "edid": "UpperRobe01ZLien",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:005B73",
+    "full": "",
+    "modl": "Clothes\\Wizard\\Shirt.NIF"
+  },
+  {
+    "edid": "UpperShoes04ZLien",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:005B74",
+    "full": "",
+    "modl": "Clothes\\Wizard\\Shoes.NIF"
+  },
+  {
+    "edid": "LowerRobe01whiteZPutridHand",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:005B76",
+    "full": "",
+    "modl": "Clothes\\MonkWhite\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "KDSilverthornHoodOOOZNoor",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:005B78",
+    "full": "",
+    "modl": "clothes\\KDRobes\\Silverthornhood.nif"
+  },
+  {
+    "edid": "KDSilverthornRobeOOOZLien",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:005B7A",
+    "full": "",
+    "modl": "clothes\\KDRobes\\MSilverthorn.nif"
+  },
+  {
+    "edid": "KDSilverthornRobeOOOZNoor",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:005B7B",
+    "full": "",
+    "modl": "clothes\\KDRobes\\MSilverthorn.nif"
+  },
+  {
+    "edid": "XroyalbluehoodOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:005B85",
+    "full": "",
+    "modl": "clothes\\Royalbluerobe\\hood.nif"
+  },
+  {
+    "edid": "XroyalbluerobeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:005B86",
+    "full": "",
+    "modl": "clothes\\Royalbluerobe\\m\\royalbluerobe.nif"
+  },
+  {
+    "edid": "XWoodElvenRobeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006054",
+    "full": "",
+    "modl": "clothes\\Wood Elven Robe\\m\\woodelvenrobe.nif"
+  },
+  {
+    "edid": "XWoodelvenhodOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006055",
+    "full": "",
+    "modl": "clothes\\Wood Elven Robe\\hood.nif"
+  },
+  {
+    "edid": "ArchMageRobeTravenDead",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006258",
+    "full": "",
+    "modl": "Clothes\\RobeMageArch\\M\\RobeMageArch.NIF"
+  },
+  {
+    "edid": "XWoodElvenRobeUOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006F27",
+    "full": "",
+    "modl": "clothes\\Wood Elven Robe\\m\\woodelvenrobe.nif"
+  },
+  {
+    "edid": "XWoodElvenhoodUOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006F28",
+    "full": "",
+    "modl": "clothes\\Wood Elven Robe\\hood.nif"
+  },
+  {
+    "edid": "XRoyalMonkRobeUOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006F29",
+    "full": "",
+    "modl": "clothes\\royalmonk\\m\\royalmonkshirt.nif"
+  },
+  {
+    "edid": "XroyalbluerobeUOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006F2A",
+    "full": "",
+    "modl": "clothes\\Royalbluerobe\\m\\royalbluerobe.nif"
+  },
+  {
+    "edid": "XroyalbluehoodUOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006F2B",
+    "full": "",
+    "modl": "clothes\\Royalbluerobe\\hood.nif"
+  },
+  {
+    "edid": "Xolddruidho0dOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006F2C",
+    "full": "",
+    "modl": "clothes\\robemageoftheforest\\hood.nif"
+  },
+  {
+    "edid": "XnecrorobeUOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006F2D",
+    "full": "",
+    "modl": "clothes\\Necrocloak\\Necrocloak.nif"
+  },
+  {
+    "edid": "XelvenrobeUOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006F2E",
+    "full": "",
+    "modl": "clothes\\elvenrobe\\m\\elvenrobe.nif"
+  },
+  {
+    "edid": "XElvenhoodUOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006F2F",
+    "full": "",
+    "modl": "clothes\\elvenrobe\\hood.nif"
+  },
+  {
+    "edid": "XDruinnovicerobeUOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006F30",
+    "full": "",
+    "modl": "clothes\\robemageoftheforest\\m\\robemageoftheforest.nif"
+  },
+  {
+    "edid": "XDruidMonkRobeUOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006F31",
+    "full": "",
+    "modl": "clothes\\druidmonkrobe\\m\\druidmonkshirt.nif"
+  },
+  {
+    "edid": "XBloodRobeUOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006F32",
+    "full": "",
+    "modl": "clothes\\bloodrobe\\m\\bloodrobe.nif"
+  },
+  {
+    "edid": "XbloodhoodUOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006F33",
+    "full": "",
+    "modl": "clothes\\bloodrobe\\hood.nif"
+  },
+  {
+    "edid": "XAutumrobeUOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006F34",
+    "full": "",
+    "modl": "clothes\\autumrobe\\m\\autumrobe.nif"
+  },
+  {
+    "edid": "XautumhoodUOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006F35",
+    "full": "",
+    "modl": "clothes\\autumrobe\\hood.nif"
+  },
+  {
+    "edid": "XancientrobeUOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006F36",
+    "full": "",
+    "modl": "clothes\\dwarvenpreist\\m\\dwarvenpreist.nif"
+  },
+  {
+    "edid": "XancienthoodUOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:006F37",
+    "full": "",
+    "modl": "clothes\\dwarvenpreist\\hood.nif"
+  },
+  {
+    "edid": "WristIronsTrader",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0071DE",
+    "full": "",
+    "modl": "Clothes\\LowerClass\\05\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "1grayfoxshood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0073E3",
+    "full": "",
+    "modl": "armor\\Gray Fox Armory\\m\\grayfoxshood.nif"
+  },
+  {
+    "edid": "1greyfoxshood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0073E4",
+    "full": "",
+    "modl": "armor\\Gray Fox Armory\\m\\greyfoxshood.nif"
+  },
+  {
+    "edid": "1grayfoxhood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0073E5",
+    "full": "",
+    "modl": "armor\\Gray Fox Armory\\m\\grayfoxhood.nif"
+  },
+  {
+    "edid": "XDruidMonkRobeOOOBosmerGood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0077A1",
+    "full": "",
+    "modl": "clothes\\druidmonkrobe\\m\\druidmonkshirt.nif"
+  },
+  {
+    "edid": "Xolddruidho0dOOOBosmerGood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0077A2",
+    "full": "",
+    "modl": "clothes\\robemageoftheforest\\hood.nif"
+  },
+  {
+    "edid": "XDruinnovicerobeOOOBosmerGood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0077A3",
+    "full": "",
+    "modl": "clothes\\robemageoftheforest\\m\\robemageoftheforest.nif"
+  },
+  {
+    "edid": "XWoodelvenhodOOOBosmerGood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0077A4",
+    "full": "",
+    "modl": "clothes\\Wood Elven Robe\\hood.nif"
+  },
+  {
+    "edid": "XWoodElvenRobeOOOBosmerGood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0077A5",
+    "full": "",
+    "modl": "clothes\\Wood Elven Robe\\m\\woodelvenrobe.nif"
+  },
+  {
+    "edid": "Xolddruidho0dUOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:007904",
+    "full": "",
+    "modl": "clothes\\robemageoftheforest\\hood.nif"
+  },
+  {
+    "edid": "zOOOFollowRing",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:007B59",
+    "full": "",
+    "modl": "Clothes\\Ring\\RingBrass.NIF"
+  },
+  {
+    "edid": "XUnderkingrobeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00966A",
+    "full": "",
+    "modl": "clothes\\underkingrobe\\m\\underkingrobe.nif"
+  },
+  {
+    "edid": "XUnderkinghoodOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00966B",
+    "full": "",
+    "modl": "clothes\\underkingrobe\\hood.nif"
+  },
+  {
+    "edid": "XDarkwizardOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:009B52",
+    "full": "",
+    "modl": "clothes\\Darkwizard\\shirt.nif"
+  },
+  {
+    "edid": "XDeadricwizardOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:009B53",
+    "full": "",
+    "modl": "clothes\\deadricwizard\\shirt.nif"
+  },
+  {
+    "edid": "XdamagedrobeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00A520",
+    "full": "",
+    "modl": "clothes\\DamagedRobe\\m\\damagedroberobe.nif"
+  },
+  {
+    "edid": "XDamagedhoodOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00A521",
+    "full": "",
+    "modl": "clothes\\DamagedRobe\\hood.nif"
+  },
+  {
+    "edid": "XBluerobeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00AA08",
+    "full": "",
+    "modl": "clothes\\blueandwhite\\m\\blueandwhite.nif"
+  },
+  {
+    "edid": "XbluehoodOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00AA09",
+    "full": "",
+    "modl": "clothes\\blueandwhite\\hood.nif"
+  },
+  {
+    "edid": "XdamagedrobeUOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00AEF7",
+    "full": "",
+    "modl": "clothes\\DamagedRobe\\m\\damagedroberobe.nif"
+  },
+  {
+    "edid": "XDamagedhoodUOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00AEF9",
+    "full": "",
+    "modl": "clothes\\DamagedRobe\\hood.nif"
+  },
+  {
+    "edid": "zOOODBSignetReward",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00C0D1",
+    "full": "",
+    "modl": "Clothes\\Ring\\UlfgarFamily.NIF"
+  },
+  {
+    "edid": "OOOSE30CutterPants",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01089E",
+    "full": "Patchwork Pants",
+    "modl": "OOOSE\\Clothes\\CutterAndDumag\\CutterLower.nif"
+  },
+  {
+    "edid": "OOOSE30CutterShirt",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01089F",
+    "full": "Patchwork Shirt",
+    "modl": "OOOSE\\Clothes\\CutterAndDumag\\CutterShirt.nif"
+  },
+  {
+    "edid": "OOOSE30CutterGloves",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:012412",
+    "full": "Patchwork Shirt",
+    "modl": "OOOSE\\Clothes\\CutterAndDumag\\CutterGloves.nif"
+  },
+  {
+    "edid": "OOOSE35BrithaurShirt",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0128B7",
+    "full": "Shirt",
+    "modl": "Clothes\\LowerClass\\05\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "OOOSE30DumagGloves",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0138B3",
+    "full": "Patchwork Shirt",
+    "modl": "OOOSE\\Clothes\\CutterAndDumag\\DumagGloves.nif"
+  },
+  {
+    "edid": "EnchRingZWormKing",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:013E1E",
+    "full": "",
+    "modl": "Clothes\\Ring\\RingEbonyEmerald.NIF"
+  },
+  {
+    "edid": "LowerShoesZGoblinJim",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:014308",
+    "full": "",
+    "modl": "Clothes\\LowerClass\\02\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "XOOONPCBlackCapeTinyElhoimLegion",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:017932",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\legion\\RustyBlack\\tinycape.nif"
+  },
+  {
+    "edid": "zJewelryAmulet3JadeSlaver",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01CA7D",
+    "full": "",
+    "modl": "Clothes\\Amulet\\AmuletJadeJeweled.NIF"
+  },
+  {
+    "edid": "JewelryRing3Jade4SapphireLerys",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01CA8E",
+    "full": "",
+    "modl": "Clothes\\Ring\\RingJadeSapphire.NIF"
+  },
+  {
+    "edid": "JewelryRing2Copper3RubyApria",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DA3E",
+    "full": "",
+    "modl": "Clothes\\Ring\\RingCopperRuby.NIF"
+  },
+  {
+    "edid": "XOOONPCBlackandRedCapePC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DEB0",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black02\\cape.nif"
+  },
+  {
+    "edid": "XOOONPCBlackandRedCapeTinyPC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DEB1",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black02\\tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCBlackandRedCapeZFireOPC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DEB2",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black02\\tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCBlackCapePC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DEB3",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black\\cape.nif"
+  },
+  {
+    "edid": "XOOONPCBlackCapeTinyPC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DEB4",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black\\tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCBlueCapePC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DEB5",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\blue\\cape.nif"
+  },
+  {
+    "edid": "XOOONPCBlueCapeTinyPC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DEB6",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\blue\\tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCBrownCapePC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DEB7",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\brown\\cape.nif"
+  },
+  {
+    "edid": "XOOONPCBrownCapeTinyPC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DEB8",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\brown\\tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCCrimsonCapePC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DEB9",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\crimson\\cape.nif"
+  },
+  {
+    "edid": "XOOONPCCrimsonCapeTinyPC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DEBA",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\crimson\\tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCGreenCapePC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DEBB",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\green\\cape.nif"
+  },
+  {
+    "edid": "XOOONPCGreenCapeTinyPC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DEBC",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\green\\tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCPurpleCapePC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DEBD",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\purple\\cape.nif"
+  },
+  {
+    "edid": "XOOONPCPurpleCapeTinyPC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DEBE",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\purple\\tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCRedCapePC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DEBF",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\red\\cape.nif"
+  },
+  {
+    "edid": "XOOONPCRedCapeTinyPC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DEC0",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\red\\tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCWhiteCapePC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DEC1",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\white\\cape.nif"
+  },
+  {
+    "edid": "XOOONPCWhiteCapeTinyPC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01DEC2",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\white\\tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCBlackCapeTinyLegion",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:021AEA",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\legion\\Black\\tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCGreenCape",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:021FDA",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\green\\cape.nif"
+  },
+  {
+    "edid": "XOOONPCRedCapeTinyLegion",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0224C9",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\legion\\Red\\tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCWhiteCapeLegion",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:024E78",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\legion\\White\\cape.nif"
+  },
+  {
+    "edid": "TheSilverDragonCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:025676",
+    "full": "",
+    "modl": "clothes\\TheSilverDragonOrder\\TheProtector'sCape.nif"
+  },
+  {
+    "edid": "ArmorDraconicArmorhoodOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:027168",
+    "full": "",
+    "modl": "Armor\\DraconicArmor\\hood.nif"
+  },
+  {
+    "edid": "UpperPants01INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:027BB6",
+    "full": "",
+    "modl": "Clothes\\UpperClass\\01\\M\\Pants.NIF"
+  },
+  {
+    "edid": "UpperPants04INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:027BB7",
+    "full": "",
+    "modl": "Clothes\\UpperClass\\04\\M\\Pants.NIF"
+  },
+  {
+    "edid": "UpperPants06INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:027BB8",
+    "full": "",
+    "modl": "Clothes\\UpperClass\\UCCountCountess\\M\\Pants.NIF"
+  },
+  {
+    "edid": "UpperSkirt01INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:027BB9",
+    "full": "",
+    "modl": "Clothes\\UpperClass\\01\\F\\pants.nif"
+  },
+  {
+    "edid": "UpperSkirt04INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:027BBA",
+    "full": "",
+    "modl": "Clothes\\UpperClass\\04\\F\\pants.nif"
+  },
+  {
+    "edid": "UpperSkirt06INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:027BBB",
+    "full": "",
+    "modl": "Clothes\\UpperClass\\UCCountCountess\\F\\pants.nif"
+  },
+  {
+    "edid": "MiddlePants01INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:027BBC",
+    "full": "",
+    "modl": "Clothes\\MiddleClass\\01\\M\\Pants.NIF"
+  },
+  {
+    "edid": "MiddlePants02INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:027BBD",
+    "full": "",
+    "modl": "Clothes\\MiddleClass\\02\\M\\Pants.NIF"
+  },
+  {
+    "edid": "MiddlePants04INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:027BBE",
+    "full": "",
+    "modl": "Clothes\\MiddleClass\\04\\M\\Pants.NIF"
+  },
+  {
+    "edid": "MiddleSkirt01INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:027BBF",
+    "full": "",
+    "modl": "Clothes\\MiddleClass\\01\\F\\pants.nif"
+  },
+  {
+    "edid": "MiddleSkirt02INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:027BC0",
+    "full": "",
+    "modl": "Clothes\\MiddleClass\\02\\F\\pants.nif"
+  },
+  {
+    "edid": "MiddleSkirt04INDEPENDENT",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:027BC1",
+    "full": "",
+    "modl": "Clothes\\MiddleClass\\04\\F\\pants.nif"
+  },
+  {
+    "edid": "JewelryZNecklaceAmazonJade",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02A60F",
+    "full": "",
+    "modl": "Clothes\\Amulet\\AmuletJade.NIF"
+  },
+  {
+    "edid": "UpperRobe02ZLordOblivion",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02A650",
+    "full": "",
+    "modl": "Clothes\\RobeUC01\\M\\RobeUC01M.NIF"
+  },
+  {
+    "edid": "LowerRobe01whiteZ",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02A657",
+    "full": "",
+    "modl": "Clothes\\MonkWhite\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "XOOONPCBlueCapeTinyLegion",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02BC2D",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\legion\\Blue\\Tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCBlackandRedCape",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02BC2E",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black02\\cape.nif"
+  },
+  {
+    "edid": "XOOONPCBrownCape",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02BC2F",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\brown\\cape.nif"
+  },
+  {
+    "edid": "XOOONPCCrimsonCape",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02BC30",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\crimson\\cape.nif"
+  },
+  {
+    "edid": "XOOONPCPurpleCape",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02BC31",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\purple\\cape.nif"
+  },
+  {
+    "edid": "XOOONPCBlackandRedCapeTiny",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02F760",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black02\\tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCBlackCape",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02F761",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black\\cape.nif"
+  },
+  {
+    "edid": "XOOONPCBlueCape",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02F762",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\blue\\cape.nif"
+  },
+  {
+    "edid": "XOOONPCBrownCapeTiny",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02F763",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\brown\\tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCCrimsonCapeTiny",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02F764",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\crimson\\tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCGreenCapeTiny",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02F765",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\green\\tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCPurpleCapeTiny",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02F766",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\purple\\tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCRedCape",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02F767",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\red\\cape.nif"
+  },
+  {
+    "edid": "XOOONPCWhiteCapeTiny",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02F768",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\white\\tinycape.nif"
+  },
+  {
+    "edid": "XOOOLegionNPCCape",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02F769",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\legion\\cape.nif"
+  },
+  {
+    "edid": "OOOSEOrderShardBlocker",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03846A",
+    "full": "Copper Ring",
+    "modl": "Clothes\\Ring\\RingCopper.NIF"
+  },
+  {
+    "edid": "XOOONPCPurpleCapeTinyLegion",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:038D5B",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\legion\\Purple\\tinycape.nif"
+  },
+  {
+    "edid": "BlackHoodOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03924A",
+    "full": "",
+    "modl": "Clothes\\RobeMCBlack\\Hood.NIF"
+  },
+  {
+    "edid": "BlackRobeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03CABF",
+    "full": "",
+    "modl": "Clothes\\RobeMCBlack\\M\\RobeMCBlack.NIF"
+  },
+  {
+    "edid": "XOOONPCBlackCapeTiny",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03D543",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black\\tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCBlackCapeTinyLegionPC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03DA2C",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\legion\\Black\\tinycapePC.nif"
+  },
+  {
+    "edid": "XOOONPCBlueCapeTinyLegionPC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03DA2D",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\legion\\Blue\\TinycapePC.nif"
+  },
+  {
+    "edid": "XOOONPCPurpleCapeTinyLegionPC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03DA2E",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\legion\\Purple\\tinycapePC.nif"
+  },
+  {
+    "edid": "XOOONPCRedCapeTinyLegionPC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03DA2F",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\legion\\Red\\tinycapePC.nif"
+  },
+  {
+    "edid": "XOOONPCWhiteCapeLegionPC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03DA30",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\legion\\White\\capePC.nif"
+  },
+  {
+    "edid": "XOOONPCWhiteCape",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0406A6",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\white\\cape.nif"
+  },
+  {
+    "edid": "XOOONPCRedCapeTiny",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0406A7",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\red\\tinycape.nif"
+  },
+  {
+    "edid": "XOOONPCBlueCapeTiny",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0406A8",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\blue\\tinycape.nif"
+  },
+  {
+    "edid": "XroyalbluehoodOOOz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:041FEF",
+    "full": "",
+    "modl": "clothes\\Royalbluerobe\\hood.nif"
+  },
+  {
+    "edid": "XroyalbluerobeOOOz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:041FF0",
+    "full": "",
+    "modl": "clothes\\Royalbluerobe\\m\\royalbluerobe.nif"
+  },
+  {
+    "edid": "XOOONPCBlackandRedCapeZFireO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0479BA",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black02\\tinycape.nif"
+  },
+  {
+    "edid": "XancientrobeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048F72",
+    "full": "",
+    "modl": "clothes\\dwarvenpreist\\m\\dwarvenpreist.nif"
+  },
+  {
+    "edid": "XDruidMonkRobeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048F73",
+    "full": "",
+    "modl": "clothes\\druidmonkrobe\\m\\druidmonkshirt.nif"
+  },
+  {
+    "edid": "XBloodRobeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048F74",
+    "full": "",
+    "modl": "clothes\\bloodrobe\\m\\bloodrobe.nif"
+  },
+  {
+    "edid": "XRoyalMonkRobeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048F75",
+    "full": "",
+    "modl": "clothes\\royalmonk\\m\\royalmonkshirt.nif"
+  },
+  {
+    "edid": "BlackCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FB2",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black\\cape.nif"
+  },
+  {
+    "edid": "BlackCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FB3",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black\\cloak.nif"
+  },
+  {
+    "edid": "BrownCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FB4",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\brown\\cloak.nif"
+  },
+  {
+    "edid": "BrownCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FB5",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\brown\\cape.nif"
+  },
+  {
+    "edid": "BlueCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FB6",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\blue\\cape.nif"
+  },
+  {
+    "edid": "BlueCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FB7",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\blue\\cloak.nif"
+  },
+  {
+    "edid": "RedCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FB8",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\red\\cape.nif"
+  },
+  {
+    "edid": "RedCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FB9",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\red\\cloak.nif"
+  },
+  {
+    "edid": "WhiteCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FBA",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\white\\cape.nif"
+  },
+  {
+    "edid": "WhiteCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FBB",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\white\\cloak.nif"
+  },
+  {
+    "edid": "GreenCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FBC",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\green\\cloak.nif"
+  },
+  {
+    "edid": "GreenCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FBD",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\green\\cape.nif"
+  },
+  {
+    "edid": "LargeBlackCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FBE",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black\\largecape.nif"
+  },
+  {
+    "edid": "VLargeBlackCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FBF",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black\\verylargecape.nif"
+  },
+  {
+    "edid": "LargeBlackCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FC0",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black\\largecloak.nif"
+  },
+  {
+    "edid": "VLargeBlackCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FC1",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black\\verylargecloak.nif"
+  },
+  {
+    "edid": "SmallBlueCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FC2",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\blue\\tinycape.nif"
+  },
+  {
+    "edid": "SmallBlueCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FC3",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\blue\\tinycloak.nif"
+  },
+  {
+    "edid": "ThinBlueCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FC4",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\blue\\thincape.nif"
+  },
+  {
+    "edid": "LargeBlueCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FC5",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\blue\\largecape.nif"
+  },
+  {
+    "edid": "LargeBlueCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FC6",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\blue\\largecloak.nif"
+  },
+  {
+    "edid": "VLargeBlueCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FC7",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\blue\\verylargecape.nif"
+  },
+  {
+    "edid": "VLargeBlueCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FC8",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\blue\\verylargecloak.nif"
+  },
+  {
+    "edid": "SmallBrownCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FC9",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\brown\\tinycape.nif"
+  },
+  {
+    "edid": "SmallBrownCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FCA",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\brown\\tinycloak.nif"
+  },
+  {
+    "edid": "ThinBrownCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FCB",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\brown\\thincape.nif"
+  },
+  {
+    "edid": "ThinBrownCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FCC",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\brown\\thincloak.nif"
+  },
+  {
+    "edid": "LargeBrownCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FCD",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\brown\\largecape.nif"
+  },
+  {
+    "edid": "LargeBrownCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FCE",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\brown\\largecloak.nif"
+  },
+  {
+    "edid": "VLargeBrownCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FCF",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\brown\\verylargecape.nif"
+  },
+  {
+    "edid": "VLargeBrownCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FD0",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\brown\\verylargecloak.nif"
+  },
+  {
+    "edid": "LargeGreenCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FD1",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\green\\largecape.nif"
+  },
+  {
+    "edid": "LargeGreenCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FD2",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\green\\largecloak.nif"
+  },
+  {
+    "edid": "SmallGreenCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FD3",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\green\\tinycape.nif"
+  },
+  {
+    "edid": "SmallGreenCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FD4",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\green\\tinycloak.nif"
+  },
+  {
+    "edid": "ThinGreenCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FD5",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\green\\thincape.nif"
+  },
+  {
+    "edid": "ThinGreenCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FD6",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\green\\thincloak.nif"
+  },
+  {
+    "edid": "VLargeGreenCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FD7",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\green\\verylargecloak.nif"
+  },
+  {
+    "edid": "VLargeGreenCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FD8",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\green\\verylargecape.nif"
+  },
+  {
+    "edid": "SmallWhiteCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FD9",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\white\\tinycape.nif"
+  },
+  {
+    "edid": "SmallWhiteCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FDA",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\white\\tinycloak.nif"
+  },
+  {
+    "edid": "ThinWhiteCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FDB",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\white\\thincloak.nif"
+  },
+  {
+    "edid": "ThinWhiteCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FDC",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\white\\thincape.nif"
+  },
+  {
+    "edid": "VLargeWhiteCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FDD",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\white\\verylargecape.nif"
+  },
+  {
+    "edid": "LargeWhiteCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FDE",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\white\\largecloak.nif"
+  },
+  {
+    "edid": "LargeWhiteCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FDF",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\white\\largecape.nif"
+  },
+  {
+    "edid": "VLargeWhiteCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FE0",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\white\\verylargecloak.nif"
+  },
+  {
+    "edid": "ThinCrimsonCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FE1",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\crimson\\thincloak.nif"
+  },
+  {
+    "edid": "BlackandRedCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FE2",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black02\\cape.nif"
+  },
+  {
+    "edid": "BlackandRedCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FE3",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black02\\cloak.nif"
+  },
+  {
+    "edid": "SmallBlackandRedCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FE4",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black02\\tinycloak.nif"
+  },
+  {
+    "edid": "ThinBlackandRedCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FE5",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black02\\thincloak.nif"
+  },
+  {
+    "edid": "LargeBlackandRedCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FE6",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black02\\largecloak.nif"
+  },
+  {
+    "edid": "VLargeBlackandRedCloakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FE7",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black02\\verylargecloak.nif"
+  },
+  {
+    "edid": "SmallBlackandRedCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FE8",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black02\\tinycape.nif"
+  },
+  {
+    "edid": "ThinBlackandRedCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FE9",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black02\\thincape.nif"
+  },
+  {
+    "edid": "LargeBlackandRedCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FEA",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black02\\largecape.nif"
+  },
+  {
+    "edid": "VLargeBlackandRedCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048FEB",
+    "full": "",
+    "modl": "clothes\\cloaks and capes\\black02\\verylargecape.nif"
+  },
+  {
+    "edid": "OOOSERegaliaDementia",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:04A225",
+    "full": "Regalia of Dementia",
+    "modl": "OOOSE\\Clothes\\Syl\\M.nif"
+  },
+  {
+    "edid": "OOOSERegaliaMania",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:04A227",
+    "full": "Regalia of Mania",
+    "modl": "OOOSE\\Clothes\\Thadon\\M.nif"
+  },
+  {
+    "edid": "OOOSEErrorAmulet",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:058A16",
+    "full": "The Yellow Square of Doom",
+    "modl": "OOOSE\\Clothes\\Amulets\\ErrorAmulet.nif"
+  },
+  {
+    "edid": "OOOSEErrorAmuletMuseum",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:058A22",
+    "full": "The Yellow Square of Doom",
+    "modl": "OOOSE\\Clothes\\Amulets\\ErrorAmulet.nif"
+  },
+  {
+    "edid": "OOOSE11LuminaryShoes",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:05C930",
+    "full": "Luminary Shoes",
+    "modl": "Clothes\\Wizard\\Shoes.NIF"
+  },
+  {
+    "edid": "OOOSEDyusRobe",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:05DE35",
+    "full": "Grey Robe",
+    "modl": "OOOSE\\Clothes\\DyusRobe.nif"
+  },
+  {
+    "edid": "HeavenFuryCapeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0642A3",
+    "full": "",
+    "modl": "clothes\\hf2\\capewrath.nif"
+  },
+  {
+    "edid": "zOOODBSignet",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:06E9F8",
+    "full": "",
+    "modl": "Clothes\\Ring\\UlfgarFamily.NIF"
+  },
+  {
+    "edid": "zOOODBAmuletReward",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:06EA5F",
+    "full": "",
+    "modl": "armor\\DraconicArmor\\metamulet.nif"
+  },
+  {
+    "edid": "zOOODBSignetAlain",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:06EA60",
+    "full": "",
+    "modl": "Clothes\\Ring\\UlfgarFamily.NIF"
+  },
+  {
+    "edid": "zOOODBAmuletAlain",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:06EA61",
+    "full": "",
+    "modl": "armor\\DraconicArmor\\metamulet.nif"
+  },
+  {
+    "edid": "OOOHooves",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:06EA65",
+    "full": "",
+    "modl": "characters\\OOOSeducer\\demontail.nif"
+  },
+  {
+    "edid": "OOOWings",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:06EA66",
+    "full": "",
+    "modl": "Characters\\OOOSeducer\\LilDragonWings.nif"
+  },
+  {
+    "edid": "OOOSE11ApostleHood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0A5650",
+    "full": "Apostle Hood",
+    "modl": "OOOSE\\Clothes\\Apostle\\hood.nif"
+  },
+  {
+    "edid": "OOOSEZealotHood3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0B39D5",
+    "full": "Zealot Proselytizer Hood",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\ZealotRobe3Hood.nif"
+  },
+  {
+    "edid": "OOOSEHereticHood3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0B39D6",
+    "full": "Heretic Crusader Hood",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\HereticRobe3Hood.nif"
+  },
+  {
+    "edid": "OOOSEHereticHood1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0B39D7",
+    "full": "Heretic Novice Hood",
+    "modl": "Clothes\\RobeLCGrey\\Hood.NIF"
+  },
+  {
+    "edid": "OOOSEHereticHood4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0B39D8",
+    "full": "Heretic War Priest Hood",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\HereticRobe4Hood.nif"
+  },
+  {
+    "edid": "OOOSEHereticHood5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0B39D9",
+    "full": "Heretic Transformed Hood",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\HereticRobe5Hood.nif"
+  },
+  {
+    "edid": "OOOSEHereticRobe1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0B39DB",
+    "full": "Heretic Novice Robe",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\HereticRobe1M.NIF"
+  },
+  {
+    "edid": "OOOSEHereticRobe3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0B39DC",
+    "full": "Heretic Crusader Robe",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\HereticRobe3M.NIF"
+  },
+  {
+    "edid": "OOOSEHereticRobe4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0B39DD",
+    "full": "Heretic War Priest Robe",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\HereticRobe4M.NIF"
+  },
+  {
+    "edid": "OOOSEHereticRobe5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0B39DE",
+    "full": "Heretic Transformed Robe",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\HereticRobe5M.NIF"
+  },
+  {
+    "edid": "OOOSEZealotRobe2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0B39DF",
+    "full": "Zealot Missionary Robe",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\ZealotRobe2M.NIF"
+  },
+  {
+    "edid": "OOOSEZealotHood2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0B39E0",
+    "full": "Zealot Missionary Hood",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\ZealotRobe2Hood.nif"
+  },
+  {
+    "edid": "OOOSEZealotRobe3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0B39E1",
+    "full": "Zealot Proselytizer Robe",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\ZealotRobe3M.NIF"
+  },
+  {
+    "edid": "OOOSEZealotRobe5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0B39E2",
+    "full": "Zealot Ascended Robe",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\ZealotRobe5M.NIF"
+  },
+  {
+    "edid": "OOOSEZealotHood5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0B39E3",
+    "full": "Zealot Ascended Hood",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\ZealotRobe5Hood.nif"
+  },
+  {
+    "edid": "OOOSEZealotHood4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0B39E4",
+    "full": "Zealot War Priest Hood",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\ZealotRobe4Hood.nif"
+  },
+  {
+    "edid": "OOOSEZealotRobe4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0B39E5",
+    "full": "Zealot War Priest Robe",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\ZealotRobe4M.NIF"
+  },
+  {
+    "edid": "OOOSEZealotRobe6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0B8DA5",
+    "full": "Zealot High Priest Robe",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\ZealotRobe6M.nif"
+  },
+  {
+    "edid": "OOOSEGoldenFlameRobe",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0C4A43",
+    "full": "Golden Flame Robe",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\GoldenFlameRobeM.nif"
+  },
+  {
+    "edid": "OOOSEHereticRobe5Boss",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0C637D",
+    "full": "Heretic Transformed Robe (Reinforced)",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\HereticRobe5BossM.NIF"
+  },
+  {
+    "edid": "OOOSEHereticRobe4Boss",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0C637E",
+    "full": "Heretic War Priest Robe (Enchanted)",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\HereticRobe4M.NIF"
+  },
+  {
+    "edid": "OOOSEHereticRobe3Boss",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0C637F",
+    "full": "Heretic Crusader Robe (Enchanted)",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\HereticRobe3M.NIF"
+  },
+  {
+    "edid": "OOOSEZealotRobe3Boss",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0C6380",
+    "full": "Zealot Proselytizer Robe (Enchanted)",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\ZealotRobe3M.NIF"
+  },
+  {
+    "edid": "OOOSEZealotRobe4Boss",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0C6381",
+    "full": "Zealot War Priest Robe (Enchanted)",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\ZealotRobe4M.NIF"
+  },
+  {
+    "edid": "OOOSEZealotRobe5Boss",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0C6382",
+    "full": "Zealot Ascended Robe (Reinforced)",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\ZealotRobe5BossM.NIF"
+  },
+  {
+    "edid": "OOOSEZealotRobe6Boss",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0E2E08",
+    "full": "Zealot High Priest Robe (Enchanted)",
+    "modl": "OOOSE\\Clothes\\KobaLRobes\\ZealotRobe6M.nif"
+  },
+  {
+    "edid": "OOOSEShegorathsRegaliaDress",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:12929F",
+    "full": "Sheogorath's Dress",
+    "modl": "OOOSE\\Clothes\\sheogorath\\DressM.nif"
+  },
+  {
+    "edid": "OOOSEShegorathsRegaliaDressOld",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:1292A0",
+    "full": "Sheogorath's Old Dress",
+    "modl": "OOOSE\\Clothes\\sheogorathOld\\DressM.nif"
+  },
+  {
+    "edid": "OOOSEShegorathsRegaliaOld",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:1292A1",
+    "full": "Sheogorath's Old Regalia",
+    "modl": "OOOSE\\Clothes\\sheogorathOld\\M.nif"
+  },
+  {
+    "edid": "OOOSEShegorathsRegaliaOldUNPL",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:1292A2",
+    "full": "Sheogorath's Old Regalia",
+    "modl": "OOOSE\\Clothes\\sheogorathOld\\M.nif"
+  }
+]

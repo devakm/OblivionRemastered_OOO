@@ -1,0 +1,380 @@
+[
+  {
+    "edid": "DefaultSkeletonChampion",
+    "formid": "Oblivion.esm:000F15",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultZombieDread",
+    "formid": "Oblivion.esm:000F16",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultWraith",
+    "formid": "Oblivion.esm:000F17",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultWraithWeapon",
+    "formid": "Oblivion.esm:000F1C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultWraithGloom",
+    "formid": "Oblivion.esm:000FA1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultWraithFadedWeapon",
+    "formid": "Oblivion.esm:0028F8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultMonk",
+    "formid": "Oblivion.esm:0051A3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultSpiderling",
+    "formid": "Oblivion.esm:0052BD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultSkeletonSummoned",
+    "formid": "Oblivion.esm:00855B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultMountainLion",
+    "formid": "Oblivion.esm:00A2B1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultGoblinWarlord",
+    "formid": "Oblivion.esm:00AB91",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultAtronachFire",
+    "formid": "Oblivion.esm:014D59",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultGoblinArcher",
+    "formid": "Oblivion.esm:014D5A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultSkeletonRanged",
+    "formid": "Oblivion.esm:014F89",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultOgre",
+    "formid": "Oblivion.esm:017528",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultBoar",
+    "formid": "Oblivion.esm:01EFF3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultBearBrown",
+    "formid": "Oblivion.esm:0228A1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultTroll",
+    "formid": "Oblivion.esm:022D44",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultMudCrab",
+    "formid": "Oblivion.esm:02C557",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultMinotaurLord",
+    "formid": "Oblivion.esm:02D6F4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultScamp",
+    "formid": "Oblivion.esm:02E5E0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultDaedroth",
+    "formid": "Oblivion.esm:02E5E1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultDeerBuck",
+    "formid": "Oblivion.esm:02E994",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultDeer",
+    "formid": "Oblivion.esm:02F07D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultGoblin",
+    "formid": "Oblivion.esm:02F243",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultGoblinSkirmisher",
+    "formid": "Oblivion.esm:02F244",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultSkeleton",
+    "formid": "Oblivion.esm:02F47D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultRat",
+    "formid": "Oblivion.esm:02F47E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultSlaughterfish",
+    "formid": "Oblivion.esm:032902",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultClannfear",
+    "formid": "Oblivion.esm:035E92",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultLandDreugh",
+    "formid": "Oblivion.esm:0375A6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultImp",
+    "formid": "Oblivion.esm:03F28A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultAtronachStorm",
+    "formid": "Oblivion.esm:051D65",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultWolf",
+    "formid": "Oblivion.esm:064F45",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultGoblinShaman",
+    "formid": "Oblivion.esm:069405",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SEKnightOrderBerserk",
+    "formid": "Oblivion.esm:078C35",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultSpriggan",
+    "formid": "Oblivion.esm:085A5B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultLichNether",
+    "formid": "Oblivion.esm:085A5C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultLich",
+    "formid": "Oblivion.esm:086E36",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultWraithFaded",
+    "formid": "Oblivion.esm:086E37",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultZombie",
+    "formid": "Oblivion.esm:086E39",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SpecialSkeletonBrute",
+    "formid": "Oblivion.esm:086E3A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultOgreBrute",
+    "formid": "Oblivion.esm:086E3B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultXivilai",
+    "formid": "Oblivion.esm:086E3C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultHorse",
+    "formid": "Oblivion.esm:086E3D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultBlackBear",
+    "formid": "Oblivion.esm:086E3E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultGhost",
+    "formid": "Oblivion.esm:086E3F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultAtronachFrost",
+    "formid": "Oblivion.esm:089974",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultWillOWisp",
+    "formid": "Oblivion.esm:09758B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE11DopplegangerCombatStyle",
+    "formid": "Oblivion.esm:097608",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultSpiderDaedra",
+    "formid": "Oblivion.esm:09DB11",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OcatoCombatStyle",
+    "formid": "Oblivion.esm:0BE32B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCVampireMage",
+    "formid": "Oblivion.esm:0CA0D0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCVampireMissile",
+    "formid": "Oblivion.esm:0CA0D1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCDremoraMage",
+    "formid": "Oblivion.esm:0CA0D2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "1NPCMarauderMage",
+    "formid": "Oblivion.esm:0CA0D3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCBanditMage",
+    "formid": "Oblivion.esm:0CA0D4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCConjurer",
+    "formid": "Oblivion.esm:0CA0D5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCNecromancer",
+    "formid": "Oblivion.esm:0CA0D6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCBanditMissile",
+    "formid": "Oblivion.esm:0CA0D7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "1NPCMarauderMissile",
+    "formid": "Oblivion.esm:0CA0D8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultArcher",
+    "formid": "Oblivion.esm:0CA389",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DefaultGoblinBerserker",
+    "formid": "Oblivion.esm:1779E0",
+    "full": null,
+    "modl": null
+  }
+]

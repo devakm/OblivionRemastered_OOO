@@ -1,0 +1,464 @@
+[
+  {
+    "edid": "GlowDust",
+    "formid": "Oblivion.esm:01EBE8",
+    "full": "LOC_FN_GlowDust",
+    "modl": "Clutter\\ingredGlowDust.NIF"
+  },
+  {
+    "edid": "Ectoplasm",
+    "formid": "Oblivion.esm:01EBFE",
+    "full": "LOC_FN_Ectoplasm",
+    "modl": "Clutter\\IngredEctoplasm.NIF"
+  },
+  {
+    "edid": "Breadloaf",
+    "formid": "Oblivion.esm:023D89",
+    "full": "LOC_FN_Breadloaf",
+    "modl": "Clutter\\Bread01.NIF"
+  },
+  {
+    "edid": "DragonsTongue",
+    "formid": "Oblivion.esm:025039",
+    "full": "LOC_FN_DragonsTongue",
+    "modl": "Clutter\\ingredDragonsTongue.NIF"
+  },
+  {
+    "edid": "RedwortFlower",
+    "formid": "Oblivion.esm:02503A",
+    "full": "LOC_FN_RedwortFlower",
+    "modl": "Clutter\\ingredRedwortFlower.NIF"
+  },
+  {
+    "edid": "ImpGall",
+    "formid": "Oblivion.esm:02EE72",
+    "full": "LOC_FN_ImpGall",
+    "modl": "Clutter\\ingredbile.nif"
+  },
+  {
+    "edid": "AlkanetFlower",
+    "formid": "Oblivion.esm:03365C",
+    "full": "LOC_FN_AlkanetFlower",
+    "modl": "Clutter\\ingredalkanetflower.NIF"
+  },
+  {
+    "edid": "Apple",
+    "formid": "Oblivion.esm:03365D",
+    "full": "LOC_FN_Apple",
+    "modl": "Clutter\\Apple01.NIF"
+  },
+  {
+    "edid": "Arrowroot",
+    "formid": "Oblivion.esm:03365E",
+    "full": "LOC_FN_Arrowroot",
+    "modl": "Plants\\ArrowRoot.NIF"
+  },
+  {
+    "edid": "Blackberry",
+    "formid": "Oblivion.esm:033663",
+    "full": "LOC_FN_Blackberry",
+    "modl": "Clutter\\Blackberry01.NIF"
+  },
+  {
+    "edid": "Bloodgrass",
+    "formid": "Oblivion.esm:033664",
+    "full": "LOC_FN_Bloodgrass",
+    "modl": "Clutter\\IngredBloodGrass.NIF"
+  },
+  {
+    "edid": "BoarMeat",
+    "formid": "Oblivion.esm:033665",
+    "full": "LOC_FN_BoarMeat",
+    "modl": "Clutter\\IngredBoarMeat.NIF"
+  },
+  {
+    "edid": "Carrot",
+    "formid": "Oblivion.esm:033666",
+    "full": "LOC_FN_Carrot",
+    "modl": "Clutter\\Carrot01.NIF"
+  },
+  {
+    "edid": "CheeseWedge",
+    "formid": "Oblivion.esm:033668",
+    "full": "LOC_FN_CheeseWedge",
+    "modl": "Clutter\\Cheese01.NIF"
+  },
+  {
+    "edid": "CheeseWheel",
+    "formid": "Oblivion.esm:033669",
+    "full": "LOC_FN_CheeseWheel",
+    "modl": "Clutter\\ingredcheesewheel.NIF"
+  },
+  {
+    "edid": "Corn",
+    "formid": "Oblivion.esm:03366B",
+    "full": "LOC_FN_Corn",
+    "modl": "Clutter\\Corn01.NIF"
+  },
+  {
+    "edid": "CrabMeat",
+    "formid": "Oblivion.esm:03366C",
+    "full": "LOC_FN_CrabMeat",
+    "modl": "Clutter\\IngredCrabmeat.NIF"
+  },
+  {
+    "edid": "DaedraSilk",
+    "formid": "Oblivion.esm:033670",
+    "full": "LOC_FN_DaedraSilk",
+    "modl": "Clutter\\ingreddaedraskin.NIF"
+  },
+  {
+    "edid": "DaedraVenin",
+    "formid": "Oblivion.esm:033671",
+    "full": "LOC_FN_DaedraVenin",
+    "modl": "Clutter\\ingredDaedraVenin.NIF"
+  },
+  {
+    "edid": "GinkgoLeaf",
+    "formid": "Oblivion.esm:033678",
+    "full": "LOC_FN_GinkgoLeaf",
+    "modl": "Clutter\\IngredGinkgoLeaf.NIF"
+  },
+  {
+    "edid": "Ginseng",
+    "formid": "Oblivion.esm:033679",
+    "full": "LOC_FN_Ginseng",
+    "modl": "Clutter\\ingredginseng.NIF"
+  },
+  {
+    "edid": "Harrada",
+    "formid": "Oblivion.esm:03367D",
+    "full": "LOC_FN_Harrada",
+    "modl": "Clutter\\ingredHarrada.NIF"
+  },
+  {
+    "edid": "IronwoodNut",
+    "formid": "Oblivion.esm:03367E",
+    "full": "LOC_FN_IronwoodNut",
+    "modl": "Clutter\\IngredIronwoodNut.NIF"
+  },
+  {
+    "edid": "Leek",
+    "formid": "Oblivion.esm:033680",
+    "full": "LOC_FN_Leek",
+    "modl": "Clutter\\IngredLeek01.NIF"
+  },
+  {
+    "edid": "Lettuce",
+    "formid": "Oblivion.esm:033681",
+    "full": "LOC_FN_Lettuce",
+    "modl": "Clutter\\Lettuce01.NIF"
+  },
+  {
+    "edid": "FoxgloveNectar",
+    "formid": "Oblivion.esm:033687",
+    "full": "LOC_FN_FoxgloveNectar",
+    "modl": "Clutter\\ingrednectar01.NIF"
+  },
+  {
+    "edid": "Nightshade",
+    "formid": "Oblivion.esm:033688",
+    "full": "LOC_FN_Nightshade",
+    "modl": "Clutter\\IngredNightshade01.NIF"
+  },
+  {
+    "edid": "Radish",
+    "formid": "Oblivion.esm:03368E",
+    "full": "LOC_FN_Radish",
+    "modl": "Clutter\\IngredRadish01.NIF"
+  },
+  {
+    "edid": "Rice",
+    "formid": "Oblivion.esm:033690",
+    "full": "LOC_FN_Rice",
+    "modl": "Clutter\\IngredRice01.NIF"
+  },
+  {
+    "edid": "RootPulp",
+    "formid": "Oblivion.esm:033691",
+    "full": "LOC_FN_RootPulp",
+    "modl": "Clutter\\ingredMorningGloryRootPulp.NIF"
+  },
+  {
+    "edid": "SomnaliusFrond",
+    "formid": "Oblivion.esm:033696",
+    "full": "LOC_FN_SomnaliusFrond",
+    "modl": "Clutter\\ingredSomnaliusFrond.NIF"
+  },
+  {
+    "edid": "SpiddalStick",
+    "formid": "Oblivion.esm:033697",
+    "full": "LOC_FN_SpiddalStick",
+    "modl": "Clutter\\ingredSpiddalStick.NIF"
+  },
+  {
+    "edid": "Strawberry",
+    "formid": "Oblivion.esm:033699",
+    "full": "LOC_FN_Strawberry",
+    "modl": "Clutter\\Strawberry01.NIF"
+  },
+  {
+    "edid": "Tobacco",
+    "formid": "Oblivion.esm:03369D",
+    "full": "LOC_FN_Tobacco",
+    "modl": "Clutter\\IngredTobacco01.NIF"
+  },
+  {
+    "edid": "WheatGrain",
+    "formid": "Oblivion.esm:0336A1",
+    "full": "LOC_FN_WheatGrain",
+    "modl": "Clutter\\IngredWheat01.NIF"
+  },
+  {
+    "edid": "GoldenRodSeedPod",
+    "formid": "Oblivion.esm:0336A2",
+    "full": "LOC_FN_GoldenRodSeedPod",
+    "modl": "Clutter\\IngredWhiteSeedPod.NIF"
+  },
+  {
+    "edid": "MS39Nirnroot",
+    "formid": "Oblivion.esm:04E940",
+    "full": "LOC_FN_MS39Nirnroot",
+    "modl": "Clutter\\IngredNirnroot01.NIF"
+  },
+  {
+    "edid": "CairnBoleteCap",
+    "formid": "Oblivion.esm:06251E",
+    "full": "LOC_FN_CairnBoleteCap",
+    "modl": "Dungeons\\Caves\\CairnBoleteCap.NIF"
+  },
+  {
+    "edid": "WispStalkCaps",
+    "formid": "Oblivion.esm:06251F",
+    "full": "LOC_FN_WispStalkCaps",
+    "modl": "Dungeons\\Caves\\WispStalkCaps.NIF"
+  },
+  {
+    "edid": "Lichor",
+    "formid": "Oblivion.esm:07049E",
+    "full": "LOC_FN_Lichor",
+    "modl": "Clutter\\ingredLichor.NIF"
+  },
+  {
+    "edid": "GreenStainCupCap",
+    "formid": "Oblivion.esm:08446A",
+    "full": "LOC_FN_GreenStainCupCap",
+    "modl": "Clutter\\IngredGreenStainCupCap01.NIF"
+  },
+  {
+    "edid": "SteelBlueEntolomaCap",
+    "formid": "Oblivion.esm:08446B",
+    "full": "LOC_FN_SteelBlueEntolomaCap",
+    "modl": "Clutter\\IngredSteelBlueEntolomaCap.NIF"
+  },
+  {
+    "edid": "BogBeaconAscoCap01",
+    "formid": "Oblivion.esm:08446C",
+    "full": "LOC_FN_BogBeaconAscoCap01",
+    "modl": "Clutter\\IngredBogBeaconCap01.NIF"
+  },
+  {
+    "edid": "StinkhornCap",
+    "formid": "Oblivion.esm:08446D",
+    "full": "LOC_FN_StinkhornCap",
+    "modl": "Clutter\\IngredStinkhornCap01.NIF"
+  },
+  {
+    "edid": "TinderPolyporeCap",
+    "formid": "Oblivion.esm:08446F",
+    "full": "LOC_FN_TinderPolyporeCap",
+    "modl": "Clutter\\IngredTinderPolyporeCap.NIF"
+  },
+  {
+    "edid": "SummerBoleteCap",
+    "formid": "Oblivion.esm:084470",
+    "full": "LOC_FN_SummerBoleteCap",
+    "modl": "Clutter\\IngredSummerBolete.NIF"
+  },
+  {
+    "edid": "FlyAmanitaCap",
+    "formid": "Oblivion.esm:084471",
+    "full": "LOC_FN_FlyAmanitaCap",
+    "modl": "Clutter\\IngredFlyAmanitaCap01.NIF"
+  },
+  {
+    "edid": "CloudedFunnelCap",
+    "formid": "Oblivion.esm:084472",
+    "full": "LOC_FN_CloudedFunnelCap",
+    "modl": "Clutter\\IngredCloudedFunnelCap01.NIF"
+  },
+  {
+    "edid": "GreenStainShelfCap",
+    "formid": "Oblivion.esm:08529A",
+    "full": "LOC_FN_GreenStainShelfCap",
+    "modl": "Clutter\\IngredGreenStainShelfCap.NIF"
+  },
+  {
+    "edid": "CinnabarPolyporeCap01",
+    "formid": "Oblivion.esm:08529B",
+    "full": "LOC_FN_CinnabarPolyporeCap01",
+    "modl": "Clutter\\IngredCinnabarPolyporeCap01.NIF"
+  },
+  {
+    "edid": "CinnabarPolyporeCap02",
+    "formid": "Oblivion.esm:08529C",
+    "full": "LOC_FN_CinnabarPolyporeCap02",
+    "modl": "Clutter\\IngredCinnabarPolyporeCap02.NIF"
+  },
+  {
+    "edid": "DryadSaddlePolyporeCap",
+    "formid": "Oblivion.esm:08529D",
+    "full": "LOC_FN_DryadSaddlePolyporeCap",
+    "modl": "Clutter\\IngredDSPolyporeCap.NIF"
+  },
+  {
+    "edid": "ElfCupCap",
+    "formid": "Oblivion.esm:08529E",
+    "full": "LOC_FN_ElfCupCap",
+    "modl": "Clutter\\IngredElfCup.NIF"
+  },
+  {
+    "edid": "EmeticRussulaCap",
+    "formid": "Oblivion.esm:08529F",
+    "full": "LOC_FN_EmeticRussulaCap",
+    "modl": "Clutter\\IngredEmeticRussulaCap01.NIF"
+  },
+  {
+    "edid": "AloeVeraLeaves",
+    "formid": "Oblivion.esm:0A7924",
+    "full": "LOC_FN_AloeVeraLeaves",
+    "modl": "Plants\\AloeVera.NIF"
+  },
+  {
+    "edid": "ColumbineRootPulp",
+    "formid": "Oblivion.esm:0A7925",
+    "full": "LOC_FN_ColumbineRootPulp",
+    "modl": "Clutter\\IngredColumbineRootPulp.NIF"
+  },
+  {
+    "edid": "FennelSeeds",
+    "formid": "Oblivion.esm:0A7926",
+    "full": "LOC_FN_FennelSeeds",
+    "modl": "Clutter\\ingredfennelseed.NIF"
+  },
+  {
+    "edid": "FlaxSeeds",
+    "formid": "Oblivion.esm:0A7927",
+    "full": "LOC_FN_FlaxSeeds",
+    "modl": "Clutter\\ingredflaxseeds.NIF"
+  },
+  {
+    "edid": "LadysMantleLeaves",
+    "formid": "Oblivion.esm:0A7928",
+    "full": "LOC_FN_LadysMantleLeaves",
+    "modl": "Clutter\\ingredLadysMantleLeaves.NIF"
+  },
+  {
+    "edid": "LadysSmockLeaves",
+    "formid": "Oblivion.esm:0A7929",
+    "full": "LOC_FN_LadysSmockLeaves",
+    "modl": "Clutter\\ingredLadysSmock.NIF"
+  },
+  {
+    "edid": "LavenderSprig",
+    "formid": "Oblivion.esm:0A792A",
+    "full": "LOC_FN_LavenderSprig",
+    "modl": "Plants\\Lavender.NIF"
+  },
+  {
+    "edid": "TigerLilyNectar",
+    "formid": "Oblivion.esm:0A792B",
+    "full": "LOC_FN_TigerLilyNectar",
+    "modl": "Clutter\\ingrednectar02.NIF"
+  },
+  {
+    "edid": "MilkThistleSeeds",
+    "formid": "Oblivion.esm:0A792C",
+    "full": "LOC_FN_MilkThistleSeeds",
+    "modl": "Clutter\\IngredMilkThistleSeeds.NIF"
+  },
+  {
+    "edid": "MonkshoodRootPulp",
+    "formid": "Oblivion.esm:0A792E",
+    "full": "LOC_FN_MonkshoodRootPulp",
+    "modl": "Clutter\\ingredmonkshoodrootpulp.NIF"
+  },
+  {
+    "edid": "MorningGloryRootPulp",
+    "formid": "Oblivion.esm:0A792F",
+    "full": "LOC_FN_MorningGloryRootPulp",
+    "modl": "Clutter\\ingredMorningGloryRootPulp.NIF"
+  },
+  {
+    "edid": "MotherwortSprig",
+    "formid": "Oblivion.esm:0A7930",
+    "full": "LOC_FN_MotherwortSprig",
+    "modl": "Clutter\\ingredMotherWortSprig.NIF"
+  },
+  {
+    "edid": "MugwortSeeds",
+    "formid": "Oblivion.esm:0A7931",
+    "full": "LOC_FN_MugwortSeeds",
+    "modl": "Clutter\\ingredLotusSeed.NIF"
+  },
+  {
+    "edid": "PeonySeeds",
+    "formid": "Oblivion.esm:0A7932",
+    "full": "LOC_FN_PeonySeeds",
+    "modl": "Clutter\\ingredpeonyseeds.NIF"
+  },
+  {
+    "edid": "BergamotSeeds",
+    "formid": "Oblivion.esm:0A7933",
+    "full": "LOC_FN_BergamotSeeds",
+    "modl": "Clutter\\ingredPoppySeed.NIF"
+  },
+  {
+    "edid": "PrimroseLeaves",
+    "formid": "Oblivion.esm:0A7934",
+    "full": "LOC_FN_PrimroseLeaves",
+    "modl": "Clutter\\IngredPrimRoseLeaves.NIF"
+  },
+  {
+    "edid": "SacredLotusSeeds",
+    "formid": "Oblivion.esm:0A7936",
+    "full": "LOC_FN_SacredLotusSeeds",
+    "modl": "Clutter\\ingredLotusSeed.NIF"
+  },
+  {
+    "edid": "StJohnsWortNectar",
+    "formid": "Oblivion.esm:0A7939",
+    "full": "LOC_FN_StJohnsWortNectar",
+    "modl": "Clutter\\ingrednectar04.NIF"
+  },
+  {
+    "edid": "VipersBuglossLeaves",
+    "formid": "Oblivion.esm:0A793B",
+    "full": "LOC_FN_VipersBuglossLeaves",
+    "modl": "Clutter\\ingredViperBugloss.NIF"
+  },
+  {
+    "edid": "WaterHyacinthNectar",
+    "formid": "Oblivion.esm:0A793C",
+    "full": "LOC_FN_WaterHyacinthNectar",
+    "modl": "Clutter\\ingrednectar03.NIF"
+  },
+  {
+    "edid": "WormwoodLeaves",
+    "formid": "Oblivion.esm:0A793E",
+    "full": "LOC_FN_WormwoodLeaves",
+    "modl": "Clutter\\ingredwormwoodleaves.NIF"
+  },
+  {
+    "edid": "Taproot",
+    "formid": "Oblivion.esm:0AF06E",
+    "full": "LOC_FN_Taproot",
+    "modl": "Clutter\\ingredTapRoot.NIF"
+  },
+  {
+    "edid": "HellhoundSkin",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA45",
+    "full": "",
+    "modl": "VC\\Clutter\\Ingredients\\IngredFireHoundSkin.NIF"
+  }
+]

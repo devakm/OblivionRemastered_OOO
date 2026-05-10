@@ -1,0 +1,152 @@
+[
+  {
+    "edid": "SFXUnEquipDreadSetOOO2",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:000D57",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SFXEquipDreadSetOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:002659",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCWolfHowlSummon",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:007AD2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SFXUnEquipDreadSetOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:01A96E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOCentSpiderAttack",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02EAC1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOCentSpiderAware",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02EAC2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOCentSpiderDeath",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02EAC3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOCentSpiderFoot",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02EAC4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOCentSpiderIdle",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02EAC5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOCentSpiderInjured",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02EAC6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOHungerAttack",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02EAC7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOHungerAware",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02EAC8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOHungerDeath",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02EAC9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOHungerIdle",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02EACA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOHungerInjured",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02EACB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGuarAttack",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02EACC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGuarDeath",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02EACD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGuarIdle",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02EACE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGuarInjured",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02EACF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGargoyleAttack",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:040397",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGargoyleAware",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:040398",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGargoyleDeath",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:040399",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGargoyleFoot",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:04039A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGargoyleIdle",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:04039B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGargoyleInjured",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:04039C",
+    "full": null,
+    "modl": null
+  }
+]

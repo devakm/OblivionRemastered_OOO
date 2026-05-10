@@ -1,0 +1,49 @@
+{
+  "esp": "Oscuro's_Oblivion_Overhaul_ESP.esp",
+  "record_types": [
+    "ALCH",
+    "AMMO",
+    "ARMO",
+    "CLAS",
+    "CLOT",
+    "CONT",
+    "CREA",
+    "CSTY",
+    "DOOR",
+    "ENCH",
+    "FACT",
+    "GMST",
+    "IDLE",
+    "INGR",
+    "LVLC",
+    "LVLI",
+    "LVSP",
+    "MGEF",
+    "MISC",
+    "NPC_",
+    "PACK",
+    "RACE",
+    "SCPT",
+    "SGST",
+    "SKIL",
+    "SLGM",
+    "SPEL",
+    "WEAP"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "DLCBattlehornCastle.esp",
+      "DLCMehrunesRazor.esp",
+      "DLCOrrery.esp",
+      "DLCSpellTomes.esp",
+      "DLCThievesDen.esp",
+      "DLCVileLair.esp",
+      "Knights.esp",
+      "AltarESPMain.esp",
+      "AltarDeluxe.esp",
+      "Oscuro's_Oblivion_Overhaul.esp"
+    ],
+    "version": 1.0
+  }
+}

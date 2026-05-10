@@ -1,0 +1,440 @@
+[
+  {
+    "edid": "AColorFish",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:003A0C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ASlaughterFish",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:003A0D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "AmazonFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00491B",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ValenBosmer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:004E16",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "OscuroUOPHackdirtVillagers",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:005D78",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "SlaveTraderFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:007064",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ArgonianBlackMarshFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00722E",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ValenBosmerGood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00779E",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "zzOOODragonborneKnights",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00831F",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOBears",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00CD9C",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOBoars",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00CD9D",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOODeers",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00CD9E",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOCougars",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00CD9F",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOMinotaurs",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00CDA0",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOOgres",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00CDA1",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOSpriggan",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00CDA2",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOSlaughterfish",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00CDA3",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOORats",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00CDA4",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOWillowisps",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00CDA5",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOSheep",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00CDA6",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOMudcrabs",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00CDA7",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOWolves",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00CDA8",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOWargs",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00CDA9",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOHorses",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00CDAA",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOImps",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00CDAB",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOTrolls",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00CDAC",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOLandDreughs",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00D2BD",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "FathisArenFactionOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00EC30",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "AColorFishPrey",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00F572",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEOrderHostage",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0128BC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOGoblinFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0210EE",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32MerchantFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0254CC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "RohssanGuardian",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:029CB3",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOGuars",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02EAE0",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "UmbacanoGuardians",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03004E",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOGolemsSummonedGood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:031CCD",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWispManiaFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:036200",
+    "full": "Mania Wisps",
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWispDementiaFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:036201",
+    "full": "Dementia Wisps",
+    "modl": null
+  },
+  {
+    "edid": "ArgonianPrisonerFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:038D56",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "GhostWarriors",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03D332",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZDaedricTarget1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03D6FD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZDaedricTarget2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03D6FE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZDaedricTarget3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03D6FF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZDaedricTarget4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03D700",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZDreadTarget1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03D701",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZDreadTarget2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03D702",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZDreadTarget3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03D703",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZDreadTarget4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03D704",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZHeavensTarget1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03D705",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZHeavensTarget2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03D706",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZHeavensTarget3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03D707",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZHeavensTarget4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03D708",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZShadowTarget1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03D709",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZShadowTarget2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03D70A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZShadowTarget3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03D70B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZShadowTarget4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03D70C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZLawTarget1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03F9BD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZLawTarget2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03F9BF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZLawTarget3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03F9C0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZLawTarget4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:03F9C1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOGargoyles",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0417E6",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "GenericLikesCreatures",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:04A083",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ArgonianPrisonerFaction2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:04A32F",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "OOOSECrucibleRatsFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:04FD8B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OMPRoamingTraderFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:052EB6",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "VampireBossHunt",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:06E9ED",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "OOOSESheoFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:070D0A",
+    "full": "Everyone loves Sheogorath!",
+    "modl": null
+  },
+  {
+    "edid": "OOOSEGSHouseManiaFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:07F008",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEUnaArminaFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:08D668",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEHateEvil",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:09E60C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWormDementiaFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0C4E5B",
+    "full": "Dementia Worms",
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWormManiaFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0C4E5D",
+    "full": "Mania Worms",
+    "modl": null
+  },
+  {
+    "edid": "OOOSENuisanceFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0C4E5E",
+    "full": "SI Nuisance Beasts",
+    "modl": null
+  }
+]

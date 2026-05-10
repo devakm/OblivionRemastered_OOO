@@ -1,0 +1,1646 @@
+[
+  {
+    "edid": "PotionBurdenW",
+    "formid": "Oblivion.esm:00920C",
+    "full": "LOC_FN_PotionBurdenW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionBurdenS",
+    "formid": "Oblivion.esm:00920D",
+    "full": "LOC_FN_PotionBurdenS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionCureDisease",
+    "formid": "Oblivion.esm:00920E",
+    "full": "LOC_FN_PotionCureDisease",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionCurePoison",
+    "formid": "Oblivion.esm:00920F",
+    "full": "LOC_FN_PotionCurePoison",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionCureParlaysis",
+    "formid": "Oblivion.esm:00922E",
+    "full": "LOC_FN_PotionCureParlaysis",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionDetectLifeW",
+    "formid": "Oblivion.esm:00922F",
+    "full": "LOC_FN_PotionDetectLifeW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionDetectLifeS",
+    "formid": "Oblivion.esm:009230",
+    "full": "LOC_FN_PotionDetectLifeS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionDispel",
+    "formid": "Oblivion.esm:00927B",
+    "full": "LOC_FN_PotionDispel",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionDrainAgility",
+    "formid": "Oblivion.esm:00927C",
+    "full": "LOC_FN_PotionDrainAgility",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainEndurance",
+    "formid": "Oblivion.esm:00927D",
+    "full": "LOC_FN_PotionDrainEndurance",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainFatigue",
+    "formid": "Oblivion.esm:00927E",
+    "full": "LOC_FN_PotionDrainFatigue",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainHealth",
+    "formid": "Oblivion.esm:00927F",
+    "full": "LOC_FN_PotionDrainHealth",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainIntelligence",
+    "formid": "Oblivion.esm:009280",
+    "full": "LOC_FN_PotionDrainIntelligence",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainLuck",
+    "formid": "Oblivion.esm:009281",
+    "full": "LOC_FN_PotionDrainLuck",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainPersonality",
+    "formid": "Oblivion.esm:009282",
+    "full": "LOC_FN_PotionDrainPersonality",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainSpeed",
+    "formid": "Oblivion.esm:009283",
+    "full": "LOC_FN_PotionDrainSpeed",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainMagicka",
+    "formid": "Oblivion.esm:009284",
+    "full": "LOC_FN_PotionDrainMagicka",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainStrength",
+    "formid": "Oblivion.esm:009285",
+    "full": "LOC_FN_PotionDrainStrength",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionFeather",
+    "formid": "Oblivion.esm:0092E6",
+    "full": "LOC_FN_PotionFeather",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFireShield",
+    "formid": "Oblivion.esm:0092E7",
+    "full": "LOC_FN_PotionFireShield",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyAgilityW",
+    "formid": "Oblivion.esm:0092E8",
+    "full": "LOC_FN_PotionFortifyAgilityW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyAgilityS",
+    "formid": "Oblivion.esm:0092E9",
+    "full": "LOC_FN_PotionFortifyAgilityS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyEnduranceW",
+    "formid": "Oblivion.esm:0092EA",
+    "full": "LOC_FN_PotionFortifyEnduranceW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyEnduranceS",
+    "formid": "Oblivion.esm:0092EB",
+    "full": "LOC_FN_PotionFortifyEnduranceS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyFatigueW",
+    "formid": "Oblivion.esm:0092EC",
+    "full": "LOC_FN_PotionFortifyFatigueW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyFatigueS",
+    "formid": "Oblivion.esm:0092ED",
+    "full": "LOC_FN_PotionFortifyFatigueS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyHealthW",
+    "formid": "Oblivion.esm:0092EE",
+    "full": "LOC_FN_PotionFortifyHealthW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyHealthS",
+    "formid": "Oblivion.esm:0092EF",
+    "full": "LOC_FN_PotionFortifyHealthS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyIntelligenceW",
+    "formid": "Oblivion.esm:0092F0",
+    "full": "LOC_FN_PotionFortifyIntelligenceW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyIntelligenceS",
+    "formid": "Oblivion.esm:0092F1",
+    "full": "LOC_FN_PotionFortifyIntelligenceS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyLuckW",
+    "formid": "Oblivion.esm:0092F2",
+    "full": "LOC_FN_PotionFortifyLuckW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyLuckS",
+    "formid": "Oblivion.esm:0092F3",
+    "full": "LOC_FN_PotionFortifyLuckS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyPersonalityW",
+    "formid": "Oblivion.esm:0092F4",
+    "full": "LOC_FN_PotionFortifyPersonalityW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyPersonalityS",
+    "formid": "Oblivion.esm:0092F5",
+    "full": "LOC_FN_PotionFortifyPersonalityS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifySpeedW",
+    "formid": "Oblivion.esm:0092F6",
+    "full": "LOC_FN_PotionFortifySpeedW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifySpeedS",
+    "formid": "Oblivion.esm:0092F7",
+    "full": "LOC_FN_PotionFortifySpeedS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyMagickaW",
+    "formid": "Oblivion.esm:0092F8",
+    "full": "LOC_FN_PotionFortifyMagickaW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyMagickaS",
+    "formid": "Oblivion.esm:0092F9",
+    "full": "LOC_FN_PotionFortifyMagickaS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyStrengthW",
+    "formid": "Oblivion.esm:0092FA",
+    "full": "LOC_FN_PotionFortifyStrengthW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyStrengthS",
+    "formid": "Oblivion.esm:0092FB",
+    "full": "LOC_FN_PotionFortifyStrengthS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFrostShield",
+    "formid": "Oblivion.esm:0092FE",
+    "full": "LOC_FN_PotionFrostShield",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionInvisibility",
+    "formid": "Oblivion.esm:0092FF",
+    "full": "LOC_FN_PotionInvisibility",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionLight",
+    "formid": "Oblivion.esm:009300",
+    "full": "LOC_FN_PotionLight",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionNighteye",
+    "formid": "Oblivion.esm:009301",
+    "full": "LOC_FN_PotionNighteye",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionParalyze",
+    "formid": "Oblivion.esm:009302",
+    "full": "LOC_FN_PotionParalyze",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionReflect",
+    "formid": "Oblivion.esm:009303",
+    "full": "LOC_FN_PotionReflect",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionResistDisease",
+    "formid": "Oblivion.esm:009304",
+    "full": "LOC_FN_PotionResistDisease",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionResistFire",
+    "formid": "Oblivion.esm:009305",
+    "full": "LOC_FN_PotionResistFire",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionResistFrost",
+    "formid": "Oblivion.esm:009306",
+    "full": "LOC_FN_PotionResistFrost",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionResistMagicka",
+    "formid": "Oblivion.esm:009307",
+    "full": "LOC_FN_PotionResistMagicka",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionResistPoison",
+    "formid": "Oblivion.esm:009308",
+    "full": "LOC_FN_PotionResistPoison",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionResistShock",
+    "formid": "Oblivion.esm:009309",
+    "full": "LOC_FN_PotionResistShock",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreAgilityW",
+    "formid": "Oblivion.esm:00930A",
+    "full": "LOC_FN_PotionRestoreAgilityW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreAgilityS",
+    "formid": "Oblivion.esm:00930B",
+    "full": "LOC_FN_PotionRestoreAgilityS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreEnduranceW",
+    "formid": "Oblivion.esm:00930C",
+    "full": "LOC_FN_PotionRestoreEnduranceW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreEnduranceS",
+    "formid": "Oblivion.esm:00930D",
+    "full": "LOC_FN_PotionRestoreEnduranceS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreFatigueW",
+    "formid": "Oblivion.esm:00930E",
+    "full": "LOC_FN_PotionRestoreFatigueW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreFatigueS",
+    "formid": "Oblivion.esm:00930F",
+    "full": "LOC_FN_PotionRestoreFatigueS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreHealthW",
+    "formid": "Oblivion.esm:009310",
+    "full": "LOC_FN_PotionRestoreHealthW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreHealthS",
+    "formid": "Oblivion.esm:009311",
+    "full": "LOC_FN_PotionRestoreHealthS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreIntelligenceW",
+    "formid": "Oblivion.esm:009312",
+    "full": "LOC_FN_PotionRestoreIntelligenceW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreIntelligenceS",
+    "formid": "Oblivion.esm:009313",
+    "full": "LOC_FN_PotionRestoreIntelligenceS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreLuckW",
+    "formid": "Oblivion.esm:009314",
+    "full": "LOC_FN_PotionRestoreLuckW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreLuckS",
+    "formid": "Oblivion.esm:009315",
+    "full": "LOC_FN_PotionRestoreLuckS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestorePersonalityW",
+    "formid": "Oblivion.esm:009316",
+    "full": "LOC_FN_PotionRestorePersonalityW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestorePersonalityS",
+    "formid": "Oblivion.esm:009317",
+    "full": "LOC_FN_PotionRestorePersonalityS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreSpeedW",
+    "formid": "Oblivion.esm:009318",
+    "full": "LOC_FN_PotionRestoreSpeedW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreSpeedS",
+    "formid": "Oblivion.esm:009319",
+    "full": "LOC_FN_PotionRestoreSpeedS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreMagickaW",
+    "formid": "Oblivion.esm:00931A",
+    "full": "LOC_FN_PotionRestoreMagickaW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreMagickaS",
+    "formid": "Oblivion.esm:00931B",
+    "full": "LOC_FN_PotionRestoreMagickaS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreStrengthW",
+    "formid": "Oblivion.esm:00931C",
+    "full": "LOC_FN_PotionRestoreStrengthW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreStrengthS",
+    "formid": "Oblivion.esm:00931D",
+    "full": "LOC_FN_PotionRestoreStrengthS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionSilence",
+    "formid": "Oblivion.esm:009320",
+    "full": "LOC_FN_PotionSilence",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionSpellAbsorption",
+    "formid": "Oblivion.esm:009321",
+    "full": "LOC_FN_PotionSpellAbsorption",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionWaterBreathingW",
+    "formid": "Oblivion.esm:009324",
+    "full": "LOC_FN_PotionWaterBreathingW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionWaterBreathingS",
+    "formid": "Oblivion.esm:009325",
+    "full": "LOC_FN_PotionWaterBreathingS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionWaterWalkingW",
+    "formid": "Oblivion.esm:009326",
+    "full": "LOC_FN_PotionWaterWalkingW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionWaterWalkingS",
+    "formid": "Oblivion.esm:009327",
+    "full": "LOC_FN_PotionWaterWalkingS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionShockShieldW",
+    "formid": "Oblivion.esm:009AE0",
+    "full": "LOC_FN_PotionShockShieldW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionShockShield",
+    "formid": "Oblivion.esm:009AE3",
+    "full": "LOC_FN_PotionShockShield",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionShockShieldS",
+    "formid": "Oblivion.esm:009AE4",
+    "full": "LOC_FN_PotionShockShieldS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionCyrodiilicBrandy",
+    "formid": "Oblivion.esm:033569",
+    "full": "LOC_FN_PotionCyrodiilicBrandy",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "FGD08HistSap01",
+    "formid": "Oblivion.esm:03356A",
+    "full": "LOC_FN_FGD08HistSap01",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "DrinkWine1SurilieGood",
+    "formid": "Oblivion.esm:037F80",
+    "full": "LOC_FN_DrinkWine1SurilieGood",
+    "modl": "Clutter\\winebottle02.NIF"
+  },
+  {
+    "edid": "DrinkWine2TamikaGood",
+    "formid": "Oblivion.esm:037F81",
+    "full": "LOC_FN_DrinkWine2TamikaGood",
+    "modl": "Clutter\\winebottle03.NIF"
+  },
+  {
+    "edid": "DrinkWine3SurilieBetter",
+    "formid": "Oblivion.esm:037F82",
+    "full": "LOC_FN_DrinkWine3SurilieBetter",
+    "modl": "Clutter\\winebottle02.NIF"
+  },
+  {
+    "edid": "DrinkWine4TamikaBetter",
+    "formid": "Oblivion.esm:037F83",
+    "full": "LOC_FN_DrinkWine4TamikaBetter",
+    "modl": "Clutter\\winebottle03.NIF"
+  },
+  {
+    "edid": "PotionSkooma",
+    "formid": "Oblivion.esm:04E0A9",
+    "full": "LOC_FN_PotionSkooma",
+    "modl": "Clutter\\ingredSkooma.nif"
+  },
+  {
+    "edid": "MS39NirnrootPotionA",
+    "formid": "Oblivion.esm:04E937",
+    "full": "LOC_FN_MS39NirnrootPotionA",
+    "modl": "Clutter\\Potions\\PotionRestoration.NIF"
+  },
+  {
+    "edid": "MS39NirnrootPotionB",
+    "formid": "Oblivion.esm:04E938",
+    "full": "LOC_FN_MS39NirnrootPotionB",
+    "modl": "Clutter\\Potions\\PotionRestoration.NIF"
+  },
+  {
+    "edid": "MS39NirnrootPotionC",
+    "formid": "Oblivion.esm:04E939",
+    "full": "LOC_FN_MS39NirnrootPotionC",
+    "modl": "Clutter\\Potions\\PotionRestoration.NIF"
+  },
+  {
+    "edid": "MS39NirnrootPotionD",
+    "formid": "Oblivion.esm:04E93A",
+    "full": "LOC_FN_MS39NirnrootPotionD",
+    "modl": "Clutter\\Potions\\PotionRestoration.NIF"
+  },
+  {
+    "edid": "PotionFortifyWillpowerW",
+    "formid": "Oblivion.esm:056E51",
+    "full": "LOC_FN_PotionFortifyWillpowerW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreWillpowerW",
+    "formid": "Oblivion.esm:056E52",
+    "full": "LOC_FN_PotionRestoreWillpowerW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyWillpower",
+    "formid": "Oblivion.esm:056E53",
+    "full": "LOC_FN_PotionFortifyWillpower",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionDrainWillpower",
+    "formid": "Oblivion.esm:056E54",
+    "full": "LOC_FN_PotionDrainWillpower",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionRestoreWillpower",
+    "formid": "Oblivion.esm:056E55",
+    "full": "LOC_FN_PotionRestoreWillpower",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionDrainWillpowerS",
+    "formid": "Oblivion.esm:056E56",
+    "full": "LOC_FN_PotionDrainWillpowerS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionFortifyWillpowerS",
+    "formid": "Oblivion.esm:056E57",
+    "full": "LOC_FN_PotionFortifyWillpowerS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreWillpowerS",
+    "formid": "Oblivion.esm:056E58",
+    "full": "LOC_FN_PotionRestoreWillpowerS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionDrainWillpowerW",
+    "formid": "Oblivion.esm:056E59",
+    "full": "LOC_FN_PotionDrainWillpowerW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "MS37PhilterofFrostward",
+    "formid": "Oblivion.esm:07BCC9",
+    "full": "LOC_FN_MS37PhilterofFrostward",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionChameleon",
+    "formid": "Oblivion.esm:088B1C",
+    "full": "LOC_FN_PotionChameleon",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionChameleonW",
+    "formid": "Oblivion.esm:088B1D",
+    "full": "LOC_FN_PotionChameleonW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionChameleonS",
+    "formid": "Oblivion.esm:088B1E",
+    "full": "LOC_FN_PotionChameleonS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrAgility",
+    "formid": "Oblivion.esm:08DC58",
+    "full": "LOC_FN_PotionDamageAttrAgility",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrAgilityW",
+    "formid": "Oblivion.esm:08DC59",
+    "full": "LOC_FN_PotionDamageAttrAgilityW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrAgilityS",
+    "formid": "Oblivion.esm:08DC5A",
+    "full": "LOC_FN_PotionDamageAttrAgilityS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrEnduranceW",
+    "formid": "Oblivion.esm:08DC5B",
+    "full": "LOC_FN_PotionDamageAttrEnduranceW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrEndurance",
+    "formid": "Oblivion.esm:08DC5C",
+    "full": "LOC_FN_PotionDamageAttrEndurance",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrEnduranceS",
+    "formid": "Oblivion.esm:08DC5D",
+    "full": "LOC_FN_PotionDamageAttrEnduranceS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrIntelligence",
+    "formid": "Oblivion.esm:08DC5E",
+    "full": "LOC_FN_PotionDamageAttrIntelligence",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrIntelligenceW",
+    "formid": "Oblivion.esm:08DC5F",
+    "full": "LOC_FN_PotionDamageAttrIntelligenceW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrIntelligenceS",
+    "formid": "Oblivion.esm:08DC60",
+    "full": "LOC_FN_PotionDamageAttrIntelligenceS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrLuck",
+    "formid": "Oblivion.esm:08DC61",
+    "full": "LOC_FN_PotionDamageAttrLuck",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrLuckW",
+    "formid": "Oblivion.esm:08DC62",
+    "full": "LOC_FN_PotionDamageAttrLuckW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrLuckS",
+    "formid": "Oblivion.esm:08DC63",
+    "full": "LOC_FN_PotionDamageAttrLuckS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrPersonality",
+    "formid": "Oblivion.esm:08DC64",
+    "full": "LOC_FN_PotionDamageAttrPersonality",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrPersonalityW",
+    "formid": "Oblivion.esm:08DC65",
+    "full": "LOC_FN_PotionDamageAttrPersonalityW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrPersonalityS",
+    "formid": "Oblivion.esm:08DC66",
+    "full": "LOC_FN_PotionDamageAttrPersonalityS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrSpeed",
+    "formid": "Oblivion.esm:08DC67",
+    "full": "LOC_FN_PotionDamageAttrSpeed",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrSpeedW",
+    "formid": "Oblivion.esm:08DC68",
+    "full": "LOC_FN_PotionDamageAttrSpeedW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrSpeedS",
+    "formid": "Oblivion.esm:08DC69",
+    "full": "LOC_FN_PotionDamageAttrSpeedS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrStrength",
+    "formid": "Oblivion.esm:08DC6A",
+    "full": "LOC_FN_PotionDamageAttrStrength",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrStrengthW",
+    "formid": "Oblivion.esm:08DC6B",
+    "full": "LOC_FN_PotionDamageAttrStrengthW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrStrengthS",
+    "formid": "Oblivion.esm:08DC6C",
+    "full": "LOC_FN_PotionDamageAttrStrengthS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrWillpower",
+    "formid": "Oblivion.esm:08DC6D",
+    "full": "LOC_FN_PotionDamageAttrWillpower",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrWillpowerW",
+    "formid": "Oblivion.esm:08DC6E",
+    "full": "LOC_FN_PotionDamageAttrWillpowerW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageAttrWillpowerS",
+    "formid": "Oblivion.esm:08DC6F",
+    "full": "LOC_FN_PotionDamageAttrWillpowerS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageFatigue",
+    "formid": "Oblivion.esm:08DC70",
+    "full": "LOC_FN_PotionDamageFatigue",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageFatigueW",
+    "formid": "Oblivion.esm:08DC71",
+    "full": "LOC_FN_PotionDamageFatigueW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageFatigueS",
+    "formid": "Oblivion.esm:08DC72",
+    "full": "LOC_FN_PotionDamageFatigueS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageHealth",
+    "formid": "Oblivion.esm:08DC73",
+    "full": "LOC_FN_PotionDamageHealth",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageHealthW",
+    "formid": "Oblivion.esm:08DC74",
+    "full": "LOC_FN_PotionDamageHealthW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageHealthS",
+    "formid": "Oblivion.esm:08DC75",
+    "full": "LOC_FN_PotionDamageHealthS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageMagicka",
+    "formid": "Oblivion.esm:08DC76",
+    "full": "LOC_FN_PotionDamageMagicka",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageMagickaW",
+    "formid": "Oblivion.esm:08DC77",
+    "full": "LOC_FN_PotionDamageMagickaW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDamageMagickaS",
+    "formid": "Oblivion.esm:08DC78",
+    "full": "LOC_FN_PotionDamageMagickaS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "MS40VampireCurePotion",
+    "formid": "Oblivion.esm:0977E4",
+    "full": "LOC_FN_MS40VampireCurePotion",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "HumanBlood",
+    "formid": "Oblivion.esm:098309",
+    "full": "LOC_FN_HumanBlood",
+    "modl": "Clutter\\winebottle02.NIF"
+  },
+  {
+    "edid": "PotionDrainHealthS",
+    "formid": "Oblivion.esm:098460",
+    "full": "LOC_FN_PotionDrainHealthS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainIntelligenceW",
+    "formid": "Oblivion.esm:098461",
+    "full": "LOC_FN_PotionDrainIntelligenceW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainIntelligenceS",
+    "formid": "Oblivion.esm:098462",
+    "full": "LOC_FN_PotionDrainIntelligenceS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainLuckW",
+    "formid": "Oblivion.esm:098463",
+    "full": "LOC_FN_PotionDrainLuckW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainLuckS",
+    "formid": "Oblivion.esm:098464",
+    "full": "LOC_FN_PotionDrainLuckS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainMagickaW",
+    "formid": "Oblivion.esm:098465",
+    "full": "LOC_FN_PotionDrainMagickaW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainMagickaS",
+    "formid": "Oblivion.esm:098466",
+    "full": "LOC_FN_PotionDrainMagickaS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainPersonalityW",
+    "formid": "Oblivion.esm:098467",
+    "full": "LOC_FN_PotionDrainPersonalityW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainPersonalityS",
+    "formid": "Oblivion.esm:098468",
+    "full": "LOC_FN_PotionDrainPersonalityS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainSpeedW",
+    "formid": "Oblivion.esm:098469",
+    "full": "LOC_FN_PotionDrainSpeedW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainSpeedS",
+    "formid": "Oblivion.esm:09846A",
+    "full": "LOC_FN_PotionDrainSpeedS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainStrengthW",
+    "formid": "Oblivion.esm:09846B",
+    "full": "LOC_FN_PotionDrainStrengthW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainStrengthS",
+    "formid": "Oblivion.esm:09846C",
+    "full": "LOC_FN_PotionDrainStrengthS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionFeatherW",
+    "formid": "Oblivion.esm:09846D",
+    "full": "LOC_FN_PotionFeatherW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFeatherS",
+    "formid": "Oblivion.esm:09846E",
+    "full": "LOC_FN_PotionFeatherS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFireShieldW",
+    "formid": "Oblivion.esm:09846F",
+    "full": "LOC_FN_PotionFireShieldW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFireShieldS",
+    "formid": "Oblivion.esm:098470",
+    "full": "LOC_FN_PotionFireShieldS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyAgility",
+    "formid": "Oblivion.esm:098471",
+    "full": "LOC_FN_PotionFortifyAgility",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyEndurance",
+    "formid": "Oblivion.esm:098472",
+    "full": "LOC_FN_PotionFortifyEndurance",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyFatigue",
+    "formid": "Oblivion.esm:098473",
+    "full": "LOC_FN_PotionFortifyFatigue",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyHealth",
+    "formid": "Oblivion.esm:098474",
+    "full": "LOC_FN_PotionFortifyHealth",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyIntelligence",
+    "formid": "Oblivion.esm:098475",
+    "full": "LOC_FN_PotionFortifyIntelligence",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyLuck",
+    "formid": "Oblivion.esm:098476",
+    "full": "LOC_FN_PotionFortifyLuck",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyMagicka",
+    "formid": "Oblivion.esm:098477",
+    "full": "LOC_FN_PotionFortifyMagicka",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyPersonality",
+    "formid": "Oblivion.esm:098478",
+    "full": "LOC_FN_PotionFortifyPersonality",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifySpeed",
+    "formid": "Oblivion.esm:098479",
+    "full": "LOC_FN_PotionFortifySpeed",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFortifyStrength",
+    "formid": "Oblivion.esm:09847A",
+    "full": "LOC_FN_PotionFortifyStrength",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFrostShieldW",
+    "formid": "Oblivion.esm:09847B",
+    "full": "LOC_FN_PotionFrostShieldW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionFrostShieldS",
+    "formid": "Oblivion.esm:09847C",
+    "full": "LOC_FN_PotionFrostShieldS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionInvisibilityW",
+    "formid": "Oblivion.esm:09847D",
+    "full": "LOC_FN_PotionInvisibilityW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionInvisibilityS",
+    "formid": "Oblivion.esm:09847E",
+    "full": "LOC_FN_PotionInvisibilityS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionLightW",
+    "formid": "Oblivion.esm:09847F",
+    "full": "LOC_FN_PotionLightW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionLightS",
+    "formid": "Oblivion.esm:098480",
+    "full": "LOC_FN_PotionLightS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionNighteyeW",
+    "formid": "Oblivion.esm:098481",
+    "full": "LOC_FN_PotionNighteyeW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionNighteyeS",
+    "formid": "Oblivion.esm:098482",
+    "full": "LOC_FN_PotionNighteyeS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionParalyzeW",
+    "formid": "Oblivion.esm:098483",
+    "full": "LOC_FN_PotionParalyzeW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionParalyzeS",
+    "formid": "Oblivion.esm:098484",
+    "full": "LOC_FN_PotionParalyzeS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionReflectW",
+    "formid": "Oblivion.esm:098485",
+    "full": "LOC_FN_PotionReflectW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionReflectS",
+    "formid": "Oblivion.esm:098486",
+    "full": "LOC_FN_PotionReflectS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionResistDiseaseW",
+    "formid": "Oblivion.esm:098487",
+    "full": "LOC_FN_PotionResistDiseaseW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionResistDiseaseS",
+    "formid": "Oblivion.esm:098488",
+    "full": "LOC_FN_PotionResistDiseaseS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionResistFireS",
+    "formid": "Oblivion.esm:098489",
+    "full": "LOC_FN_PotionResistFireS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionResistFireW",
+    "formid": "Oblivion.esm:09848A",
+    "full": "LOC_FN_PotionResistFireW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionResistFrostW",
+    "formid": "Oblivion.esm:09848B",
+    "full": "LOC_FN_PotionResistFrostW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionResistFrostS",
+    "formid": "Oblivion.esm:09848C",
+    "full": "LOC_FN_PotionResistFrostS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionResistMagickaW",
+    "formid": "Oblivion.esm:09848D",
+    "full": "LOC_FN_PotionResistMagickaW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionResistMagickaS",
+    "formid": "Oblivion.esm:09848E",
+    "full": "LOC_FN_PotionResistMagickaS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionResistPoisonW",
+    "formid": "Oblivion.esm:09848F",
+    "full": "LOC_FN_PotionResistPoisonW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionResistPoisonS",
+    "formid": "Oblivion.esm:098490",
+    "full": "LOC_FN_PotionResistPoisonS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionResistShockW",
+    "formid": "Oblivion.esm:098491",
+    "full": "LOC_FN_PotionResistShockW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionResistShockS",
+    "formid": "Oblivion.esm:098492",
+    "full": "LOC_FN_PotionResistShockS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreAgility",
+    "formid": "Oblivion.esm:098493",
+    "full": "LOC_FN_PotionRestoreAgility",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreEndurance",
+    "formid": "Oblivion.esm:098494",
+    "full": "LOC_FN_PotionRestoreEndurance",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreFatigue",
+    "formid": "Oblivion.esm:098495",
+    "full": "LOC_FN_PotionRestoreFatigue",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreHealth",
+    "formid": "Oblivion.esm:098496",
+    "full": "LOC_FN_PotionRestoreHealth",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreIntelligence",
+    "formid": "Oblivion.esm:098497",
+    "full": "LOC_FN_PotionRestoreIntelligence",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreLuck",
+    "formid": "Oblivion.esm:098498",
+    "full": "LOC_FN_PotionRestoreLuck",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreMagicka",
+    "formid": "Oblivion.esm:098499",
+    "full": "LOC_FN_PotionRestoreMagicka",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestorePersonality",
+    "formid": "Oblivion.esm:09849A",
+    "full": "LOC_FN_PotionRestorePersonality",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreSpeed",
+    "formid": "Oblivion.esm:09849B",
+    "full": "LOC_FN_PotionRestoreSpeed",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionRestoreStrength",
+    "formid": "Oblivion.esm:09849C",
+    "full": "LOC_FN_PotionRestoreStrength",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionSilenceW",
+    "formid": "Oblivion.esm:09849D",
+    "full": "LOC_FN_PotionSilenceW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionSilenceS",
+    "formid": "Oblivion.esm:09849E",
+    "full": "LOC_FN_PotionSilenceS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionSpellAbsorptionW",
+    "formid": "Oblivion.esm:09849F",
+    "full": "LOC_FN_PotionSpellAbsorptionW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionSpellAbsorptionS",
+    "formid": "Oblivion.esm:0984A0",
+    "full": "LOC_FN_PotionSpellAbsorptionS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionWaterBreathing",
+    "formid": "Oblivion.esm:0984A3",
+    "full": "LOC_FN_PotionWaterBreathing",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionWaterWalking",
+    "formid": "Oblivion.esm:0984A4",
+    "full": "LOC_FN_PotionWaterWalking",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionBurden",
+    "formid": "Oblivion.esm:0984A5",
+    "full": "LOC_FN_PotionBurden",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDetectLife",
+    "formid": "Oblivion.esm:0984A6",
+    "full": "LOC_FN_PotionDetectLife",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionDispelW",
+    "formid": "Oblivion.esm:0984A7",
+    "full": "LOC_FN_PotionDispelW",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionDispelS",
+    "formid": "Oblivion.esm:0984A8",
+    "full": "LOC_FN_PotionDispelS",
+    "modl": "Clutter\\Potions\\Potion01.NIF"
+  },
+  {
+    "edid": "PotionDrainAgilityW",
+    "formid": "Oblivion.esm:0984A9",
+    "full": "LOC_FN_PotionDrainAgilityW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainAgilityS",
+    "formid": "Oblivion.esm:0984AA",
+    "full": "LOC_FN_PotionDrainAgilityS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainEnduranceW",
+    "formid": "Oblivion.esm:0984AB",
+    "full": "LOC_FN_PotionDrainEnduranceW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainEnduranceS",
+    "formid": "Oblivion.esm:0984AC",
+    "full": "LOC_FN_PotionDrainEnduranceS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainFatigueW",
+    "formid": "Oblivion.esm:0984AD",
+    "full": "LOC_FN_PotionDrainFatigueW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainFatigueS",
+    "formid": "Oblivion.esm:0984AE",
+    "full": "LOC_FN_PotionDrainFatigueS",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "PotionDrainHealthW",
+    "formid": "Oblivion.esm:0984AF",
+    "full": "LOC_FN_PotionDrainHealthW",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "DrinkAle",
+    "formid": "Oblivion.esm:0B1200",
+    "full": "LOC_FN_DrinkAle",
+    "modl": "Clutter\\AleBottle.NIF"
+  },
+  {
+    "edid": "DrinkMead",
+    "formid": "Oblivion.esm:0B1201",
+    "full": "LOC_FN_DrinkMead",
+    "modl": "Clutter\\MeadBottle.NIF"
+  },
+  {
+    "edid": "DrinkBeer",
+    "formid": "Oblivion.esm:0B1202",
+    "full": "LOC_FN_DrinkBeer",
+    "modl": "Clutter\\BeerBottle.NIF"
+  },
+  {
+    "edid": "FGC03NewheimBeer",
+    "formid": "Oblivion.esm:0B1241",
+    "full": "LOC_FN_FGC03NewheimBeer",
+    "modl": "Clutter\\BeerBottle.NIF"
+  },
+  {
+    "edid": "HouseServantMead",
+    "formid": "Oblivion.esm:0B97EA",
+    "full": "LOC_FN_HouseServantMead",
+    "modl": "Clutter\\BeerBottle.NIF"
+  },
+  {
+    "edid": "MS14PotionTurpentine04",
+    "formid": "Oblivion.esm:0CD2DB",
+    "full": "LOC_FN_MS14PotionTurpentine04",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "MS14PotionTurpentine08",
+    "formid": "Oblivion.esm:0CD2DC",
+    "full": "LOC_FN_MS14PotionTurpentine08",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "MS14PotionTurpentine12",
+    "formid": "Oblivion.esm:0CD2DD",
+    "full": "LOC_FN_MS14PotionTurpentine12",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "MS14PotionTurpentine16",
+    "formid": "Oblivion.esm:0CD2DE",
+    "full": "LOC_FN_MS14PotionTurpentine16",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "MS14PotionTurpentine20",
+    "formid": "Oblivion.esm:0CD2DF",
+    "full": "LOC_FN_MS14PotionTurpentine20",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "SQ08ShadowbanishWine",
+    "formid": "Oblivion.esm:185DCD",
+    "full": "LOC_FN_SQ08ShadowbanishWine",
+    "modl": "Furniture\\BarSet\\winebottle04.NIF"
+  },
+  {
+    "edid": "TestPotionAlteration",
+    "formid": "Oblivion.esm:188872",
+    "full": "LOC_FN_TestPotionAlteration",
+    "modl": "Clutter\\Potions\\PotionAlteration.NIF"
+  },
+  {
+    "edid": "TestPotionConjuration",
+    "formid": "Oblivion.esm:188875",
+    "full": "LOC_FN_TestPotionConjuration",
+    "modl": "Clutter\\Potions\\PotionConjuration.NIF"
+  },
+  {
+    "edid": "TestPotionDestruction",
+    "formid": "Oblivion.esm:188878",
+    "full": "LOC_FN_TestPotionDestruction",
+    "modl": "Clutter\\Potions\\PotionDestruction.NIF"
+  },
+  {
+    "edid": "TestPotionIllusion",
+    "formid": "Oblivion.esm:18887A",
+    "full": "LOC_FN_TestPotionIllusion",
+    "modl": "Clutter\\Potions\\PotionIllusion.NIF"
+  },
+  {
+    "edid": "TestPotionMysticism",
+    "formid": "Oblivion.esm:18887C",
+    "full": "LOC_FN_TestPotionMysticism",
+    "modl": "Clutter\\Potions\\PotionMysticism.NIF"
+  },
+  {
+    "edid": "TestPotionRestoration",
+    "formid": "Oblivion.esm:18887E",
+    "full": "LOC_FN_TestPotionRestoration",
+    "modl": "Clutter\\Potions\\PotionRestoration.NIF"
+  },
+  {
+    "edid": "MS14PotionTurpentine",
+    "formid": "Oblivion.esm:18BD5A",
+    "full": "LOC_FN_MS14PotionTurpentine",
+    "modl": "Clutter\\Potions\\PotionPoison.NIF"
+  },
+  {
+    "edid": "LapGrapeJuice",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:002A5A",
+    "full": "",
+    "modl": "clutter\\Booze\\meadbottle.nif"
+  },
+  {
+    "edid": "LapAppleJuice",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:002A60",
+    "full": "",
+    "modl": "clutter\\Booze\\alebottle.nif"
+  },
+  {
+    "edid": "lbPotionOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00C5FB",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionRestoreFatigueS2",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:010BDB",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_yellow.nif"
+  },
+  {
+    "edid": "PotionRestoreFatigueS3",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:010BDC",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_yellow.nif"
+  },
+  {
+    "edid": "PotionRestoreFatigueS4",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:010BDE",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_yellow.nif"
+  },
+  {
+    "edid": "PotionRestoreFatigueS5",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:010BE0",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_yellow.nif"
+  },
+  {
+    "edid": "PotionRestoreFatigueS6",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:010BE2",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_yellow.nif"
+  },
+  {
+    "edid": "PotionRestoreMagickaS2",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:010BEC",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_blue.nif"
+  },
+  {
+    "edid": "PotionRestoreMagickaS3",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:010BED",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_blue.nif"
+  },
+  {
+    "edid": "PotionRestoreMagickaS4",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:010BEF",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_blue.nif"
+  },
+  {
+    "edid": "PotionRestoreMagickaS5",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:010BF1",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_blue.nif"
+  },
+  {
+    "edid": "PotionRestoreMagickaS6",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:010BF3",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_blue.nif"
+  },
+  {
+    "edid": "PotionRestoreHealthS2",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02E3A9",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_red.nif"
+  },
+  {
+    "edid": "PotionRestoreHealthS3",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02E3AA",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_red.nif"
+  },
+  {
+    "edid": "PotionRestoreHealthS4",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02E3AC",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_red.nif"
+  },
+  {
+    "edid": "PotionRestoreHealthS6",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02E3AE",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_red.nif"
+  },
+  {
+    "edid": "PotionRestoreHealthS5",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02E3B0",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_red.nif"
+  },
+  {
+    "edid": "LAPPoisonCombustionAOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0462E2",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonCombustionBOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0462E3",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonCombustionCOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0462E5",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonFreezingGraspAOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0462E7",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonFreezingGraspBOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0462E9",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonFreezingGraspCOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0462EB",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonRustAOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0462ED",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonRustBOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0462EF",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonRustCOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0462F1",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonShockingAOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0462F3",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonShockingBOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0462F5",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LapPoisonShockingCOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0462F7",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "TandFighterPot1OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:048A41",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_red.nif"
+  },
+  {
+    "edid": "TandFighterPot2OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:048A42",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_yellow.nif"
+  },
+  {
+    "edid": "TandMagePot1OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:048A44",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_red.nif"
+  },
+  {
+    "edid": "TandMagePot2OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:048A46",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_blue.nif"
+  },
+  {
+    "edid": "bgSlowFallWeakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:06EA25",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\ironnuggetsmall.nif"
+  },
+  {
+    "edid": "bgSlowFallNormOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:06EA26",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\ironnugget.nif"
+  },
+  {
+    "edid": "bgSlowFallStrongOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:06EA27",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\ironnuggetlarge.nif"
+  },
+  {
+    "edid": "bgGravityPoisonOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:06EA28",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\Ironnuggetsmall.nif"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "edid": "HaskillSE11StandAtMarker",
+    "formid": "Oblivion.esm:014B78",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "HaskillSE12StandAtMarker",
+    "formid": "Oblivion.esm:016D05",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE08c1KnightRuntoBattleOutside",
+    "formid": "Oblivion.esm:01705A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE08AllyCommanderBattle",
+    "formid": "Oblivion.esm:018E6B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE08AllyWanderPasswall",
+    "formid": "Oblivion.esm:01B673",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE08AllyCommanderTakePosition",
+    "formid": "Oblivion.esm:01B675",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SEFellmoorRelanPatrolEtoN12x12",
+    "formid": "Oblivion.esm:040119",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SEFellmoorRelanPatrolNtoNW12x12",
+    "formid": "Oblivion.esm:04011A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SEFellmoorRelanPatrolNWtoSW12x12",
+    "formid": "Oblivion.esm:04011B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SEFellmoorRelanPatrolSWtoS12x12",
+    "formid": "Oblivion.esm:04011C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SEFellmoorRelanPatrolStoE12x12",
+    "formid": "Oblivion.esm:04011D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE08AllyCommanderStay",
+    "formid": "Oblivion.esm:052BF4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SEHaskillBaseWander0",
+    "formid": "Oblivion.esm:05E370",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE14GSEscortWait",
+    "formid": "Oblivion.esm:0637B9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE14DSEscortWait",
+    "formid": "Oblivion.esm:0637BC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE34PykeWandersHome",
+    "formid": "Oblivion.esm:066ED0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SESkeletalHoundFollowPC",
+    "formid": "Oblivion.esm:072DC7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE14DSBaseWander",
+    "formid": "Oblivion.esm:079C93",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE14GSEscortBaseWander",
+    "formid": "Oblivion.esm:079C94",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE07GundlarEats",
+    "formid": "Oblivion.esm:07B1FD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SESylSleeps",
+    "formid": "Oblivion.esm:07E0B2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SESylEats",
+    "formid": "Oblivion.esm:07E0B3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SESylHoldsCourt",
+    "formid": "Oblivion.esm:07E0B7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SESylWandersDungeons",
+    "formid": "Oblivion.esm:07E0B8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SESylDefaultWander",
+    "formid": "Oblivion.esm:07EC45",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE08FINCommanderWanderPasswall",
+    "formid": "Oblivion.esm:07FDD6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE05SylPushSwitch",
+    "formid": "Oblivion.esm:081736",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE07AArctusMovesSpeech",
+    "formid": "Oblivion.esm:08274E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE07ADerveninMoveSpeech",
+    "formid": "Oblivion.esm:08274F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE07BDerveninMoveSpeech",
+    "formid": "Oblivion.esm:082750",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE07BArctusMoveSpeech",
+    "formid": "Oblivion.esm:082751",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE08AllyCommanderGreetPlayer",
+    "formid": "Oblivion.esm:08E8E8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE34PykeWandersHouse",
+    "formid": "Oblivion.esm:091BDB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE34PykeEatsDinner",
+    "formid": "Oblivion.esm:091BDC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE34PykeReadsNearZoe",
+    "formid": "Oblivion.esm:091BDD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE14EscortBaseWander",
+    "formid": "Oblivion.esm:092A72",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SEAhjazdaEatCurrent18x2",
+    "formid": "Oblivion.esm:096385",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SEAhjazdaHomeWander",
+    "formid": "Oblivion.esm:096387",
+    "full": null,
+    "modl": null
+  }
+]

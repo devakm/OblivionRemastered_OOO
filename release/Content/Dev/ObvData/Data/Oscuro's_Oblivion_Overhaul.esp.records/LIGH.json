@@ -1,0 +1,98 @@
+[
+  {
+    "edid": "OOOSEPaleIntense750",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:020782",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32FlameMediumNoLight",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:021E22",
+    "full": null,
+    "modl": "Fire\\FireOpenMedium.nif"
+  },
+  {
+    "edid": "OOOSE32GreenFlameMediumNoLight",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022E2D",
+    "full": null,
+    "modl": "OOOSE\\Other\\GreenFlameMedium.nif"
+  },
+  {
+    "edid": "OOOSE32LightGreen512",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022E32",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32LightGreen400",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:023518",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32WeakLight600",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:023520",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32LightGreen300",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:023558",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32LightGreen200",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02355A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32GreenFlameLargeNoLight",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:023579",
+    "full": null,
+    "modl": "OOOSE\\Other\\GreenFlameLarge.nif"
+  },
+  {
+    "edid": "OOOSE32WeakLight900",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:023581",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32LightGreen700",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:023589",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32WeakLight300",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:023591",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32GreenFlameSmallNoLight",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0244BF",
+    "full": null,
+    "modl": "OOOSE\\Other\\GreenFlameSmall.nif"
+  },
+  {
+    "edid": "OOOSELightStaffMazken",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0477DD",
+    "full": "Glowing Mazken Wand",
+    "modl": "OOOSE\\weap\\other\\TorchDS.nif"
+  },
+  {
+    "edid": "OOOSELightStaffAureal",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048D28",
+    "full": "Glowing Aureal Wand",
+    "modl": "OOOSE\\weap\\other\\TorchGS.nif"
+  },
+  {
+    "edid": "OOOSELightTest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:04DA43",
+    "full": "Torch",
+    "modl": "OOOSE\\WeapOther\\staff2spider3.nif"
+  }
+]

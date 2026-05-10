@@ -1,0 +1,2444 @@
+[
+  {
+    "edid": "AbBirthsignMankarCamoran",
+    "formid": "Oblivion.esm:00528F",
+    "full": "LOC_FN_AbBirthsignMankarCamoran",
+    "modl": null
+  },
+  {
+    "edid": "AbZombieDread",
+    "formid": "Oblivion.esm:00855C",
+    "full": "LOC_FN_AbZombieDread",
+    "modl": null
+  },
+  {
+    "edid": "AbDABoethia",
+    "formid": "Oblivion.esm:00A3B3",
+    "full": "LOC_FN_AbDABoethia",
+    "modl": null
+  },
+  {
+    "edid": "AbUnicornResistances",
+    "formid": "Oblivion.esm:00AA99",
+    "full": "LOC_FN_AbUnicornResistances",
+    "modl": null
+  },
+  {
+    "edid": "AbBirthsignVampireMage",
+    "formid": "Oblivion.esm:00B507",
+    "full": "LOC_FN_AbBirthsignVampireMage",
+    "modl": null
+  },
+  {
+    "edid": "MannimarcoAbility",
+    "formid": "Oblivion.esm:00C6B3",
+    "full": "LOC_FN_MannimarcoAbility",
+    "modl": null
+  },
+  {
+    "edid": "SE11DopplegangerSpell",
+    "formid": "Oblivion.esm:016EB5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SE11c2aTimerSpell03",
+    "formid": "Oblivion.esm:018DAC",
+    "full": "LOC_FN_SE11c2aTimerSpell03",
+    "modl": null
+  },
+  {
+    "edid": "SE11c2aTimerSpell01",
+    "formid": "Oblivion.esm:018DB1",
+    "full": "LOC_FN_SE11c2aTimerSpell01",
+    "modl": null
+  },
+  {
+    "edid": "SE11c2aTimerSpell02",
+    "formid": "Oblivion.esm:018DB2",
+    "full": "LOC_FN_SE11c2aTimerSpell02",
+    "modl": null
+  },
+  {
+    "edid": "SELpSummonHaskill",
+    "formid": "Oblivion.esm:019867",
+    "full": "LOC_FN_SELpSummonHaskill",
+    "modl": null
+  },
+  {
+    "edid": "SE05FlameSpell",
+    "formid": "Oblivion.esm:019FB7",
+    "full": "LOC_FN_SE05FlameSpell",
+    "modl": null
+  },
+  {
+    "edid": "SE13DeathLightningSpell",
+    "formid": "Oblivion.esm:01A7EC",
+    "full": "LOC_FN_SE13DeathLightningSpell",
+    "modl": null
+  },
+  {
+    "edid": "BSMage",
+    "formid": "Oblivion.esm:022A31",
+    "full": "LOC_FN_BSMage",
+    "modl": null
+  },
+  {
+    "edid": "BSAtronach",
+    "formid": "Oblivion.esm:022A3D",
+    "full": "LOC_FN_BSAtronach",
+    "modl": null
+  },
+  {
+    "edid": "BSApprentice",
+    "formid": "Oblivion.esm:022A3E",
+    "full": "LOC_FN_BSApprentice",
+    "modl": null
+  },
+  {
+    "edid": "BSLadyBlessing",
+    "formid": "Oblivion.esm:022A40",
+    "full": "LOC_FN_BSLadyBlessing",
+    "modl": null
+  },
+  {
+    "edid": "BSLordTrollkin",
+    "formid": "Oblivion.esm:022A42",
+    "full": "LOC_FN_BSLordTrollkin",
+    "modl": null
+  },
+  {
+    "edid": "BSSerpent",
+    "formid": "Oblivion.esm:022A63",
+    "full": "LOC_FN_BSSerpent",
+    "modl": null
+  },
+  {
+    "edid": "BSSteed",
+    "formid": "Oblivion.esm:022A6A",
+    "full": "LOC_FN_BSSteed",
+    "modl": null
+  },
+  {
+    "edid": "BSWarrior",
+    "formid": "Oblivion.esm:022A6E",
+    "full": "LOC_FN_BSWarrior",
+    "modl": null
+  },
+  {
+    "edid": "StandardSilence3Journeyman",
+    "formid": "Oblivion.esm:027441",
+    "full": "LOC_FN_StandardSilence3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreHealth1Novice",
+    "formid": "Oblivion.esm:027442",
+    "full": "LOC_FN_StandardRestoreHealth1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreFatigue1Novice",
+    "formid": "Oblivion.esm:027443",
+    "full": "LOC_FN_StandardRestoreFatigue1Novice",
+    "modl": null
+  },
+  {
+    "edid": "AbUndeadBoneResist",
+    "formid": "Oblivion.esm:02B532",
+    "full": "LOC_FN_AbUndeadBoneResist",
+    "modl": null
+  },
+  {
+    "edid": "AbUndeadFleshResist",
+    "formid": "Oblivion.esm:02B53D",
+    "full": "LOC_FN_AbUndeadFleshResist",
+    "modl": null
+  },
+  {
+    "edid": "AbTroll",
+    "formid": "Oblivion.esm:02B545",
+    "full": "LOC_FN_AbTroll",
+    "modl": null
+  },
+  {
+    "edid": "AbAtronachShockResist",
+    "formid": "Oblivion.esm:02B54D",
+    "full": "LOC_FN_AbAtronachShockResist",
+    "modl": null
+  },
+  {
+    "edid": "AbWillOWispResistances",
+    "formid": "Oblivion.esm:02B550",
+    "full": "LOC_FN_AbWillOWispResistances",
+    "modl": null
+  },
+  {
+    "edid": "AbSprigganResistances",
+    "formid": "Oblivion.esm:02B551",
+    "full": "LOC_FN_AbSprigganResistances",
+    "modl": null
+  },
+  {
+    "edid": "AbUndeadEtherealResist",
+    "formid": "Oblivion.esm:02B552",
+    "full": "LOC_FN_AbUndeadEtherealResist",
+    "modl": null
+  },
+  {
+    "edid": "AbAnimalResistFrost",
+    "formid": "Oblivion.esm:02B554",
+    "full": "LOC_FN_AbAnimalResistFrost",
+    "modl": null
+  },
+  {
+    "edid": "AbSpiderDaedra",
+    "formid": "Oblivion.esm:03C182",
+    "full": "LOC_FN_AbSpiderDaedra",
+    "modl": null
+  },
+  {
+    "edid": "AbMinotaurLordResist",
+    "formid": "Oblivion.esm:03C38F",
+    "full": "LOC_FN_AbMinotaurLordResist",
+    "modl": null
+  },
+  {
+    "edid": "AbClannfear",
+    "formid": "Oblivion.esm:03C394",
+    "full": "LOC_FN_AbClannfear",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageArea3Journeyman",
+    "formid": "Oblivion.esm:03C3D6",
+    "full": "LOC_FN_StandardFrostDamageArea3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageArea4Expert",
+    "formid": "Oblivion.esm:03C3D7",
+    "full": "LOC_FN_StandardFrostDamageArea4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageArea5Master",
+    "formid": "Oblivion.esm:03C3D8",
+    "full": "LOC_FN_StandardFrostDamageArea5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageArea3Journeyman",
+    "formid": "Oblivion.esm:03C3D9",
+    "full": "LOC_FN_StandardShockDamageArea3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageArea4Expert",
+    "formid": "Oblivion.esm:03C3DA",
+    "full": "LOC_FN_StandardShockDamageArea4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageArea5Master",
+    "formid": "Oblivion.esm:03C3DB",
+    "full": "LOC_FN_StandardShockDamageArea5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageMagicka2Apprentice",
+    "formid": "Oblivion.esm:03C3DC",
+    "full": "LOC_FN_StandardDamageMagicka2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainAttribAgility1Novice",
+    "formid": "Oblivion.esm:03C3DF",
+    "full": "LOC_FN_StandardDrainAttribAgility1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainAttribEndurance1Novice",
+    "formid": "Oblivion.esm:03C3E0",
+    "full": "LOC_FN_StandardDrainAttribEndurance1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainAttribLuck1Novice",
+    "formid": "Oblivion.esm:03C3E1",
+    "full": "LOC_FN_StandardDrainAttribLuck1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainAttribSpeed2Apprentice",
+    "formid": "Oblivion.esm:03C3E2",
+    "full": "LOC_FN_StandardDrainAttribSpeed2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainAttribWillpower2Apprentice",
+    "formid": "Oblivion.esm:03C3E3",
+    "full": "LOC_FN_StandardDrainAttribWillpower2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainAttribIntelligence3Journeyman",
+    "formid": "Oblivion.esm:03C3E4",
+    "full": "LOC_FN_StandardDrainAttribIntelligence3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainSkMarksmanApprentice",
+    "formid": "Oblivion.esm:03C3E6",
+    "full": "LOC_FN_StandardDrainSkMarksmanApprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainSkIllusionApprentice",
+    "formid": "Oblivion.esm:03C3E7",
+    "full": "LOC_FN_StandardDrainSkIllusionApprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainSkDestructionJourneyman",
+    "formid": "Oblivion.esm:03C3E8",
+    "full": "LOC_FN_StandardDrainSkDestructionJourneyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainSkAlterationJourneyman",
+    "formid": "Oblivion.esm:03C3E9",
+    "full": "LOC_FN_StandardDrainSkAlterationJourneyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainSkH2HJourneyman",
+    "formid": "Oblivion.esm:03C3EA",
+    "full": "LOC_FN_StandardDrainSkH2HJourneyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainSkHeavyArmJourneyman",
+    "formid": "Oblivion.esm:03C3EB",
+    "full": "LOC_FN_StandardDrainSkHeavyArmJourneyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainSkBladeExpert",
+    "formid": "Oblivion.esm:03C3EC",
+    "full": "LOC_FN_StandardDrainSkBladeExpert",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainSkConjurationExpert",
+    "formid": "Oblivion.esm:03C3ED",
+    "full": "LOC_FN_StandardDrainSkConjurationExpert",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainSkRestorationExpert",
+    "formid": "Oblivion.esm:03C3EE",
+    "full": "LOC_FN_StandardDrainSkRestorationExpert",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainFatigue1Novice",
+    "formid": "Oblivion.esm:03C3EF",
+    "full": "LOC_FN_StandardDrainFatigue1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainFatigue2Apprentice",
+    "formid": "Oblivion.esm:03C3F0",
+    "full": "LOC_FN_StandardDrainFatigue2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainFatigue3Journeyman",
+    "formid": "Oblivion.esm:03C3F1",
+    "full": "LOC_FN_StandardDrainFatigue3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainMagicka3Journeyman",
+    "formid": "Oblivion.esm:03C3F2",
+    "full": "LOC_FN_StandardDrainMagicka3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainMagicka4Expert",
+    "formid": "Oblivion.esm:03C3F3",
+    "full": "LOC_FN_StandardDrainMagicka4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainMagicka5Master",
+    "formid": "Oblivion.esm:03C3F4",
+    "full": "LOC_FN_StandardDrainMagicka5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardDispelTarget2Apprentice",
+    "formid": "Oblivion.esm:03C3F5",
+    "full": "LOC_FN_StandardDispelTarget2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardCommandHuman2Apprentice",
+    "formid": "Oblivion.esm:03C3F8",
+    "full": "LOC_FN_StandardCommandHuman2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardCommandHuman4Expert",
+    "formid": "Oblivion.esm:03C3F9",
+    "full": "LOC_FN_StandardCommandHuman4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardCureDiseaseJourneyman",
+    "formid": "Oblivion.esm:03C3FA",
+    "full": "LOC_FN_StandardCureDiseaseJourneyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageAttribAgility1Novice",
+    "formid": "Oblivion.esm:03C3FD",
+    "full": "LOC_FN_StandardDamageAttribAgility1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageAttribEndurance1Novice",
+    "formid": "Oblivion.esm:03C3FE",
+    "full": "LOC_FN_StandardDamageAttribEndurance1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageAttribIntelligence3Journeyman",
+    "formid": "Oblivion.esm:03C3FF",
+    "full": "LOC_FN_StandardDamageAttribIntelligence3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageAttribLuck1Novice",
+    "formid": "Oblivion.esm:03C400",
+    "full": "LOC_FN_StandardDamageAttribLuck1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageAttribSpeed2Apprentice",
+    "formid": "Oblivion.esm:03C401",
+    "full": "LOC_FN_StandardDamageAttribSpeed2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageAttribStrength4Expert",
+    "formid": "Oblivion.esm:03C402",
+    "full": "LOC_FN_StandardDamageAttribStrength4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageAttribWillpower2Apprentice",
+    "formid": "Oblivion.esm:03C403",
+    "full": "LOC_FN_StandardDamageAttribWillpower2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyFatigue1Novice",
+    "formid": "Oblivion.esm:03C405",
+    "full": "LOC_FN_StandardFortifyFatigue1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyFatigue2Apprentice",
+    "formid": "Oblivion.esm:03C406",
+    "full": "LOC_FN_StandardFortifyFatigue2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyMagicka3Journeyman",
+    "formid": "Oblivion.esm:03C407",
+    "full": "LOC_FN_StandardFortifyMagicka3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyMagicka4Expert",
+    "formid": "Oblivion.esm:03C409",
+    "full": "LOC_FN_StandardFortifyMagicka4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardWeaknessFire2Apprentice",
+    "formid": "Oblivion.esm:03C40D",
+    "full": "LOC_FN_StandardWeaknessFire2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardWeaknessFrost2Apprentice",
+    "formid": "Oblivion.esm:03C40E",
+    "full": "LOC_FN_StandardWeaknessFrost2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardWeaknessMagicka3Journeyman",
+    "formid": "Oblivion.esm:03C40F",
+    "full": "LOC_FN_StandardWeaknessMagicka3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardWeaknessPoison2Apprentice",
+    "formid": "Oblivion.esm:03C411",
+    "full": "LOC_FN_StandardWeaknessPoison2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardWeaknessShock2Apprentice",
+    "formid": "Oblivion.esm:03C412",
+    "full": "LOC_FN_StandardWeaknessShock2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonDremoraLordMaster",
+    "formid": "Oblivion.esm:03C413",
+    "full": "LOC_FN_StandardSummonDremoraLordMaster",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonZombieHeadlessJourneyman",
+    "formid": "Oblivion.esm:03C414",
+    "full": "LOC_FN_StandardSummonZombieHeadlessJourneyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonSkeletonGuardianJourneyman",
+    "formid": "Oblivion.esm:03C415",
+    "full": "LOC_FN_StandardSummonSkeletonGuardianJourneyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonSkeletonHeroExpert",
+    "formid": "Oblivion.esm:03C416",
+    "full": "LOC_FN_StandardSummonSkeletonHeroExpert",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonSkeletonChampionExpert",
+    "formid": "Oblivion.esm:03C417",
+    "full": "LOC_FN_StandardSummonSkeletonChampionExpert",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonSpiderDaedraExpert",
+    "formid": "Oblivion.esm:03C418",
+    "full": "LOC_FN_StandardSummonSpiderDaedraExpert",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonWraithGloomMaster",
+    "formid": "Oblivion.esm:03C419",
+    "full": "LOC_FN_StandardSummonWraithGloomMaster",
+    "modl": null
+  },
+  {
+    "edid": "AbDremora1CaitlifflResist",
+    "formid": "Oblivion.esm:03E9AD",
+    "full": "LOC_FN_AbDremora1CaitlifflResist",
+    "modl": null
+  },
+  {
+    "edid": "SEAbGoldenSaint",
+    "formid": "Oblivion.esm:041522",
+    "full": "LOC_FN_SEAbGoldenSaint",
+    "modl": null
+  },
+  {
+    "edid": "SEAbDarkSeducer",
+    "formid": "Oblivion.esm:041523",
+    "full": "LOC_FN_SEAbDarkSeducer",
+    "modl": null
+  },
+  {
+    "edid": "SELpHunger5DamFatigue",
+    "formid": "Oblivion.esm:041D80",
+    "full": "LOC_FN_SELpHunger5DamFatigue",
+    "modl": null
+  },
+  {
+    "edid": "SEAbGnarlGrowFire",
+    "formid": "Oblivion.esm:041D85",
+    "full": "LOC_FN_SEAbGnarlGrowFire",
+    "modl": null
+  },
+  {
+    "edid": "SEAbGnarlGrowFrost",
+    "formid": "Oblivion.esm:041D86",
+    "full": "LOC_FN_SEAbGnarlGrowFrost",
+    "modl": null
+  },
+  {
+    "edid": "SEAbGnarlGrowShock",
+    "formid": "Oblivion.esm:041D87",
+    "full": "LOC_FN_SEAbGnarlGrowShock",
+    "modl": null
+  },
+  {
+    "edid": "SELpGnarlSilence2",
+    "formid": "Oblivion.esm:041D8A",
+    "full": "LOC_FN_SELpGnarlSilence2",
+    "modl": null
+  },
+  {
+    "edid": "SELpGnarlSilence3",
+    "formid": "Oblivion.esm:041D8D",
+    "full": "LOC_FN_SELpGnarlSilence3",
+    "modl": null
+  },
+  {
+    "edid": "SELpGnarlSilence5",
+    "formid": "Oblivion.esm:041EC7",
+    "full": "LOC_FN_SELpGnarlSilence5",
+    "modl": null
+  },
+  {
+    "edid": "SEShamblesBomb",
+    "formid": "Oblivion.esm:041EC8",
+    "full": "LOC_FN_SEShamblesBomb",
+    "modl": null
+  },
+  {
+    "edid": "SEAbOrderKnight2BoundArmorWeapon",
+    "formid": "Oblivion.esm:041F1B",
+    "full": "LOC_FN_SEAbOrderKnight2BoundArmorWeapon",
+    "modl": null
+  },
+  {
+    "edid": "SEAbOrderKnight1BoundArmorWeapon",
+    "formid": "Oblivion.esm:041F37",
+    "full": "LOC_FN_SEAbOrderKnight1BoundArmorWeapon",
+    "modl": null
+  },
+  {
+    "edid": "SEAbOrderKnight3BoundArmorWeapon",
+    "formid": "Oblivion.esm:041F38",
+    "full": "LOC_FN_SEAbOrderKnight3BoundArmorWeapon",
+    "modl": null
+  },
+  {
+    "edid": "SEAbOrderKnight4BoundArmorWeapon",
+    "formid": "Oblivion.esm:041F39",
+    "full": "LOC_FN_SEAbOrderKnight4BoundArmorWeapon",
+    "modl": null
+  },
+  {
+    "edid": "SEAbOrderKnight5BoundArmorWeapon",
+    "formid": "Oblivion.esm:041F3A",
+    "full": "LOC_FN_SEAbOrderKnight5BoundArmorWeapon",
+    "modl": null
+  },
+  {
+    "edid": "SEAbOrderKnight6BoundArmorWeapon",
+    "formid": "Oblivion.esm:041F3B",
+    "full": "LOC_FN_SEAbOrderKnight6BoundArmorWeapon",
+    "modl": null
+  },
+  {
+    "edid": "SEAbOrderKnightBase",
+    "formid": "Oblivion.esm:041F3E",
+    "full": "LOC_FN_SEAbOrderKnightBase",
+    "modl": null
+  },
+  {
+    "edid": "SEShambleFrostTouch",
+    "formid": "Oblivion.esm:042925",
+    "full": "LOC_FN_SEShambleFrostTouch",
+    "modl": null
+  },
+  {
+    "edid": "SEShambleFrostArea",
+    "formid": "Oblivion.esm:042926",
+    "full": "LOC_FN_SEShambleFrostArea",
+    "modl": null
+  },
+  {
+    "edid": "SEShamblesBomb2",
+    "formid": "Oblivion.esm:042928",
+    "full": "LOC_FN_SEShamblesBomb2",
+    "modl": null
+  },
+  {
+    "edid": "SEShamblesBomb3",
+    "formid": "Oblivion.esm:04292A",
+    "full": "LOC_FN_SEShamblesBomb3",
+    "modl": null
+  },
+  {
+    "edid": "SEAbScalonSwim",
+    "formid": "Oblivion.esm:04292E",
+    "full": "LOC_FN_SEAbScalonSwim",
+    "modl": null
+  },
+  {
+    "edid": "SEAbFleshAtronach1Resist",
+    "formid": "Oblivion.esm:043CA9",
+    "full": "LOC_FN_SEAbFleshAtronach1Resist",
+    "modl": null
+  },
+  {
+    "edid": "SELpFleshAtronach4Heal",
+    "formid": "Oblivion.esm:043CAD",
+    "full": "LOC_FN_SELpFleshAtronach4Heal",
+    "modl": null
+  },
+  {
+    "edid": "SELpFleshAtronach4DamageHealth",
+    "formid": "Oblivion.esm:043CAE",
+    "full": "LOC_FN_SELpFleshAtronach4DamageHealth",
+    "modl": null
+  },
+  {
+    "edid": "SEAbFleshAtronach3Resist",
+    "formid": "Oblivion.esm:043CAF",
+    "full": "LOC_FN_SEAbFleshAtronach3Resist",
+    "modl": null
+  },
+  {
+    "edid": "SEAbFleshAtronach5Resist",
+    "formid": "Oblivion.esm:043CB3",
+    "full": "LOC_FN_SEAbFleshAtronach5Resist",
+    "modl": null
+  },
+  {
+    "edid": "SELpFleshAtronach3Heal",
+    "formid": "Oblivion.esm:043CB4",
+    "full": "LOC_FN_SELpFleshAtronach3Heal",
+    "modl": null
+  },
+  {
+    "edid": "SELpFleshAtronach5Heal",
+    "formid": "Oblivion.esm:043CB8",
+    "full": "LOC_FN_SELpFleshAtronach5Heal",
+    "modl": null
+  },
+  {
+    "edid": "SELpFleshAtronach5DamageHealth",
+    "formid": "Oblivion.esm:043CB9",
+    "full": "LOC_FN_SELpFleshAtronach5DamageHealth",
+    "modl": null
+  },
+  {
+    "edid": "SELpFleshAtronach5Fireball",
+    "formid": "Oblivion.esm:043CBA",
+    "full": "LOC_FN_SELpFleshAtronach5Fireball",
+    "modl": null
+  },
+  {
+    "edid": "SELpElytra3Poison1",
+    "formid": "Oblivion.esm:044189",
+    "full": "LOC_FN_SELpElytra3Poison1",
+    "modl": null
+  },
+  {
+    "edid": "SEAbElytra",
+    "formid": "Oblivion.esm:04418A",
+    "full": "LOC_FN_SEAbElytra",
+    "modl": null
+  },
+  {
+    "edid": "SELpElytra4Poison1",
+    "formid": "Oblivion.esm:04418D",
+    "full": "LOC_FN_SELpElytra4Poison1",
+    "modl": null
+  },
+  {
+    "edid": "SEPwElytra5Poison",
+    "formid": "Oblivion.esm:04418E",
+    "full": "LOC_FN_SEPwElytra5Poison",
+    "modl": null
+  },
+  {
+    "edid": "SE14RezSpell",
+    "formid": "Oblivion.esm:04BD29",
+    "full": "LOC_FN_SE14RezSpell",
+    "modl": null
+  },
+  {
+    "edid": "SE14HealSpell",
+    "formid": "Oblivion.esm:04BD30",
+    "full": "LOC_FN_SE14HealSpell",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainMagicka2Apprentice",
+    "formid": "Oblivion.esm:04C90F",
+    "full": "LOC_FN_StandardDrainMagicka2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainHealth1Novice",
+    "formid": "Oblivion.esm:04C912",
+    "full": "LOC_FN_StandardDrainHealth1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainHealth2Apprentice",
+    "formid": "Oblivion.esm:04C913",
+    "full": "LOC_FN_StandardDrainHealth2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainHealth3Journeyman",
+    "formid": "Oblivion.esm:04C914",
+    "full": "LOC_FN_StandardDrainHealth3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainHealth4Expert",
+    "formid": "Oblivion.esm:04C915",
+    "full": "LOC_FN_StandardDrainHealth4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageTouch1Novice",
+    "formid": "Oblivion.esm:04C91E",
+    "full": "LOC_FN_StandardFireDamageTouch1Novice",
+    "modl": null
+  },
+  {
+    "edid": "AbGhostNPC",
+    "formid": "Oblivion.esm:04D7D8",
+    "full": "LOC_FN_AbGhostNPC",
+    "modl": null
+  },
+  {
+    "edid": "SEStdSummonShambles4Expert",
+    "formid": "Oblivion.esm:04DC1E",
+    "full": "LOC_FN_SEStdSummonShambles4Expert",
+    "modl": null
+  },
+  {
+    "edid": "SEStdSummonShambles5Master",
+    "formid": "Oblivion.esm:04DC1F",
+    "full": "LOC_FN_SEStdSummonShambles5Master",
+    "modl": null
+  },
+  {
+    "edid": "SEStdSummonHunger3Journeyman",
+    "formid": "Oblivion.esm:04DC20",
+    "full": "LOC_FN_SEStdSummonHunger3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "SEStdSummonHunger4Expert",
+    "formid": "Oblivion.esm:04DC21",
+    "full": "LOC_FN_SEStdSummonHunger4Expert",
+    "modl": null
+  },
+  {
+    "edid": "SEStdSummonHunger5Master",
+    "formid": "Oblivion.esm:04DC22",
+    "full": "LOC_FN_SEStdSummonHunger5Master",
+    "modl": null
+  },
+  {
+    "edid": "SEAbBirthsignHeretic",
+    "formid": "Oblivion.esm:050EC9",
+    "full": "LOC_FN_SEAbBirthsignHeretic",
+    "modl": null
+  },
+  {
+    "edid": "SEAbBirthsignZealot",
+    "formid": "Oblivion.esm:0525AE",
+    "full": "LOC_FN_SEAbBirthsignZealot",
+    "modl": null
+  },
+  {
+    "edid": "SELpElytra2Poison1",
+    "formid": "Oblivion.esm:0547DB",
+    "full": "LOC_FN_SELpElytra2Poison1",
+    "modl": null
+  },
+  {
+    "edid": "SELpElytra2Poison2",
+    "formid": "Oblivion.esm:0547DC",
+    "full": "LOC_FN_SELpElytra2Poison2",
+    "modl": null
+  },
+  {
+    "edid": "SELpElytra2Poison3",
+    "formid": "Oblivion.esm:0547DD",
+    "full": "LOC_FN_SELpElytra2Poison3",
+    "modl": null
+  },
+  {
+    "edid": "SELpElytra3Poison2",
+    "formid": "Oblivion.esm:0547DE",
+    "full": "LOC_FN_SELpElytra3Poison2",
+    "modl": null
+  },
+  {
+    "edid": "SELpElytra3Poison3",
+    "formid": "Oblivion.esm:0547DF",
+    "full": "LOC_FN_SELpElytra3Poison3",
+    "modl": null
+  },
+  {
+    "edid": "SELpElytra4Poison2",
+    "formid": "Oblivion.esm:0547E0",
+    "full": "LOC_FN_SELpElytra4Poison2",
+    "modl": null
+  },
+  {
+    "edid": "SELpElytra4Poison3",
+    "formid": "Oblivion.esm:0547E1",
+    "full": "LOC_FN_SELpElytra4Poison3",
+    "modl": null
+  },
+  {
+    "edid": "SELpElytra5Poison1",
+    "formid": "Oblivion.esm:0547E2",
+    "full": "LOC_FN_SELpElytra5Poison1",
+    "modl": null
+  },
+  {
+    "edid": "SELpElytra5Poison2",
+    "formid": "Oblivion.esm:0547E3",
+    "full": "LOC_FN_SELpElytra5Poison2",
+    "modl": null
+  },
+  {
+    "edid": "SELpElytra5Poison3",
+    "formid": "Oblivion.esm:0547E4",
+    "full": "LOC_FN_SELpElytra5Poison3",
+    "modl": null
+  },
+  {
+    "edid": "SEAbGrummite5RegenWater",
+    "formid": "Oblivion.esm:0552CE",
+    "full": "LOC_FN_SEAbGrummite5RegenWater",
+    "modl": null
+  },
+  {
+    "edid": "SEAbGrummiteResist",
+    "formid": "Oblivion.esm:0552CF",
+    "full": "LOC_FN_SEAbGrummiteResist",
+    "modl": null
+  },
+  {
+    "edid": "SEAbGrummite4RegenWater",
+    "formid": "Oblivion.esm:0552D1",
+    "full": "LOC_FN_SEAbGrummite4RegenWater",
+    "modl": null
+  },
+  {
+    "edid": "SE02AbGKArrowWeakness3",
+    "formid": "Oblivion.esm:055732",
+    "full": "LOC_FN_SE02AbGKArrowWeakness3",
+    "modl": null
+  },
+  {
+    "edid": "SE02AbGKArrowWeakness4",
+    "formid": "Oblivion.esm:055733",
+    "full": "LOC_FN_SE02AbGKArrowWeakness4",
+    "modl": null
+  },
+  {
+    "edid": "SE02AbGKArrowWeakness5",
+    "formid": "Oblivion.esm:055734",
+    "full": "LOC_FN_SE02AbGKArrowWeakness5",
+    "modl": null
+  },
+  {
+    "edid": "SE02AbGKArrowWeakness6",
+    "formid": "Oblivion.esm:055735",
+    "full": "LOC_FN_SE02AbGKArrowWeakness6",
+    "modl": null
+  },
+  {
+    "edid": "SE02AbGKArrowWeakness7",
+    "formid": "Oblivion.esm:055736",
+    "full": "LOC_FN_SE02AbGKArrowWeakness7",
+    "modl": null
+  },
+  {
+    "edid": "SE02AbGKArrowWeakness8",
+    "formid": "Oblivion.esm:055737",
+    "full": "LOC_FN_SE02AbGKArrowWeakness8",
+    "modl": null
+  },
+  {
+    "edid": "SE02AbGKArrowWeakness1",
+    "formid": "Oblivion.esm:055738",
+    "full": "LOC_FN_SE02AbGKArrowWeakness1",
+    "modl": null
+  },
+  {
+    "edid": "SE02AbGKArrowWeakness2",
+    "formid": "Oblivion.esm:055739",
+    "full": "LOC_FN_SE02AbGKArrowWeakness2",
+    "modl": null
+  },
+  {
+    "edid": "SE05DaggerBurdenSpell",
+    "formid": "Oblivion.esm:055759",
+    "full": "LOC_FN_SE05DaggerBurdenSpell",
+    "modl": null
+  },
+  {
+    "edid": "SE05DaggerFrenzySpell",
+    "formid": "Oblivion.esm:05575A",
+    "full": "LOC_FN_SE05DaggerFrenzySpell",
+    "modl": null
+  },
+  {
+    "edid": "SE05DaggerDemoralizeSpell",
+    "formid": "Oblivion.esm:05575B",
+    "full": "LOC_FN_SE05DaggerDemoralizeSpell",
+    "modl": null
+  },
+  {
+    "edid": "SE05DaggerSilenceSpell",
+    "formid": "Oblivion.esm:05575C",
+    "full": "LOC_FN_SE05DaggerSilenceSpell",
+    "modl": null
+  },
+  {
+    "edid": "SE05DaggerParalyzeWeakSpell",
+    "formid": "Oblivion.esm:05575D",
+    "full": "LOC_FN_SE05DaggerParalyzeWeakSpell",
+    "modl": null
+  },
+  {
+    "edid": "SE05DaggerParalyzeStrongSpell",
+    "formid": "Oblivion.esm:05575E",
+    "full": "LOC_FN_SE05DaggerParalyzeStrongSpell",
+    "modl": null
+  },
+  {
+    "edid": "SEPwGrummiteHeal",
+    "formid": "Oblivion.esm:055FAA",
+    "full": "LOC_FN_SEPwGrummiteHeal",
+    "modl": null
+  },
+  {
+    "edid": "SEAbGrummiteShaman",
+    "formid": "Oblivion.esm:055FAC",
+    "full": "LOC_FN_SEAbGrummiteShaman",
+    "modl": null
+  },
+  {
+    "edid": "SE14WeatherSpell",
+    "formid": "Oblivion.esm:05DD22",
+    "full": "LOC_FN_SE14WeatherSpell",
+    "modl": null
+  },
+  {
+    "edid": "SEAbShambles",
+    "formid": "Oblivion.esm:05EC73",
+    "full": "LOC_FN_SEAbShambles",
+    "modl": null
+  },
+  {
+    "edid": "SEAbShambles2",
+    "formid": "Oblivion.esm:05EC75",
+    "full": "LOC_FN_SEAbShambles2",
+    "modl": null
+  },
+  {
+    "edid": "SEAbShambles3",
+    "formid": "Oblivion.esm:05EC77",
+    "full": "LOC_FN_SEAbShambles3",
+    "modl": null
+  },
+  {
+    "edid": "SELpHunger3DamFatigue",
+    "formid": "Oblivion.esm:06D606",
+    "full": "LOC_FN_SELpHunger3DamFatigue",
+    "modl": null
+  },
+  {
+    "edid": "SELpHunger1DamFatigue",
+    "formid": "Oblivion.esm:06D60F",
+    "full": "LOC_FN_SELpHunger1DamFatigue",
+    "modl": null
+  },
+  {
+    "edid": "DarkInvis",
+    "formid": "Oblivion.esm:06D681",
+    "full": "LOC_FN_DarkInvis",
+    "modl": null
+  },
+  {
+    "edid": "MG18MannimarcoImmobilize",
+    "formid": "Oblivion.esm:070483",
+    "full": "LOC_FN_MG18MannimarcoImmobilize",
+    "modl": null
+  },
+  {
+    "edid": "MG18MannimarcoEnthrall",
+    "formid": "Oblivion.esm:070488",
+    "full": "LOC_FN_MG18MannimarcoEnthrall",
+    "modl": null
+  },
+  {
+    "edid": "StandardBurdenTarget4Expert",
+    "formid": "Oblivion.esm:07108A",
+    "full": "LOC_FN_StandardBurdenTarget4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardShieldTarget1Novice",
+    "formid": "Oblivion.esm:071090",
+    "full": "LOC_FN_StandardShieldTarget1Novice",
+    "modl": null
+  },
+  {
+    "edid": "SEAbOrderKnight5",
+    "formid": "Oblivion.esm:079115",
+    "full": "LOC_FN_SEAbOrderKnight5",
+    "modl": null
+  },
+  {
+    "edid": "SEAbOrderKnight4",
+    "formid": "Oblivion.esm:079116",
+    "full": "LOC_FN_SEAbOrderKnight4",
+    "modl": null
+  },
+  {
+    "edid": "SEAbOrderKnight3",
+    "formid": "Oblivion.esm:079117",
+    "full": "LOC_FN_SEAbOrderKnight3",
+    "modl": null
+  },
+  {
+    "edid": "SEAbOrderKnight2",
+    "formid": "Oblivion.esm:079118",
+    "full": "LOC_FN_SEAbOrderKnight2",
+    "modl": null
+  },
+  {
+    "edid": "SEAbSkinnedHoundResist",
+    "formid": "Oblivion.esm:07939C",
+    "full": "LOC_FN_SEAbSkinnedHoundResist",
+    "modl": null
+  },
+  {
+    "edid": "SE37CommandCreature2Apprentice",
+    "formid": "Oblivion.esm:07B219",
+    "full": "LOC_FN_SE37CommandCreature2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "SE37CommandCreature3Journeyman",
+    "formid": "Oblivion.esm:07B21A",
+    "full": "LOC_FN_SE37CommandCreature3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "SE37CommandCreature4Expert",
+    "formid": "Oblivion.esm:07B21B",
+    "full": "LOC_FN_SE37CommandCreature4Expert",
+    "modl": null
+  },
+  {
+    "edid": "SEStdSummonHunger2Apprentice",
+    "formid": "Oblivion.esm:07E0AF",
+    "full": "LOC_FN_SEStdSummonHunger2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "SEStdSummonAtronachFlesh3Journeyman",
+    "formid": "Oblivion.esm:07FDBC",
+    "full": "LOC_FN_SEStdSummonAtronachFlesh3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "SEStdSummonAtronachFlesh4Expert",
+    "formid": "Oblivion.esm:07FDBD",
+    "full": "LOC_FN_SEStdSummonAtronachFlesh4Expert",
+    "modl": null
+  },
+  {
+    "edid": "SEStdSummonAtronachFlesh2Apprentice",
+    "formid": "Oblivion.esm:07FDBE",
+    "full": "LOC_FN_SEStdSummonAtronachFlesh2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "SEStdSummonAtronachFlesh5Master",
+    "formid": "Oblivion.esm:07FDBF",
+    "full": "LOC_FN_SEStdSummonAtronachFlesh5Master",
+    "modl": null
+  },
+  {
+    "edid": "SE13AbJyggalag2",
+    "formid": "Oblivion.esm:080D82",
+    "full": "LOC_FN_SE13AbJyggalag2",
+    "modl": null
+  },
+  {
+    "edid": "SE13AbJyggalag3",
+    "formid": "Oblivion.esm:080D83",
+    "full": "LOC_FN_SE13AbJyggalag3",
+    "modl": null
+  },
+  {
+    "edid": "SEHaskillHeal",
+    "formid": "Oblivion.esm:081A54",
+    "full": "LOC_FN_SEHaskillHeal",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreHealth5Master",
+    "formid": "Oblivion.esm:083714",
+    "full": "LOC_FN_StandardRestoreHealth5Master",
+    "modl": null
+  },
+  {
+    "edid": "SE13LpJyggalag1AreaTouch",
+    "formid": "Oblivion.esm:083E93",
+    "full": "LOC_FN_SE13LpJyggalag1AreaTouch",
+    "modl": null
+  },
+  {
+    "edid": "SE13LpJyggalag2AreaTouch",
+    "formid": "Oblivion.esm:083EA0",
+    "full": "LOC_FN_SE13LpJyggalag2AreaTouch",
+    "modl": null
+  },
+  {
+    "edid": "SE13LpJyggalag3AreaTouch",
+    "formid": "Oblivion.esm:083EA1",
+    "full": "LOC_FN_SE13LpJyggalag3AreaTouch",
+    "modl": null
+  },
+  {
+    "edid": "SE13LpJyggalag4AreaTouch",
+    "formid": "Oblivion.esm:083EA2",
+    "full": "LOC_FN_SE13LpJyggalag4AreaTouch",
+    "modl": null
+  },
+  {
+    "edid": "SE13LpJyggalag5AreaTouch",
+    "formid": "Oblivion.esm:083EA3",
+    "full": "LOC_FN_SE13LpJyggalag5AreaTouch",
+    "modl": null
+  },
+  {
+    "edid": "SE13LpJyggalag6AreaTouch",
+    "formid": "Oblivion.esm:083EA4",
+    "full": "LOC_FN_SE13LpJyggalag6AreaTouch",
+    "modl": null
+  },
+  {
+    "edid": "SE13LpJyggalag7AreaTouch",
+    "formid": "Oblivion.esm:083EA5",
+    "full": "LOC_FN_SE13LpJyggalag7AreaTouch",
+    "modl": null
+  },
+  {
+    "edid": "SE13LpJyggalag8AreaTouch",
+    "formid": "Oblivion.esm:083EA6",
+    "full": "LOC_FN_SE13LpJyggalag8AreaTouch",
+    "modl": null
+  },
+  {
+    "edid": "SE13LpJyggalag1RangedAttack",
+    "formid": "Oblivion.esm:083EA7",
+    "full": "LOC_FN_SE13LpJyggalag1RangedAttack",
+    "modl": null
+  },
+  {
+    "edid": "SE13LpJyggalag2RangedAttack",
+    "formid": "Oblivion.esm:083EA8",
+    "full": "LOC_FN_SE13LpJyggalag2RangedAttack",
+    "modl": null
+  },
+  {
+    "edid": "SE13LpJyggalag3RangedAttack",
+    "formid": "Oblivion.esm:083EA9",
+    "full": "LOC_FN_SE13LpJyggalag3RangedAttack",
+    "modl": null
+  },
+  {
+    "edid": "SE13LpJyggalag4RangedAttack",
+    "formid": "Oblivion.esm:083EAA",
+    "full": "LOC_FN_SE13LpJyggalag4RangedAttack",
+    "modl": null
+  },
+  {
+    "edid": "SE13LpJyggalag5RangedAttack",
+    "formid": "Oblivion.esm:083EAB",
+    "full": "LOC_FN_SE13LpJyggalag5RangedAttack",
+    "modl": null
+  },
+  {
+    "edid": "SE13LpJyggalag6RangedAttack",
+    "formid": "Oblivion.esm:083EAC",
+    "full": "LOC_FN_SE13LpJyggalag6RangedAttack",
+    "modl": null
+  },
+  {
+    "edid": "SE13LpJyggalag7RangedAttack",
+    "formid": "Oblivion.esm:083F28",
+    "full": "LOC_FN_SE13LpJyggalag7RangedAttack",
+    "modl": null
+  },
+  {
+    "edid": "SE13LpJyggalag8RangedAttack",
+    "formid": "Oblivion.esm:083F36",
+    "full": "LOC_FN_SE13LpJyggalag8RangedAttack",
+    "modl": null
+  },
+  {
+    "edid": "SE09SacrificeSpell",
+    "formid": "Oblivion.esm:08556C",
+    "full": "LOC_FN_SE09SacrificeSpell",
+    "modl": null
+  },
+  {
+    "edid": "StandardDispelSelf1Novice",
+    "formid": "Oblivion.esm:08D1E9",
+    "full": "LOC_FN_StandardDispelSelf1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardResistMagic3Journeyman",
+    "formid": "Oblivion.esm:08D1EA",
+    "full": "LOC_FN_StandardResistMagic3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "SE13AbJyggalag4",
+    "formid": "Oblivion.esm:092B3F",
+    "full": "LOC_FN_SE13AbJyggalag4",
+    "modl": null
+  },
+  {
+    "edid": "SELpHunger4DamFatigue",
+    "formid": "Oblivion.esm:093FF4",
+    "full": "LOC_FN_SELpHunger4DamFatigue",
+    "modl": null
+  },
+  {
+    "edid": "SELpHunger2DamFatigue",
+    "formid": "Oblivion.esm:093FF5",
+    "full": "LOC_FN_SELpHunger2DamFatigue",
+    "modl": null
+  },
+  {
+    "edid": "MG18TravenImmolate",
+    "formid": "Oblivion.esm:094C3E",
+    "full": "LOC_FN_MG18TravenImmolate",
+    "modl": null
+  },
+  {
+    "edid": "SE13AbJyggalag5",
+    "formid": "Oblivion.esm:094D45",
+    "full": "LOC_FN_SE13AbJyggalag5",
+    "modl": null
+  },
+  {
+    "edid": "E3DaedrothBreath",
+    "formid": "Oblivion.esm:098099",
+    "full": "LOC_FN_E3DaedrothBreath",
+    "modl": null
+  },
+  {
+    "edid": "E3DaedrothKillArcher",
+    "formid": "Oblivion.esm:0980AF",
+    "full": "LOC_FN_E3DaedrothKillArcher",
+    "modl": null
+  },
+  {
+    "edid": "StandardLightTarget1Novice",
+    "formid": "Oblivion.esm:0A319D",
+    "full": "LOC_FN_StandardLightTarget1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDisintegrateArmor2Apprentice",
+    "formid": "Oblivion.esm:0A97A3",
+    "full": "LOC_FN_StandardDisintegrateArmor2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDisintegrateArmor4Expert",
+    "formid": "Oblivion.esm:0A97A4",
+    "full": "LOC_FN_StandardDisintegrateArmor4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardDisintegrateWeapon3Journeyman",
+    "formid": "Oblivion.esm:0A97A5",
+    "full": "LOC_FN_StandardDisintegrateWeapon3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardDisintegrateWeapon5Master",
+    "formid": "Oblivion.esm:0A97A6",
+    "full": "LOC_FN_StandardDisintegrateWeapon5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardShield1Novice",
+    "formid": "Oblivion.esm:0A97A7",
+    "full": "LOC_FN_StandardShield1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardShield2Apprentice",
+    "formid": "Oblivion.esm:0A97A8",
+    "full": "LOC_FN_StandardShield2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardShield3Journeyman",
+    "formid": "Oblivion.esm:0A97A9",
+    "full": "LOC_FN_StandardShield3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardShield4Expert",
+    "formid": "Oblivion.esm:0A97AA",
+    "full": "LOC_FN_StandardShield4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardShield5Master",
+    "formid": "Oblivion.esm:0A97AB",
+    "full": "LOC_FN_StandardShield5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardCharmTarget1Novice",
+    "formid": "Oblivion.esm:0A97AC",
+    "full": "LOC_FN_StandardCharmTarget1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardCharmTarget2Apprentice",
+    "formid": "Oblivion.esm:0A97AD",
+    "full": "LOC_FN_StandardCharmTarget2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardCharmTouch1Novice",
+    "formid": "Oblivion.esm:0A97AE",
+    "full": "LOC_FN_StandardCharmTouch1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardCharmTouch2Apprentice",
+    "formid": "Oblivion.esm:0A97AF",
+    "full": "LOC_FN_StandardCharmTouch2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardCharmTarget3Journeyman",
+    "formid": "Oblivion.esm:0A97B0",
+    "full": "LOC_FN_StandardCharmTarget3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageHealthTarget2Apprentice",
+    "formid": "Oblivion.esm:0A97B1",
+    "full": "LOC_FN_StandardDamageHealthTarget2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageHealthTarget4Expert",
+    "formid": "Oblivion.esm:0A97B2",
+    "full": "LOC_FN_StandardDamageHealthTarget4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardInvisibility3Journeyman",
+    "formid": "Oblivion.esm:0A97BE",
+    "full": "LOC_FN_StandardInvisibility3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardInvisibility4Expert",
+    "formid": "Oblivion.esm:0A97BF",
+    "full": "LOC_FN_StandardInvisibility4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardInvisibility5Master",
+    "formid": "Oblivion.esm:0A97C0",
+    "full": "LOC_FN_StandardInvisibility5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardBurden1Novice",
+    "formid": "Oblivion.esm:0A97C1",
+    "full": "LOC_FN_StandardBurden1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardBurden2Apprentice",
+    "formid": "Oblivion.esm:0A97C2",
+    "full": "LOC_FN_StandardBurden2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardBurden3Journeyman",
+    "formid": "Oblivion.esm:0A97C3",
+    "full": "LOC_FN_StandardBurden3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardBurden4Expert",
+    "formid": "Oblivion.esm:0A97C4",
+    "full": "LOC_FN_StandardBurden4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardCalmTarget1Novice",
+    "formid": "Oblivion.esm:0A97C6",
+    "full": "LOC_FN_StandardCalmTarget1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardCalmTarget2Apprentice",
+    "formid": "Oblivion.esm:0A97C7",
+    "full": "LOC_FN_StandardCalmTarget2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardCalmTouch1Novice",
+    "formid": "Oblivion.esm:0A97C9",
+    "full": "LOC_FN_StandardCalmTouch1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardCalmTouch3Journeyman",
+    "formid": "Oblivion.esm:0A97CA",
+    "full": "LOC_FN_StandardCalmTouch3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardChameleon3Journeyman",
+    "formid": "Oblivion.esm:0A97CB",
+    "full": "LOC_FN_StandardChameleon3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardChameleon4Expert",
+    "formid": "Oblivion.esm:0A97CC",
+    "full": "LOC_FN_StandardChameleon4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardChameleon5Master",
+    "formid": "Oblivion.esm:0A97CD",
+    "full": "LOC_FN_StandardChameleon5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardCommandCreature2Apprentice",
+    "formid": "Oblivion.esm:0A97CE",
+    "full": "LOC_FN_StandardCommandCreature2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardCommandCreature4Expert",
+    "formid": "Oblivion.esm:0A97CF",
+    "full": "LOC_FN_StandardCommandCreature4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardCommandingTouch2Apprentice",
+    "formid": "Oblivion.esm:0A97D0",
+    "full": "LOC_FN_StandardCommandingTouch2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardCommandingTouch3Journeyman",
+    "formid": "Oblivion.esm:0A97D1",
+    "full": "LOC_FN_StandardCommandingTouch3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageFatigue1Novice",
+    "formid": "Oblivion.esm:0A97D2",
+    "full": "LOC_FN_StandardDamageFatigue1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageHealthTouch1Novice",
+    "formid": "Oblivion.esm:0A97D3",
+    "full": "LOC_FN_StandardDamageHealthTouch1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageHealthTouch3Journeyman",
+    "formid": "Oblivion.esm:0A97D4",
+    "full": "LOC_FN_StandardDamageHealthTouch3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardDemoralizeTarget3Journeyman",
+    "formid": "Oblivion.esm:0A97D5",
+    "full": "LOC_FN_StandardDemoralizeTarget3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardDemoralizeTarget4Expert",
+    "formid": "Oblivion.esm:0A97D6",
+    "full": "LOC_FN_StandardDemoralizeTarget4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardDemoralizeTouch2Apprentice",
+    "formid": "Oblivion.esm:0A97D7",
+    "full": "LOC_FN_StandardDemoralizeTouch2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDemoralizeTouch4Expert",
+    "formid": "Oblivion.esm:0A97D8",
+    "full": "LOC_FN_StandardDemoralizeTouch4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardDemoralizeTarget5Master",
+    "formid": "Oblivion.esm:0A97D9",
+    "full": "LOC_FN_StandardDemoralizeTarget5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardDetectLife3Journeyman",
+    "formid": "Oblivion.esm:0A97DA",
+    "full": "LOC_FN_StandardDetectLife3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardDetectLife2Apprentice",
+    "formid": "Oblivion.esm:0A97DB",
+    "full": "LOC_FN_StandardDetectLife2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDetectLife1Novice",
+    "formid": "Oblivion.esm:0A97DC",
+    "full": "LOC_FN_StandardDetectLife1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDetectLife4Expert",
+    "formid": "Oblivion.esm:0A97DD",
+    "full": "LOC_FN_StandardDetectLife4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardDetectLife5Master",
+    "formid": "Oblivion.esm:0A97DE",
+    "full": "LOC_FN_StandardDetectLife5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageTarget1Novice",
+    "formid": "Oblivion.esm:0A97DF",
+    "full": "LOC_FN_StandardFireDamageTarget1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageTarget2Apprentice",
+    "formid": "Oblivion.esm:0A97E0",
+    "full": "LOC_FN_StandardFireDamageTarget2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageTarget3Journeyman",
+    "formid": "Oblivion.esm:0A97E1",
+    "full": "LOC_FN_StandardFireDamageTarget3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageTarget4Expert",
+    "formid": "Oblivion.esm:0A97E2",
+    "full": "LOC_FN_StandardFireDamageTarget4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageTarget5Master",
+    "formid": "Oblivion.esm:0A97E3",
+    "full": "LOC_FN_StandardFireDamageTarget5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageTouch2Apprentice",
+    "formid": "Oblivion.esm:0A97E4",
+    "full": "LOC_FN_StandardFireDamageTouch2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageTouch3Journeyman",
+    "formid": "Oblivion.esm:0A97E5",
+    "full": "LOC_FN_StandardFireDamageTouch3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageTouch4Expert",
+    "formid": "Oblivion.esm:0A97E6",
+    "full": "LOC_FN_StandardFireDamageTouch4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageArea3Journeyman",
+    "formid": "Oblivion.esm:0A97E7",
+    "full": "LOC_FN_StandardFireDamageArea3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageArea4Expert",
+    "formid": "Oblivion.esm:0A97E8",
+    "full": "LOC_FN_StandardFireDamageArea4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageArea5Master",
+    "formid": "Oblivion.esm:0A97E9",
+    "full": "LOC_FN_StandardFireDamageArea5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageTarget1Novice",
+    "formid": "Oblivion.esm:0A97EA",
+    "full": "LOC_FN_StandardFrostDamageTarget1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageTarget2Apprentice",
+    "formid": "Oblivion.esm:0A97EB",
+    "full": "LOC_FN_StandardFrostDamageTarget2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageTarget3Journeyman",
+    "formid": "Oblivion.esm:0A97EC",
+    "full": "LOC_FN_StandardFrostDamageTarget3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageTarget4Expert",
+    "formid": "Oblivion.esm:0A97ED",
+    "full": "LOC_FN_StandardFrostDamageTarget4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageTarget5Master",
+    "formid": "Oblivion.esm:0A97EE",
+    "full": "LOC_FN_StandardFrostDamageTarget5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageTouch1Novice",
+    "formid": "Oblivion.esm:0A97EF",
+    "full": "LOC_FN_StandardFrostDamageTouch1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageTouch2Apprentice",
+    "formid": "Oblivion.esm:0A97F0",
+    "full": "LOC_FN_StandardFrostDamageTouch2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageTouch3Journeyman",
+    "formid": "Oblivion.esm:0A97F1",
+    "full": "LOC_FN_StandardFrostDamageTouch3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageTouch4Expert",
+    "formid": "Oblivion.esm:0A97F2",
+    "full": "LOC_FN_StandardFrostDamageTouch4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageTarget1Novice",
+    "formid": "Oblivion.esm:0A97F3",
+    "full": "LOC_FN_StandardShockDamageTarget1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageTarget2Apprentice",
+    "formid": "Oblivion.esm:0A97F4",
+    "full": "LOC_FN_StandardShockDamageTarget2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageTouch4Expert",
+    "formid": "Oblivion.esm:0A97F6",
+    "full": "LOC_FN_StandardShockDamageTouch4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageTarget3Journeyman",
+    "formid": "Oblivion.esm:0A97F8",
+    "full": "LOC_FN_StandardShockDamageTarget3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageTarget5Master",
+    "formid": "Oblivion.esm:0A97F9",
+    "full": "LOC_FN_StandardShockDamageTarget5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageTouch1Novice",
+    "formid": "Oblivion.esm:0A97FA",
+    "full": "LOC_FN_StandardShockDamageTouch1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageTouch2Apprentice",
+    "formid": "Oblivion.esm:0A97FB",
+    "full": "LOC_FN_StandardShockDamageTouch2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageTouch3Journeyman",
+    "formid": "Oblivion.esm:0A97FC",
+    "full": "LOC_FN_StandardShockDamageTouch3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageTarget4Expert",
+    "formid": "Oblivion.esm:0A97FD",
+    "full": "LOC_FN_StandardShockDamageTarget4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardCharmArea3Journeyman",
+    "formid": "Oblivion.esm:0A97FF",
+    "full": "LOC_FN_StandardCharmArea3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardFeather2Apprentice",
+    "formid": "Oblivion.esm:0A9800",
+    "full": "LOC_FN_StandardFeather2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFeather3Journeyman",
+    "formid": "Oblivion.esm:0A9801",
+    "full": "LOC_FN_StandardFeather3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardFeather4Expert",
+    "formid": "Oblivion.esm:0A9802",
+    "full": "LOC_FN_StandardFeather4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardFeather5Master",
+    "formid": "Oblivion.esm:0A9803",
+    "full": "LOC_FN_StandardFeather5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireShield2Apprentice",
+    "formid": "Oblivion.esm:0A9806",
+    "full": "LOC_FN_StandardFireShield2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireShield3Journeyman",
+    "formid": "Oblivion.esm:0A9807",
+    "full": "LOC_FN_StandardFireShield3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireShield4Expert",
+    "formid": "Oblivion.esm:0A9808",
+    "full": "LOC_FN_StandardFireShield4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribAgility3Journeyman",
+    "formid": "Oblivion.esm:0A9809",
+    "full": "LOC_FN_StandardFortifyAttribAgility3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribEndurance3Journeyman",
+    "formid": "Oblivion.esm:0A980A",
+    "full": "LOC_FN_StandardFortifyAttribEndurance3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribIntelligence3Journeyman",
+    "formid": "Oblivion.esm:0A980B",
+    "full": "LOC_FN_StandardFortifyAttribIntelligence3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribLuck3Journeyman",
+    "formid": "Oblivion.esm:0A980C",
+    "full": "LOC_FN_StandardFortifyAttribLuck3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribPersonality3Journeyman",
+    "formid": "Oblivion.esm:0A980D",
+    "full": "LOC_FN_StandardFortifyAttribPersonality3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribSpeed3Journeyman",
+    "formid": "Oblivion.esm:0A980E",
+    "full": "LOC_FN_StandardFortifyAttribSpeed3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribStrength3Journeyman",
+    "formid": "Oblivion.esm:0A980F",
+    "full": "LOC_FN_StandardFortifyAttribStrength3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribWillpower3Journeyman",
+    "formid": "Oblivion.esm:0A9810",
+    "full": "LOC_FN_StandardFortifyAttribWillpower3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribAgility2Apprentice",
+    "formid": "Oblivion.esm:0A9811",
+    "full": "LOC_FN_StandardFortifyAttribAgility2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribEndurance2Apprentice",
+    "formid": "Oblivion.esm:0A9812",
+    "full": "LOC_FN_StandardFortifyAttribEndurance2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribIntelligence2Apprentice",
+    "formid": "Oblivion.esm:0A9813",
+    "full": "LOC_FN_StandardFortifyAttribIntelligence2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribLuck2Apprentice",
+    "formid": "Oblivion.esm:0A9814",
+    "full": "LOC_FN_StandardFortifyAttribLuck2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribPersonality2Apprentice",
+    "formid": "Oblivion.esm:0A9815",
+    "full": "LOC_FN_StandardFortifyAttribPersonality2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribSpeed2Apprentice",
+    "formid": "Oblivion.esm:0A9816",
+    "full": "LOC_FN_StandardFortifyAttribSpeed2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribStrength2Apprentice",
+    "formid": "Oblivion.esm:0A9817",
+    "full": "LOC_FN_StandardFortifyAttribStrength2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribWillpower2Apprentice",
+    "formid": "Oblivion.esm:0A9818",
+    "full": "LOC_FN_StandardFortifyAttribWillpower2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrenzyTarget1Novice",
+    "formid": "Oblivion.esm:0A9819",
+    "full": "LOC_FN_StandardFrenzyTarget1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrenzyTarget2Apprentice",
+    "formid": "Oblivion.esm:0A981A",
+    "full": "LOC_FN_StandardFrenzyTarget2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrenzyTouch1Novice",
+    "formid": "Oblivion.esm:0A981B",
+    "full": "LOC_FN_StandardFrenzyTouch1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrenzyTouch2Apprentice",
+    "formid": "Oblivion.esm:0A981C",
+    "full": "LOC_FN_StandardFrenzyTouch2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostShield2Apprentice",
+    "formid": "Oblivion.esm:0A981D",
+    "full": "LOC_FN_StandardFrostShield2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostShield3Journeyman",
+    "formid": "Oblivion.esm:0A981E",
+    "full": "LOC_FN_StandardFrostShield3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostShield4Expert",
+    "formid": "Oblivion.esm:0A981F",
+    "full": "LOC_FN_StandardFrostShield4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyHealth2Apprentice",
+    "formid": "Oblivion.esm:0A9820",
+    "full": "LOC_FN_StandardFortifyHealth2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyHealth4Expert",
+    "formid": "Oblivion.esm:0A9821",
+    "full": "LOC_FN_StandardFortifyHealth4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreHealth2Apprentice",
+    "formid": "Oblivion.esm:0A9822",
+    "full": "LOC_FN_StandardRestoreHealth2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreFatigue2Apprentice",
+    "formid": "Oblivion.esm:0A9823",
+    "full": "LOC_FN_StandardRestoreFatigue2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardLight1Novice",
+    "formid": "Oblivion.esm:0A9825",
+    "full": "LOC_FN_StandardLight1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardLight2Apprentice",
+    "formid": "Oblivion.esm:0A9826",
+    "full": "LOC_FN_StandardLight2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardLight3Journeyman",
+    "formid": "Oblivion.esm:0A9827",
+    "full": "LOC_FN_StandardLight3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardLight4Expert",
+    "formid": "Oblivion.esm:0A9828",
+    "full": "LOC_FN_StandardLight4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardLight5Master",
+    "formid": "Oblivion.esm:0A9829",
+    "full": "LOC_FN_StandardLight5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockShield2Apprentice",
+    "formid": "Oblivion.esm:0A982A",
+    "full": "LOC_FN_StandardShockShield2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockShield3Journeyman",
+    "formid": "Oblivion.esm:0A982B",
+    "full": "LOC_FN_StandardShockShield3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockShield4Expert",
+    "formid": "Oblivion.esm:0A982C",
+    "full": "LOC_FN_StandardShockShield4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardNightEye2Apprentice",
+    "formid": "Oblivion.esm:0A982F",
+    "full": "LOC_FN_StandardNightEye2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardNightEye3Journeyman",
+    "formid": "Oblivion.esm:0A9830",
+    "full": "LOC_FN_StandardNightEye3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardDispelSelf2Apprentice",
+    "formid": "Oblivion.esm:0A9831",
+    "full": "LOC_FN_StandardDispelSelf2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardDispelSelf3Journeyman",
+    "formid": "Oblivion.esm:0A9832",
+    "full": "LOC_FN_StandardDispelSelf3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardDispelSelf4Expert",
+    "formid": "Oblivion.esm:0A9833",
+    "full": "LOC_FN_StandardDispelSelf4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardDispelSelf5Master",
+    "formid": "Oblivion.esm:0A9834",
+    "full": "LOC_FN_StandardDispelSelf5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardDispelTarget3Journeyman",
+    "formid": "Oblivion.esm:0A9835",
+    "full": "LOC_FN_StandardDispelTarget3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardParalyze3Journeyman",
+    "formid": "Oblivion.esm:0A9838",
+    "full": "LOC_FN_StandardParalyze3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardParalyze5Master",
+    "formid": "Oblivion.esm:0A983A",
+    "full": "LOC_FN_StandardParalyze5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardRally1Novice",
+    "formid": "Oblivion.esm:0AA032",
+    "full": "LOC_FN_StandardRally1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardRallyTouch1Novice",
+    "formid": "Oblivion.esm:0AA033",
+    "full": "LOC_FN_StandardRallyTouch1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardRally2Apprentice",
+    "formid": "Oblivion.esm:0AA034",
+    "full": "LOC_FN_StandardRally2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardRallyTouch2Apprentice",
+    "formid": "Oblivion.esm:0AA035",
+    "full": "LOC_FN_StandardRallyTouch2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardReflectSpell4Expert",
+    "formid": "Oblivion.esm:0AA039",
+    "full": "LOC_FN_StandardReflectSpell4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreHealth3Journeyman",
+    "formid": "Oblivion.esm:0AA03A",
+    "full": "LOC_FN_StandardRestoreHealth3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreAttribAgility2Apprentice",
+    "formid": "Oblivion.esm:0AA03C",
+    "full": "LOC_FN_StandardRestoreAttribAgility2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreAttribEndurance2Apprentice",
+    "formid": "Oblivion.esm:0AA03F",
+    "full": "LOC_FN_StandardRestoreAttribEndurance2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreAttribLuck2Apprentice",
+    "formid": "Oblivion.esm:0AA040",
+    "full": "LOC_FN_StandardRestoreAttribLuck2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreAttribIntelligence2Apprentice",
+    "formid": "Oblivion.esm:0AA042",
+    "full": "LOC_FN_StandardRestoreAttribIntelligence2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreAttribPersonality2Apprentice",
+    "formid": "Oblivion.esm:0AA044",
+    "full": "LOC_FN_StandardRestoreAttribPersonality2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreAttribStrength2Apprentice",
+    "formid": "Oblivion.esm:0AA047",
+    "full": "LOC_FN_StandardRestoreAttribStrength2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreAttribSpeed2Apprentice",
+    "formid": "Oblivion.esm:0AA049",
+    "full": "LOC_FN_StandardRestoreAttribSpeed2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreAttribWillpower2Apprentice",
+    "formid": "Oblivion.esm:0AA04A",
+    "full": "LOC_FN_StandardRestoreAttribWillpower2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardSilence4Expert",
+    "formid": "Oblivion.esm:0AA04C",
+    "full": "LOC_FN_StandardSilence4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardSilence5Master",
+    "formid": "Oblivion.esm:0AA04D",
+    "full": "LOC_FN_StandardSilence5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardReflectSpell5Master",
+    "formid": "Oblivion.esm:0AA053",
+    "full": "LOC_FN_StandardReflectSpell5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardSpellAbsorption4Expert",
+    "formid": "Oblivion.esm:0AA055",
+    "full": "LOC_FN_StandardSpellAbsorption4Expert",
+    "modl": null
+  },
+  {
+    "edid": "StandardSpellAbsorption5Master",
+    "formid": "Oblivion.esm:0AA056",
+    "full": "LOC_FN_StandardSpellAbsorption5Master",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonClannfearExpert",
+    "formid": "Oblivion.esm:0AA057",
+    "full": "LOC_FN_StandardSummonClannfearExpert",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonDaedrothExpert",
+    "formid": "Oblivion.esm:0AA058",
+    "full": "LOC_FN_StandardSummonDaedrothExpert",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonDremoraJourneyman",
+    "formid": "Oblivion.esm:0AA059",
+    "full": "LOC_FN_StandardSummonDremoraJourneyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonAtronachFlameJourneyman",
+    "formid": "Oblivion.esm:0AA05A",
+    "full": "LOC_FN_StandardSummonAtronachFlameJourneyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonAtronachFrostExpert",
+    "formid": "Oblivion.esm:0AA05B",
+    "full": "LOC_FN_StandardSummonAtronachFrostExpert",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonGhostApprentice",
+    "formid": "Oblivion.esm:0AA05C",
+    "full": "LOC_FN_StandardSummonGhostApprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonLichMaster",
+    "formid": "Oblivion.esm:0AA05D",
+    "full": "LOC_FN_StandardSummonLichMaster",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonScampApprentice",
+    "formid": "Oblivion.esm:0AA05E",
+    "full": "LOC_FN_StandardSummonScampApprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonSkeletonApprentice",
+    "formid": "Oblivion.esm:0AA05F",
+    "full": "LOC_FN_StandardSummonSkeletonApprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonAtronachStormMaster",
+    "formid": "Oblivion.esm:0AA060",
+    "full": "LOC_FN_StandardSummonAtronachStormMaster",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonXivilaiMaster",
+    "formid": "Oblivion.esm:0AA061",
+    "full": "LOC_FN_StandardSummonXivilaiMaster",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonWraithFadedExpert",
+    "formid": "Oblivion.esm:0AA062",
+    "full": "LOC_FN_StandardSummonWraithFadedExpert",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonZombieApprentice",
+    "formid": "Oblivion.esm:0AA063",
+    "full": "LOC_FN_StandardSummonZombieApprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardTurnUndead1Novice",
+    "formid": "Oblivion.esm:0AA068",
+    "full": "LOC_FN_StandardTurnUndead1Novice",
+    "modl": null
+  },
+  {
+    "edid": "StandardTurnUndead2Apprentice",
+    "formid": "Oblivion.esm:0AA069",
+    "full": "LOC_FN_StandardTurnUndead2Apprentice",
+    "modl": null
+  },
+  {
+    "edid": "StandardTurnUndead3Journeyman",
+    "formid": "Oblivion.esm:0AA06A",
+    "full": "LOC_FN_StandardTurnUndead3Journeyman",
+    "modl": null
+  },
+  {
+    "edid": "StandardTurnUndead4Expert",
+    "formid": "Oblivion.esm:0AA06B",
+    "full": "LOC_FN_StandardTurnUndead4Expert",
+    "modl": null
+  },
+  {
+    "edid": "AbArenaCombatants",
+    "formid": "Oblivion.esm:0C425A",
+    "full": "LOC_FN_AbArenaCombatants",
+    "modl": null
+  },
+  {
+    "edid": "AbArenaAgronak",
+    "formid": "Oblivion.esm:0C425B",
+    "full": "LOC_FN_AbArenaAgronak",
+    "modl": null
+  },
+  {
+    "edid": "Mg05FingerSpell01",
+    "formid": "Oblivion.esm:0C48A2",
+    "full": "LOC_FN_Mg05FingerSpell01",
+    "modl": null
+  },
+  {
+    "edid": "Mg05FingerSpell05",
+    "formid": "Oblivion.esm:0C48A3",
+    "full": "LOC_FN_Mg05FingerSpell05",
+    "modl": null
+  },
+  {
+    "edid": "Mg05FingerSpell10",
+    "formid": "Oblivion.esm:0C48A4",
+    "full": "LOC_FN_Mg05FingerSpell10",
+    "modl": null
+  },
+  {
+    "edid": "Mg05FingerSpell15",
+    "formid": "Oblivion.esm:0C48A5",
+    "full": "LOC_FN_Mg05FingerSpell15",
+    "modl": null
+  },
+  {
+    "edid": "Mg05FingerSpell20",
+    "formid": "Oblivion.esm:0C48A6",
+    "full": "LOC_FN_Mg05FingerSpell20",
+    "modl": null
+  },
+  {
+    "edid": "Mg05FingerSpell25",
+    "formid": "Oblivion.esm:0C48A7",
+    "full": "LOC_FN_Mg05FingerSpell25",
+    "modl": null
+  },
+  {
+    "edid": "MG05ShockSpell01",
+    "formid": "Oblivion.esm:0C6982",
+    "full": "LOC_FN_MG05ShockSpell01",
+    "modl": null
+  },
+  {
+    "edid": "MG05ShockSpell05",
+    "formid": "Oblivion.esm:0C6983",
+    "full": "LOC_FN_MG05ShockSpell05",
+    "modl": null
+  },
+  {
+    "edid": "MG05ShockSpell10",
+    "formid": "Oblivion.esm:0C6984",
+    "full": "LOC_FN_MG05ShockSpell10",
+    "modl": null
+  },
+  {
+    "edid": "MG05ShockSpell15",
+    "formid": "Oblivion.esm:0C6985",
+    "full": "LOC_FN_MG05ShockSpell15",
+    "modl": null
+  },
+  {
+    "edid": "MG05ShockSpell20",
+    "formid": "Oblivion.esm:0C6986",
+    "full": "LOC_FN_MG05ShockSpell20",
+    "modl": null
+  },
+  {
+    "edid": "AbBirthsignConjurer",
+    "formid": "Oblivion.esm:0C9FC3",
+    "full": "LOC_FN_AbBirthsignConjurer",
+    "modl": null
+  },
+  {
+    "edid": "AbBirthsignNecromancer",
+    "formid": "Oblivion.esm:0C9FC4",
+    "full": "LOC_FN_AbBirthsignNecromancer",
+    "modl": null
+  },
+  {
+    "edid": "AbTrollHard",
+    "formid": "Oblivion.esm:0CA106",
+    "full": "LOC_FN_AbTrollHard",
+    "modl": null
+  },
+  {
+    "edid": "AbLandDreugh",
+    "formid": "Oblivion.esm:189046",
+    "full": "LOC_FN_AbLandDreugh",
+    "modl": null
+  }
+]

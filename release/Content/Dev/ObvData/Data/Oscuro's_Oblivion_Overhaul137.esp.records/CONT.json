@@ -1,0 +1,4034 @@
+[
+  {
+    "edid": "StolenGoods",
+    "formid": "Oblivion.esm:000011",
+    "full": "Evidence",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorSigrid",
+    "formid": "Oblivion.esm:0028FE",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorBatul",
+    "formid": "Oblivion.esm:002901",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "Dark17Barrel",
+    "formid": "Oblivion.esm:0034B2",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped02HiFi.nif"
+  },
+  {
+    "edid": "MGNecroAltar",
+    "formid": "Oblivion.esm:0038AB",
+    "full": "Altar",
+    "modl": "harvest\\containers\\XMSnecromanceraltar.nif"
+  },
+  {
+    "edid": "PCCupboardFoodLower",
+    "formid": "Oblivion.esm:005126",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestLowerCupboard01HiFi.nif"
+  },
+  {
+    "edid": "PCDrawerClutterLower01",
+    "formid": "Oblivion.esm:005127",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestLowerDrawers01HiFi.nif"
+  },
+  {
+    "edid": "PCChestClutterLower02",
+    "formid": "Oblivion.esm:005128",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "PCChestClutterLower01",
+    "formid": "Oblivion.esm:005129",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "PCChestClutterMiddle01",
+    "formid": "Oblivion.esm:00512A",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "PCBarrelClutterMiddle01",
+    "formid": "Oblivion.esm:00512C",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped01HiFi.nif"
+  },
+  {
+    "edid": "PCBarrelClutterMiddle02",
+    "formid": "Oblivion.esm:00512D",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped02HiFi.nif"
+  },
+  {
+    "edid": "PCBarrelFoodHighSame",
+    "formid": "Oblivion.esm:00512E",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped01HiFi.nif"
+  },
+  {
+    "edid": "PCCupboardClothesMiddle",
+    "formid": "Oblivion.esm:00512F",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestMiddleCupboard01HiFi.nif"
+  },
+  {
+    "edid": "PCCupboardClutterUpperShelfSilverware01",
+    "formid": "Oblivion.esm:005130",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestUpperCupboard02HiFi.nif"
+  },
+  {
+    "edid": "PCDrawerTopClutterMiddle01",
+    "formid": "Oblivion.esm:005131",
+    "full": "Drawer",
+    "modl": "harvest\\containers\\XMSharvestMiddleDrawersTopHiFi.nif"
+  },
+  {
+    "edid": "PCDrawerClutterMiddleClothing03",
+    "formid": "Oblivion.esm:005132",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestMiddleDrawers02HiFi.nif"
+  },
+  {
+    "edid": "PCDrawerClutterMiddleClothing02",
+    "formid": "Oblivion.esm:005133",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestMiddleDrawers02HiFi.nif"
+  },
+  {
+    "edid": "PCDrawerClutterMiddleClothing01",
+    "formid": "Oblivion.esm:005134",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestMiddleDrawers01HiFi.nif"
+  },
+  {
+    "edid": "PCDeskClutterMiddle01",
+    "formid": "Oblivion.esm:005136",
+    "full": "Desk",
+    "modl": "harvest\\containers\\XMSharvestMiddleDesk01HiFi.nif"
+  },
+  {
+    "edid": "PCDeskClutterMiddle02",
+    "formid": "Oblivion.esm:005137",
+    "full": "Desk",
+    "modl": "harvest\\containers\\XMSharvestMiddleDesk01HiFi.nif"
+  },
+  {
+    "edid": "PCChestClutterMiddleSame02",
+    "formid": "Oblivion.esm:00513A",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "PCCupboardFoodMiddle",
+    "formid": "Oblivion.esm:00513B",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestMiddleCupboard01HiFi.nif"
+  },
+  {
+    "edid": "PCShelfDrawersClutterMiddle01",
+    "formid": "Oblivion.esm:00513C",
+    "full": "Shelf",
+    "modl": "harvest\\containers\\XMSharvestMiddleShelf01HiFi.nif"
+  },
+  {
+    "edid": "PCCrateClutterMiddle04",
+    "formid": "Oblivion.esm:00513D",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate04NoFi.nif"
+  },
+  {
+    "edid": "PCChestClutterUpper01",
+    "formid": "Oblivion.esm:00513E",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "PCChestClutterUpper02",
+    "formid": "Oblivion.esm:005142",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "PCChestClutterUpperSame01",
+    "formid": "Oblivion.esm:005143",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "PCChestClutterUpperSame02",
+    "formid": "Oblivion.esm:005144",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "PCBarrelClutterMiddle04",
+    "formid": "Oblivion.esm:005145",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped04noFi.nif"
+  },
+  {
+    "edid": "PCCrateClutterMiddle03",
+    "formid": "Oblivion.esm:005147",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate03NoFi.nif"
+  },
+  {
+    "edid": "PCCupboardFoodMiddleDrinks",
+    "formid": "Oblivion.esm:005148",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestMiddleCupboard01HiFi.nif"
+  },
+  {
+    "edid": "PCBarrelFoodHigh",
+    "formid": "Oblivion.esm:005149",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped01HiFi.nif"
+  },
+  {
+    "edid": "PCDeskClutterUpper01",
+    "formid": "Oblivion.esm:00514A",
+    "full": "Desk",
+    "modl": "harvest\\containers\\XMSharvestUpperDesk01HiFi.nif"
+  },
+  {
+    "edid": "PCDeskClutterUpper02",
+    "formid": "Oblivion.esm:00514B",
+    "full": "Desk",
+    "modl": "harvest\\containers\\XMSharvestUpperDesk01HiFi.nif"
+  },
+  {
+    "edid": "PCCupboardFoodUpper",
+    "formid": "Oblivion.esm:00514C",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+  },
+  {
+    "edid": "PCBarrelFoodMiddle",
+    "formid": "Oblivion.esm:00514D",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped02HiFi.nif"
+  },
+  {
+    "edid": "PCCupboardClutterUpper",
+    "formid": "Oblivion.esm:00514E",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+  },
+  {
+    "edid": "PCCupboardClothingUpper",
+    "formid": "Oblivion.esm:00514F",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+  },
+  {
+    "edid": "PCDrawerClutterUpperClothing01",
+    "formid": "Oblivion.esm:005150",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestUpperDrawer01HiFi.nif"
+  },
+  {
+    "edid": "PCDrawerClutterUpperClothing03",
+    "formid": "Oblivion.esm:005152",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestUpperDrawer03HiFi.nif"
+  },
+  {
+    "edid": "PCDrawerClutterLowerClothing01",
+    "formid": "Oblivion.esm:005153",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestLowerDrawers01HiFi.nif"
+  },
+  {
+    "edid": "PCCoveredBowlClutterLower01",
+    "formid": "Oblivion.esm:005154",
+    "full": "Covered Pot",
+    "modl": "harvest\\containers\\XMSharvestLowerCoveredPot01HiFi.nif"
+  },
+  {
+    "edid": "PCBarrelClutterMiddleSame01",
+    "formid": "Oblivion.esm:005155",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped02HiFi.nif"
+  },
+  {
+    "edid": "PCBarrelClutterMiddleSame03",
+    "formid": "Oblivion.esm:005157",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped03noFi.nif"
+  },
+  {
+    "edid": "PCCupboardFoodUpperDrinks",
+    "formid": "Oblivion.esm:005158",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+  },
+  {
+    "edid": "PCDrawerClutterUpper02",
+    "formid": "Oblivion.esm:00515A",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestUpperDrawer02HiFi.nif"
+  },
+  {
+    "edid": "PCDrawerClutterUpper03",
+    "formid": "Oblivion.esm:00515B",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestUpperDrawer03HiFi.nif"
+  },
+  {
+    "edid": "PCCrateClutterMiddle02",
+    "formid": "Oblivion.esm:00515C",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate02NoFi.nif"
+  },
+  {
+    "edid": "PCCrateClutterMiddle06",
+    "formid": "Oblivion.esm:00515D",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate06NoFi.nif"
+  },
+  {
+    "edid": "PCDeskExecClutter01",
+    "formid": "Oblivion.esm:00515E",
+    "full": "Desk",
+    "modl": "harvest\\containers\\XMSharvestUpperExecDesk01HiFi.nif"
+  },
+  {
+    "edid": "PCBarrelClutterMiddle05",
+    "formid": "Oblivion.esm:005167",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped05noFi.nif"
+  },
+  {
+    "edid": "PCBarrelClutterMiddle06",
+    "formid": "Oblivion.esm:005168",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped06noFi.nif"
+  },
+  {
+    "edid": "PCCrateClutterMiddle01",
+    "formid": "Oblivion.esm:005169",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate01NoFi.nif"
+  },
+  {
+    "edid": "PCCrateClutterMiddleSame02",
+    "formid": "Oblivion.esm:00516A",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate02NoFi.nif"
+  },
+  {
+    "edid": "PCCrateClutterMiddleSame04",
+    "formid": "Oblivion.esm:00516B",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate04NoFi.nif"
+  },
+  {
+    "edid": "PCCrateClutterMiddle05",
+    "formid": "Oblivion.esm:00516C",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate05NoFi.nif"
+  },
+  {
+    "edid": "PCChestClutterLowerSame01",
+    "formid": "Oblivion.esm:00516D",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "PCCupboardClutterMiddle",
+    "formid": "Oblivion.esm:00516F",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestMiddleCupboard01HiFi.nif"
+  },
+  {
+    "edid": "PCCrateClutterMiddleSame01",
+    "formid": "Oblivion.esm:005170",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate01NoFi.nif"
+  },
+  {
+    "edid": "PCCupboardClutterLower",
+    "formid": "Oblivion.esm:005171",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestLowerCupboard01HiFi.nif"
+  },
+  {
+    "edid": "PCSackGold",
+    "formid": "Oblivion.esm:005177",
+    "full": "Sack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "DrawerClutterUpperClothing03Empty",
+    "formid": "Oblivion.esm:0086BA",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestUpperDrawer03HiFi.nif"
+  },
+  {
+    "edid": "ChestClutterLower02Empty",
+    "formid": "Oblivion.esm:0086BB",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "DrawerClutterMiddleClothing01Empty",
+    "formid": "Oblivion.esm:0086BC",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestMiddleDrawers01HiFi.nif"
+  },
+  {
+    "edid": "DrawerClutterLowerEmpty",
+    "formid": "Oblivion.esm:0086BD",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestLowerDrawers01HiFi.nif"
+  },
+  {
+    "edid": "DrawerClutterUpperClothing01Empty",
+    "formid": "Oblivion.esm:0086BE",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestUpperDrawer01HiFi.nif"
+  },
+  {
+    "edid": "DrawerClutterUpperClothing02Empty",
+    "formid": "Oblivion.esm:0086BF",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestUpperDrawer02HiFi.nif"
+  },
+  {
+    "edid": "ChestClutterLower01Empty",
+    "formid": "Oblivion.esm:0086C1",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "DrawerClutterMiddleClothing03Empty",
+    "formid": "Oblivion.esm:0086C2",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestMiddleDrawers02HiFi.nif"
+  },
+  {
+    "edid": "CupboardClothesMiddleEmpty",
+    "formid": "Oblivion.esm:0086C3",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestMiddleCupboard01HiFi.nif"
+  },
+  {
+    "edid": "ChestClutterMiddle01Empty",
+    "formid": "Oblivion.esm:0086C4",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestClutterUpper02Empty",
+    "formid": "Oblivion.esm:0086C5",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "DarkAppleBarrel",
+    "formid": "Oblivion.esm:008B25",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped03noFi.nif"
+  },
+  {
+    "edid": "TG03MyvrynasCupboard",
+    "formid": "Oblivion.esm:0092A2",
+    "full": "Myvryna's Cupboard",
+    "modl": "harvest\\containers\\XMSharvestLowerCupboard01HiFi.nif"
+  },
+  {
+    "edid": "SackFood",
+    "formid": "Oblivion.esm:009E2F",
+    "full": "Food Bag",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "TG03ElegantCoffin",
+    "formid": "Oblivion.esm:00A069",
+    "full": "Llathasa's Tomb",
+    "modl": "harvest\\containers\\XMSCoffin02Open01.nif"
+  },
+  {
+    "edid": "TG04JewelryBox",
+    "formid": "Oblivion.esm:00A0EE",
+    "full": "Alessia's Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ChestSkoomaLower01",
+    "formid": "Oblivion.esm:00A237",
+    "full": "Wooden Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "MQ09GreatWelkyndStoneArmature",
+    "formid": "Oblivion.esm:00A24A",
+    "full": "Beldatwyll",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "MG04CaminaldaChest",
+    "formid": "Oblivion.esm:00A95B",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "CounterEnd03ClutterJewelry",
+    "formid": "Oblivion.esm:00AA08",
+    "full": "Counter",
+    "modl": "harvest\\containers\\XMSharvestUpperCounterEnd03HiFi.nif"
+  },
+  {
+    "edid": "CounterEnd03ClutterMagesGuild",
+    "formid": "Oblivion.esm:00AA09",
+    "full": "Counter",
+    "modl": "harvest\\containers\\XMSharvestUpperCounterEnd03HiFi.nif"
+  },
+  {
+    "edid": "CounterEnd03ClutterUpper",
+    "formid": "Oblivion.esm:00AA0A",
+    "full": "Counter",
+    "modl": "harvest\\containers\\XMSharvestUpperCounterEnd03HiFi.nif"
+  },
+  {
+    "edid": "CounterMiddle02ClutterJewelry",
+    "formid": "Oblivion.esm:00AA0B",
+    "full": "Counter",
+    "modl": "harvest\\containers\\XMSharvestUpperCounterMiddle02HiFi.nif"
+  },
+  {
+    "edid": "CounterMiddle02ClutterUpper",
+    "formid": "Oblivion.esm:00AA0C",
+    "full": "Counter",
+    "modl": "harvest\\containers\\XMSharvestUpperCounterMiddle02HiFi.nif"
+  },
+  {
+    "edid": "CounterMiddle02ClutterMagesGuild",
+    "formid": "Oblivion.esm:00AA0D",
+    "full": "Counter",
+    "modl": "harvest\\containers\\XMSharvestUpperCounterMiddle02HiFi.nif"
+  },
+  {
+    "edid": "CounterEnd04ClutterUpper",
+    "formid": "Oblivion.esm:00AA0E",
+    "full": "Counter",
+    "modl": "harvest\\containers\\XMSharvestUpperCounterEnd04HiFi.nif"
+  },
+  {
+    "edid": "CounterEnd04ClutterMagesGuild",
+    "formid": "Oblivion.esm:00AA0F",
+    "full": "Counter",
+    "modl": "harvest\\containers\\XMSharvestUpperCounterEnd04HiFi.nif"
+  },
+  {
+    "edid": "PCCrateClutterMiddleSame06",
+    "formid": "Oblivion.esm:00AA3F",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate06NoFi.nif"
+  },
+  {
+    "edid": "PCBarrelClutterMiddle03",
+    "formid": "Oblivion.esm:00AA40",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped03noFi.nif"
+  },
+  {
+    "edid": "TG07DairihillDesk",
+    "formid": "Oblivion.esm:00C22B",
+    "full": "Dairihill's Desk",
+    "modl": "harvest\\containers\\XMSharvestUpperExecDesk01HiFi.nif"
+  },
+  {
+    "edid": "MQ15KeySack",
+    "formid": "Oblivion.esm:00C63C",
+    "full": "The Forbidden",
+    "modl": "harvest\\containers\\XMSClawStandContainer01.nif"
+  },
+  {
+    "edid": "VendorMainIngredient",
+    "formid": "Oblivion.esm:00C64C",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "AnvilBaeralornChest",
+    "formid": "Oblivion.esm:00CEEE",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "BlackRockChest02",
+    "formid": "Oblivion.esm:014D3F",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "TG10JaksSarcophagus",
+    "formid": "Oblivion.esm:0152FE",
+    "full": "Springheel Jak's Coffin",
+    "modl": "harvest\\containers\\XMSCoffin03Open01.nif"
+  },
+  {
+    "edid": "MQ12GoblinCrate2",
+    "formid": "Oblivion.esm:0180DC",
+    "full": "Small Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate02NoFi.nif"
+  },
+  {
+    "edid": "AR01Chest",
+    "formid": "Oblivion.esm:01C080",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "DASanguineChest",
+    "formid": "Oblivion.esm:01C139",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "LecternClutter01",
+    "formid": "Oblivion.esm:01C621",
+    "full": "Lectern",
+    "modl": "harvest\\containers\\XMSharvestMiddleLectern02HiFi.nif"
+  },
+  {
+    "edid": "CounterMiddle02",
+    "formid": "Oblivion.esm:01C82D",
+    "full": "Counter",
+    "modl": "harvest\\containers\\XMSharvestUpperCounterMiddle02HiFi.nif"
+  },
+  {
+    "edid": "CounterEnd03",
+    "formid": "Oblivion.esm:01C889",
+    "full": "Counter",
+    "modl": "harvest\\containers\\XMSharvestUpperCounterEnd03HiFi.nif"
+  },
+  {
+    "edid": "CounterEnd04",
+    "formid": "Oblivion.esm:01C88C",
+    "full": "Counter",
+    "modl": "harvest\\containers\\XMSharvestUpperCounterEnd04HiFi.nif"
+  },
+  {
+    "edid": "RFDchestLarge01",
+    "formid": "Oblivion.esm:01D5A8",
+    "full": "Chest Large",
+    "modl": "harvest\\containers\\XMSharvestRFDChestLargeLiddedHiFi.nif"
+  },
+  {
+    "edid": "TG05OntusVaninChest",
+    "formid": "Oblivion.esm:01E115",
+    "full": "Ontus Vanin's Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "TG01MethredhelsChest",
+    "formid": "Oblivion.esm:01E116",
+    "full": "Methredhel's Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "DungOblivionClawInt02",
+    "formid": "Oblivion.esm:01EFBB",
+    "full": "The Punished",
+    "modl": "harvest\\containers\\XMSClawStandContainer01.nif"
+  },
+  {
+    "edid": "DungOblivionClawExt03",
+    "formid": "Oblivion.esm:022190",
+    "full": "Fleshy Pod",
+    "modl": "harvest\\containers\\XMSClawFleshContainer01.nif"
+  },
+  {
+    "edid": "DungOblivionClawExt01",
+    "formid": "Oblivion.esm:022194",
+    "full": "Fleshy Pod",
+    "modl": "harvest\\containers\\XMSClawFleshContainer01.nif"
+  },
+  {
+    "edid": "DungOblivionClawInt01",
+    "formid": "Oblivion.esm:022195",
+    "full": "The Punished",
+    "modl": "harvest\\containers\\XMSClawStandContainer01.nif"
+  },
+  {
+    "edid": "DungOblivionClawExt02",
+    "formid": "Oblivion.esm:0221AF",
+    "full": "Fleshy Pod",
+    "modl": "harvest\\containers\\XMSClawFleshContainer01.nif"
+  },
+  {
+    "edid": "MQ05CommentariesChest",
+    "formid": "Oblivion.esm:022B08",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "DUN0Crate01",
+    "formid": "Oblivion.esm:022BE4",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate01NoFi.nif"
+  },
+  {
+    "edid": "DUN0Crate02",
+    "formid": "Oblivion.esm:022BE5",
+    "full": "Small Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate02NoFi.nif"
+  },
+  {
+    "edid": "DUN0Barrel02",
+    "formid": "Oblivion.esm:022BF4",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestDunBarrel02HiFi.nif"
+  },
+  {
+    "edid": "DUN0SackOfGrain01",
+    "formid": "Oblivion.esm:022F7D",
+    "full": "A Torn Sack of Grain",
+    "modl": "Dungeons\\Misc\\DUNSack01.NIF"
+  },
+  {
+    "edid": "ChestClutterLowerSame01",
+    "formid": "Oblivion.esm:024442",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestClutterLower01",
+    "formid": "Oblivion.esm:024443",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestClutterLower02",
+    "formid": "Oblivion.esm:024444",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestClutterLowerSame02",
+    "formid": "Oblivion.esm:024445",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "BarrelClutterMiddleSame04",
+    "formid": "Oblivion.esm:024446",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped04noFi.nif"
+  },
+  {
+    "edid": "BarrelClutterMiddleSame01",
+    "formid": "Oblivion.esm:024447",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped02HiFi.nif"
+  },
+  {
+    "edid": "BarrelFoodMiddle",
+    "formid": "Oblivion.esm:024448",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped02HiFi.nif"
+  },
+  {
+    "edid": "CupboardClutterLower",
+    "formid": "Oblivion.esm:024449",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestLowerCupboard01HiFi.nif"
+  },
+  {
+    "edid": "CupboardFoodLower",
+    "formid": "Oblivion.esm:02444A",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestLowerCupboard01HiFi.nif"
+  },
+  {
+    "edid": "DrawerClutterLower01",
+    "formid": "Oblivion.esm:02444B",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestLowerDrawers01HiFi.nif"
+  },
+  {
+    "edid": "DrawerClutterLower02",
+    "formid": "Oblivion.esm:02444C",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestLowerDrawers01HiFi.nif"
+  },
+  {
+    "edid": "CrateClutterMiddleSame01",
+    "formid": "Oblivion.esm:02444D",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate01NoFi.nif"
+  },
+  {
+    "edid": "CrateClutterMiddle02",
+    "formid": "Oblivion.esm:02444E",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate02NoFi.nif"
+  },
+  {
+    "edid": "CrateClutterMiddle03",
+    "formid": "Oblivion.esm:02444F",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate03NoFi.nif"
+  },
+  {
+    "edid": "CrateClutterMiddle04",
+    "formid": "Oblivion.esm:024450",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate04NoFi.nif"
+  },
+  {
+    "edid": "CrateClutterMiddleSame05",
+    "formid": "Oblivion.esm:024451",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate05NoFi.nif"
+  },
+  {
+    "edid": "CrateClutterMiddle06",
+    "formid": "Oblivion.esm:024452",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate06NoFi.nif"
+  },
+  {
+    "edid": "ChestClutterMiddleSame01",
+    "formid": "Oblivion.esm:024453",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestClutterMiddle01",
+    "formid": "Oblivion.esm:024454",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestClutterMiddle02",
+    "formid": "Oblivion.esm:024455",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestClutterMiddleSame02",
+    "formid": "Oblivion.esm:024456",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "DeskClutterMiddle01",
+    "formid": "Oblivion.esm:024457",
+    "full": "Desk",
+    "modl": "harvest\\containers\\XMSharvestMiddleDesk01HiFi.nif"
+  },
+  {
+    "edid": "DeskClutterMiddle02",
+    "formid": "Oblivion.esm:024458",
+    "full": "Desk",
+    "modl": "harvest\\containers\\XMSharvestMiddleDesk01HiFi.nif"
+  },
+  {
+    "edid": "BarrelClutterMiddle01",
+    "formid": "Oblivion.esm:024459",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped01HiFi.nif"
+  },
+  {
+    "edid": "BarrelClutterMiddle02",
+    "formid": "Oblivion.esm:02445A",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped02HiFi.nif"
+  },
+  {
+    "edid": "BarrelClutterMiddle03",
+    "formid": "Oblivion.esm:02445B",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped03noFi.nif"
+  },
+  {
+    "edid": "BarrelClutterMiddle04",
+    "formid": "Oblivion.esm:02445C",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped04noFi.nif"
+  },
+  {
+    "edid": "BarrelFoodLow",
+    "formid": "Oblivion.esm:02445D",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped01HiFi.nif"
+  },
+  {
+    "edid": "BarrelFoodLowSame",
+    "formid": "Oblivion.esm:02445E",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped02HiFi.nif"
+  },
+  {
+    "edid": "BarrelFoodHighSame",
+    "formid": "Oblivion.esm:02445F",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped01HiFi.nif"
+  },
+  {
+    "edid": "BarrelFoodHigh",
+    "formid": "Oblivion.esm:024460",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped01HiFi.nif"
+  },
+  {
+    "edid": "DrawerClutterMiddle01",
+    "formid": "Oblivion.esm:024461",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestMiddleDrawers01HiFi.nif"
+  },
+  {
+    "edid": "DrawerClutterMiddle02",
+    "formid": "Oblivion.esm:024462",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestMiddleDrawers02HiFi.nif"
+  },
+  {
+    "edid": "CupboardClutterMiddle",
+    "formid": "Oblivion.esm:024463",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestMiddleCupboard01HiFi.nif"
+  },
+  {
+    "edid": "CupboardFoodMiddle",
+    "formid": "Oblivion.esm:024464",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestMiddleCupboard01HiFi.nif"
+  },
+  {
+    "edid": "CupboardFoodMiddleDrinks",
+    "formid": "Oblivion.esm:024465",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestMiddleCupboard01HiFi.nif"
+  },
+  {
+    "edid": "DeskClutterUpper01",
+    "formid": "Oblivion.esm:024466",
+    "full": "Desk",
+    "modl": "harvest\\containers\\XMSharvestUpperDesk01HiFi.nif"
+  },
+  {
+    "edid": "DeskClutterUpper02",
+    "formid": "Oblivion.esm:024467",
+    "full": "Desk",
+    "modl": "harvest\\containers\\XMSharvestUpperDesk01HiFi.nif"
+  },
+  {
+    "edid": "CupboardFoodUpper",
+    "formid": "Oblivion.esm:024469",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+  },
+  {
+    "edid": "CupboardFoodUpperDrinks",
+    "formid": "Oblivion.esm:02446A",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+  },
+  {
+    "edid": "DrawerClutterUpper01",
+    "formid": "Oblivion.esm:02446B",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestUpperDrawer01HiFi.nif"
+  },
+  {
+    "edid": "DrawerClutterUpper02",
+    "formid": "Oblivion.esm:02446C",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestUpperDrawer02HiFi.nif"
+  },
+  {
+    "edid": "DrawerClutterUpper03",
+    "formid": "Oblivion.esm:02446D",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestUpperDrawer03HiFi.nif"
+  },
+  {
+    "edid": "ChestVendorAlchemyPotionsLowI01",
+    "formid": "Oblivion.esm:024497",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorAlchemyPotionsMedG01",
+    "formid": "Oblivion.esm:024498",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorAlchemyPotionsHighI01",
+    "formid": "Oblivion.esm:024499",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorAlchemyIngredCommonI01",
+    "formid": "Oblivion.esm:02449A",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorAlchemyPotionsMedI01",
+    "formid": "Oblivion.esm:02449B",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorAlchemyIngredRareI01",
+    "formid": "Oblivion.esm:02449C",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "BarrelVendorAlchemyIngredCommonI01",
+    "formid": "Oblivion.esm:02449D",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped01HiFi.nif"
+  },
+  {
+    "edid": "BarrelVendorAlchemyIngredCommonI02",
+    "formid": "Oblivion.esm:02449E",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped02HiFi.nif"
+  },
+  {
+    "edid": "ChestVendorAlchemyPotionsLowG01",
+    "formid": "Oblivion.esm:02449F",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorAlchemyPotionsHighG01",
+    "formid": "Oblivion.esm:0244A0",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorAlchemyIngredCommonG01",
+    "formid": "Oblivion.esm:0244A1",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorAlchemyIngredRareG01",
+    "formid": "Oblivion.esm:0244A2",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "BarrelVendorAlchemyIngredCommonG01",
+    "formid": "Oblivion.esm:0244A3",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped01HiFi.nif"
+  },
+  {
+    "edid": "BarrelVendorAlchemyIngredCommonG02",
+    "formid": "Oblivion.esm:0244A4",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped02HiFi.nif"
+  },
+  {
+    "edid": "ChestVendorBooks01",
+    "formid": "Oblivion.esm:0244A5",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorBooks02",
+    "formid": "Oblivion.esm:0244A6",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorBooks03",
+    "formid": "Oblivion.esm:0244A7",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorClothesLower01",
+    "formid": "Oblivion.esm:0244A8",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorClothesLower02",
+    "formid": "Oblivion.esm:0244A9",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorClothesMiddle01",
+    "formid": "Oblivion.esm:0244AA",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorClothesUpper01",
+    "formid": "Oblivion.esm:0244AB",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorEnchanterI01",
+    "formid": "Oblivion.esm:0244AC",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorEnchanterI02",
+    "formid": "Oblivion.esm:0244AD",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorEnchanterG02",
+    "formid": "Oblivion.esm:0244AE",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorEnchanterG03",
+    "formid": "Oblivion.esm:0244AF",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorEnchanterG01",
+    "formid": "Oblivion.esm:0244B0",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorPawnbrokerLow01",
+    "formid": "Oblivion.esm:0244B1",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorPawnbrokerLow02",
+    "formid": "Oblivion.esm:0244B2",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorPawnbrokerMed01",
+    "formid": "Oblivion.esm:0244B3",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorPawnbrokerHigh01",
+    "formid": "Oblivion.esm:0244B4",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorPublicanFood01",
+    "formid": "Oblivion.esm:0244B5",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorPublicanDrinks01",
+    "formid": "Oblivion.esm:0244B6",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "BarrelVendorPublicanFood01",
+    "formid": "Oblivion.esm:0244B7",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped01HiFi.nif"
+  },
+  {
+    "edid": "BarrelVendorPublicanFood02",
+    "formid": "Oblivion.esm:0244B8",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped02HiFi.nif"
+  },
+  {
+    "edid": "BarrelVendorPublicanFood03",
+    "formid": "Oblivion.esm:0244B9",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped02HiFi.nif"
+  },
+  {
+    "edid": "CupboardVendorPublicanFood01",
+    "formid": "Oblivion.esm:0244BA",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+  },
+  {
+    "edid": "CupboardVendorPublicanDrinks01",
+    "formid": "Oblivion.esm:0244BB",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+  },
+  {
+    "edid": "ChestVendorSmithAllI01",
+    "formid": "Oblivion.esm:0244BC",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorSmithWeaponsI01",
+    "formid": "Oblivion.esm:0244BD",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorSmithArmorI01",
+    "formid": "Oblivion.esm:0244BE",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorSmithBladesI01",
+    "formid": "Oblivion.esm:0244BF",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorSmithBluntsI01",
+    "formid": "Oblivion.esm:0244C0",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorSmithHeavyArmorI01",
+    "formid": "Oblivion.esm:0244C1",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorSmithLightArmorI01",
+    "formid": "Oblivion.esm:0244C2",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorSmithRepair01",
+    "formid": "Oblivion.esm:0244C3",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorSmithGuild01",
+    "formid": "Oblivion.esm:0244C4",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorSmithGuild02",
+    "formid": "Oblivion.esm:0244C5",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorSmithGuild03",
+    "formid": "Oblivion.esm:0244C6",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorSmithGuild04",
+    "formid": "Oblivion.esm:0244C7",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorTraderLow01",
+    "formid": "Oblivion.esm:0244C8",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorTraderLow02",
+    "formid": "Oblivion.esm:0244C9",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorTraderMed01",
+    "formid": "Oblivion.esm:0244CA",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorTraderHigh01",
+    "formid": "Oblivion.esm:0244CB",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorClothesUpper02",
+    "formid": "Oblivion.esm:0247FD",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorClothesMiddle02",
+    "formid": "Oblivion.esm:0247FE",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorBooks04",
+    "formid": "Oblivion.esm:0247FF",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "BarrelClutterMiddle06",
+    "formid": "Oblivion.esm:024800",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped06noFi.nif"
+  },
+  {
+    "edid": "BarrelClutterMiddle05",
+    "formid": "Oblivion.esm:024801",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped05noFi.nif"
+  },
+  {
+    "edid": "MS37TempChest",
+    "formid": "Oblivion.esm:0248E6",
+    "full": "Book Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "CupboardClothesMiddle",
+    "formid": "Oblivion.esm:02493F",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestMiddleCupboard01HiFi.nif"
+  },
+  {
+    "edid": "CupboardClutterUpperShelfSilverware01",
+    "formid": "Oblivion.esm:024942",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestUpperCupboard02HiFi.nif"
+  },
+  {
+    "edid": "SackClutterMiddle01",
+    "formid": "Oblivion.esm:024945",
+    "full": "Sack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "SackClutterMiddle02",
+    "formid": "Oblivion.esm:024947",
+    "full": "Sack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "SackClutterMiddle03",
+    "formid": "Oblivion.esm:024948",
+    "full": "Sack",
+    "modl": "Clutter\\Sack02.NIF"
+  },
+  {
+    "edid": "DrawerTopClutterMiddle01",
+    "formid": "Oblivion.esm:02494B",
+    "full": "Drawer",
+    "modl": "harvest\\containers\\XMSharvestMiddleDrawersTopHiFi.nif"
+  },
+  {
+    "edid": "CoveredBowlClutterLower01",
+    "formid": "Oblivion.esm:02494D",
+    "full": "Covered Pot",
+    "modl": "harvest\\containers\\XMSharvestLowerCoveredPot01HiFi.nif"
+  },
+  {
+    "edid": "DeskExecClutter01",
+    "formid": "Oblivion.esm:024951",
+    "full": "Desk",
+    "modl": "harvest\\containers\\XMSharvestUpperExecDesk01HiFi.nif"
+  },
+  {
+    "edid": "CupboardClothingUpper",
+    "formid": "Oblivion.esm:024A53",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+  },
+  {
+    "edid": "DrawerClutterUpperClothing01",
+    "formid": "Oblivion.esm:024A55",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestUpperDrawer01HiFi.nif"
+  },
+  {
+    "edid": "DrawerClutterUpperClothing02",
+    "formid": "Oblivion.esm:024A56",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestUpperDrawer02HiFi.nif"
+  },
+  {
+    "edid": "DrawerClutterUpperClothing03",
+    "formid": "Oblivion.esm:024A57",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestUpperDrawer03HiFi.nif"
+  },
+  {
+    "edid": "DrawerClutterMiddleClothing02",
+    "formid": "Oblivion.esm:024A59",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestMiddleDrawers02HiFi.nif"
+  },
+  {
+    "edid": "DrawerClutterMiddleClothing01",
+    "formid": "Oblivion.esm:024A5D",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestMiddleDrawers01HiFi.nif"
+  },
+  {
+    "edid": "CupboardClutterUpper",
+    "formid": "Oblivion.esm:024A60",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+  },
+  {
+    "edid": "ChestClutterUpper01",
+    "formid": "Oblivion.esm:024A62",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestClutterUpperSame02",
+    "formid": "Oblivion.esm:024A78",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestClutterUpper02",
+    "formid": "Oblivion.esm:024A7A",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestClutterUpperSame01",
+    "formid": "Oblivion.esm:024A7C",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ShelfDrawersClutterMiddle01",
+    "formid": "Oblivion.esm:024AA3",
+    "full": "Shelf",
+    "modl": "harvest\\containers\\XMSharvestMiddleShelf01HiFi.nif"
+  },
+  {
+    "edid": "DrawerClutterMiddleClothing03",
+    "formid": "Oblivion.esm:024AAB",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestMiddleDrawers02HiFi.nif"
+  },
+  {
+    "edid": "ShelfClutterMiddleFood01",
+    "formid": "Oblivion.esm:024AAC",
+    "full": "Shelf",
+    "modl": "harvest\\containers\\XMSharvestMiddleShelf01HiFi.nif"
+  },
+  {
+    "edid": "SackOpenClutterMiddleGrain01",
+    "formid": "Oblivion.esm:024AB2",
+    "full": "Sack",
+    "modl": "Clutter\\Opensack01.NIF"
+  },
+  {
+    "edid": "MS37TempAlchemyChest",
+    "formid": "Oblivion.esm:024AF7",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "CupboardVendorSmithArmor",
+    "formid": "Oblivion.esm:024C45",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestMiddleCupboard01HiFi.nif"
+  },
+  {
+    "edid": "DrawerTopVendorSmithArmor",
+    "formid": "Oblivion.esm:024C47",
+    "full": "Drawer",
+    "modl": "harvest\\containers\\XMSharvestMiddleDrawersTopHiFi.nif"
+  },
+  {
+    "edid": "DrawerVendorSmithArmor",
+    "formid": "Oblivion.esm:024C48",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestMiddleDrawers02HiFi.nif"
+  },
+  {
+    "edid": "CrateClutterMiddle05",
+    "formid": "Oblivion.esm:024CC2",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate05NoFi.nif"
+  },
+  {
+    "edid": "NornalKeyChest",
+    "formid": "Oblivion.esm:024FE8",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestTeekeeus01",
+    "formid": "Oblivion.esm:025063",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestSewerGoblin",
+    "formid": "Oblivion.esm:0274F6",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "CrateClutterMiddle01",
+    "formid": "Oblivion.esm:029AE1",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate01NoFi.nif"
+  },
+  {
+    "edid": "CrateClutterMiddleSame04",
+    "formid": "Oblivion.esm:029CDD",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate04NoFi.nif"
+  },
+  {
+    "edid": "CrateClutterMiddleSame06",
+    "formid": "Oblivion.esm:029D73",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate06NoFi.nif"
+  },
+  {
+    "edid": "CrateClutterMiddleSame02",
+    "formid": "Oblivion.esm:029D77",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate02NoFi.nif"
+  },
+  {
+    "edid": "MG03ArenimDrawer",
+    "formid": "Oblivion.esm:02C0DC",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestMiddleDrawers01HiFi.nif"
+  },
+  {
+    "edid": "MG03ArenimDesk",
+    "formid": "Oblivion.esm:02C678",
+    "full": "Desk",
+    "modl": "harvest\\containers\\XMSharvestMiddleDesk01HiFi.nif"
+  },
+  {
+    "edid": "MS05PlayerInventory",
+    "formid": "Oblivion.esm:02CCFE",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "Dark12RottedBox",
+    "formid": "Oblivion.esm:030147",
+    "full": "Rotten Box",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate06NoFi.nif"
+  },
+  {
+    "edid": "Dark13Coffin",
+    "formid": "Oblivion.esm:030190",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin01Open01.nif"
+  },
+  {
+    "edid": "Dark15Chest",
+    "formid": "Oblivion.esm:0301AF",
+    "full": "Sunken Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "DrawerClutterLowerClothing01",
+    "formid": "Oblivion.esm:032903",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestLowerDrawers01HiFi.nif"
+  },
+  {
+    "edid": "DrawerClutterLowerClothing02",
+    "formid": "Oblivion.esm:032917",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestLowerDrawers01HiFi.nif"
+  },
+  {
+    "edid": "CoffinClosed01",
+    "formid": "Oblivion.esm:032C56",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin01Open01.nif"
+  },
+  {
+    "edid": "DungOblivionBagOfBones",
+    "formid": "Oblivion.esm:03372B",
+    "full": "Fleshy Pod",
+    "modl": "harvest\\containers\\XMSGroundFleshContainer01.nif"
+  },
+  {
+    "edid": "DungOblivionSackGround01",
+    "formid": "Oblivion.esm:03372C",
+    "full": "Fleshy Pod",
+    "modl": "harvest\\containers\\XMSGroundFleshContainer02.nif"
+  },
+  {
+    "edid": "DungOblivionSackHanging02Healing",
+    "formid": "Oblivion.esm:03372D",
+    "full": "Fleshy Pod",
+    "modl": "harvest\\containers\\XMSHangingFleshContainer01.nif"
+  },
+  {
+    "edid": "DungOblivionSackHanging01",
+    "formid": "Oblivion.esm:03372E",
+    "full": "Fleshy Pod",
+    "modl": "harvest\\containers\\XMSHangingFleshContainer02.nif"
+  },
+  {
+    "edid": "DUN0Crate03",
+    "formid": "Oblivion.esm:033D65",
+    "full": "A Battered Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate03NoFi.nif"
+  },
+  {
+    "edid": "MQCloudRulerArmoryChest",
+    "formid": "Oblivion.esm:033FCF",
+    "full": "Armory",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "MS06GranthamsTreasure",
+    "formid": "Oblivion.esm:0366CC",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "DungBanditChest01",
+    "formid": "Oblivion.esm:03752A",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "DungBanditChest02",
+    "formid": "Oblivion.esm:03752B",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "DungBanditChest03",
+    "formid": "Oblivion.esm:03752C",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "DungBanditChest04Healing",
+    "formid": "Oblivion.esm:03752D",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "DungBanditBossChest01",
+    "formid": "Oblivion.esm:03752E",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "DungBanditBossChest02",
+    "formid": "Oblivion.esm:03752F",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "DungBanditSackFoodRound",
+    "formid": "Oblivion.esm:037530",
+    "full": "Sack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "DungBanditSackFoodTall",
+    "formid": "Oblivion.esm:037531",
+    "full": "Sack",
+    "modl": "Clutter\\Sack02.NIF"
+  },
+  {
+    "edid": "DungBanditSackFood03",
+    "formid": "Oblivion.esm:037532",
+    "full": "Sack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "DungMarauderChest01",
+    "formid": "Oblivion.esm:037533",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "DungMarauderChest02",
+    "formid": "Oblivion.esm:037534",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "DungMarauderChest03",
+    "formid": "Oblivion.esm:037535",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "DungMarauderChest04Healing",
+    "formid": "Oblivion.esm:037536",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "DungMarauderBossChestFort",
+    "formid": "Oblivion.esm:037537",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "DungMarauderBossChestAlyied01",
+    "formid": "Oblivion.esm:037538",
+    "full": "Ayleid Coffer",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "DungMarauderBossChestAlyied02",
+    "formid": "Oblivion.esm:037539",
+    "full": "Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "DungMarauderChestAlyied01",
+    "formid": "Oblivion.esm:03753A",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "DungNecroChest01",
+    "formid": "Oblivion.esm:03753B",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "DungNecroChest02",
+    "formid": "Oblivion.esm:03753C",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "DungNecroChest03",
+    "formid": "Oblivion.esm:03753D",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "DungNecroChest04Healing",
+    "formid": "Oblivion.esm:03753E",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "DungNecroBossChestAlyied01",
+    "formid": "Oblivion.esm:03753F",
+    "full": "Ayleid Coffer",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "DungNecroBossChestAlyied02",
+    "formid": "Oblivion.esm:037540",
+    "full": "Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "DungNecroChestAlyied01",
+    "formid": "Oblivion.esm:037541",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "DungNecroBossChestFort",
+    "formid": "Oblivion.esm:037542",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "DungConjurerChest01",
+    "formid": "Oblivion.esm:037543",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "DungConjurerChest02",
+    "formid": "Oblivion.esm:037544",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "DungConjurerChest03",
+    "formid": "Oblivion.esm:037545",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "DungConjurerChest04Healing",
+    "formid": "Oblivion.esm:037546",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "DungConjurerChestAlyied01",
+    "formid": "Oblivion.esm:037547",
+    "full": "Ayleid Coffer",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "DungConjurerChestAlyied02",
+    "formid": "Oblivion.esm:037548",
+    "full": "Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "DungConjurerBossChestAlyied01",
+    "formid": "Oblivion.esm:037549",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "DungConjurerBossChestFort",
+    "formid": "Oblivion.esm:03754A",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "DungNecroCoffin01",
+    "formid": "Oblivion.esm:03754B",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin01Open01.nif"
+  },
+  {
+    "edid": "DungNecroCoffin02",
+    "formid": "Oblivion.esm:03754C",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin02Open01.nif"
+  },
+  {
+    "edid": "DungNecroBossCoffin",
+    "formid": "Oblivion.esm:03754D",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin03OpenPAEmpty.nif"
+  },
+  {
+    "edid": "DungVampireCoffin01",
+    "formid": "Oblivion.esm:03754E",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin01Open01.nif"
+  },
+  {
+    "edid": "DungVampireCoffin02",
+    "formid": "Oblivion.esm:03754F",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin02Open01.nif"
+  },
+  {
+    "edid": "DungVampireBossCoffin",
+    "formid": "Oblivion.esm:037550",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin03OpenPAEmpty.nif"
+  },
+  {
+    "edid": "DungVampireChest01",
+    "formid": "Oblivion.esm:037551",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "DungVampireChest02",
+    "formid": "Oblivion.esm:037552",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "DungVampireChest03",
+    "formid": "Oblivion.esm:037553",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "DungVampireChest04Healing",
+    "formid": "Oblivion.esm:037554",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "DungVampireBossChestAlyied01",
+    "formid": "Oblivion.esm:037555",
+    "full": "Ayleid Coffer",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "DungVampireBossChestAlyied02",
+    "formid": "Oblivion.esm:037556",
+    "full": "Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "DungVampireChestAlyied01",
+    "formid": "Oblivion.esm:037557",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "DungVampireBossChestFort",
+    "formid": "Oblivion.esm:037558",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "DungGoblinBossChest01",
+    "formid": "Oblivion.esm:037559",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "DungGoblinBossChest02",
+    "formid": "Oblivion.esm:03755A",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "DungGoblinChest01",
+    "formid": "Oblivion.esm:03755B",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "DungGoblinChest02",
+    "formid": "Oblivion.esm:03755C",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "DungGoblinChest03",
+    "formid": "Oblivion.esm:03755D",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "DungGoblinChest04Healing",
+    "formid": "Oblivion.esm:03755E",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "DungGoblinSack03",
+    "formid": "Oblivion.esm:03755F",
+    "full": "Sack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "DungGoblinSackRound",
+    "formid": "Oblivion.esm:037560",
+    "full": "Sack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "DungGoblinSackTall",
+    "formid": "Oblivion.esm:037561",
+    "full": "Sack",
+    "modl": "Clutter\\Sack02.NIF"
+  },
+  {
+    "edid": "DungGoblinBossChestFort",
+    "formid": "Oblivion.esm:037562",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "DungMythEnemySackTall",
+    "formid": "Oblivion.esm:03766C",
+    "full": "Sack",
+    "modl": "Clutter\\Sack02.NIF"
+  },
+  {
+    "edid": "DungMythEnemyChest01",
+    "formid": "Oblivion.esm:03766D",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "DungMythEnemyChest02",
+    "formid": "Oblivion.esm:03766E",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "DungMythEnemyChest03",
+    "formid": "Oblivion.esm:03766F",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "DungMythEnemyChest04Healing",
+    "formid": "Oblivion.esm:037670",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "DungMythEnemyBossChestAlyied01",
+    "formid": "Oblivion.esm:037671",
+    "full": "Ayleid Coffer",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "DungMythEnemyBossChestAlyied02",
+    "formid": "Oblivion.esm:037672",
+    "full": "Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "DungMythEnemyChestAlyied01",
+    "formid": "Oblivion.esm:037673",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "DungMythEnemyBossChestFort",
+    "formid": "Oblivion.esm:037674",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "DungTombCoffin01",
+    "formid": "Oblivion.esm:037675",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin01Open01.nif"
+  },
+  {
+    "edid": "DungTombCoffin02",
+    "formid": "Oblivion.esm:037676",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin02Open01.nif"
+  },
+  {
+    "edid": "DungTombBossCoffin",
+    "formid": "Oblivion.esm:037677",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin03OpenPAEmpty.nif"
+  },
+  {
+    "edid": "DungTombChest01",
+    "formid": "Oblivion.esm:037678",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "DungTombChest02",
+    "formid": "Oblivion.esm:037679",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "DungTombChest03",
+    "formid": "Oblivion.esm:03767A",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "DungTombChest04Healing",
+    "formid": "Oblivion.esm:03767B",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "DungTombBossChestAlyied01",
+    "formid": "Oblivion.esm:03767C",
+    "full": "Ayleid Coffer",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "DungTombBossChestAlyied02",
+    "formid": "Oblivion.esm:03767D",
+    "full": "Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "DungTombChestAlyied01",
+    "formid": "Oblivion.esm:03767E",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "DungTombBossChestFort",
+    "formid": "Oblivion.esm:03767F",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "DungOblivionBossSack01",
+    "formid": "Oblivion.esm:037680",
+    "full": "Fleshy Pod",
+    "modl": "harvest\\containers\\XMSGroundFleshContainer02.nif"
+  },
+  {
+    "edid": "DungOblivionBossSack02",
+    "formid": "Oblivion.esm:037681",
+    "full": "Fleshy Pod",
+    "modl": "harvest\\containers\\XMSHangingFleshContainer02.nif"
+  },
+  {
+    "edid": "DungMythEnemySack03",
+    "formid": "Oblivion.esm:037682",
+    "full": "Sack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "DungMythEnemySackRound",
+    "formid": "Oblivion.esm:037683",
+    "full": "Sack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "DungConjurerBossChestAlyied02",
+    "formid": "Oblivion.esm:03768E",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "DungMarauderChestAlyied02",
+    "formid": "Oblivion.esm:03768F",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "DungMythEnemyChestAlyied02",
+    "formid": "Oblivion.esm:037690",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "DungNecroChestAlyied02",
+    "formid": "Oblivion.esm:037691",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "DungTombChestAlyied02",
+    "formid": "Oblivion.esm:037692",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "DungVampireChestAlyied02",
+    "formid": "Oblivion.esm:037693",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "DungRestorationSack",
+    "formid": "Oblivion.esm:037694",
+    "full": "Sack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "DungRestorationChest",
+    "formid": "Oblivion.esm:037695",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorRindirsStaffs01",
+    "formid": "Oblivion.esm:037CD7",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorScrolls01",
+    "formid": "Oblivion.esm:037CD9",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "MS11Chest",
+    "formid": "Oblivion.esm:03859C",
+    "full": "Waterlogged Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "MS11EmptyChest",
+    "formid": "Oblivion.esm:0385A6",
+    "full": "Empty Waterlogged Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "MS52CoffinClosed01",
+    "formid": "Oblivion.esm:038EDB",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin03Open01.nif"
+  },
+  {
+    "edid": "TGChestFenceFathisUles",
+    "formid": "Oblivion.esm:03D06C",
+    "full": "Fathis Ules Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "TGChestFenceOrrin",
+    "formid": "Oblivion.esm:03D06D",
+    "full": "Orrin's Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "TGChestFenceLucianaGalena",
+    "formid": "Oblivion.esm:03D06E",
+    "full": "Luciana Galena's Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "TGChestFenceDarJee",
+    "formid": "Oblivion.esm:03D06F",
+    "full": "Dar Jee's Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "TGChestFenceOngar",
+    "formid": "Oblivion.esm:03D070",
+    "full": "Ongar's Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "CGBarrel02",
+    "formid": "Oblivion.esm:04930A",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestDunBarrel02HiFi.nif"
+  },
+  {
+    "edid": "CGBarrel03",
+    "formid": "Oblivion.esm:04930D",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestDunBarrel02HiFi.nif"
+  },
+  {
+    "edid": "CGChestArrows01",
+    "formid": "Oblivion.esm:049312",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "CrateSmall02",
+    "formid": "Oblivion.esm:049313",
+    "full": "Small Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate02NoFi.nif"
+  },
+  {
+    "edid": "CGCrateMed01",
+    "formid": "Oblivion.esm:049314",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate01NoFi.nif"
+  },
+  {
+    "edid": "CGCrateMed02",
+    "formid": "Oblivion.esm:049315",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate01NoFi.nif"
+  },
+  {
+    "edid": "CGCrateMed03",
+    "formid": "Oblivion.esm:049318",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate01NoFi.nif"
+  },
+  {
+    "edid": "CrateLArge02",
+    "formid": "Oblivion.esm:049319",
+    "full": "A Battered Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate03NoFi.nif"
+  },
+  {
+    "edid": "CGChest02",
+    "formid": "Oblivion.esm:04931C",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "CGChestHealth01",
+    "formid": "Oblivion.esm:049341",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "CGChestArrows02",
+    "formid": "Oblivion.esm:049345",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "CGChestTorch01",
+    "formid": "Oblivion.esm:049353",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "TG01RohssansPersonalChest",
+    "formid": "Oblivion.esm:049D22",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "DungRestorationAlyied",
+    "formid": "Oblivion.esm:04B77C",
+    "full": "Ayleid Chest",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "CGCrateSewers01",
+    "formid": "Oblivion.esm:04B80E",
+    "full": "A Battered Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate03NoFi.nif"
+  },
+  {
+    "edid": "CGChestGold01",
+    "formid": "Oblivion.esm:04B821",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestMS25DungeonMythicEnemyRare01",
+    "formid": "Oblivion.esm:04D180",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "MS39NirnrootWild",
+    "formid": "Oblivion.esm:04E964",
+    "full": "Nirnroot",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped02HiFi.nif"
+  },
+  {
+    "edid": "MS39NirnrootPotted",
+    "formid": "Oblivion.esm:04E965",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped02HiFi.nif"
+  },
+  {
+    "edid": "MS39SinderionChest",
+    "formid": "Oblivion.esm:04E973",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "RoastRat01",
+    "formid": "Oblivion.esm:04EA41",
+    "full": "Roasted Rat",
+    "modl": "harvest\\containers\\DEJXRoastRat01LoFi.nif"
+  },
+  {
+    "edid": "WaterBreathingChest",
+    "formid": "Oblivion.esm:04EAE5",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "CGCrateSmall04",
+    "formid": "Oblivion.esm:04F023",
+    "full": "Small Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate02NoFi.nif"
+  },
+  {
+    "edid": "DarkSellChest",
+    "formid": "Oblivion.esm:04F944",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "MorandaMythEnemyChestAlyied01",
+    "formid": "Oblivion.esm:05186F",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "CGChestMagicka01",
+    "formid": "Oblivion.esm:051D68",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "GoblinCrateSmall01",
+    "formid": "Oblivion.esm:051D6B",
+    "full": "Small Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate02NoFi.nif"
+  },
+  {
+    "edid": "CGChestGold02",
+    "formid": "Oblivion.esm:051D6C",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "CGChestSword01",
+    "formid": "Oblivion.esm:051D74",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "MS39SinderionChestStage65",
+    "formid": "Oblivion.esm:05221F",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "MS39SinderionChestStage75",
+    "formid": "Oblivion.esm:052220",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "MS39SinderionChestStage85",
+    "formid": "Oblivion.esm:052221",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "MS39SinderionChestStage100",
+    "formid": "Oblivion.esm:052222",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "MS09JorundrChest",
+    "formid": "Oblivion.esm:053785",
+    "full": "Jorundr's Loot",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "fyreLightKeyCHestDUPLICATE000",
+    "formid": "Oblivion.esm:05B480",
+    "full": "Wooden Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "HornCaveKeySack",
+    "formid": "Oblivion.esm:05B60B",
+    "full": "Sack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "MossRockCavernChest",
+    "formid": "Oblivion.esm:05B913",
+    "full": "Necromancer's Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "HornCaveStockpileChest",
+    "formid": "Oblivion.esm:05BC28",
+    "full": "Large Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "PotHoleCavernsChest",
+    "formid": "Oblivion.esm:05BD65",
+    "full": "Necromancer's Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "DarkFissureCell1Chest",
+    "formid": "Oblivion.esm:05BE9E",
+    "full": "Fine Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "MQ02JauffreChest",
+    "formid": "Oblivion.esm:05D2C1",
+    "full": "Jauffre's Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "SilverRock01",
+    "formid": "Oblivion.esm:05F491",
+    "full": "Silver Vein",
+    "modl": "harvest\\containers\\XMSharvestSilverRock01.nif"
+  },
+  {
+    "edid": "SilverRock02",
+    "formid": "Oblivion.esm:05F492",
+    "full": "Silver Vein",
+    "modl": "harvest\\containers\\XMSharvestSilverRock02.nif"
+  },
+  {
+    "edid": "SilverRock03",
+    "formid": "Oblivion.esm:05F493",
+    "full": "Silver Vein",
+    "modl": "harvest\\containers\\XMSharvestSilverRock03.nif"
+  },
+  {
+    "edid": "ChestJewelryUpper01",
+    "formid": "Oblivion.esm:064F54",
+    "full": "Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ChestJewelryNoble01",
+    "formid": "Oblivion.esm:064F55",
+    "full": "Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "DungBanditSackHealing",
+    "formid": "Oblivion.esm:066B0E",
+    "full": "Sack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "WildernessChestTorches",
+    "formid": "Oblivion.esm:066E3F",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "FGFoodCupboardCheap",
+    "formid": "Oblivion.esm:067407",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestLowerCupboard01HiFi.nif"
+  },
+  {
+    "edid": "ImpSewArenaKeyChest",
+    "formid": "Oblivion.esm:0677DA",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "SQ09BastardChest",
+    "formid": "Oblivion.esm:067DD5",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "DungVampireCoffin02Empty",
+    "formid": "Oblivion.esm:068311",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin02Open01.nif"
+  },
+  {
+    "edid": "DungNecroCoffin02Empty",
+    "formid": "Oblivion.esm:06843E",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin02Open01.nif"
+  },
+  {
+    "edid": "DungVampireCoffin01Empty",
+    "formid": "Oblivion.esm:06843F",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin01Open01.nif"
+  },
+  {
+    "edid": "DungNecroCoffin01Empty",
+    "formid": "Oblivion.esm:068440",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin01Open01.nif"
+  },
+  {
+    "edid": "DarkAntoinettaChest",
+    "formid": "Oblivion.esm:0693D3",
+    "full": "Antoinetta Marie's Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "DarkTeinaavaChest",
+    "formid": "Oblivion.esm:0693D4",
+    "full": "Teinaava's Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "DarkVicenteChest",
+    "formid": "Oblivion.esm:0693D5",
+    "full": "Vicente Valtieri's Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "DungTombCoffin02Empty",
+    "formid": "Oblivion.esm:06AB3F",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin02Open01.nif"
+  },
+  {
+    "edid": "DungTombCoffin01Empty",
+    "formid": "Oblivion.esm:06AB40",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin01Open01.nif"
+  },
+  {
+    "edid": "ChestVendorArchersParadox01",
+    "formid": "Oblivion.esm:06B16E",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "DUN0BarrelTorches01",
+    "formid": "Oblivion.esm:06B5F4",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestDunBarrel02HiFi.nif"
+  },
+  {
+    "edid": "VilverinKeyChest",
+    "formid": "Oblivion.esm:06C324",
+    "full": "Ayleid Chest",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "DarkGogronChest",
+    "formid": "Oblivion.esm:06C676",
+    "full": "Gogron gro-Bolmog's Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "MG06DeskUpper01",
+    "formid": "Oblivion.esm:06DDA2",
+    "full": "Desk",
+    "modl": "harvest\\containers\\XMSharvestUpperDesk01HiFi.nif"
+  },
+  {
+    "edid": "FGMastersChest",
+    "formid": "Oblivion.esm:06E2E8",
+    "full": "Guildmaster's Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "TelaendrilChest",
+    "formid": "Oblivion.esm:06FDA3",
+    "full": "Telaendril's Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "MraajDarChest",
+    "formid": "Oblivion.esm:06FDA4",
+    "full": "M'raaj-Dar's Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "DarkSecretSafe",
+    "formid": "Oblivion.esm:06FDA5",
+    "full": "Hidden Wall Safe",
+    "modl": "harvest\\containers\\XMSmiddlepaintingforest02b.nif"
+  },
+  {
+    "edid": "DarkSecretBarrel",
+    "formid": "Oblivion.esm:06FDA6",
+    "full": "Locked Keg",
+    "modl": "Clutter\\MiddleClass\\MiddleBarrelKeg01.NIF"
+  },
+  {
+    "edid": "MS40DoorKeyChest",
+    "formid": "Oblivion.esm:070246",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "MG10ScrollChest",
+    "formid": "Oblivion.esm:070247",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "DreamMercyChest",
+    "formid": "Oblivion.esm:07073A",
+    "full": "Ayleid Chest",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "ChestJewelryUndercroft",
+    "formid": "Oblivion.esm:070912",
+    "full": "Offering Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "TG05ArchmagesNightStand",
+    "formid": "Oblivion.esm:07103C",
+    "full": "Archmage's Night Stand",
+    "modl": "harvest\\containers\\XMSharvestUpperDrawer03HiFi.nif"
+  },
+  {
+    "edid": "Clams01",
+    "formid": "Oblivion.esm:07170D",
+    "full": "Clams",
+    "modl": "Landscape\\Clams01.NIF"
+  },
+  {
+    "edid": "Clams02",
+    "formid": "Oblivion.esm:07170E",
+    "full": "Clams",
+    "modl": "Landscape\\Clams02.NIF"
+  },
+  {
+    "edid": "Clams03",
+    "formid": "Oblivion.esm:07170F",
+    "full": "Clams",
+    "modl": "Landscape\\Clams03.NIF"
+  },
+  {
+    "edid": "MG08WellspringChest",
+    "formid": "Oblivion.esm:071D96",
+    "full": "Stone Chest",
+    "modl": "harvest\\containers\\XMSharvestRFDChestLargeLiddedHiFi.nif"
+  },
+  {
+    "edid": "FortAlessiaCrate",
+    "formid": "Oblivion.esm:071F74",
+    "full": "A Battered Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate03NoFi.nif"
+  },
+  {
+    "edid": "DarkClaudiusChest",
+    "formid": "Oblivion.esm:072295",
+    "full": "Claudius Arcadia's Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestClarabellaCaptain",
+    "formid": "Oblivion.esm:0738D9",
+    "full": "Captain Patneim's Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "MS12HiddenChest02",
+    "formid": "Oblivion.esm:073935",
+    "full": "Rusty Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "MS12HiddenChest03",
+    "formid": "Oblivion.esm:073936",
+    "full": "Old Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "WildernessChest02",
+    "formid": "Oblivion.esm:073A6C",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "WildernessChest01",
+    "formid": "Oblivion.esm:073A6D",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "MS12HiddenBarrel",
+    "formid": "Oblivion.esm:074A8B",
+    "full": "Frozen Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped01HiFi.nif"
+  },
+  {
+    "edid": "MG06Desk01",
+    "formid": "Oblivion.esm:07B737",
+    "full": "Desk",
+    "modl": "harvest\\containers\\XMSharvestUpperExecDesk01HiFi.nif"
+  },
+  {
+    "edid": "MS93CaptainCHest",
+    "formid": "Oblivion.esm:07B73D",
+    "full": "Captain's Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "Dark02CaptainChest",
+    "formid": "Oblivion.esm:07B744",
+    "full": "Captain Tussaud's Booty",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "MG02Drawer",
+    "formid": "Oblivion.esm:07BE20",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestUpperDrawer01HiFi.nif"
+  },
+  {
+    "edid": "MS38GlarthirCupboard01",
+    "formid": "Oblivion.esm:0831BA",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestMiddleCupboard01HiFi.nif"
+  },
+  {
+    "edid": "SHoleKeyChest1",
+    "formid": "Oblivion.esm:083FB6",
+    "full": "Heavy Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "SHoleKeyChest2",
+    "formid": "Oblivion.esm:083FB7",
+    "full": "Heavy Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "Dark08MeadCabinet",
+    "formid": "Oblivion.esm:0852CE",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestMiddleCupboard01HiFi.nif"
+  },
+  {
+    "edid": "Dark08NevilleChest",
+    "formid": "Oblivion.esm:0852DA",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "Dark08FoodCupboard",
+    "formid": "Oblivion.esm:085840",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestMiddleCupboard01HiFi.nif"
+  },
+  {
+    "edid": "Dark08MeadCupboard",
+    "formid": "Oblivion.esm:085841",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestMiddleCupboard01HiFi.nif"
+  },
+  {
+    "edid": "Dark08CheeseCupboard",
+    "formid": "Oblivion.esm:085842",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestMiddleCupboard01HiFi.nif"
+  },
+  {
+    "edid": "Dark11FoodCrate",
+    "formid": "Oblivion.esm:085843",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate04NoFi.nif"
+  },
+  {
+    "edid": "MS92TelepeAyleid",
+    "formid": "Oblivion.esm:08595E",
+    "full": "Ayleid Coffer",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "MS05PrepareContainer",
+    "formid": "Oblivion.esm:088B7E",
+    "full": "Prepare",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "MS05WaterContainer",
+    "formid": "Oblivion.esm:088D93",
+    "full": "Breathe",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "MS12HiddenChest",
+    "formid": "Oblivion.esm:088FEE",
+    "full": "Forgotten Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "CharcoalCaveKey1Chest",
+    "formid": "Oblivion.esm:08BA69",
+    "full": "Rough Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "MS05CupboardHealing",
+    "formid": "Oblivion.esm:08C829",
+    "full": "Heal Yourself",
+    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+  },
+  {
+    "edid": "MQ06MythicDawnCrate01",
+    "formid": "Oblivion.esm:090881",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate01NoFi.nif"
+  },
+  {
+    "edid": "MQ06MythicDawnCrate02",
+    "formid": "Oblivion.esm:090882",
+    "full": "Small Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate02NoFi.nif"
+  },
+  {
+    "edid": "MQ06MythicDawnCrate03",
+    "formid": "Oblivion.esm:090883",
+    "full": "A Battered Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate03NoFi.nif"
+  },
+  {
+    "edid": "Dark18ChestLarge1",
+    "formid": "Oblivion.esm:090C0E",
+    "full": "Large Chest",
+    "modl": "harvest\\containers\\XMSharvestRFDChestLargeLiddedHiFi.nif"
+  },
+  {
+    "edid": "Dark18ChestLarge2",
+    "formid": "Oblivion.esm:090C11",
+    "full": "Large Chest",
+    "modl": "harvest\\containers\\XMSharvestRFDChestLargeLiddedHiFi.nif"
+  },
+  {
+    "edid": "HouseBravilAddons01",
+    "formid": "Oblivion.esm:090EB7",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "HouseICAddons01",
+    "formid": "Oblivion.esm:09204D",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "ArenaRaimentCabinet",
+    "formid": "Oblivion.esm:092285",
+    "full": "Raiment Cabinet",
+    "modl": "harvest\\containers\\XMSharvestLowerCupboard01HiFi.nif"
+  },
+  {
+    "edid": "MS09ArnorasChest",
+    "formid": "Oblivion.esm:093553",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "DungOblivionBossClawInt01",
+    "formid": "Oblivion.esm:0937E3",
+    "full": "The Punished",
+    "modl": "harvest\\containers\\XMSClawStandContainer01.nif"
+  },
+  {
+    "edid": "DungOblivionBossClawExt02",
+    "formid": "Oblivion.esm:0937E4",
+    "full": "Fleshy Pod",
+    "modl": "harvest\\containers\\XMSClawFleshContainer01.nif"
+  },
+  {
+    "edid": "DungBanditSackCampLoot",
+    "formid": "Oblivion.esm:094047",
+    "full": "Sack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "MS05PatienceContainer",
+    "formid": "Oblivion.esm:0947C5",
+    "full": "Study",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "ArenaLockbox",
+    "formid": "Oblivion.esm:094E6C",
+    "full": "Arena Lockbox",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "MS93Chest",
+    "formid": "Oblivion.esm:095A37",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "TG09FathisArenChest1",
+    "formid": "Oblivion.esm:0982F2",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "TG09FathisArenChest2",
+    "formid": "Oblivion.esm:0982F3",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "TG09FathisArenChest",
+    "formid": "Oblivion.esm:0982F4",
+    "full": "Fathis Aren's Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "TG09BarrelTorches",
+    "formid": "Oblivion.esm:0982F5",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped02HiFi.nif"
+  },
+  {
+    "edid": "BeggarsBag",
+    "formid": "Oblivion.esm:0982F6",
+    "full": "Beggar's Food Bag",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "TG07LegionCommandersChest",
+    "formid": "Oblivion.esm:0982F7",
+    "full": "Legion Commander's Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "lostboychest",
+    "formid": "Oblivion.esm:0998D0",
+    "full": "Wooden Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "Dark13VampireChest01",
+    "formid": "Oblivion.esm:09D2D7",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "DarkSellChestUnderling",
+    "formid": "Oblivion.esm:09E658",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "DungBanditChestCampLoot",
+    "formid": "Oblivion.esm:09F8BB",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "MS45DarMaChest",
+    "formid": "Oblivion.esm:09FD70",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestLowerDrawers01HiFi.nif"
+  },
+  {
+    "edid": "HackdirtCrate",
+    "formid": "Oblivion.esm:0A2E54",
+    "full": "A Battered Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate03NoFi.nif"
+  },
+  {
+    "edid": "HackdirtCrateWeapon",
+    "formid": "Oblivion.esm:0A2E55",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate01NoFi.nif"
+  },
+  {
+    "edid": "BarrelFoodMiddleSame",
+    "formid": "Oblivion.esm:0A344A",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped02HiFi.nif"
+  },
+  {
+    "edid": "BarrelClutterMiddleSame03",
+    "formid": "Oblivion.esm:0A344D",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped03noFi.nif"
+  },
+  {
+    "edid": "BarrelClutterMiddleSame02",
+    "formid": "Oblivion.esm:0A344E",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped02HiFi.nif"
+  },
+  {
+    "edid": "BarrelClutterMiddleSame05",
+    "formid": "Oblivion.esm:0A36C6",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped05noFi.nif"
+  },
+  {
+    "edid": "BarrelClutterMiddleSame06",
+    "formid": "Oblivion.esm:0A36C7",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped06noFi.nif"
+  },
+  {
+    "edid": "BarrelIngredientsCommon",
+    "formid": "Oblivion.esm:0A36C8",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped03noFi.nif"
+  },
+  {
+    "edid": "BarrelIngredientsCommonSame",
+    "formid": "Oblivion.esm:0A36C9",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped03noFi.nif"
+  },
+  {
+    "edid": "BarrelIngredientsUncommon",
+    "formid": "Oblivion.esm:0A36CA",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped04noFi.nif"
+  },
+  {
+    "edid": "BarrelIngredientsUncommonSame",
+    "formid": "Oblivion.esm:0A36CB",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped04noFi.nif"
+  },
+  {
+    "edid": "BarrelIngredientsRare",
+    "formid": "Oblivion.esm:0A36CC",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped05noFi.nif"
+  },
+  {
+    "edid": "BarrelIngredientsRareSame",
+    "formid": "Oblivion.esm:0A36CD",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped05noFi.nif"
+  },
+  {
+    "edid": "CrateClutterMiddleSame03",
+    "formid": "Oblivion.esm:0A36D0",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestMiddleCrate03NoFi.nif"
+  },
+  {
+    "edid": "CupboardIngredientsCommon",
+    "formid": "Oblivion.esm:0A4967",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestLowerCupboard01HiFi.nif"
+  },
+  {
+    "edid": "CupboardIngredientsUncommon",
+    "formid": "Oblivion.esm:0A4968",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestMiddleCupboard01HiFi.nif"
+  },
+  {
+    "edid": "CupboardIngredientsRare",
+    "formid": "Oblivion.esm:0A4969",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+  },
+  {
+    "edid": "ChestHouseTreasuryLower01",
+    "formid": "Oblivion.esm:0A496A",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestHouseTreasuryLower02",
+    "formid": "Oblivion.esm:0A496B",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestHouseTreasuryMiddle01",
+    "formid": "Oblivion.esm:0A496C",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestHouseTreasuryMiddle02",
+    "formid": "Oblivion.esm:0A496D",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestHouseTreasuryUpper01",
+    "formid": "Oblivion.esm:0A496E",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestHouseTreasuryUpper02",
+    "formid": "Oblivion.esm:0A496F",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestHouseArmoryLower01",
+    "formid": "Oblivion.esm:0A4973",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestHouseArmoryLower02",
+    "formid": "Oblivion.esm:0A4974",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestHouseArmoryMiddle01",
+    "formid": "Oblivion.esm:0A4975",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestHouseArmoryMiddle02",
+    "formid": "Oblivion.esm:0A4976",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestHouseArmoryUpper01",
+    "formid": "Oblivion.esm:0A4977",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestHouseArmoryUpper02",
+    "formid": "Oblivion.esm:0A4978",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "MS27HerminiaCinnaCask",
+    "formid": "Oblivion.esm:0A656E",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "MS27HerminiaCinnaDesk",
+    "formid": "Oblivion.esm:0A6571",
+    "full": "Desk",
+    "modl": "harvest\\containers\\XMSharvestUpperDesk01HiFi.nif"
+  },
+  {
+    "edid": "ArenaChestHopefuls",
+    "formid": "Oblivion.esm:0A713A",
+    "full": "Branwen and Saliith's Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "DungOblivionClawIntHealing",
+    "formid": "Oblivion.esm:0AC874",
+    "full": "The Punished",
+    "modl": "harvest\\containers\\XMSClawStandContainer01.nif"
+  },
+  {
+    "edid": "HouseLeyawiinAddons01",
+    "formid": "Oblivion.esm:0B1586",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "HouseBrumaAddons01",
+    "formid": "Oblivion.esm:0B1596",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "HouseCheydinhalAddons01",
+    "formid": "Oblivion.esm:0B15BA",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "HouseChorrolAddons01",
+    "formid": "Oblivion.esm:0B15E0",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "HouseSkingradAddons01",
+    "formid": "Oblivion.esm:0B1630",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "MS27LindaiBossChest",
+    "formid": "Oblivion.esm:0BE5DB",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "MS31HiddenBag",
+    "formid": "Oblivion.esm:0BF16D",
+    "full": "Hidden Bag",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "HangingCorpse01CONTAINER",
+    "formid": "Oblivion.esm:0BF1B7",
+    "full": "Corpse",
+    "modl": "harvest\\containers\\XMSHangingCorpse01.nif"
+  },
+  {
+    "edid": "HangingCorpse02CONTAINER",
+    "formid": "Oblivion.esm:0BF1B8",
+    "full": "Corpse",
+    "modl": "harvest\\containers\\XMSHangingCorpse02.nif"
+  },
+  {
+    "edid": "HangingCorpse03CONTAINER",
+    "formid": "Oblivion.esm:0BF1B9",
+    "full": "Corpse",
+    "modl": "harvest\\containers\\XMSHangingCorpse03.nif"
+  },
+  {
+    "edid": "HangingCorpse04CONTAINER",
+    "formid": "Oblivion.esm:0BF1BA",
+    "full": "Corpse",
+    "modl": "harvest\\containers\\XMSHangingCorpse04.nif"
+  },
+  {
+    "edid": "HangingCorpse05CONTAINER",
+    "formid": "Oblivion.esm:0BF1BB",
+    "full": "Corpse",
+    "modl": "harvest\\containers\\XMSHangingCorpse05.nif"
+  },
+  {
+    "edid": "HangingCorpse03BCONTAINER",
+    "formid": "Oblivion.esm:0BF1BD",
+    "full": "Corpse",
+    "modl": "harvest\\containers\\XMSHangingCorpse03b.nif"
+  },
+  {
+    "edid": "FGC10HelmetChest",
+    "formid": "Oblivion.esm:0C04D0",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorSam",
+    "formid": "Oblivion.esm:0C45B4",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "OrumGangDrugPickupBarrel",
+    "formid": "Oblivion.esm:0C47C6",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped02HiFi.nif"
+  },
+  {
+    "edid": "MS05PerceptionContainer",
+    "formid": "Oblivion.esm:0C47D6",
+    "full": "Perceive",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "SackGold",
+    "formid": "Oblivion.esm:0C540C",
+    "full": "Sack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "DeskClutterUpperEmpty",
+    "formid": "Oblivion.esm:0C5531",
+    "full": "Desk",
+    "modl": "harvest\\containers\\XMSharvestUpperDesk01HiFi.nif"
+  },
+  {
+    "edid": "CupboardClutterUpperEmpty",
+    "formid": "Oblivion.esm:0C5532",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+  },
+  {
+    "edid": "MQ12GoblinChest01",
+    "formid": "Oblivion.esm:0C58AC",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "MQ12GoblinSack",
+    "formid": "Oblivion.esm:0C58AD",
+    "full": "Sack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "WildernessChestFortColdcornEEgg02",
+    "formid": "Oblivion.esm:0C599E",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "WildernessChestFortColdcornEEgg01",
+    "formid": "Oblivion.esm:0C59A0",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "MS10UlrichChest",
+    "formid": "Oblivion.esm:0C63D1",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "WildernessChestFortGoldThroatEEgg01",
+    "formid": "Oblivion.esm:0C6537",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "WildernessChestFortFacianEEgg01",
+    "formid": "Oblivion.esm:0C6539",
+    "full": "Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "WildernessChestFortVareilaEEgg01",
+    "formid": "Oblivion.esm:0C653C",
+    "full": "Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "WildernessChestFortIronyEEgg01",
+    "formid": "Oblivion.esm:0C654B",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "WildernessBanditChest01",
+    "formid": "Oblivion.esm:0C75D5",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "WildernessConjurerChest02",
+    "formid": "Oblivion.esm:0C75D6",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "WildernessBanditChestCampLoot",
+    "formid": "Oblivion.esm:0C75D7",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "WildernessBarrelIngredientsCommonSame",
+    "formid": "Oblivion.esm:0C75D8",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped03noFi.nif"
+  },
+  {
+    "edid": "WildernessBarrelIngredientsUncommon",
+    "formid": "Oblivion.esm:0C75D9",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestMiddleBarrelTopped04noFi.nif"
+  },
+  {
+    "edid": "WildernessBanditChest04Healing",
+    "formid": "Oblivion.esm:0C75DA",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "WildernessMarauderChest01",
+    "formid": "Oblivion.esm:0C75DB",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "WildernessNecroChest02",
+    "formid": "Oblivion.esm:0C75DE",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "WildernessBanditChest02",
+    "formid": "Oblivion.esm:0C75E0",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "WildernessMarauderChest02",
+    "formid": "Oblivion.esm:0C75E1",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "WildernessVampireChest01",
+    "formid": "Oblivion.esm:0C75E3",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "WildernessGoblinChest03",
+    "formid": "Oblivion.esm:0C75E5",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "WildernessMarauderChest04Healing",
+    "formid": "Oblivion.esm:0C75E6",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "WildernessVampireChest02",
+    "formid": "Oblivion.esm:0C75E7",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "WildernessVampireChest03",
+    "formid": "Oblivion.esm:0C75E8",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "MG10MagesCrate02",
+    "formid": "Oblivion.esm:0C7B38",
+    "full": "Small Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate02NoFi.nif"
+  },
+  {
+    "edid": "MG10MagesCrate01",
+    "formid": "Oblivion.esm:0C7B39",
+    "full": "Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate01NoFi.nif"
+  },
+  {
+    "edid": "MG10MagesCrate03",
+    "formid": "Oblivion.esm:0C7B3D",
+    "full": "A Battered Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate03NoFi.nif"
+  },
+  {
+    "edid": "MG07CoffinEmpty",
+    "formid": "Oblivion.esm:0C80D8",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin02Open01.nif"
+  },
+  {
+    "edid": "MG07CoffinManduin",
+    "formid": "Oblivion.esm:0C80DD",
+    "full": "Manduin's Coffin",
+    "modl": "harvest\\containers\\XMSCoffin03Open01.nif"
+  },
+  {
+    "edid": "VilverinNecroSack",
+    "formid": "Oblivion.esm:0C810B",
+    "full": "Necromancer's Sack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "MS18OdiilCupboard",
+    "formid": "Oblivion.esm:0C89DE",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestLowerCupboard01HiFi.nif"
+  },
+  {
+    "edid": "VendorLellesQualityMerchandise",
+    "formid": "Oblivion.esm:0CA12D",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorMachNasBooks",
+    "formid": "Oblivion.esm:0CA12E",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorMorvaynsPeacemakers",
+    "formid": "Oblivion.esm:0CA12F",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorMysticEmporium",
+    "formid": "Oblivion.esm:0CA130",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorNordWinds1",
+    "formid": "Oblivion.esm:0CA131",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorNordWinds2",
+    "formid": "Oblivion.esm:0CA132",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorNorthernGoodsAndTrade",
+    "formid": "Oblivion.esm:0CA133",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorNovaroma",
+    "formid": "Oblivion.esm:0CA134",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorRedDiamondJewelry",
+    "formid": "Oblivion.esm:0CA135",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorRenoitsBooks",
+    "formid": "Oblivion.esm:0CA136",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorRindirsStaffs",
+    "formid": "Oblivion.esm:0CA137",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorSouthernBooks",
+    "formid": "Oblivion.esm:0CA138",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorStonewallShields",
+    "formid": "Oblivion.esm:0CA139",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorTheArchersParadox",
+    "formid": "Oblivion.esm:0CA13A",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorTheBestDefense",
+    "formid": "Oblivion.esm:0CA13B",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorTheCopiusCoinpurse",
+    "formid": "Oblivion.esm:0CA13C",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorTheDividingLine",
+    "formid": "Oblivion.esm:0CA13D",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorTheFairDeal",
+    "formid": "Oblivion.esm:0CA13E",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorTheFlowingBowl",
+    "formid": "Oblivion.esm:0CA13F",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorTheGildedCarafe",
+    "formid": "Oblivion.esm:0CA140",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorTheMainIngredient",
+    "formid": "Oblivion.esm:0CA141",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorThreeBrotherTradeGoods2",
+    "formid": "Oblivion.esm:0CA142",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorAFightingChance",
+    "formid": "Oblivion.esm:0CA143",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorAWarlocksLuck",
+    "formid": "Oblivion.esm:0CA144",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorAllThingsAlchemical",
+    "formid": "Oblivion.esm:0CA145",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorBestGoodsAndGuarantees",
+    "formid": "Oblivion.esm:0CA146",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorTheMarchRider",
+    "formid": "Oblivion.esm:0CA147",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorBorbasGoodsAndStores",
+    "formid": "Oblivion.esm:0CA148",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorColovianTrader",
+    "formid": "Oblivion.esm:0CA149",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorDivineElegance",
+    "formid": "Oblivion.esm:0CA14A",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorEdgarsDiscountSpells",
+    "formid": "Oblivion.esm:0CA14B",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorFireAndSteel",
+    "formid": "Oblivion.esm:0CA14C",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorFirstEdition",
+    "formid": "Oblivion.esm:0CA14D",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorHammerAndAxe",
+    "formid": "Oblivion.esm:0CA14E",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorHammerAndTongs",
+    "formid": "Oblivion.esm:0CA14F",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorThreeBrothersTradeGoods1",
+    "formid": "Oblivion.esm:0CA150",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "VendorJensinesMerchandise",
+    "formid": "Oblivion.esm:0CA151",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "CloudTopCorpse",
+    "formid": "Oblivion.esm:0CA18B",
+    "full": "Charred Remains",
+    "modl": "Clutter\\Kvatch\\Burntbody02.NIF"
+  },
+  {
+    "edid": "BlackRockChest01",
+    "formid": "Oblivion.esm:0CA18C",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "UrasekGuardSack",
+    "formid": "Oblivion.esm:0CA6E0",
+    "full": "Guard's Sack",
+    "modl": "Clutter\\Sack02.NIF"
+  },
+  {
+    "edid": "MS02Lichsack",
+    "formid": "Oblivion.esm:0CB6F0",
+    "full": "Sack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "MS04ChestJewelryUpper01",
+    "formid": "Oblivion.esm:0CBD2F",
+    "full": "Oaken-Hall Family Jewels",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "DungOblivionClawRD002A",
+    "formid": "Oblivion.esm:0CD3BF",
+    "full": "The Forbidden",
+    "modl": "harvest\\containers\\XMSClawStandContainer01.nif"
+  },
+  {
+    "edid": "DungOblivionClawRD002B",
+    "formid": "Oblivion.esm:0CD3C1",
+    "full": "The Forbidden",
+    "modl": "harvest\\containers\\XMSClawStandContainer01.nif"
+  },
+  {
+    "edid": "MS46RewardChest",
+    "formid": "Oblivion.esm:0CD416",
+    "full": "Reward Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "DungNecroCoffin01wilderness",
+    "formid": "Oblivion.esm:0CD562",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin01Open01.nif"
+  },
+  {
+    "edid": "DungNecroCoffin01EmptyWilderness",
+    "formid": "Oblivion.esm:0CD563",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin01Open01.nif"
+  },
+  {
+    "edid": "MG08Cupboard",
+    "formid": "Oblivion.esm:0E945E",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestUpperCupboard01HiFi.nif"
+  },
+  {
+    "edid": "TG06ChestForScript",
+    "formid": "Oblivion.esm:0F5948",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "TG07HelviusCeciaDrawer",
+    "formid": "Oblivion.esm:0F5949",
+    "full": "Drawers",
+    "modl": "harvest\\containers\\XMSharvestMiddleDrawers02HiFi.nif"
+  },
+  {
+    "edid": "CoffinClosed03",
+    "formid": "Oblivion.esm:0FFA7E",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin03Open01.nif"
+  },
+  {
+    "edid": "CoffinClosed02",
+    "formid": "Oblivion.esm:0FFA7F",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin02Open01.nif"
+  },
+  {
+    "edid": "GoldRock01",
+    "formid": "Oblivion.esm:11939F",
+    "full": "Gold Vein",
+    "modl": "harvest\\containers\\XMSharvestGoldRock01.nif"
+  },
+  {
+    "edid": "GoldRock02",
+    "formid": "Oblivion.esm:1193A0",
+    "full": "Gold Vein",
+    "modl": "harvest\\containers\\XMSharvestGoldRock02.nif"
+  },
+  {
+    "edid": "GoldRock03",
+    "formid": "Oblivion.esm:1193A1",
+    "full": "Gold Vein",
+    "modl": "harvest\\containers\\XMSharvestGoldRock03.nif"
+  },
+  {
+    "edid": "CGCrateSmall05",
+    "formid": "Oblivion.esm:159823",
+    "full": "Small Crate",
+    "modl": "harvest\\containers\\XMSharvestDunCrate02NoFi.nif"
+  },
+  {
+    "edid": "Sack01",
+    "formid": "Oblivion.esm:159825",
+    "full": "Sack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "CGBarrel05",
+    "formid": "Oblivion.esm:159828",
+    "full": "Barrel",
+    "modl": "harvest\\containers\\XMSharvestDunBarrel02HiFi.nif"
+  },
+  {
+    "edid": "CGChest01",
+    "formid": "Oblivion.esm:159835",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "CGSack02",
+    "formid": "Oblivion.esm:15983A",
+    "full": "Sack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "CGChest03",
+    "formid": "Oblivion.esm:159858",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "MQ09MagicWeaponChest",
+    "formid": "Oblivion.esm:165B39",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "Dark09Desk",
+    "formid": "Oblivion.esm:1778DA",
+    "full": "Desk",
+    "modl": "harvest\\containers\\XMSharvestUpperExecDesk01HiFi.nif"
+  },
+  {
+    "edid": "NorinorIllegalGoods",
+    "formid": "Oblivion.esm:181C22",
+    "full": "Nordinor's Stash",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "AnvilFghtGldDinningHallChest",
+    "formid": "Oblivion.esm:181CBC",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ChorrolFghtGldTowerChest",
+    "formid": "Oblivion.esm:181CBD",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "LeyawiinBloodworksChest",
+    "formid": "Oblivion.esm:181CBE",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "AnvilBloodworksChest",
+    "formid": "Oblivion.esm:181CBF",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "ICArenaBloodworksCupboard",
+    "formid": "Oblivion.esm:181CC0",
+    "full": "Cupboard",
+    "modl": "harvest\\containers\\XMSharvestLowerCupboard01HiFi.nif"
+  },
+  {
+    "edid": "ICWaterfrontACHouseChest",
+    "formid": "Oblivion.esm:181CC1",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "AnvilCastleSmugglersCaveChest",
+    "formid": "Oblivion.esm:181CC2",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "LeyawiinAhdrjsHs2ndFlrWstChest",
+    "formid": "Oblivion.esm:181CC3",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ChorrolChapelCest",
+    "formid": "Oblivion.esm:181CC4",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ImperialSewerSystemTG11cChest",
+    "formid": "Oblivion.esm:181CC5",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ImperialSewerSystemTG11bChest",
+    "formid": "Oblivion.esm:181CC6",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "LakeArriusShrineAnteChamChest",
+    "formid": "Oblivion.esm:181CC7",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "FieldhouseCave03Chest",
+    "formid": "Oblivion.esm:181CC8",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "BrindleHomeChest",
+    "formid": "Oblivion.esm:181CC9",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestHouseHealingUpper02",
+    "formid": "Oblivion.esm:181D1C",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestHouseHealingUpper01",
+    "formid": "Oblivion.esm:181D1D",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "SQ04DungMythEnemyChest02",
+    "formid": "Oblivion.esm:185376",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "SQ07OfferingSack",
+    "formid": "Oblivion.esm:185DCC",
+    "full": "The Offering",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "SQ08WineChestFort",
+    "formid": "Oblivion.esm:187BB0",
+    "full": "Wooden Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestChorrolOrgnolf",
+    "formid": "Oblivion.esm:189259",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "CheydinhalSanctuaryTrnRmChest",
+    "formid": "Oblivion.esm:18A7E5",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ChestJewelryMiddle01",
+    "formid": "Oblivion.esm:18B72C",
+    "full": "Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "TGChestEmptyUpper01",
+    "formid": "Oblivion.esm:18D843",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  }
+]

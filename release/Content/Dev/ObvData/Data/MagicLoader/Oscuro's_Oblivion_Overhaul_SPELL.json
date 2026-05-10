@@ -1,0 +1,16 @@
+{
+    "Plugin": "Oscuro's_Oblivion_Overhaul.esm",
+    "FullNames": {
+        "LOC_FN_StandardDrainHealth2Kill": "Kill (moderate)",
+		"LOC_FN_StandardDrainHealth1Kill": "Kill (weak)",
+		"LOC_FN_StandardDrainHealth3Kill": "Kill (potent)",
+		"LOC_FN_StandardDrainHealth4Kill": "Kill (superior)",
+		"LOC_FN_StandardDrainHealth5Kill": "Kill (master)",
+		"LOC_FN_StandardDrainHealth5Master": "Critical Wound",
+		"LOC_FN_ScrollDrainHealth2Kill": "Kill (moderate)",
+		"LOC_FN_ScrollDrainHealth1Kill": "Kill (weak)",
+		"LOC_FN_ScrollDrainHealth3Kill": "Kill (potent)",
+		"LOC_FN_ScrollDrainHealth4Kill": "Kill (superior)",
+		"LOC_FN_ScrollDrainHealth5Kill": "Kill (master)"
+    }
+}

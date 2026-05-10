@@ -1,0 +1,1922 @@
+[
+  {
+    "edid": "Gold001",
+    "formid": "Oblivion.esm:00000F",
+    "full": "LOC_FN_Gold001",
+    "modl": "Clutter\\goldCoin01.NIF"
+  },
+  {
+    "edid": "ClothBolt01",
+    "formid": "Oblivion.esm:00087A",
+    "full": "LOC_FN_ClothBolt01",
+    "modl": "Clutter\\ClothBolt01.NIF"
+  },
+  {
+    "edid": "ClothBolt02",
+    "formid": "Oblivion.esm:00088D",
+    "full": "LOC_FN_ClothBolt02",
+    "modl": "Clutter\\ClothBolt02.NIF"
+  },
+  {
+    "edid": "ClothBolt03",
+    "formid": "Oblivion.esm:00089F",
+    "full": "LOC_FN_ClothBolt03",
+    "modl": "Clutter\\ClothBolt03.NIF"
+  },
+  {
+    "edid": "ClothBolt04",
+    "formid": "Oblivion.esm:0008D8",
+    "full": "LOC_FN_ClothBolt04",
+    "modl": "Clutter\\ClothBolt04.NIF"
+  },
+  {
+    "edid": "FoldedCloth01",
+    "formid": "Oblivion.esm:0008DA",
+    "full": "LOC_FN_FoldedCloth01",
+    "modl": "Clutter\\FoldedCloth01.NIF"
+  },
+  {
+    "edid": "FoldedCloth02",
+    "formid": "Oblivion.esm:0008DC",
+    "full": "LOC_FN_FoldedCloth02",
+    "modl": "Clutter\\FoldedCloth02.NIF"
+  },
+  {
+    "edid": "ClothBolt05",
+    "formid": "Oblivion.esm:0008E6",
+    "full": "LOC_FN_ClothBolt05",
+    "modl": "Clutter\\ClothBolt05.NIF"
+  },
+  {
+    "edid": "UpperSilverBowl01",
+    "formid": "Oblivion.esm:000C08",
+    "full": "LOC_FN_UpperSilverBowl01",
+    "modl": "Clutter\\UpperClass\\UpperSilverBowl01.NIF"
+  },
+  {
+    "edid": "FoldedCloth03",
+    "formid": "Oblivion.esm:000D41",
+    "full": "LOC_FN_FoldedCloth03",
+    "modl": "Clutter\\FoldedCloth03.NIF"
+  },
+  {
+    "edid": "FoldedCloth04",
+    "formid": "Oblivion.esm:000D52",
+    "full": "LOC_FN_FoldedCloth04",
+    "modl": "Clutter\\FoldedCloth04.NIF"
+  },
+  {
+    "edid": "FoldedCloth05",
+    "formid": "Oblivion.esm:000D76",
+    "full": "LOC_FN_FoldedCloth05",
+    "modl": "Clutter\\FoldedCloth05.NIF"
+  },
+  {
+    "edid": "MG17MiscBlackSoulGemFilled",
+    "formid": "Oblivion.esm:007E9D",
+    "full": "LOC_FN_MG17MiscBlackSoulGemFilled",
+    "modl": "Clutter\\SoulGemBlack.NIF"
+  },
+  {
+    "edid": "MiddleClassPewterMug03",
+    "formid": "Oblivion.esm:00FD93",
+    "full": "LOC_FN_MiddleClassPewterMug03",
+    "modl": "Clutter\\MiddleClass\\MiddleClassPewterMug03.NIF"
+  },
+  {
+    "edid": "MiddleClassPewterMug02",
+    "formid": "Oblivion.esm:00FDA4",
+    "full": "LOC_FN_MiddleClassPewterMug02",
+    "modl": "Clutter\\MiddleClass\\MiddleClassPewterMug02.NIF"
+  },
+  {
+    "edid": "MiddleClassPewterMug01",
+    "formid": "Oblivion.esm:00FDAC",
+    "full": "LOC_FN_MiddleClassPewterMug01",
+    "modl": "Clutter\\MiddleClass\\MiddleClassPewterMug01.NIF"
+  },
+  {
+    "edid": "CrystalBall01",
+    "formid": "Oblivion.esm:01048C",
+    "full": "LOC_FN_CrystalBall01",
+    "modl": "Clutter\\MagesGuild\\CrystalBall01.NIF"
+  },
+  {
+    "edid": "MiddleClassPewterCup04",
+    "formid": "Oblivion.esm:0104C0",
+    "full": "LOC_FN_MiddleClassPewterCup04",
+    "modl": "Clutter\\MiddleClass\\MiddleClassPewterCup04.NIF"
+  },
+  {
+    "edid": "MiddleClassPewterCup03",
+    "formid": "Oblivion.esm:0104C1",
+    "full": "LOC_FN_MiddleClassPewterCup03",
+    "modl": "Clutter\\MiddleClass\\MiddleClassPewterCup03.NIF"
+  },
+  {
+    "edid": "LowerClassCup02",
+    "formid": "Oblivion.esm:0104C7",
+    "full": "LOC_FN_LowerClassCup02",
+    "modl": "Clutter\\LowerClass\\LowerClassCup02.NIF"
+  },
+  {
+    "edid": "LowerClassCup03",
+    "formid": "Oblivion.esm:0104C9",
+    "full": "LOC_FN_LowerClassCup03",
+    "modl": "Clutter\\LowerClass\\LowerClassCup03.NIF"
+  },
+  {
+    "edid": "LowerClassMug01",
+    "formid": "Oblivion.esm:0104CB",
+    "full": "LOC_FN_LowerClassMug01",
+    "modl": "Clutter\\LowerClass\\LowerClassMug01.NIF"
+  },
+  {
+    "edid": "LowerClassBowl01",
+    "formid": "Oblivion.esm:0105D5",
+    "full": "LOC_FN_LowerClassBowl01",
+    "modl": "Clutter\\LowerClass\\LowerClassBowl01.NIF"
+  },
+  {
+    "edid": "LowerClassBowl02",
+    "formid": "Oblivion.esm:0105D7",
+    "full": "LOC_FN_LowerClassBowl02",
+    "modl": "Clutter\\LowerClass\\LowerClassBowl02.NIF"
+  },
+  {
+    "edid": "LowerClassBowl03",
+    "formid": "Oblivion.esm:0105D9",
+    "full": "LOC_FN_LowerClassBowl03",
+    "modl": "Clutter\\LowerClass\\LowerClassBowl03.NIF"
+  },
+  {
+    "edid": "LowerClassLadel01",
+    "formid": "Oblivion.esm:0105DB",
+    "full": "LOC_FN_LowerClassLadel01",
+    "modl": "Clutter\\LowerClass\\LowerClassLadel01.NIF"
+  },
+  {
+    "edid": "LowerClassPitcher01",
+    "formid": "Oblivion.esm:0105DD",
+    "full": "LOC_FN_LowerClassPitcher01",
+    "modl": "Clutter\\LowerClass\\LowerClassPitcher01.NIF"
+  },
+  {
+    "edid": "LowerCoveredPot01",
+    "formid": "Oblivion.esm:0105DF",
+    "full": "LOC_FN_LowerCoveredPot01",
+    "modl": "Clutter\\LowerClass\\LowerCoveredPot01.NIF"
+  },
+  {
+    "edid": "LowerCoveredPot02",
+    "formid": "Oblivion.esm:0105E0",
+    "full": "LOC_FN_LowerCoveredPot02",
+    "modl": "Clutter\\LowerClass\\LowerCoveredPot02.NIF"
+  },
+  {
+    "edid": "UpperSilverBowl02",
+    "formid": "Oblivion.esm:0105E7",
+    "full": "LOC_FN_UpperSilverBowl02",
+    "modl": "Clutter\\UpperClass\\UpperSilverBowl02.NIF"
+  },
+  {
+    "edid": "UpperScales01",
+    "formid": "Oblivion.esm:0105F3",
+    "full": "LOC_FN_UpperScales01",
+    "modl": "Clutter\\UpperClass\\UpperScales01.NIF"
+  },
+  {
+    "edid": "UpperClassPlanter01",
+    "formid": "Oblivion.esm:015BB0",
+    "full": "LOC_FN_UpperClassPlanter01",
+    "modl": "Clutter\\UpperClass\\UpperClassPlanter01.NIF"
+  },
+  {
+    "edid": "UpperClassPlanter02",
+    "formid": "Oblivion.esm:015BB3",
+    "full": "LOC_FN_UpperClassPlanter02",
+    "modl": "Clutter\\UpperClass\\UpperClassPlanter02.NIF"
+  },
+  {
+    "edid": "MiddleClassPlanter01",
+    "formid": "Oblivion.esm:015BB4",
+    "full": "LOC_FN_MiddleClassPlanter01",
+    "modl": "Clutter\\MiddleClass\\MiddleClassPlanter01.NIF"
+  },
+  {
+    "edid": "MiddleClassPlanter02",
+    "formid": "Oblivion.esm:015BB5",
+    "full": "LOC_FN_MiddleClassPlanter02",
+    "modl": "Clutter\\MiddleClass\\MiddleClassPlanter02.NIF"
+  },
+  {
+    "edid": "MiddleClassPlanter03",
+    "formid": "Oblivion.esm:015BB6",
+    "full": "LOC_FN_MiddleClassPlanter03",
+    "modl": "Clutter\\MiddleClass\\MiddleClassPlanter03.NIF"
+  },
+  {
+    "edid": "UpperClassPlanter03",
+    "formid": "Oblivion.esm:015BB7",
+    "full": "LOC_FN_UpperClassPlanter03",
+    "modl": "Clutter\\UpperClass\\UpperClassPlanter03.NIF"
+  },
+  {
+    "edid": "UpperClassPlanter04",
+    "formid": "Oblivion.esm:015BB8",
+    "full": "LOC_FN_UpperClassPlanter04",
+    "modl": "Clutter\\UpperClass\\UpperClassPlanter04.NIF"
+  },
+  {
+    "edid": "UpperClassPlanter05",
+    "formid": "Oblivion.esm:015BBA",
+    "full": "LOC_FN_UpperClassPlanter05",
+    "modl": "Clutter\\UpperClass\\UpperClassPlanter05.NIF"
+  },
+  {
+    "edid": "UpperClassPlanter06",
+    "formid": "Oblivion.esm:015BBB",
+    "full": "LOC_FN_UpperClassPlanter06",
+    "modl": "Clutter\\UpperClass\\UpperClassPlanter06.NIF"
+  },
+  {
+    "edid": "UpperSilverCarafe01",
+    "formid": "Oblivion.esm:019107",
+    "full": "LOC_FN_UpperSilverCarafe01",
+    "modl": "Clutter\\UpperClass\\UpperSilverCarafe01.NIF"
+  },
+  {
+    "edid": "LowerClassCup01",
+    "formid": "Oblivion.esm:019115",
+    "full": "LOC_FN_LowerClassCup01",
+    "modl": "Clutter\\LowerClass\\LowerClassCup01.NIF"
+  },
+  {
+    "edid": "UpperSilverFork01",
+    "formid": "Oblivion.esm:01924A",
+    "full": "LOC_FN_UpperSilverFork01",
+    "modl": "Clutter\\UpperClass\\UpperSilverFork01.NIF"
+  },
+  {
+    "edid": "PaintBrush01",
+    "formid": "Oblivion.esm:01BBC5",
+    "full": "LOC_FN_PaintBrush01",
+    "modl": "Clutter\\ArtSupplies\\PaintBrush01.NIF"
+  },
+  {
+    "edid": "PaintBrush02",
+    "formid": "Oblivion.esm:01BBC6",
+    "full": "LOC_FN_PaintBrush02",
+    "modl": "Clutter\\ArtSupplies\\PaintBrush02.NIF"
+  },
+  {
+    "edid": "PaintBrush03",
+    "formid": "Oblivion.esm:01BBC7",
+    "full": "LOC_FN_PaintBrush03",
+    "modl": "Clutter\\ArtSupplies\\PaintBrush03.NIF"
+  },
+  {
+    "edid": "PaintBrush04",
+    "formid": "Oblivion.esm:01BBC8",
+    "full": "LOC_FN_PaintBrush04",
+    "modl": "Clutter\\ArtSupplies\\PaintBrush04.NIF"
+  },
+  {
+    "edid": "PaintBrush05",
+    "formid": "Oblivion.esm:01BBC9",
+    "full": "LOC_FN_PaintBrush05",
+    "modl": "Clutter\\ArtSupplies\\PaintBrush05.NIF"
+  },
+  {
+    "edid": "PaintBrush06",
+    "formid": "Oblivion.esm:01BBCA",
+    "full": "LOC_FN_PaintBrush06",
+    "modl": "Clutter\\ArtSupplies\\PaintBrush06.NIF"
+  },
+  {
+    "edid": "PaintbrushJar01",
+    "formid": "Oblivion.esm:01BBCB",
+    "full": "LOC_FN_PaintbrushJar01",
+    "modl": "Clutter\\ArtSupplies\\PaintbrushJar01.NIF"
+  },
+  {
+    "edid": "Palette01",
+    "formid": "Oblivion.esm:01BBCC",
+    "full": "LOC_FN_Palette01",
+    "modl": "Clutter\\ArtSupplies\\Palette01.NIF"
+  },
+  {
+    "edid": "UpperScaleWeight01",
+    "formid": "Oblivion.esm:01C5ED",
+    "full": "LOC_FN_UpperScaleWeight01",
+    "modl": "Clutter\\UpperClass\\UpperScaleWeight01.NIF"
+  },
+  {
+    "edid": "CrystalBall02",
+    "formid": "Oblivion.esm:01C60D",
+    "full": "LOC_FN_CrystalBall02",
+    "modl": "Clutter\\MagesGuild\\CrystalBall02.NIF"
+  },
+  {
+    "edid": "MiddleClassPewterCup02",
+    "formid": "Oblivion.esm:01C616",
+    "full": "LOC_FN_MiddleClassPewterCup02",
+    "modl": "Clutter\\MiddleClass\\MiddleClassPewterCup02.NIF"
+  },
+  {
+    "edid": "MiddleClassPewterCup01",
+    "formid": "Oblivion.esm:01C619",
+    "full": "LOC_FN_MiddleClassPewterCup01",
+    "modl": "Clutter\\MiddleClass\\MiddleClassPewterCup01.NIF"
+  },
+  {
+    "edid": "MiddleClassPewterVase01",
+    "formid": "Oblivion.esm:01C61A",
+    "full": "LOC_FN_MiddleClassPewterVase01",
+    "modl": "Clutter\\MiddleClass\\MiddleClassPewterVase01.NIF"
+  },
+  {
+    "edid": "MiddleClassPewterVase02",
+    "formid": "Oblivion.esm:01C61B",
+    "full": "LOC_FN_MiddleClassPewterVase02",
+    "modl": "Clutter\\MiddleClass\\MiddleClassPewterVase02.NIF"
+  },
+  {
+    "edid": "MiddleClassPewterVase03",
+    "formid": "Oblivion.esm:01C61C",
+    "full": "LOC_FN_MiddleClassPewterVase03",
+    "modl": "Clutter\\MiddleClass\\MiddleClassPewterVase03.NIF"
+  },
+  {
+    "edid": "MiddleClassPewterPitcher01",
+    "formid": "Oblivion.esm:01C61F",
+    "full": "LOC_FN_MiddleClassPewterPitcher01",
+    "modl": "Clutter\\MiddleClass\\MiddleClassPewterPitcher01.NIF"
+  },
+  {
+    "edid": "MiddleClassPewterBowl01",
+    "formid": "Oblivion.esm:01C624",
+    "full": "LOC_FN_MiddleClassPewterBowl01",
+    "modl": "Clutter\\MiddleClass\\MiddleClassPewterBowl01.NIF"
+  },
+  {
+    "edid": "MiddleClassPewterBowl02",
+    "formid": "Oblivion.esm:01C625",
+    "full": "LOC_FN_MiddleClassPewterBowl02",
+    "modl": "Clutter\\MiddleClass\\MiddleClassPewterBowl02.NIF"
+  },
+  {
+    "edid": "MiddleClassPewterPlate01",
+    "formid": "Oblivion.esm:01C626",
+    "full": "LOC_FN_MiddleClassPewterPlate01",
+    "modl": "Clutter\\MiddleClass\\MiddleClassPewterPlate01.NIF"
+  },
+  {
+    "edid": "MiddleClassPewterPlate02",
+    "formid": "Oblivion.esm:01C627",
+    "full": "LOC_FN_MiddleClassPewterPlate02",
+    "modl": "Clutter\\MiddleClass\\MiddleClassPewterPlate02.NIF"
+  },
+  {
+    "edid": "Hourglass01",
+    "formid": "Oblivion.esm:01C666",
+    "full": "LOC_FN_Hourglass01",
+    "modl": "Clutter\\MagesGuild\\Hourglass01.NIF"
+  },
+  {
+    "edid": "Tongs01",
+    "formid": "Oblivion.esm:01C66F",
+    "full": "LOC_FN_Tongs01",
+    "modl": "Clutter\\MetalSmith\\Tongs01.NIF"
+  },
+  {
+    "edid": "UpperSilverGlass01",
+    "formid": "Oblivion.esm:01DBFC",
+    "full": "LOC_FN_UpperSilverGlass01",
+    "modl": "Clutter\\UpperClass\\UpperSilverGlass01.NIF"
+  },
+  {
+    "edid": "UpperSilverGoblet01",
+    "formid": "Oblivion.esm:01DCCC",
+    "full": "LOC_FN_UpperSilverGoblet01",
+    "modl": "Clutter\\UpperClass\\UpperSilverGoblet01.NIF"
+  },
+  {
+    "edid": "UpperSilverGoblet02",
+    "formid": "Oblivion.esm:01DCCF",
+    "full": "LOC_FN_UpperSilverGoblet02",
+    "modl": "Clutter\\UpperClass\\UpperSilverGoblet02.NIF"
+  },
+  {
+    "edid": "skelBigBone01",
+    "formid": "Oblivion.esm:01DE26",
+    "full": "LOC_FN_skelBigBone01",
+    "modl": "Dungeons\\Misc\\skelBigBone01.NIF"
+  },
+  {
+    "edid": "LowerBowlTan01",
+    "formid": "Oblivion.esm:01F1D9",
+    "full": "LOC_FN_LowerBowlTan01",
+    "modl": "Clutter\\LowerClass\\LowerBowlTan01.NIF"
+  },
+  {
+    "edid": "LowerBowlTan02",
+    "formid": "Oblivion.esm:01F1DA",
+    "full": "LOC_FN_LowerBowlTan02",
+    "modl": "Clutter\\LowerClass\\LowerBowlTan02.NIF"
+  },
+  {
+    "edid": "LowerBowlTan03",
+    "formid": "Oblivion.esm:01F1DB",
+    "full": "LOC_FN_LowerBowlTan03",
+    "modl": "Clutter\\LowerClass\\LowerBowlTan03.NIF"
+  },
+  {
+    "edid": "LowerCupTan01",
+    "formid": "Oblivion.esm:01F1DC",
+    "full": "LOC_FN_LowerCupTan01",
+    "modl": "Clutter\\LowerClass\\LowerCupTan01.NIF"
+  },
+  {
+    "edid": "LowerCupTan02",
+    "formid": "Oblivion.esm:01F1DD",
+    "full": "LOC_FN_LowerCupTan02",
+    "modl": "Clutter\\LowerClass\\LowerCupTan02.NIF"
+  },
+  {
+    "edid": "LowerCupTan03",
+    "formid": "Oblivion.esm:01F1DE",
+    "full": "LOC_FN_LowerCupTan03",
+    "modl": "Clutter\\LowerClass\\LowerCupTan03.NIF"
+  },
+  {
+    "edid": "LowerJugTan01",
+    "formid": "Oblivion.esm:01F1DF",
+    "full": "LOC_FN_LowerJugTan01",
+    "modl": "Clutter\\LowerClass\\LowerJugTan01.NIF"
+  },
+  {
+    "edid": "LowerJugTan02",
+    "formid": "Oblivion.esm:01F1E0",
+    "full": "LOC_FN_LowerJugTan02",
+    "modl": "Clutter\\LowerClass\\LowerJugTan02.NIF"
+  },
+  {
+    "edid": "LowerJugTan03",
+    "formid": "Oblivion.esm:01F1E1",
+    "full": "LOC_FN_LowerJugTan03",
+    "modl": "Clutter\\LowerClass\\LowerJugTan03.NIF"
+  },
+  {
+    "edid": "LowerJugTan04",
+    "formid": "Oblivion.esm:01F1E2",
+    "full": "LOC_FN_LowerJugTan04",
+    "modl": "Clutter\\LowerClass\\LowerJugTan04.NIF"
+  },
+  {
+    "edid": "LowerJugTan05",
+    "formid": "Oblivion.esm:01F1E3",
+    "full": "LOC_FN_LowerJugTan05",
+    "modl": "Clutter\\LowerClass\\LowerJugTan05.NIF"
+  },
+  {
+    "edid": "LowerJugTan06",
+    "formid": "Oblivion.esm:01F1E4",
+    "full": "LOC_FN_LowerJugTan06",
+    "modl": "Clutter\\LowerClass\\LowerJugTan06.NIF"
+  },
+  {
+    "edid": "LowerMugTan01",
+    "formid": "Oblivion.esm:01F1E5",
+    "full": "LOC_FN_LowerMugTan01",
+    "modl": "Clutter\\LowerClass\\LowerMugTan01.NIF"
+  },
+  {
+    "edid": "LowerPitcherTan01",
+    "formid": "Oblivion.esm:01F1E6",
+    "full": "LOC_FN_LowerPitcherTan01",
+    "modl": "Clutter\\LowerClass\\LowerPitcherTan01.NIF"
+  },
+  {
+    "edid": "LowerPlateTan01",
+    "formid": "Oblivion.esm:01F1E7",
+    "full": "LOC_FN_LowerPlateTan01",
+    "modl": "Clutter\\LowerClass\\LowerPlateTan01.NIF"
+  },
+  {
+    "edid": "MiddleBowlRed01",
+    "formid": "Oblivion.esm:022295",
+    "full": "LOC_FN_MiddleBowlRed01",
+    "modl": "Clutter\\MiddleClass\\MiddleBowlRed01.NIF"
+  },
+  {
+    "edid": "MiddleBowlRed02",
+    "formid": "Oblivion.esm:022298",
+    "full": "LOC_FN_MiddleBowlRed02",
+    "modl": "Clutter\\MiddleClass\\MiddleBowlRed02.NIF"
+  },
+  {
+    "edid": "MiddleBowlRed03",
+    "formid": "Oblivion.esm:022299",
+    "full": "LOC_FN_MiddleBowlRed03",
+    "modl": "Clutter\\MiddleClass\\MiddleBowlRed03.NIF"
+  },
+  {
+    "edid": "skelBoneThin01",
+    "formid": "Oblivion.esm:0223A8",
+    "full": "LOC_FN_skelBoneThin01",
+    "modl": "Dungeons\\Misc\\skelBoneThin01.NIF"
+  },
+  {
+    "edid": "MiddleBowlTan01",
+    "formid": "Oblivion.esm:022535",
+    "full": "LOC_FN_MiddleBowlTan01",
+    "modl": "Clutter\\MiddleClass\\MiddleBowlTan01.NIF"
+  },
+  {
+    "edid": "MiddleBowlTan02",
+    "formid": "Oblivion.esm:022536",
+    "full": "LOC_FN_MiddleBowlTan02",
+    "modl": "Clutter\\MiddleClass\\MiddleBowlTan02.NIF"
+  },
+  {
+    "edid": "MiddleBowlTan03",
+    "formid": "Oblivion.esm:022537",
+    "full": "LOC_FN_MiddleBowlTan03",
+    "modl": "Clutter\\MiddleClass\\MiddleBowlTan03.NIF"
+  },
+  {
+    "edid": "MiddleCupRed01",
+    "formid": "Oblivion.esm:022538",
+    "full": "LOC_FN_MiddleCupRed01",
+    "modl": "Clutter\\MiddleClass\\MiddleCupRed01.NIF"
+  },
+  {
+    "edid": "MiddleCupRed02",
+    "formid": "Oblivion.esm:022539",
+    "full": "LOC_FN_MiddleCupRed02",
+    "modl": "Clutter\\MiddleClass\\MiddleCupRed02.NIF"
+  },
+  {
+    "edid": "MiddleCupTan01",
+    "formid": "Oblivion.esm:02253A",
+    "full": "LOC_FN_MiddleCupTan01",
+    "modl": "Clutter\\MiddleClass\\MiddleCupTan01.NIF"
+  },
+  {
+    "edid": "MiddleCupTan02",
+    "formid": "Oblivion.esm:02253B",
+    "full": "LOC_FN_MiddleCupTan02",
+    "modl": "Clutter\\MiddleClass\\MiddleCupTan02.NIF"
+  },
+  {
+    "edid": "MiddleGobletRed01",
+    "formid": "Oblivion.esm:02253C",
+    "full": "LOC_FN_MiddleGobletRed01",
+    "modl": "Clutter\\MiddleClass\\MiddleGobletRed01.NIF"
+  },
+  {
+    "edid": "MiddleGobletTan01",
+    "formid": "Oblivion.esm:022542",
+    "full": "LOC_FN_MiddleGobletTan01",
+    "modl": "Clutter\\MiddleClass\\MiddleGobletTan01.NIF"
+  },
+  {
+    "edid": "MiddlePitcherRed01",
+    "formid": "Oblivion.esm:022543",
+    "full": "LOC_FN_MiddlePitcherRed01",
+    "modl": "Clutter\\MiddleClass\\MiddlePitcherRed01.NIF"
+  },
+  {
+    "edid": "MiddlePitcherRed02",
+    "formid": "Oblivion.esm:022544",
+    "full": "LOC_FN_MiddlePitcherRed02",
+    "modl": "Clutter\\MiddleClass\\MiddlePitcherRed02.NIF"
+  },
+  {
+    "edid": "MiddlePitcherRed03",
+    "formid": "Oblivion.esm:022545",
+    "full": "LOC_FN_MiddlePitcherRed03",
+    "modl": "Clutter\\MiddleClass\\MiddlePitcherRed03.NIF"
+  },
+  {
+    "edid": "MiddlePitcherTan01",
+    "formid": "Oblivion.esm:022546",
+    "full": "LOC_FN_MiddlePitcherTan01",
+    "modl": "Clutter\\MiddleClass\\MiddlePitcherTan01.NIF"
+  },
+  {
+    "edid": "MiddlePitcherTan02",
+    "formid": "Oblivion.esm:022547",
+    "full": "LOC_FN_MiddlePitcherTan02",
+    "modl": "Clutter\\MiddleClass\\MiddlePitcherTan02.NIF"
+  },
+  {
+    "edid": "MiddlePitcherTan03",
+    "formid": "Oblivion.esm:022548",
+    "full": "LOC_FN_MiddlePitcherTan03",
+    "modl": "Clutter\\MiddleClass\\MiddlePitcherTan03.NIF"
+  },
+  {
+    "edid": "MiddlePlateRed01",
+    "formid": "Oblivion.esm:02254C",
+    "full": "LOC_FN_MiddlePlateRed01",
+    "modl": "Clutter\\MiddleClass\\MiddlePlateRed01.NIF"
+  },
+  {
+    "edid": "MiddlePlateRed02",
+    "formid": "Oblivion.esm:02254D",
+    "full": "LOC_FN_MiddlePlateRed02",
+    "modl": "Clutter\\MiddleClass\\MiddlePlateRed02.NIF"
+  },
+  {
+    "edid": "MiddlePlateTan01",
+    "formid": "Oblivion.esm:02254E",
+    "full": "LOC_FN_MiddlePlateTan01",
+    "modl": "Clutter\\MiddleClass\\MiddlePlateTan01.NIF"
+  },
+  {
+    "edid": "MiddlePlateTan02",
+    "formid": "Oblivion.esm:02254F",
+    "full": "LOC_FN_MiddlePlateTan02",
+    "modl": "Clutter\\MiddleClass\\MiddlePlateTan02.NIF"
+  },
+  {
+    "edid": "MiddleTankardTan01",
+    "formid": "Oblivion.esm:022550",
+    "full": "LOC_FN_MiddleTankardTan01",
+    "modl": "Clutter\\MiddleClass\\MiddleTankardTan01.NIF"
+  },
+  {
+    "edid": "MiddleUrnRed01",
+    "formid": "Oblivion.esm:022551",
+    "full": "LOC_FN_MiddleUrnRed01",
+    "modl": "Clutter\\MiddleClass\\MiddleUrnRed01.NIF"
+  },
+  {
+    "edid": "MiddleUrnRed02",
+    "formid": "Oblivion.esm:022552",
+    "full": "LOC_FN_MiddleUrnRed02",
+    "modl": "Clutter\\MiddleClass\\MiddleUrnRed02.NIF"
+  },
+  {
+    "edid": "MiddleUrnRed03",
+    "formid": "Oblivion.esm:022553",
+    "full": "LOC_FN_MiddleUrnRed03",
+    "modl": "Clutter\\MiddleClass\\MiddleUrnRed03.NIF"
+  },
+  {
+    "edid": "MiddleUrnTan01",
+    "formid": "Oblivion.esm:022554",
+    "full": "LOC_FN_MiddleUrnTan01",
+    "modl": "Clutter\\MiddleClass\\MiddleUrnTan01.NIF"
+  },
+  {
+    "edid": "MiddleUrnTan02",
+    "formid": "Oblivion.esm:022555",
+    "full": "LOC_FN_MiddleUrnTan02",
+    "modl": "Clutter\\MiddleClass\\MiddleUrnTan02.NIF"
+  },
+  {
+    "edid": "MiddleUrnTan03",
+    "formid": "Oblivion.esm:022556",
+    "full": "LOC_FN_MiddleUrnTan03",
+    "modl": "Clutter\\MiddleClass\\MiddleUrnTan03.NIF"
+  },
+  {
+    "edid": "MiddleVaseRed01",
+    "formid": "Oblivion.esm:022557",
+    "full": "LOC_FN_MiddleVaseRed01",
+    "modl": "Clutter\\MiddleClass\\MiddleVaseRed01.NIF"
+  },
+  {
+    "edid": "MiddleVaseTan01",
+    "formid": "Oblivion.esm:022558",
+    "full": "LOC_FN_MiddleVaseTan01",
+    "modl": "Clutter\\MiddleClass\\MiddleVaseTan01.NIF"
+  },
+  {
+    "edid": "MiddleTankardRed01",
+    "formid": "Oblivion.esm:022559",
+    "full": "LOC_FN_MiddleTankardRed01",
+    "modl": "Clutter\\MiddleClass\\MiddleTankardRed01.NIF"
+  },
+  {
+    "edid": "WolfPelt01",
+    "formid": "Oblivion.esm:0228E2",
+    "full": "LOC_FN_WolfPelt01",
+    "modl": "Clutter\\WolfPelt.NIF"
+  },
+  {
+    "edid": "BearPelt01",
+    "formid": "Oblivion.esm:0228E3",
+    "full": "LOC_FN_BearPelt01",
+    "modl": "Clutter\\BearPelt.NIF"
+  },
+  {
+    "edid": "LionHide01",
+    "formid": "Oblivion.esm:0228E4",
+    "full": "LOC_FN_LionHide01",
+    "modl": "Clutter\\LionHide.NIF"
+  },
+  {
+    "edid": "skelClavicle01",
+    "formid": "Oblivion.esm:023880",
+    "full": "LOC_FN_skelClavicle01",
+    "modl": "Dungeons\\Misc\\skelClavicle01.NIF"
+  },
+  {
+    "edid": "skelPelvis01",
+    "formid": "Oblivion.esm:023881",
+    "full": "LOC_FN_skelPelvis01",
+    "modl": "Dungeons\\Misc\\skelPelvis01.NIF"
+  },
+  {
+    "edid": "skelRibcage01",
+    "formid": "Oblivion.esm:023882",
+    "full": "LOC_FN_skelRibcage01",
+    "modl": "Dungeons\\Misc\\skelRibcage01.NIF"
+  },
+  {
+    "edid": "UpperSilverKnife01",
+    "formid": "Oblivion.esm:023C13",
+    "full": "LOC_FN_UpperSilverKnife01",
+    "modl": "Clutter\\UpperClass\\UpperSilverKnife01.NIF"
+  },
+  {
+    "edid": "UpperSilverPitcher01",
+    "formid": "Oblivion.esm:023C15",
+    "full": "LOC_FN_UpperSilverPitcher01",
+    "modl": "Clutter\\UpperClass\\UpperSilverPitcher01.NIF"
+  },
+  {
+    "edid": "UpperSilverPitcher02",
+    "formid": "Oblivion.esm:023C17",
+    "full": "LOC_FN_UpperSilverPitcher02",
+    "modl": "Clutter\\UpperClass\\UpperSilverPitcher02.NIF"
+  },
+  {
+    "edid": "UpperSilverPlate01",
+    "formid": "Oblivion.esm:023C19",
+    "full": "LOC_FN_UpperSilverPlate01",
+    "modl": "Clutter\\UpperClass\\UpperSilverPlate01.NIF"
+  },
+  {
+    "edid": "UpperSilverSpoon01",
+    "formid": "Oblivion.esm:023C1B",
+    "full": "LOC_FN_UpperSilverSpoon01",
+    "modl": "Clutter\\UpperClass\\UpperSilverSpoon01.NIF"
+  },
+  {
+    "edid": "UpperSilverTankard01",
+    "formid": "Oblivion.esm:023C1D",
+    "full": "LOC_FN_UpperSilverTankard01",
+    "modl": "Clutter\\UpperClass\\UpperSilverTankard01.NIF"
+  },
+  {
+    "edid": "UpperSilverUrn01",
+    "formid": "Oblivion.esm:023C1F",
+    "full": "LOC_FN_UpperSilverUrn01",
+    "modl": "Clutter\\UpperClass\\UpperSilverUrn01.NIF"
+  },
+  {
+    "edid": "UpperSilverUrn02",
+    "formid": "Oblivion.esm:023C21",
+    "full": "LOC_FN_UpperSilverUrn02",
+    "modl": "Clutter\\UpperClass\\UpperSilverUrn02.NIF"
+  },
+  {
+    "edid": "UpperSilverVase01",
+    "formid": "Oblivion.esm:023C23",
+    "full": "LOC_FN_UpperSilverVase01",
+    "modl": "Clutter\\UpperClass\\UpperSilverVase01.NIF"
+  },
+  {
+    "edid": "Inkwell01",
+    "formid": "Oblivion.esm:023D61",
+    "full": "LOC_FN_Inkwell01",
+    "modl": "Clutter\\Inkwell01.NIF"
+  },
+  {
+    "edid": "Quill01",
+    "formid": "Oblivion.esm:023D63",
+    "full": "LOC_FN_Quill01",
+    "modl": "Clutter\\Quill01.NIF"
+  },
+  {
+    "edid": "skull01",
+    "formid": "Oblivion.esm:023F6E",
+    "full": "LOC_FN_skull01",
+    "modl": "Dungeons\\Misc\\skull01.NIF"
+  },
+  {
+    "edid": "LowerThatchbasket01New",
+    "formid": "Oblivion.esm:024D91",
+    "full": "LOC_FN_LowerThatchbasket01New",
+    "modl": "Clutter\\LowerClass\\LowerThatchbasket01.NIF"
+  },
+  {
+    "edid": "LowerThatchbasket02New",
+    "formid": "Oblivion.esm:024D92",
+    "full": "LOC_FN_LowerThatchbasket02New",
+    "modl": "Clutter\\LowerClass\\LowerThatchbasket02.NIF"
+  },
+  {
+    "edid": "UpperBowlCeramic01",
+    "formid": "Oblivion.esm:02507A",
+    "full": "LOC_FN_UpperBowlCeramic01",
+    "modl": "Clutter\\UpperClass\\UpperBowlCeramic01.NIF"
+  },
+  {
+    "edid": "UpperCupCeramic01",
+    "formid": "Oblivion.esm:02507B",
+    "full": "LOC_FN_UpperCupCeramic01",
+    "modl": "Clutter\\UpperClass\\UpperCupCeramic01.NIF"
+  },
+  {
+    "edid": "UpperGobletCeramic01",
+    "formid": "Oblivion.esm:02507C",
+    "full": "LOC_FN_UpperGobletCeramic01",
+    "modl": "Clutter\\UpperClass\\UpperGobletCeramic01.NIF"
+  },
+  {
+    "edid": "UpperPitcherCeramic01",
+    "formid": "Oblivion.esm:02507D",
+    "full": "LOC_FN_UpperPitcherCeramic01",
+    "modl": "Clutter\\UpperClass\\UpperPitcherCermic01.NIF"
+  },
+  {
+    "edid": "UpperPitcherCeramic02",
+    "formid": "Oblivion.esm:02507E",
+    "full": "LOC_FN_UpperPitcherCeramic02",
+    "modl": "Clutter\\UpperClass\\UpperPitcherCermic02.NIF"
+  },
+  {
+    "edid": "UpperPlateCeramic01",
+    "formid": "Oblivion.esm:02507F",
+    "full": "LOC_FN_UpperPlateCeramic01",
+    "modl": "Clutter\\UpperClass\\UpperPlateCeramic01.NIF"
+  },
+  {
+    "edid": "UpperUrnCeramic01",
+    "formid": "Oblivion.esm:025080",
+    "full": "LOC_FN_UpperUrnCeramic01",
+    "modl": "Clutter\\UpperClass\\UpperUrnCeramic01.NIF"
+  },
+  {
+    "edid": "UpperVaseCeramic01",
+    "formid": "Oblivion.esm:025081",
+    "full": "LOC_FN_UpperVaseCeramic01",
+    "modl": "Clutter\\UpperClass\\UpperVaseCeramic01.NIF"
+  },
+  {
+    "edid": "Hoe01",
+    "formid": "Oblivion.esm:025101",
+    "full": "LOC_FN_Hoe01",
+    "modl": "Clutter\\Farm\\Hoe01.NIF"
+  },
+  {
+    "edid": "Pickaxe01",
+    "formid": "Oblivion.esm:025103",
+    "full": "LOC_FN_Pickaxe01",
+    "modl": "Clutter\\Farm\\Pickaxe01.NIF"
+  },
+  {
+    "edid": "PitchFork01",
+    "formid": "Oblivion.esm:025113",
+    "full": "LOC_FN_PitchFork01",
+    "modl": "Clutter\\Farm\\PitchFork01.NIF"
+  },
+  {
+    "edid": "Rake01",
+    "formid": "Oblivion.esm:025116",
+    "full": "LOC_FN_Rake01",
+    "modl": "Clutter\\Farm\\Rake01.NIF"
+  },
+  {
+    "edid": "Scythe01",
+    "formid": "Oblivion.esm:02511A",
+    "full": "LOC_FN_Scythe01",
+    "modl": "Clutter\\Farm\\Scythe01.NIF"
+  },
+  {
+    "edid": "Shears01",
+    "formid": "Oblivion.esm:02511C",
+    "full": "LOC_FN_Shears01",
+    "modl": "Clutter\\Farm\\Shears01.NIF"
+  },
+  {
+    "edid": "Shovel01",
+    "formid": "Oblivion.esm:0251A8",
+    "full": "LOC_FN_Shovel01",
+    "modl": "Clutter\\Farm\\Shovel01.NIF"
+  },
+  {
+    "edid": "TongsFarm01",
+    "formid": "Oblivion.esm:0251AC",
+    "full": "LOC_FN_TongsFarm01",
+    "modl": "Clutter\\Farm\\Tongs01.NIF"
+  },
+  {
+    "edid": "UpperTankardCeramic01",
+    "formid": "Oblivion.esm:02724F",
+    "full": "LOC_FN_UpperTankardCeramic01",
+    "modl": "Clutter\\UpperClass\\UpperTankardCeramic01.NIF"
+  },
+  {
+    "edid": "Gem1Pearl",
+    "formid": "Oblivion.esm:038B98",
+    "full": "LOC_FN_Gem1Pearl",
+    "modl": "Clutter\\Gems\\Pearl.NIF"
+  },
+  {
+    "edid": "Gem1PearlFlawed",
+    "formid": "Oblivion.esm:038B99",
+    "full": "LOC_FN_Gem1PearlFlawed",
+    "modl": "Clutter\\Gems\\PearlFlawed.NIF"
+  },
+  {
+    "edid": "Gem1PearlFlawless",
+    "formid": "Oblivion.esm:038B9A",
+    "full": "LOC_FN_Gem1PearlFlawless",
+    "modl": "Clutter\\Gems\\PearlFlawLess.NIF"
+  },
+  {
+    "edid": "Gem2Topaz",
+    "formid": "Oblivion.esm:038B9B",
+    "full": "LOC_FN_Gem2Topaz",
+    "modl": "Clutter\\Gems\\TopazFlawed.NIF"
+  },
+  {
+    "edid": "Gem2TopazFlawed",
+    "formid": "Oblivion.esm:038B9C",
+    "full": "LOC_FN_Gem2TopazFlawed",
+    "modl": "Clutter\\Gems\\Topaz.NIF"
+  },
+  {
+    "edid": "Gem2TopazFlawless",
+    "formid": "Oblivion.esm:038B9D",
+    "full": "LOC_FN_Gem2TopazFlawless",
+    "modl": "Clutter\\Gems\\TopazFlawless.NIF"
+  },
+  {
+    "edid": "Gem3Ruby",
+    "formid": "Oblivion.esm:038B9E",
+    "full": "LOC_FN_Gem3Ruby",
+    "modl": "Clutter\\Gems\\RubyFlawed.NIF"
+  },
+  {
+    "edid": "Gem3RubyFlawed",
+    "formid": "Oblivion.esm:038B9F",
+    "full": "LOC_FN_Gem3RubyFlawed",
+    "modl": "Clutter\\Gems\\Ruby.NIF"
+  },
+  {
+    "edid": "Gem3RubyFlawless",
+    "formid": "Oblivion.esm:038BA0",
+    "full": "LOC_FN_Gem3RubyFlawless",
+    "modl": "Clutter\\Gems\\RubyFlawless.NIF"
+  },
+  {
+    "edid": "Gem4Sapphire",
+    "formid": "Oblivion.esm:038BA1",
+    "full": "LOC_FN_Gem4Sapphire",
+    "modl": "Clutter\\Gems\\SapphireFlawed.NIF"
+  },
+  {
+    "edid": "Gem4SapphireFlawed",
+    "formid": "Oblivion.esm:038BA2",
+    "full": "LOC_FN_Gem4SapphireFlawed",
+    "modl": "Clutter\\Gems\\Sapphire.NIF"
+  },
+  {
+    "edid": "Gem4SapphireFlawless",
+    "formid": "Oblivion.esm:038BA3",
+    "full": "LOC_FN_Gem4SapphireFlawless",
+    "modl": "Clutter\\Gems\\SapphireFlawless.NIF"
+  },
+  {
+    "edid": "Gem5Emerald",
+    "formid": "Oblivion.esm:038BA4",
+    "full": "LOC_FN_Gem5Emerald",
+    "modl": "Clutter\\Gems\\EmeraldFlawed.NIF"
+  },
+  {
+    "edid": "Gem5EmeraldFlawless",
+    "formid": "Oblivion.esm:038BA5",
+    "full": "LOC_FN_Gem5EmeraldFlawless",
+    "modl": "Clutter\\Gems\\EmeraldFlawless.NIF"
+  },
+  {
+    "edid": "Gem5EmeraldFlawed",
+    "formid": "Oblivion.esm:038BA6",
+    "full": "LOC_FN_Gem5EmeraldFlawed",
+    "modl": "Clutter\\Gems\\Emerald.NIF"
+  },
+  {
+    "edid": "Gem6Diamond",
+    "formid": "Oblivion.esm:038BA7",
+    "full": "LOC_FN_Gem6Diamond",
+    "modl": "Clutter\\Gems\\DiamondFlawed.NIF"
+  },
+  {
+    "edid": "Gem6DiamondFlawed",
+    "formid": "Oblivion.esm:038BA8",
+    "full": "LOC_FN_Gem6DiamondFlawed",
+    "modl": "Clutter\\Gems\\Diamond.NIF"
+  },
+  {
+    "edid": "Gem6DiamondFlawless",
+    "formid": "Oblivion.esm:038BA9",
+    "full": "LOC_FN_Gem6DiamondFlawless",
+    "modl": "Clutter\\Gems\\DiamondFlawless.NIF"
+  },
+  {
+    "edid": "Gem0GoldNugget",
+    "formid": "Oblivion.esm:049808",
+    "full": "LOC_FN_Gem0GoldNugget",
+    "modl": "Clutter\\Gems\\GoldNugget.NIF"
+  },
+  {
+    "edid": "Gem0SilverNugget",
+    "formid": "Oblivion.esm:049809",
+    "full": "LOC_FN_Gem0SilverNugget",
+    "modl": "Clutter\\Gems\\SilverNugget.NIF"
+  },
+  {
+    "edid": "MiddleCoveredBowlRed01",
+    "formid": "Oblivion.esm:0836CE",
+    "full": "LOC_FN_MiddleCoveredBowlRed01",
+    "modl": "Clutter\\MiddleClass\\MiddleCoveredBowlRed01.NIF"
+  },
+  {
+    "edid": "MiddleCoveredBowlTan01",
+    "formid": "Oblivion.esm:0836CF",
+    "full": "LOC_FN_MiddleCoveredBowlTan01",
+    "modl": "Clutter\\MiddleClass\\MiddleCoveredBowlTan01.NIF"
+  },
+  {
+    "edid": "Pickaxe01dirty",
+    "formid": "Oblivion.esm:09F8FA",
+    "full": "LOC_FN_Pickaxe01dirty",
+    "modl": "Clutter\\Farm\\Pickaxe01dirty.NIF"
+  },
+  {
+    "edid": "MS04StolenUrn",
+    "formid": "Oblivion.esm:0CBD41",
+    "full": "LOC_FN_MS04StolenUrn",
+    "modl": "Clutter\\UpperClass\\UpperUrnCeramic01.NIF"
+  },
+  {
+    "edid": "MiddleMetalBowl",
+    "formid": "Oblivion.esm:0CD400",
+    "full": "LOC_FN_MiddleMetalBowl",
+    "modl": "Clutter\\MiddleClass\\MiddleMetalBowl01.NIF"
+  },
+  {
+    "edid": "MiddleMetalGoblet",
+    "formid": "Oblivion.esm:0CD401",
+    "full": "LOC_FN_MiddleMetalGoblet",
+    "modl": "Clutter\\MiddleClass\\MiddleMetalGoblet01.NIF"
+  },
+  {
+    "edid": "MiddleMetalPlate",
+    "formid": "Oblivion.esm:0CD402",
+    "full": "LOC_FN_MiddleMetalPlate",
+    "modl": "Clutter\\MiddleClass\\MiddleMetalPlate01.NIF"
+  },
+  {
+    "edid": "MiddleMetalTankard001",
+    "formid": "Oblivion.esm:0CD403",
+    "full": "LOC_FN_MiddleMetalTankard001",
+    "modl": "Clutter\\MiddleClass\\MiddleMetalTankard01.NIF"
+  },
+  {
+    "edid": "MiddleMetalTankard002",
+    "formid": "Oblivion.esm:0CD404",
+    "full": "LOC_FN_MiddleMetalTankard002",
+    "modl": "Clutter\\MiddleClass\\MiddleMetalTankard02.NIF"
+  },
+  {
+    "edid": "MiddleMetalTankard003",
+    "formid": "Oblivion.esm:0CD405",
+    "full": "LOC_FN_MiddleMetalTankard003",
+    "modl": "Clutter\\MiddleClass\\MiddleMetalTankard03.NIF"
+  },
+  {
+    "edid": "MiddleMetalTankard004",
+    "formid": "Oblivion.esm:0CD406",
+    "full": "LOC_FN_MiddleMetalTankard004",
+    "modl": "Clutter\\MiddleClass\\MiddleMetalTankard04.NIF"
+  },
+  {
+    "edid": "MiddleMetalTankard005",
+    "formid": "Oblivion.esm:0CD407",
+    "full": "LOC_FN_MiddleMetalTankard005",
+    "modl": "Clutter\\MiddleClass\\MiddleMetalTankard05.NIF"
+  },
+  {
+    "edid": "MiddleMetalUrn1",
+    "formid": "Oblivion.esm:0CD4DB",
+    "full": "LOC_FN_MiddleMetalUrn1",
+    "modl": "Clutter\\MiddleClass\\MiddleMetalUrm01.NIF"
+  },
+  {
+    "edid": "MiddleMetalUrn2",
+    "formid": "Oblivion.esm:0CD4DC",
+    "full": "LOC_FN_MiddleMetalUrn2",
+    "modl": "Clutter\\MiddleClass\\MiddleMetalUrm02.NIF"
+  },
+  {
+    "edid": "MiddleMetalUrn1DUPLICATE000",
+    "formid": "Oblivion.esm:0CD4E8",
+    "full": "LOC_FN_MiddleMetalUrn1DUPLICATE000",
+    "modl": "Clutter\\MiddleClass\\MiddleMetalUrm01.NIF"
+  },
+  {
+    "edid": "MiddleMetalUrn2DUPLICATE000",
+    "formid": "Oblivion.esm:0CD4E9",
+    "full": "LOC_FN_MiddleMetalUrn2DUPLICATE000",
+    "modl": "Clutter\\MiddleClass\\MiddleMetalUrm02.NIF"
+  },
+  {
+    "edid": "LapGrapeBarrelItem",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:001B9F",
+    "full": "",
+    "modl": "Clutter\\middleclass\\middlebarrelopen01.nif"
+  },
+  {
+    "edid": "Hourglass01Fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:001C95",
+    "full": "",
+    "modl": "clutter\\FineWare\\hourglass01fine.nif"
+  },
+  {
+    "edid": "UpperBowlCeramic01Fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:001C96",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperbowlceramic01fine.nif"
+  },
+  {
+    "edid": "UpperBowlCeramic01Exq",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:001C97",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperbowlceramic01exq.nif"
+  },
+  {
+    "edid": "UpperClassPlanter01fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021AE",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperclassplanter01fine.nif"
+  },
+  {
+    "edid": "UpperClassPlanter01exq",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021AF",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperclassplanter01exq.nif"
+  },
+  {
+    "edid": "UpperClassPlanter02fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021B0",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperclassplanter02fine.nif"
+  },
+  {
+    "edid": "UpperClassPlanter02exq",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021B1",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperclassplanter02exq.nif"
+  },
+  {
+    "edid": "UpperClassPlanter03fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021B2",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperclassplanter03fine.nif"
+  },
+  {
+    "edid": "UpperClassPlanter03exq",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021B3",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperclassplanter03exq.nif"
+  },
+  {
+    "edid": "UpperClassPlanter04fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021B4",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperclassplanter04fine.nif"
+  },
+  {
+    "edid": "UpperClassPlanter04exq",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021B5",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperclassplanter04exq.nif"
+  },
+  {
+    "edid": "UpperClassPlanter05fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021B6",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperclassplanter05fine.nif"
+  },
+  {
+    "edid": "UpperClassPlanter05exq",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021B7",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperclassplanter05exq.nif"
+  },
+  {
+    "edid": "UpperClassPlanter06fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021B8",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperclassplanter06fine.nif"
+  },
+  {
+    "edid": "UpperClassPlanter06exq",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021B9",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperclassplanter06exq.nif"
+  },
+  {
+    "edid": "UpperCupCeramic01fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021BA",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppercupceramic01fine.nif"
+  },
+  {
+    "edid": "UpperCupCeramic01exq",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021BB",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppercupceramic01exq.nif"
+  },
+  {
+    "edid": "UpperGobletCeramic01fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021BC",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppergobletceramic01fine.nif"
+  },
+  {
+    "edid": "UpperGobletCeramic01exq",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021BD",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppergobletceramic01exq.nif"
+  },
+  {
+    "edid": "UpperPitcherCeramic01fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021BE",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperpitchercermic01fine.nif"
+  },
+  {
+    "edid": "UpperPitcherCeramic01exq",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021BF",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperpitchercermic01exq.nif"
+  },
+  {
+    "edid": "UpperPitcherCeramic02fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021C0",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperpitchercermic02fine.nif"
+  },
+  {
+    "edid": "UpperPitcherCeramic02exq",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021C1",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperpitchercermic02exq.nif"
+  },
+  {
+    "edid": "UpperPlateCeramic01fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021C2",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperplateceramic01fine.nif"
+  },
+  {
+    "edid": "UpperPlateCeramic01exq",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021C3",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperplateceramic01exq.nif"
+  },
+  {
+    "edid": "UpperTankardCeramic01fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021C4",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppertankardceramic01fine.nif"
+  },
+  {
+    "edid": "UpperTankardCeramic01exq",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021C5",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppertankardceramic01exq.nif"
+  },
+  {
+    "edid": "UpperUrnCeramic01fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021C6",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperurnceramic01fine.nif"
+  },
+  {
+    "edid": "UpperUrnCeramic01exq",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021C7",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperurnceramic01exq.nif"
+  },
+  {
+    "edid": "UpperVaseCeramic01fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021C8",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppervaseceramic01fine.nif"
+  },
+  {
+    "edid": "UpperVaseCeramic01exq",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0021C9",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppervaseceramic01exq.nif"
+  },
+  {
+    "edid": "DeerPelt1",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0026E3",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\DeerPelt.nif"
+  },
+  {
+    "edid": "UpperScales01Fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:002708",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperscales01fine.nif"
+  },
+  {
+    "edid": "UpperScaleWeight01fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:002709",
+    "full": "",
+    "modl": "clutter\\FineWare\\upperscaleweight01fine.nif"
+  },
+  {
+    "edid": "LeopardPeltOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:003299",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\leopardhide.nif"
+  },
+  {
+    "edid": "LeopardSnowPeltOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00329A",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\snowleopardhide.nif"
+  },
+  {
+    "edid": "WolfPelt02OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00329B",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\wolficepelt.nif"
+  },
+  {
+    "edid": "LionHide01Snow",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00329C",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\snowlionhide.nif"
+  },
+  {
+    "edid": "BearPelt01a",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:003651",
+    "full": "",
+    "modl": "Clutter\\BearPelt.NIF"
+  },
+  {
+    "edid": "BoarPelt01a",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:003652",
+    "full": "",
+    "modl": "Clutter\\BearPelt.NIF"
+  },
+  {
+    "edid": "BearPelt01Kodiaka",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:003653",
+    "full": "",
+    "modl": "Clutter\\BearPelt.NIF"
+  },
+  {
+    "edid": "DeerPelt1a",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:003654",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\DeerPelt.nif"
+  },
+  {
+    "edid": "LionHide01a",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:003655",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\lionhide.nif"
+  },
+  {
+    "edid": "WolfPelt01a",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:003656",
+    "full": "",
+    "modl": "Clutter\\WolfPelt.NIF"
+  },
+  {
+    "edid": "WolfPelt02OOOa",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:003D10",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\wolficepelt.nif"
+  },
+  {
+    "edid": "WolfPeltWarg",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:003D11",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\wargpelt.nif"
+  },
+  {
+    "edid": "WolfPeltWarga",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:003D17",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\wargpelt.nif"
+  },
+  {
+    "edid": "LionHide01Snowa",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:003D19",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\snowlionhide.nif"
+  },
+  {
+    "edid": "LeopardSnowPeltOOOa",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:003D1A",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\snowleopardhide.nif"
+  },
+  {
+    "edid": "LeopardPeltOOOa",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:003D1B",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\leopardhide.nif"
+  },
+  {
+    "edid": "UOPChildOverallsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:005DE5",
+    "full": "",
+    "modl": "Clothes\\Lowerclass\\09\\M\\Shirt_gnd.NIF"
+  },
+  {
+    "edid": "MinotaurMane1",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0093A7",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\minotaurmane.nif"
+  },
+  {
+    "edid": "BearPelt01Polar",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0098C9",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\PolarBearPelt.nif"
+  },
+  {
+    "edid": "UpperGoldBowl01",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A2B8",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppergoldenbowl01.nif"
+  },
+  {
+    "edid": "UpperGoldBowl02",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A2B9",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppergoldenbowl02.nif"
+  },
+  {
+    "edid": "UpperGoldCarafe01",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A2BA",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppergoldencarafe01.nif"
+  },
+  {
+    "edid": "UpperGoldFork01",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A2BB",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppergoldenfork01.nif"
+  },
+  {
+    "edid": "UpperGoldGlass01",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A2BC",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppergoldenglass01.nif"
+  },
+  {
+    "edid": "UpperGoldGoblet01",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A2BD",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppergoldengoblet01.nif"
+  },
+  {
+    "edid": "UpperGoldGoblet02",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A2BE",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppergoldengoblet02.nif"
+  },
+  {
+    "edid": "UpperGoldKnife01",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A2BF",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppergoldenknife01.nif"
+  },
+  {
+    "edid": "UpperGoldPitcher01",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A2C0",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppergoldenpitcher01.nif"
+  },
+  {
+    "edid": "UpperGoldPitcher02",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A2C1",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppergoldenpitcher02.nif"
+  },
+  {
+    "edid": "UpperGoldPlate01",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A2C2",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppergoldenplate01.nif"
+  },
+  {
+    "edid": "UpperGoldSpoon01",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A2C3",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppergoldenspoon01.nif"
+  },
+  {
+    "edid": "UpperGoldTankard01",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A2C4",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppergoldentankard01.nif"
+  },
+  {
+    "edid": "UpperGoldUrn01",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A2C5",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppergoldenurn01.nif"
+  },
+  {
+    "edid": "UpperGoldUrn02",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A2C6",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppergoldenurn02.nif"
+  },
+  {
+    "edid": "UpperGoldVase01",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A2C7",
+    "full": "",
+    "modl": "clutter\\FineWare\\uppergoldenvase01.nif"
+  },
+  {
+    "edid": "GemShard1PearlFlawless",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A4F5",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\pearlshard.nif"
+  },
+  {
+    "edid": "GemShard1PearlPerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A4F6",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\pearlshard.nif"
+  },
+  {
+    "edid": "GemShard2Topaz",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A4F7",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\topazshard.nif"
+  },
+  {
+    "edid": "GemShard2TopazFlawed",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A4F8",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\topazshard.nif"
+  },
+  {
+    "edid": "GemShard2TopazFlawless",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A4F9",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\topazshard.nif"
+  },
+  {
+    "edid": "GemShard2TopazPerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A4FA",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\topazshard.nif"
+  },
+  {
+    "edid": "GemShard3Ruby",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A4FB",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\rubyshard.nif"
+  },
+  {
+    "edid": "GemShard3RubyFlawed",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A4FC",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\rubyshard.nif"
+  },
+  {
+    "edid": "GemShard3RubyFlawless",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A4FD",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\rubyshard.nif"
+  },
+  {
+    "edid": "GemShard3RubyPerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A4FE",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\rubyshard.nif"
+  },
+  {
+    "edid": "GemShard4Sapphire",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A4FF",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\sapphireshard.nif"
+  },
+  {
+    "edid": "GemShard4SapphireFlawed",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A500",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\sapphireshard.nif"
+  },
+  {
+    "edid": "GemShard4SapphireFlawless",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A501",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\sapphireshard.nif"
+  },
+  {
+    "edid": "GemShard4SapphirePerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A502",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\sapphireshard.nif"
+  },
+  {
+    "edid": "GemShard5Emerald",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A503",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\emeraldshard.nif"
+  },
+  {
+    "edid": "GemShard5EmeraldFlawed",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A504",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\emeraldshard.nif"
+  },
+  {
+    "edid": "GemShard5EmeraldFlawless",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A505",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\emeraldshard.nif"
+  },
+  {
+    "edid": "GemShard5EmeraldPerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A506",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\emeraldshard.nif"
+  },
+  {
+    "edid": "GemShard6Diamond",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A507",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\diamondshard.nif"
+  },
+  {
+    "edid": "GemShard6DiamondFlawed",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A508",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\diamondshard.nif"
+  },
+  {
+    "edid": "GemShard6DiamondFlawless",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A509",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\diamondshard.nif"
+  },
+  {
+    "edid": "GemShard6DiamondPerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A50A",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\diamondshard.nif"
+  },
+  {
+    "edid": "GemShard7Opal",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A50B",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\opalshard.nif"
+  },
+  {
+    "edid": "GemShard7OpalFlawed",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A50C",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\opalshard.nif"
+  },
+  {
+    "edid": "GemShard7OpalFlawless",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A50D",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\opalshard.nif"
+  },
+  {
+    "edid": "GemShard7OpalPerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A50E",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\opalshard.nif"
+  },
+  {
+    "edid": "GemShard8Garnet",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A50F",
+    "full": "",
+    "modl": "Clutter\\GX\\Gems\\GarnetShard.NIF"
+  },
+  {
+    "edid": "GemShard8GarnetFlawed",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A510",
+    "full": "",
+    "modl": "Clutter\\GX\\Gems\\GarnetShard.NIF"
+  },
+  {
+    "edid": "GemShard8GarnetFlawless",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A511",
+    "full": "",
+    "modl": "Clutter\\GX\\Gems\\GarnetShard.NIF"
+  },
+  {
+    "edid": "GemShard8GarnetPerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A512",
+    "full": "",
+    "modl": "Clutter\\GX\\Gems\\GarnetShard.NIF"
+  },
+  {
+    "edid": "GemShard9Tourmaline",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A513",
+    "full": "",
+    "modl": "Clutter\\GX\\Gems\\WTourmalineShard.nif"
+  },
+  {
+    "edid": "GemShard9TourmalineFlawed",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A514",
+    "full": "",
+    "modl": "Clutter\\GX\\Gems\\WTourmalineShard.nif"
+  },
+  {
+    "edid": "GemShard9TourmalineFlawless",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A515",
+    "full": "",
+    "modl": "Clutter\\GX\\Gems\\WTourmalineShard.nif"
+  },
+  {
+    "edid": "GemShard9TourmalinePerfect",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:00A516",
+    "full": "",
+    "modl": "Clutter\\GX\\Gems\\WTourmalineShard.nif"
+  },
+  {
+    "edid": "ClothBolt02Fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:01C251",
+    "full": "",
+    "modl": "Clutter\\ClothBolt02.NIF"
+  },
+  {
+    "edid": "ClothBolt03Fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:01C252",
+    "full": "",
+    "modl": "Clutter\\ClothBolt03.NIF"
+  },
+  {
+    "edid": "ClothBolt04Fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:01C253",
+    "full": "",
+    "modl": "Clutter\\ClothBolt04.NIF"
+  },
+  {
+    "edid": "ClothBolt01Fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:01C254",
+    "full": "",
+    "modl": "Clutter\\ClothBolt01.NIF"
+  },
+  {
+    "edid": "ClothBolt05Fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:01C255",
+    "full": "",
+    "modl": "Clutter\\ClothBolt05.NIF"
+  },
+  {
+    "edid": "Quill01Fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:01C257",
+    "full": "",
+    "modl": "clutter\\FineWare\\quill03fine.nif"
+  },
+  {
+    "edid": "Quill01Excellent",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:01C258",
+    "full": "",
+    "modl": "clutter\\FineWare\\quill02fine.nif"
+  },
+  {
+    "edid": "Inkwell01Fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:01C25A",
+    "full": "",
+    "modl": "clutter\\FineWare\\inkwell01fine.nif"
+  },
+  {
+    "edid": "FoldedCloth05Fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:01CC3A",
+    "full": "",
+    "modl": "Clutter\\FoldedCloth05.NIF"
+  },
+  {
+    "edid": "FoldedCloth01Fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:01CC3B",
+    "full": "",
+    "modl": "Clutter\\FoldedCloth01.NIF"
+  },
+  {
+    "edid": "FoldedCloth02Fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:01CC3C",
+    "full": "",
+    "modl": "Clutter\\FoldedCloth02.NIF"
+  },
+  {
+    "edid": "FoldedCloth03Fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:01CC3D",
+    "full": "",
+    "modl": "Clutter\\FoldedCloth03.NIF"
+  },
+  {
+    "edid": "FoldedCloth04Fine",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:01CC3E",
+    "full": "",
+    "modl": "Clutter\\FoldedCloth04.NIF"
+  },
+  {
+    "edid": "BearPelt01aSpecial",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:026955",
+    "full": "",
+    "modl": "Clutter\\BearPelt.NIF"
+  },
+  {
+    "edid": "WolfPeltWargGiant",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02929A",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\wargpelt.nif"
+  },
+  {
+    "edid": "WolfPeltWargGiant2",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:029824",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\wargpelt.nif"
+  },
+  {
+    "edid": "GuarPelt01",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02EAD8",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\GuarPelt.nif"
+  },
+  {
+    "edid": "BearPelt01Kodiak",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02F9F9",
+    "full": "",
+    "modl": "Clutter\\BearPelt.NIF"
+  },
+  {
+    "edid": "WolfPelt01Giant",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:02F9FB",
+    "full": "",
+    "modl": "Clutter\\WolfPelt.NIF"
+  },
+  {
+    "edid": "GuarPeltAshen01",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0317BF",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\BlackGuarPelt.nif"
+  },
+  {
+    "edid": "GuarPeltMarsh01",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0317C0",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\WildGuarPelt.nif"
+  },
+  {
+    "edid": "BoarPelt01",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:032670",
+    "full": "",
+    "modl": "Clutter\\BearPelt.NIF"
+  },
+  {
+    "edid": "Gold002a",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:03A587",
+    "full": "",
+    "modl": "Clutter\\ayleidcoin.nif"
+  },
+  {
+    "edid": "LeopardPeltOOOab",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:0429DB",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\leopardhide.nif"
+  },
+  {
+    "edid": "Gold002",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:048F80",
+    "full": "",
+    "modl": "Clutter\\ayleidcoin.nif"
+  },
+  {
+    "edid": "OOOSheepWool",
+    "formid": "Oscuro's_Oblivion_Overhaul_merged.esp:06EA5B",
+    "full": "",
+    "modl": "clutter\\LionPeltFix\\DeerPelt.nif"
+  }
+]

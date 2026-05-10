@@ -1,0 +1,272 @@
+[
+  {
+    "edid": "SFXUnEquipDreadSetOOO2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:000D57",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWaspInjured",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:000ED6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWaspAware",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:000ED8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWaspAttack",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:000ED9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SFXEquipDreadSetOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002659",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCWolfHowlSummon",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:007AD2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SFXUnEquipDreadSetOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:01A96E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOCentSpiderAttack",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02EAC1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOCentSpiderAware",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02EAC2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOCentSpiderDeath",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02EAC3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOCentSpiderFoot",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02EAC4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOCentSpiderIdle",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02EAC5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOCentSpiderInjured",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02EAC6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOHungerAttack",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02EAC7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOHungerAware",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02EAC8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOHungerDeath",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02EAC9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOHungerIdle",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02EACA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOHungerInjured",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02EACB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGuarAttack",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02EACC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGuarDeath",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02EACD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGuarIdle",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02EACE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGuarInjured",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02EACF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWormFoot",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02F79B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWormAttack",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02F79C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWormAware",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02F79D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWormDeath",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02F79E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWormIdle",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02F79F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWormInjured",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02F7A0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWaspDeath",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:036203",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32GateLeverSound1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0399AF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32GateLeverSound2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0399B0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGargoyleAttack",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:040397",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGargoyleAware",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:040398",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGargoyleDeath",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:040399",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGargoyleFoot",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:04039A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGargoyleIdle",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:04039B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "NPCOOOGargoyleInjured",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:04039C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCMushroomAttack",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0432B0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCMushroomAware",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0432B1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCMushroomDeath",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0432B2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCMushroomIdle",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0432B3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCMushroomInjured",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0432B4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEPickupOrganic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:06473C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWaspIdle",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0C4E56",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSENPCWaspFoot",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0C4E57",
+    "full": null,
+    "modl": null
+  }
+]

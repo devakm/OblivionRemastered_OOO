@@ -1,0 +1,242 @@
+[
+  {
+    "edid": "LapGrapeJuice",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002A5A",
+    "full": "",
+    "modl": "clutter\\Booze\\meadbottle.nif"
+  },
+  {
+    "edid": "LapAppleJuice",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:002A60",
+    "full": "",
+    "modl": "clutter\\Booze\\alebottle.nif"
+  },
+  {
+    "edid": "lbPotionOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:00C5FB",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionRestoreFatigueS2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:010BDB",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_yellow.nif"
+  },
+  {
+    "edid": "PotionRestoreFatigueS3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:010BDC",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_yellow.nif"
+  },
+  {
+    "edid": "PotionRestoreFatigueS4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:010BDE",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_yellow.nif"
+  },
+  {
+    "edid": "PotionRestoreFatigueS5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:010BE0",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_yellow.nif"
+  },
+  {
+    "edid": "PotionRestoreFatigueS6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:010BE2",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_yellow.nif"
+  },
+  {
+    "edid": "PotionRestoreMagickaS2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:010BEC",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_blue.nif"
+  },
+  {
+    "edid": "PotionRestoreMagickaS3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:010BED",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_blue.nif"
+  },
+  {
+    "edid": "PotionRestoreMagickaS4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:010BEF",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_blue.nif"
+  },
+  {
+    "edid": "PotionRestoreMagickaS5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:010BF1",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_blue.nif"
+  },
+  {
+    "edid": "PotionRestoreMagickaS6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:010BF3",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_blue.nif"
+  },
+  {
+    "edid": "PotionRestoreHealthS2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02E3A9",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_red.nif"
+  },
+  {
+    "edid": "PotionRestoreHealthS3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02E3AA",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_red.nif"
+  },
+  {
+    "edid": "PotionRestoreHealthS4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02E3AC",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_red.nif"
+  },
+  {
+    "edid": "PotionRestoreHealthS6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02E3AE",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_red.nif"
+  },
+  {
+    "edid": "PotionRestoreHealthS5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:02E3B0",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_red.nif"
+  },
+  {
+    "edid": "LAPPoisonCombustionAOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0462E2",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonCombustionBOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0462E3",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonCombustionCOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0462E5",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonFreezingGraspAOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0462E7",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonFreezingGraspBOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0462E9",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonFreezingGraspCOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0462EB",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonRustAOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0462ED",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonRustBOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0462EF",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonRustCOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0462F1",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonShockingAOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0462F3",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LAPPoisonShockingBOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0462F5",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "LapPoisonShockingCOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0462F7",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "TandFighterPot1OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048A41",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_red.nif"
+  },
+  {
+    "edid": "TandFighterPot2OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048A42",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_yellow.nif"
+  },
+  {
+    "edid": "TandMagePot1OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048A44",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_red.nif"
+  },
+  {
+    "edid": "TandMagePot2OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:048A46",
+    "full": "",
+    "modl": "clutter\\RCpotions\\potion01_blue.nif"
+  },
+  {
+    "edid": "bgSlowFallWeakOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:06EA25",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\ironnuggetsmall.nif"
+  },
+  {
+    "edid": "bgSlowFallNormOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:06EA26",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\ironnugget.nif"
+  },
+  {
+    "edid": "bgSlowFallStrongOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:06EA27",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\ironnuggetlarge.nif"
+  },
+  {
+    "edid": "bgGravityPoisonOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:06EA28",
+    "full": "",
+    "modl": "clutter\\GX\\Gems\\Ironnuggetsmall.nif"
+  },
+  {
+    "edid": "OOOSEEasterEggWine",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:07D403",
+    "full": "Mysterious Wine",
+    "modl": "OOOSE\\Other\\BerniceWine.nif"
+  },
+  {
+    "edid": "OOOSEElixirTrueMight",
+    "formid": "Oscuro's_Oblivion_Overhaul.esm:0A020E",
+    "full": "Elixir of True Might",
+    "modl": "OOOSE\\Other\\ElixirTrueMight.nif"
+  }
+]
