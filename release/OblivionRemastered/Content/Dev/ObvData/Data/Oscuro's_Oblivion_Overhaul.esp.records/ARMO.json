@@ -7947,37 +7947,37 @@
     "edid": "ObsidianBoots",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CFCE",
     "full": "LOC_FN_ObsidianBoots",
-    "modl": "Armor\\Glass\\M\\Boots.NIF"
+    "modl": "Armor\\Obsidian\\M\\Boots.NIF"
   },
   {
     "edid": "ObsidianCuirass",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CFCF",
     "full": "LOC_FN_ObsidianCuirass",
-    "modl": "Armor\\Glass\\M\\Cuirass.NIF"
+    "modl": "Armor\\Obsidian\\M\\Cuirass.NIF"
   },
   {
     "edid": "ObsidianGauntlets",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CFD0",
     "full": "LOC_FN_ObsidianGauntlets",
-    "modl": "Armor\\Glass\\M\\Gauntlets.NIF"
+    "modl": "Armor\\Obsidian\\M\\Gauntlets.NIF"
   },
   {
     "edid": "ObsidianGreaves",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CFD1",
     "full": "LOC_FN_ObsidianGreaves",
-    "modl": "Armor\\Glass\\M\\Greaves.NIF"
+    "modl": "Armor\\Obsidian\\M\\Greaves.NIF"
   },
   {
     "edid": "ObsidianHelmet",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CFD2",
     "full": "LOC_FN_ObsidianHelmet",
-    "modl": "Armor\\Glass\\Helmet.NIF"
+    "modl": "Armor\\Obsidian\\Helmet.NIF"
   },
   {
     "edid": "ObsidianShield",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CFD3",
     "full": "LOC_FN_ObsidianShield",
-    "modl": "Armor\\Glass\\Shield.NIF"
+    "modl": "Armor\\Obsidian\\Shield.NIF"
   },
   {
     "edid": "LegionBootsImperialTarnished",

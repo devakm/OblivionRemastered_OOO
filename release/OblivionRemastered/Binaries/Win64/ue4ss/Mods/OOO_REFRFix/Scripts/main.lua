@@ -197,6 +197,7 @@ local SNAP_RADIUS_SQ   = 3000 * 3000
 -- threshold and were falsely classified FAILED_SKY by VERIFY. 5000 is safely above Z2 floor max
 -- (~2890) and well below sky stash (~7000+), so all three zones classify correctly.
 local SKY_STASH_Z_MIN  = 5000
+local PLACE_Z_ABOVE    = 50   -- v2.52.0: place above floor so actor drops onto surface (prevents jitter from capsule at exact floor Z)
 
 
 local function spawnKey(e)
@@ -458,7 +459,7 @@ local function runQCRedistribute(zone_sc, entries)
         zone_sc[old_k] = (zone_sc[old_k] or 1) - 1
         zone_sc[new_k] = (zone_sc[new_k] or 0) + 1
         local ok = pcall(function()
-            bd.p.pawn_obj:K2_SetActorLocation({X=bv.tx, Y=bv.ty, Z=bv.tz}, false, {}, true)
+            bd.p.pawn_obj:K2_SetActorLocation({X=bv.tx, Y=bv.ty, Z=bv.tz + PLACE_Z_ABOVE}, false, {}, true)
         end)
         if ok then
             reassigned = reassigned + 1
@@ -750,7 +751,7 @@ local function runScan()
                 npc_landed[pawn_fn] = true
             else
                 local ok_set = pcall(function()
-                    pawn:K2_SetActorLocation({X=act_x, Y=act_y, Z=tgt.z}, false, {}, true)
+                    pawn:K2_SetActorLocation({X=act_x, Y=act_y, Z=tgt.z + PLACE_Z_ABOVE}, false, {}, true)
                 end)
                 if ok_set then
                     pawn_moved = pawn_moved + 1
@@ -787,7 +788,7 @@ local function runScan()
                     if dist > 500 then
                         local ok_set = pcall(function()
                             p.pawn_obj:K2_SetActorLocation(
-                                {X=p.tgt.x, Y=p.tgt.y, Z=p.tgt.z}, false, {}, true)
+                                {X=p.tgt.x, Y=p.tgt.y, Z=p.tgt.z + PLACE_Z_ABOVE}, false, {}, true)
                         end)
                         local sn = (fn:match("([^%.:%s]+)%s*$") or fn):sub(1,44)
                         log(string.format("  DISP_RECOV  %-10s  sp=%-8s  dist=%.0f  Z=%.0f  tgt=(%.0f,%.0f,%.0f)  %s",
@@ -1014,7 +1015,7 @@ end
 
 -- ─── Boot-time unit tests (Phase 9-C) ────────────────────────────────────────
 -- Run tests.lua once per version bump; skip silently on subsequent boots.
-local VERSION = "v2.51.0"
+local VERSION = "v2.52.0"
 do
     local last_ver = ""
     local ok_f, last_f = pcall(function()

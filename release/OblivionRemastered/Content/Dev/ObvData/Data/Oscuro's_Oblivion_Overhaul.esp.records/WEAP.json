@@ -9888,6 +9888,60 @@
     "modl": "Weapons\\Iron\\Warhammer.NIF"
   },
   {
+    "edid": "WeapObsidianBattleAxe",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE8B",
+    "full": "LOC_FN_WeapObsidianBattleAxe",
+    "modl": "Weapons\\Ebony\\Battleaxe.NIF"
+  },
+  {
+    "edid": "WeapObsidianBow",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE8C",
+    "full": "LOC_FN_WeapObsidianBow",
+    "modl": "Weapons\\Ebony\\Bow.NIF"
+  },
+  {
+    "edid": "WeapObsidianClaymore",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE8D",
+    "full": "LOC_FN_WeapObsidianClaymore",
+    "modl": "Weapons\\Ebony\\Claymore.NIF"
+  },
+  {
+    "edid": "WeapObsidianDagger",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE90",
+    "full": "LOC_FN_WeapObsidianDagger",
+    "modl": "Weapons\\Ebony\\Dagger.NIF"
+  },
+  {
+    "edid": "WeapObsidianLongsword",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE91",
+    "full": "LOC_FN_WeapObsidianLongsword",
+    "modl": "Weapons\\Ebony\\LongSword.NIF"
+  },
+  {
+    "edid": "WeapObsidianMace",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE92",
+    "full": "LOC_FN_WeapObsidianMace",
+    "modl": "Weapons\\Ebony\\Mace.NIF"
+  },
+  {
+    "edid": "WeapObsidianShortsword",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE94",
+    "full": "LOC_FN_WeapObsidianShortsword",
+    "modl": "Weapons\\Ebony\\ShortSword.NIF"
+  },
+  {
+    "edid": "WeapObsidianWarAxe",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE95",
+    "full": "LOC_FN_WeapObsidianWarAxe",
+    "modl": "Weapons\\Ebony\\WarAxe.NIF"
+  },
+  {
+    "edid": "WeapObsidianWarHammer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE96",
+    "full": "LOC_FN_WeapObsidianWarHammer",
+    "modl": "Weapons\\Ebony\\Warhammer.NIF"
+  },
+  {
     "edid": "OOOSEAmberDaggerB",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:012A5A",
     "full": "LOC_FN_OOOSEAmberDaggerB",
