@@ -1,0 +1,15 @@
+{
+	"Plugin": "Oscuro's_Oblivion_Overhaul.esp",
+	"NewStrings": {
+		"LOC_FN_AyleidWeapDoor": "Wooden Door",
+		"LOC_FN_OOOARDoor01bVarastal": "Stone Door",
+		"LOC_FN_OOOSE32PCDoor": "Door to My Chamber",
+		"LOC_FN_DisplayCasePurple01DoorUmbacano": "Display Case",
+		"LOC_FN_DisplayCasePurple02DoorUmbacano": "Display Case",
+		"LOC_FN_RicketyFenceGateSlavers": "Stick Fence Gate",
+		"LOC_FN_OOOSEGateToTamriel": "Madgod's Portal",
+		"LOC_FN_OOOSEGateToSEWorld": "Madgod's Portal",
+		"LOC_FN_OOOSE38MuseumDisplayCase": "Display Case",
+		"LOC_FN_ArgonianSmugglerShamanMale8": "Black Marsh Shaman"
+	}
+}

@@ -146,55 +146,55 @@
   {
     "edid": "AyleidWeapDoor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00353D",
-    "full": "Wooden Door",
+    "full": "LOC_FN_AyleidWeapDoor",
     "modl": "Architecture\\BasementSections\\Ungrddoor.NIF"
   },
   {
     "edid": "OOOARDoor01bVarastal",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0173D6",
-    "full": "Stone Door",
-    "modl": "dungeons\\ayleidruins\\exterior\\OOOardoor01Varastal.nif"
+    "full": "LOC_FN_OOOARDoor01bVarastal",
+    "modl": "Dungeons\\AyleidRuins\\Exterior\\ARDoor01.NIF"
   },
   {
     "edid": "OOOSE32PCDoor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02364A",
-    "full": "Door to My Chamber",
+    "full": "LOC_FN_OOOSE32PCDoor",
     "modl": "Dungeons\\RuinInteriors\\Doors\\RuinsDOORshort01.NIF"
   },
   {
     "edid": "DisplayCasePurple01DoorUmbacano",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02E2B4",
-    "full": "Display Case",
+    "full": "LOC_FN_DisplayCasePurple01DoorUmbacano",
     "modl": "Clutter\\UpperClass\\UpperClassDisplayCasePurple01.NIF"
   },
   {
     "edid": "DisplayCasePurple02DoorUmbacano",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02E2B5",
-    "full": "Display Case",
+    "full": "LOC_FN_DisplayCasePurple02DoorUmbacano",
     "modl": "Clutter\\UpperClass\\UpperClassDisplayCasePurple02.NIF"
   },
   {
     "edid": "RicketyFenceGateSlavers",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0356FE",
-    "full": "Stick Fence Gate",
+    "full": "LOC_FN_RicketyFenceGateSlavers",
     "modl": "Dungeons\\Misc\\RicketyFenceGate01.NIF"
   },
   {
     "edid": "OOOSEGateToTamriel",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:07FE1E",
-    "full": "Madgod's Portal",
+    "full": "LOC_FN_OOOSEGateToTamriel",
     "modl": "Effects\\SE01Gateway02.NIF"
   },
   {
     "edid": "OOOSEGateToSEWorld",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0A6F5D",
-    "full": "Madgod's Portal",
+    "full": "LOC_FN_OOOSEGateToSEWorld",
     "modl": "Effects\\SE01Gateway02.NIF"
   },
   {
     "edid": "OOOSE38MuseumDisplayCase",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:1325B6",
-    "full": "Display Case",
+    "full": "LOC_FN_OOOSE38MuseumDisplayCase",
     "modl": "OOOSE\\other\\MuseumDisplayCase.nif"
   }
 ]

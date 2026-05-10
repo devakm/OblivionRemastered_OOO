@@ -1,7 +1,6 @@
 {
 	"Plugin": "Oscuro's_Oblivion_Overhaul.esp",
 	"NewStrings": {
-		
 		"LOC_FN_SmokeHoleSylvanRangerCampMarker": "Smoke Hole Sylvan Ranger Camp",
 		"LOC_FN_StridRiverSylvanRangerCampMarker": "Strid River Sylvan Ranger Camp",
 		"LOC_FN_WestKvatchSylvanRangerCampMarker": "West Kvatch Sylvan Ranger Camp",

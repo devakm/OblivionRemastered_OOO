@@ -8,6 +8,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "CheydinhalMagesGuildBasement",
+    "formid": "Oblivion.esm:006917",
+    "full": "LOC_FN_CheydinhalMagesGuildBasement",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "AnvilCastlePrivateQuarters",
     "formid": "Oblivion.esm:007966",
     "full": "LOC_FN_AnvilCastlePrivateQuarters",
@@ -763,6 +771,14 @@
     "edid": "ICElvenGardensKastusSintavsHouseUpstairs",
     "formid": "Oblivion.esm:03FC08",
     "full": "LOC_FN_ICElvenGardensKastusSintavsHouseUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "HrotandaVale02",
+    "formid": "Oblivion.esm:0463F6",
+    "full": "LOC_FN_HrotandaVale02",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0

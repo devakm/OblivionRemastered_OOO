@@ -26,17 +26,23 @@
 		"7065": "/Game/Maps/Interiors/Atatar/L_Atatar",
 		"7C0C": "/Game/Maps/Interiors/Varondo/L_Varondo",
 		"7C0B": "/Game/Maps/Interiors/Varondo/L_Varondo",
-		"1B2E": "/Game/Maps/Interiors/L_OOORCastleInterior",
+		"1B2E": "/Game/Maps/Interiors/L_TestCastleInterior",
 		"1D36": "/Game/Maps/Interiors/Veyond/L_Veyond",
-		"16D4A": "/Game/Maps/Interiors/L_OOORParadiseCave",
+		"16D4A": "/Game/Maps/Interiors/Mages_Guild/L_OscuroWaterCellCHMGWell0", 
 		"16E23": "/Game/Maps/Interiors/Bloodcrust_Cavern/L_BloodcrustCavern",
-		"16ECF": "/Game/Maps/Interiors/Bloodmayne_Cave/L_BloodmayneCave",
+		"16ECF": "/Game/Maps/Interiors/Mages_Guild/L_OscuroWaterCellCHMGWell0",
 		"A844": "/Game/Maps/Interiors/Vindasel/L_Vindasel",
 		"3594": "/Game/Maps/Interiors/Sardavar_Leed/L_SardavarLeed", 
 		"3769": "/Game/Maps/Interiors/Sardavar_Leed/L_SardavarLeed02",
 		"2642": "/Game/Maps/Interiors/Kemen/L_Kemen",
 		"27DB": "/Game/Maps/Interiors/Kemen/L_Kemen02",
 		"28E2": "/Game/Maps/Interiors/Lindai/L_Lindai01",
-		"1CC27": "/Game/Maps/Interiors/L_TestCave05"
-	}
+		"1CC27": "/Game/Maps/Interiors/L_OOORCastleInterior"
+	},
+	"RAX.Maps": [
+		"/Game/Maps/Interiors/L_OOORCastleInterior",
+		"/Game/Maps/Interiors/Quickwater_Cave/L_OOOR1waterCave",
+		"/Game/Maps/Interiors/Quickwater_Cave/L_OOOR2waterCave02",
+		"/Game/Maps/Interiors/Mages_Guild/L_OscuroWaterCellCHMGWell0"
+	]
 }
