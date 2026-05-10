@@ -9759,19 +9759,19 @@
     "edid": "WeapCetRapier2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00D468",
     "full": "LOC_FN_WeapCetRapier2",
-    "modl": "Weapons\\Cetrapier\\cetrapierleft.nif"
+    "modl": "Weapons\\Cutlass\\Cutlass.NIF"
   },
   {
     "edid": "WeapCetRapierNone",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00D469",
     "full": "LOC_FN_WeapCetRapierNone",
-    "modl": "Weapons\\Cetrapier\\cetrapiernone.nif"
+    "modl": "Weapons\\Cutlass\\Cutlass.NIF"
   },
   {
     "edid": "WeapCetRapierSpecial",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00D46C",
     "full": "LOC_FN_WeapCetRapierSpecial",
-    "modl": "Weapons\\Cetrapier\\cetrapier.nif"
+    "modl": "Weapons\\Cutlass\\Cutlass.NIF"
   },
   {
     "edid": "VolmyrSword",
@@ -11499,7 +11499,7 @@
     "edid": "WeapCetRapier",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038D55",
     "full": "LOC_FN_WeapCetRapier",
-    "modl": "Weapons\\Cetrapier\\cetrapier.nif"
+    "modl": "Weapons\\Cutlass\\Cutlass.NIF"
   },
   {
     "edid": "WeapZElvenMaceNoor",

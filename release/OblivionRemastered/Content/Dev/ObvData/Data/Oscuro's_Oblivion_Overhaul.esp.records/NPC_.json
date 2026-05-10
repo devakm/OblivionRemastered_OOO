@@ -17416,5 +17416,11 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA72",
     "full": "Seducer",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
+  },
+  {
+    "edid": "zOOOHaplessVictim01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:07DDB4",
+    "full": "LOC_FN_zOOOHaplessVictim01",
+    "modl": "Characters\\_Male\\skeleton.nif"
   }
 ]
