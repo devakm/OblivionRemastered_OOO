@@ -2,475 +2,475 @@
   {
     "edid": "DarkFirstMateKey",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002D6D",
-    "full": "Rusted Iron Key",
+    "full": "LOC_FN_DarkFirstMateKey",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "RoselarKey",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0043B9",
-    "full": "Rosulas Key",
+    "full": "LOC_FN_RoselarKey",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "Regulusterentiuskey",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00445F",
-    "full": "Plain Silver Key",
+    "full": "LOC_FN_Regulusterentiuskey",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "MelusPetiliusChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00528B",
-    "full": "Melus Petilius Old Key",
+    "full": "LOC_FN_MelusPetiliusChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "HonmundKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005DE7",
-    "full": "Small Golden Key",
+    "full": "LOC_FN_HonmundKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "HafidhollowlegOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005DE9",
-    "full": "Small Rusted Key",
+    "full": "LOC_FN_HafidhollowlegOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "LyraRosentiaKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005DF1",
-    "full": "Tiny Ornate Key",
+    "full": "LOC_FN_LyraRosentiaKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "ArrianaValgaKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0067FB",
-    "full": "Tiny Steel Key",
+    "full": "LOC_FN_ArrianaValgaKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "EugalBeletteKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0067FF",
-    "full": "Stained Key",
+    "full": "LOC_FN_EugalBeletteKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "FrancoisMotierreKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006800",
-    "full": "Small Ornate Key",
+    "full": "LOC_FN_FrancoisMotierreKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "TalasmasKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006801",
-    "full": "Small Sticky Key",
+    "full": "LOC_FN_TalasmasKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "VilenaDontonKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006804",
-    "full": "Tiny Engraved Key",
+    "full": "LOC_FN_VilenaDontonKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "HannibalTravenKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006D42",
-    "full": "Hannibal Traven's Shiny Key",
+    "full": "LOC_FN_HannibalTravenKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "DovynArensChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00743E",
-    "full": "Blackened Key",
+    "full": "LOC_FN_DovynArensChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "DulgroShugsChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007440",
-    "full": "Dented Small Iron Key",
+    "full": "LOC_FN_DulgroShugsChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "RajhansChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00794B",
-    "full": "Ra'Jhan's Tiny Key",
+    "full": "LOC_FN_RajhansChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "InielSintavsChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00813E",
-    "full": "Iniel Sintav's Small Key",
+    "full": "LOC_FN_InielSintavsChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "KastusSintavsChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00813F",
-    "full": "Kastus Sintav's Tiny Key",
+    "full": "LOC_FN_KastusSintavsChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "MarinusCatiotusChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008141",
-    "full": "Marinus' Iron Key",
+    "full": "LOC_FN_MarinusCatiotusChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "RodericPierranesChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008142",
-    "full": "Roderic Pierrane's Jeweled Key",
+    "full": "LOC_FN_RodericPierranesChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "TertiusFavoniusChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008145",
-    "full": "Tertius' Small Copper Key",
+    "full": "LOC_FN_TertiusFavoniusChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "WumeekKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008146",
-    "full": "Wumeek's Tiny Key",
+    "full": "LOC_FN_WumeekKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "MillonaUmbranoxKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00925C",
-    "full": "Tiny Jeweled Key",
+    "full": "LOC_FN_MillonaUmbranoxKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "HeinrichOakenKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:009C7F",
-    "full": "Small Gold Riveted Key",
+    "full": "LOC_FN_HeinrichOakenKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "AngelieChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A09D",
-    "full": "Angelie's Silver Key",
+    "full": "LOC_FN_AngelieChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "DorianChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A09E",
-    "full": "Dorian's Jeweled Key",
+    "full": "LOC_FN_DorianChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "NarinaKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A17A",
-    "full": "Small Jeweled Key",
+    "full": "LOC_FN_NarinaKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "JakbenImbelChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A5D1",
-    "full": "Jakben Imbel's Jeweled Key",
+    "full": "LOC_FN_JakbenImbelChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "GemellusAxiusChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A5D2",
-    "full": "Gemellus' Tiny Key",
+    "full": "LOC_FN_GemellusAxiusChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "UlrichLelandKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AB5F",
-    "full": "Sturdy Steel Key",
+    "full": "LOC_FN_UlrichLelandKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "AndelIndarysKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AB61",
-    "full": "Ornated Golden Key",
+    "full": "LOC_FN_AndelIndarysKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "DraconisMatthiasChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFD2",
-    "full": "Matthias Draconis' Tiny Key",
+    "full": "LOC_FN_DraconisMatthiasChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "OntusVaninChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFD3",
-    "full": "Ontus Vanin's Stained Key",
+    "full": "LOC_FN_OntusVaninChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "SevariusAtiusChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFD5",
-    "full": "Sevarius Atius' Jeweled Key",
+    "full": "LOC_FN_SevariusAtiusChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "SorisArenimChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFD6",
-    "full": "Soris Arenim's Small Key",
+    "full": "LOC_FN_SorisArenimChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "SrathadChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFD7",
-    "full": "S'rathad's Tiny Key",
+    "full": "LOC_FN_SrathadChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "ThamrielChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFD8",
-    "full": "Thamriel's Small Key",
+    "full": "LOC_FN_ThamrielChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "AthramChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFD9",
-    "full": "Athram's Jeweled Key",
+    "full": "LOC_FN_AthramChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "UmbacanoChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFDB",
-    "full": "Umbacano's Jeweled Key",
+    "full": "LOC_FN_UmbacanoChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "AmantiusAllectusChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFDD",
-    "full": "Allectus' Tiny Key",
+    "full": "LOC_FN_AmantiusAllectusChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "HagaerChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFDE",
-    "full": "Hagaer's Small Key",
+    "full": "LOC_FN_HagaerChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "RolandJensericChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFDF",
-    "full": "Jenseric's Tiny Key",
+    "full": "LOC_FN_RolandJensericChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "SeridurChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFE0",
-    "full": "Seridur's Blood Stained Key",
+    "full": "LOC_FN_SeridurChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "StantusVarridChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFE2",
-    "full": "Stantus Varrid's Tiny Key",
+    "full": "LOC_FN_StantusVarridChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "TrenusDuroniusChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFE3",
-    "full": "Trenus Duronius' Jeweled Key",
+    "full": "LOC_FN_TrenusDuroniusChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "TussaudChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFE4",
-    "full": "Gaston Tussaud's Small Key",
+    "full": "LOC_FN_TussaudChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "AhdarjiChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFE6",
-    "full": "Ahdarji 's Tiny Key",
+    "full": "LOC_FN_AhdarjiChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "AlvalUvaniChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFE8",
-    "full": "Alval Uvani's Jeweled Key",
+    "full": "LOC_FN_AlvalUvaniChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "MariusCaroChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFEF",
-    "full": "Marius Caro's Jeweled Key",
+    "full": "LOC_FN_MariusCaroChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "NumeenChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00BEE0",
-    "full": "Numeen's Jeweled Key",
+    "full": "LOC_FN_NumeenChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "HalLiurzChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00BEEA",
-    "full": "Hal-Liurz's Tiny Key",
+    "full": "LOC_FN_HalLiurzChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "JanusHassildorChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00BEEB",
-    "full": "Janus Hassildor's Jeweled Key",
+    "full": "LOC_FN_JanusHassildorChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "GlarthirChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00BEF6",
-    "full": "Glarthir's Tiny Key",
+    "full": "LOC_FN_GlarthirChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "LazareMilvanChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00BEF7",
-    "full": "Lazare Milvan's Jeweled Key",
+    "full": "LOC_FN_LazareMilvanChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "PrimoAntoniusChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00BEFE",
-    "full": "Primo Antonius' Jeweled Key",
+    "full": "LOC_FN_PrimoAntoniusChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "ToutiusSextiusChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00BF02",
-    "full": "Toutius Sextius' Small Key",
+    "full": "LOC_FN_ToutiusSextiusChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "CarandialChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C429",
-    "full": "Carandial's Small Iron Key",
+    "full": "LOC_FN_CarandialChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "DroshanjiChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C42A",
-    "full": "Dro'shanji's Steel Tiny Key",
+    "full": "LOC_FN_DroshanjiChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "BaeralornChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C433",
-    "full": "Baeralorn's Tiny Silver Key",
+    "full": "LOC_FN_BaeralornChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "RimalusBruiantChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C434",
-    "full": "Rimalus Bruiant's Jeweled Key",
+    "full": "LOC_FN_RimalusBruiantChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "LadyDradChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C435",
-    "full": "Lady Drad's Jeweled Key",
+    "full": "LOC_FN_LadyDradChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "zzOOODragonborneChestKey",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0120B3",
-    "full": "Sir Alain's Key",
+    "full": "LOC_FN_zzOOODragonborneChestKey",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "ViatorAcciusChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0141E8",
-    "full": "Orcish Nobility Shield Key",
+    "full": "LOC_FN_ViatorAcciusChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "RohssanChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0141EE",
-    "full": "Rohssan's Jeweled Key",
+    "full": "LOC_FN_RohssanChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "PhintiasChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014205",
-    "full": "Phintias's Tiny Key",
+    "full": "LOC_FN_PhintiasChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "JharedStrongbladeKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014267",
-    "full": "Jhared Strongblade's Key",
+    "full": "LOC_FN_JharedStrongbladeKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "EidKeeKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:017016",
-    "full": "Eidkee's Small Key",
+    "full": "LOC_FN_EidKeeKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "KizraChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0195D4",
-    "full": "Kizra's Rusty Key",
+    "full": "LOC_FN_KizraChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "DwemerRodChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0246CC",
-    "full": "Glowing Tiny Key",
+    "full": "LOC_FN_DwemerRodChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "AlmalexiaLoveChestKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0246CE",
-    "full": "Iridescent Tiny Key",
+    "full": "LOC_FN_AlmalexiaLoveChestKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "HannibalTravenKey2OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:026733",
-    "full": "Glowing Key",
+    "full": "LOC_FN_HannibalTravenKey2OOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "UmbacanoChestKeyOOO2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02E2AF",
-    "full": "Umbacano's Ayleid Shaped Key",
+    "full": "LOC_FN_UmbacanoChestKeyOOO2",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "UmbacanoChestKeyOOO3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02E2B0",
-    "full": "Umbacano's Tiny Key",
+    "full": "LOC_FN_UmbacanoChestKeyOOO3",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "UmbacanoChestKeyOOO2a",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02E2B2",
-    "full": "Umbacano's Ayleid Shaped Large Key",
+    "full": "LOC_FN_UmbacanoChestKeyOOO2a",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "ArgonianPrisonCellKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:039741",
-    "full": "Rusted Iron Key",
+    "full": "LOC_FN_ArgonianPrisonCellKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "FortCuptorKeyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0415A8",
-    "full": "Fort Cuptor's High Chamber Key",
+    "full": "LOC_FN_FortCuptorKeyOOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "ArgonianPrisonCellKey2OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04A312",
-    "full": "Rusted Dark Iron Key",
+    "full": "LOC_FN_ArgonianPrisonCellKey2OOO",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "AAAATest",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04F9B3",
-    "full": "Testi key",
+    "full": "LOC_FN_AAAATest",
     "modl": "Clutter\\Key\\Key.NIF"
   },
   {
     "edid": "OOOSE38DisplayCaseKey",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0520EF",
-    "full": "Display Case Key",
+    "full": "LOC_FN_OOOSE38DisplayCaseKey",
     "modl": "Clutter\\Key\\Key.NIF"
   }
 ]

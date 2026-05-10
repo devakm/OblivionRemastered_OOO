@@ -7618,7 +7618,7 @@
   {
     "edid": "MelusPetiliusBasement",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006D3F",
-    "full": "Melus Petilius' Secret Room",
+    "full": "LOC_FN_MelusPetiliusBasement",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -7666,7 +7666,7 @@
   {
     "edid": "DeepCoverCave02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:015D7D",
-    "full": "Deep Cover Caverns",
+    "full": "LOC_FN_DeepCoverCave02",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0

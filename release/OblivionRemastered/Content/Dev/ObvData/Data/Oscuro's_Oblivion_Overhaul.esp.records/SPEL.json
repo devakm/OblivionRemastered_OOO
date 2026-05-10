@@ -4482,9 +4482,57 @@
     "modl": null
   },
   {
+    "edid": "ZZWolfSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025165",
+    "full": "Jephre's Forest Guardian",
+    "modl": null
+  },
+  {
     "edid": "LpAtronachFireTouch2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0253DC",
     "full": "LOC_FN_LpAtronachFireTouch2",
+    "modl": null
+  },
+  {
+    "edid": "ZZWolfTundraSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025BCD",
+    "full": "Jephre's Tundra Guardian",
+    "modl": null
+  },
+  {
+    "edid": "ZZLionSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025BCE",
+    "full": "Jephre's Fangs",
+    "modl": null
+  },
+  {
+    "edid": "ZZLionSnowSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025BD0",
+    "full": "Jephre's Arctic Claws",
+    "modl": null
+  },
+  {
+    "edid": "ZZLeopardSnowSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025BD2",
+    "full": "Jephre's White Shadow",
+    "modl": null
+  },
+  {
+    "edid": "ZZLeopardSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025BD4",
+    "full": "Jephre's Jungle Guardian",
+    "modl": null
+  },
+  {
+    "edid": "ZZBoarSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025BD6",
+    "full": "Jephre's Tusks",
+    "modl": null
+  },
+  {
+    "edid": "ZZDeerSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025BDB",
+    "full": "Jephre's Pride",
     "modl": null
   },
   {

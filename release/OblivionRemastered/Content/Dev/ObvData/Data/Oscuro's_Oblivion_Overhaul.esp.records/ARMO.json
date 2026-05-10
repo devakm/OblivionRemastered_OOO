@@ -8018,37 +8018,37 @@
   {
     "edid": "IronBootsGhost",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01465B",
-    "full": "Ghostly Iron Boots",
+    "full": "LOC_FN_IronBootsGhost",
     "modl": "Armor\\Iron\\M\\Boots.NIF"
   },
   {
     "edid": "IronCuirassGhost",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01465C",
-    "full": "Ghostly Iron Cuirass",
+    "full": "LOC_FN_IronCuirassGhost",
     "modl": "Armor\\Iron\\M\\Cuirass.NIF"
   },
   {
     "edid": "IronGauntletsGhost",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01465D",
-    "full": "Ghostly Iron Gauntlets",
+    "full": "LOC_FN_IronGauntletsGhost",
     "modl": "Armor\\Iron\\M\\Gauntlets.NIF"
   },
   {
     "edid": "IronGreavesGhost",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01465E",
-    "full": "Ghostly Iron Greaves",
+    "full": "LOC_FN_IronGreavesGhost",
     "modl": "Armor\\Iron\\M\\Greaves.NIF"
   },
   {
     "edid": "IronHelmetGhost",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01465F",
-    "full": "Ghostly Iron Helmet",
+    "full": "LOC_FN_IronHelmetGhost",
     "modl": "Armor\\Iron\\M\\Helmet.NIF"
   },
   {
     "edid": "IronShieldGhost",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014660",
-    "full": "Ghostly Iron Shield",
+    "full": "LOC_FN_IronShieldGhost",
     "modl": "Armor\\Iron\\Shield.NIF"
   },
   {
