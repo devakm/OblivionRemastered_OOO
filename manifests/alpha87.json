@@ -1,0 +1,386 @@
+{
+  "OOOInstallerFloydian1.jpg": {
+    "sha256": "77f509a4b0070ce478fb1829096ad64fd0b6aed02f071c3d7e182772c0f83a7a",
+    "size": 187736
+  },
+  "OblivionRemastered/Binaries/Win64/ue4ss/Mods/RAX/dlls/main.dll": {
+    "sha256": "e5d23d8f806594a6be7c33801c96db9268b648b3c3522aeb2b48c1a6acd0b712",
+    "size": 1988608
+  },
+  "OblivionRemastered/Binaries/Win64/ue4ss/Mods/RAX/enabled.txt": {
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size": 0
+  },
+  "OblivionRemastered/Binaries/Win64/ue4ss/Mods/RAX/scripts/main.lua": {
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size": 0
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_ACTI.json": {
+    "sha256": "98d66c82ebb799ec32bdf82b52298a6e3980d49d36305f495ae035ec27469e98",
+    "size": 1550
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_ALCH.json": {
+    "sha256": "116cc31f516d59a813e14ef756928e48c3566a67abc9d8ac529876869bad8851",
+    "size": 2876
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_AMMO.json": {
+    "sha256": "22e1f1ca7516c167f17208dc512f35eb169c37497e4f2a515208c87c51fa75b7",
+    "size": 2294
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_ARMO.json": {
+    "sha256": "170acf163f68eb14af6d6acbfed09c7c6cea37ace89c085300bb496d487b5edb",
+    "size": 54206
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_BOOK.json": {
+    "sha256": "bb648939175e6893f314e82ff40c23018fa357c115933125240ad3bacc63afc7",
+    "size": 930003
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CELL.json": {
+    "sha256": "ffe6df6a5cb6e2c0153c6b5bb94ad5366b12ea9dfe890c823133b161bf51711a",
+    "size": 2778
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CELLMAP.json": {
+    "sha256": "cc1b21100b81486e6b6bacda191a7eb45b486a1e5a9b014bf9c8e97126ab1d8b",
+    "size": 2609
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CLAS.json": {
+    "sha256": "7e965129c96f5651e079dd17821e15f2765c0272265bffc7a736802a739c7701",
+    "size": 1456
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CLOT.json": {
+    "sha256": "5952208b0cb0bb56207792e6466fd44c0549a991bf1c691065e34c1c557fcace",
+    "size": 6263
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CONT.json": {
+    "sha256": "7509a1455ddd6ec053953f8043066b657b789584ade4883ca7e8f7cde8ac5738",
+    "size": 28166
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CREA.json": {
+    "sha256": "ce7fefebc519a9642f63e21927d2c7b0a6fbaa2e5d50561576f7f4135e6b3f5e",
+    "size": 22356
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_DIAL.json": {
+    "sha256": "f744613711942631b190e270a90d3c578fcee19a1ea005d92ab6d7badc935cae",
+    "size": 36700
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_DOOR.json": {
+    "sha256": "08c9d9d3a86481b1d83119390ad7cdcb59dcd441fed0c829a7d9aad92ab1f01b",
+    "size": 611
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_ENCH.json": {
+    "sha256": "f375e6b8ce9ed5ee34b81500d9caea0dc27c6f32b590aa9b8822f9d2622f1f65",
+    "size": 928
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_FACT.json": {
+    "sha256": "40666b7fd43083afbc698e429e89cd64c4c55a74d9d10d8e3f9a92e901d75d84",
+    "size": 2976
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_INGR.json": {
+    "sha256": "08101f61da39bb3f960fc9f9a72e2b399a670da96307db3625d0264b4cae72ef",
+    "size": 3143
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_KEY.json": {
+    "sha256": "b2785051311da023646621f8d6d519ce5703a654affd4e53dffe4d8f45550b80",
+    "size": 4727
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_MISC.json": {
+    "sha256": "a0ad6b61f690aa474639ccf84a2b458d62806b9803454447eca053724cd8d569",
+    "size": 9789
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_NPC_.json": {
+    "sha256": "d4b0859ef95a21d5bca2c6a49dd5aa96e344cd4af5da12502e506acd81488edf",
+    "size": 63791
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_QUST.json": {
+    "sha256": "d50ca06470ef918b117580c843c56a1789302992c0bce2d2e44ef0013ed45ea6",
+    "size": 206166
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_SCPT.json": {
+    "sha256": "9eb8269a209efe486965efebb0e01196f4a62af573f29374e2797f8eb05b111d",
+    "size": 96718
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_SGST.json": {
+    "sha256": "6217ca0d614c19167f94bd5841616bc1bb1836ccf9773b8177611629cd0ac4d1",
+    "size": 1396
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_SLGM.json": {
+    "sha256": "128a38d448ef717e9b601a0f13b1c760df9aa53fa1e444ff22c369367237467c",
+    "size": 238
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_SPELL.json": {
+    "sha256": "4a9d0d5e1325c566c3f99b1bfd509517e5648d29eb5cfbd6446785dd424b3f31",
+    "size": 47386
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_WEAP.json": {
+    "sha256": "5fe87aaa6ee1616af1300ec212d7b3b682097332bf1a3754b68542cb3c7e34e6",
+    "size": 56676
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/OptionalPatches/OOO_DeluxeEdition.esp": {
+    "sha256": "332261f02baf56f1c379506afb40cefd2b08f8e9b2399ab4983746977a3733b6",
+    "size": 83917
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/OptionalPatches/OOO_OOMC_Compatibility_Patch.esp": {
+    "sha256": "1773af74c47572b020240871c1510743ca9d812e5194b20a3f00efad2f081a7a",
+    "size": 26732
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/OptionalPatches/OOO_UORP.esp": {
+    "sha256": "5b0b2c9f0e245afc95ef3e9c946fb62edcac864e1e456f5dc4f8450c9b30f64c",
+    "size": 2963
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/OptionalPatches/OOO_UnlimitedRingsReduxPatch.esp": {
+    "sha256": "a115cf9f51f147f7b1d967c6107ed148f15e0ace704045931722da8786de777c",
+    "size": 38472
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/OptionalPatches/SyncMap - DeluxeEdition/Oscuro's_Oblivion_Overhaul.ini": {
+    "sha256": "c0a19beebe000ed95735983441242fef1286aedd14730256b12b0cc2d59b7f95",
+    "size": 568295
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/Oscuro's_Oblivion_Overhaul.esp": {
+    "sha256": "e16eb27c3117976d3248b9d164a1c564b93c348aee70243ee5958925c249415c",
+    "size": 16839380
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/SyncMap/Oscuro's_Oblivion_Overhaul.ini": {
+    "sha256": "9c06d6e48e3df17f1ecf19ebbc2767879703f544358e67f54d5670ab7e20e1e2",
+    "size": 568305
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_Arondar_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_Arondar_Map.ucas": {
+    "sha256": "ce9541986dc6ac66c9f78c0e1e5385b808a492eecb738c0e498b2044e0df45a2",
+    "size": 23553116
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_Arondar_Map.utoc": {
+    "sha256": "952433d535b8ee1277d4c500d41240b02626d203484d4a14d0169a4898dbbee5",
+    "size": 6481
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_Baras_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_Baras_Map.ucas": {
+    "sha256": "db1f78d8d7260c35d3fa9f51d484add8ae56ff2a6507ac89e5a6b2d3f516aca7",
+    "size": 10708264
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_Baras_Map.utoc": {
+    "sha256": "00a871d6ad4768afd7e0f7bd4dbe5408c12e447c67878d9b7dffd9c6ee9d170e",
+    "size": 3497
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_BloodClotCave_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_BloodClotCave_Map.ucas": {
+    "sha256": "15fb934d23f183cb43ba8e563aaa5fb52cfc75574ff8a9f8f0290e43ff26ae36",
+    "size": 8894758
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_BloodClotCave_Map.utoc": {
+    "sha256": "c40c6ecc92e91c0d0256650a7e0c40b03dc1f65a3dfc251042b6a4a2ba6e0bf8",
+    "size": 4106
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_BrokenToothCaveXX_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_BrokenToothCaveXX_Map.ucas": {
+    "sha256": "277a8e5da797cbcdc34616f873dacdda567cfd39db7e437201b83956a2a87a22",
+    "size": 7318364
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_BrokenToothCaveXX_Map.utoc": {
+    "sha256": "3dae1f7c19b583f3faaa6606768880e2ff6b3e4d3184a4f10325673d33295c45",
+    "size": 3043
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_Cehan_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_Cehan_Map.ucas": {
+    "sha256": "be1276503fb9dd9f4a48b9c4a987e868fca755b3565271eba7523e7387223968",
+    "size": 8436670
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_Cehan_Map.utoc": {
+    "sha256": "82d25ff4690d22d4bc669329e51a0a06b104efbd14788b325c9798274594ecda",
+    "size": 3089
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_DeepCoverCav_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_DeepCoverCav_Map.ucas": {
+    "sha256": "66dbcbbb0e821d91dd5514efcb86cdee9cb4c338e30ff2859d3a22c18a52d08e",
+    "size": 12744734
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_DeepCoverCav_Map.utoc": {
+    "sha256": "507426431c32957d4600834e690745bbde3c4c7078d3c19014b39eb45ed2d5c4",
+    "size": 3985
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_Dostares_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_Dostares_Map.ucas": {
+    "sha256": "9e4f89411492a1e100ad97234aa651c9317120c00e635d4e6f6fd8b00a1627fa",
+    "size": 7450493
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_Dostares_Map.utoc": {
+    "sha256": "efcfd7814659719d2fe119890ca43b492a1dcbec3dfab368c0bad403e4c8e82a",
+    "size": 2946
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_DrownedHopesCa_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_DrownedHopesCa_Map.ucas": {
+    "sha256": "37e4a64153e7b959965a9d0a0663ab1feb5652cc1d8328f936195d061dfb9c26",
+    "size": 8199998
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_DrownedHopesCa_Map.utoc": {
+    "sha256": "6e3e956effc62fa0c6da5779f7abfa6cdbfc7a5b0b1faa603d8318d9faaed705",
+    "size": 3357
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_GloomWayCaveXX_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_GloomWayCaveXX_Map.ucas": {
+    "sha256": "7449ae8c5fb593fccd2dffcbafa7606b8fce802944bed02b672d037f53f0ed7c",
+    "size": 9308960
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_GloomWayCaveXX_Map.utoc": {
+    "sha256": "aea832dc4d7dba3babb62a63fdb2f278418ea591190f9e8f2cc5a7f39d09f9a5",
+    "size": 3569
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_GraveGroundCaveXX_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_GraveGroundCaveXX_Map.ucas": {
+    "sha256": "a8b1ee2a092ba842a0261afaf1086a7321d41f4a938d5df3791f03b06a3edafb",
+    "size": 4777015
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_GraveGroundCaveXX_Map.utoc": {
+    "sha256": "28762c6e709f7fccaa041b43afc4d02277645f0a3ec48fd1b03a3a4a4ac98ee1",
+    "size": 1933
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_NarindXXX_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_NarindXXX_Map.ucas": {
+    "sha256": "459d95e5d78f295871050fa657c97016484080b89909af4fde93f6066902eb6f",
+    "size": 10069968
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_NarindXXX_Map.utoc": {
+    "sha256": "6b96226584d3487a0beb5bcd2e54711c3f8508ed2af4a931b02253fa7abd5191",
+    "size": 3477
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_OOOR1waterCave_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_OOOR1waterCave_Map.ucas": {
+    "sha256": "0a6a72090d857d38485f62a8b1b343957afd1cde374de80b1fc6530c7c2d72b6",
+    "size": 5516417
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_OOOR1waterCave_Map.utoc": {
+    "sha256": "64770d38478e69a80d67c95998952225aea6e86fb3fd244c45fab427560b40b4",
+    "size": 2141
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_OOOR2waterCave02_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_OOOR2waterCave02_Map.ucas": {
+    "sha256": "609f546acc5cbf866018d00eeea8796d9dd4ab6b3ee34ffa65b03f24dff8fc15",
+    "size": 1686684
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_OOOR2waterCave02_Map.utoc": {
+    "sha256": "8d65c7af4f981bdce6deb3f4de5e83ca53cb261e17fd487e3b8876540c85755b",
+    "size": 1459
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_OOORCastleInterior_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_OOORCastleInterior_Map.ucas": {
+    "sha256": "e8130b41a4b350e7f1bfa75b998251c228410d6059a1e2200442b794a4189026",
+    "size": 27414
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_OOORCastleInterior_Map.utoc": {
+    "sha256": "bd4cb758516c755eb571aad8db0286a9a227979f9edf54a9095c1f4afe92d963",
+    "size": 1047
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_OscuroWaterCellCHMGWell0_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_OscuroWaterCellCHMGWell0_Map.ucas": {
+    "sha256": "07c6d2ff2f5682d6e41c48fe4a3d30893fb28f12f4d1ae4668519a59c9aced3c",
+    "size": 606772
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_OscuroWaterCellCHMGWell0_Map.utoc": {
+    "sha256": "5d08ebce2ffef8c30ee62c23e254d3994c09f7485c17fc6734a139820cfb3607",
+    "size": 1331
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_RedGillCave_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_RedGillCave_Map.ucas": {
+    "sha256": "ad0c790638ec24a150f0e54a3ee134842adad0a108e48f33b7c40466daa1e64b",
+    "size": 4059855
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_RedGillCave_Map.utoc": {
+    "sha256": "a82e5f59fd131c1baf2d51a589a8cddecdcbd5346338f04f4064d8859028d1ae",
+    "size": 1853
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_RosulasXX_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_RosulasXX_Map.ucas": {
+    "sha256": "8d333441d4d4bff974fa1ecd185916b2460619115fdfd45790c2902a28e3e0b1",
+    "size": 10680737
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_RosulasXX_Map.utoc": {
+    "sha256": "1de4e97a0b9b737661171b835f736e5303d7f20779176e5d16a6f291f0bf49a9",
+    "size": 3549
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_ThunderingSte_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_ThunderingSte_Map.ucas": {
+    "sha256": "11bb31fdaa471aa7e592ecae037751fc5167211b7c64c86b9298ae9b22a2583d",
+    "size": 9381583
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_ThunderingSte_Map.utoc": {
+    "sha256": "405be4b4bf306c7d68d5fbaec30fa72509cd4b76c680088a9f4e76b9c244b809",
+    "size": 3992
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_VarastalXX_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_VarastalXX_Map.ucas": {
+    "sha256": "cc0ce193b037db0566d64ec277e5e42b1c899661fd70c14fb9ceea4152e95d50",
+    "size": 4022352
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_VarastalXX_Map.utoc": {
+    "sha256": "e4e035c2a025cb1316fa689bf3562d5a8018c39ea1cc1c6b4d146539c8ce0f53",
+    "size": 1748
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_Yele_Map.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_Yele_Map.ucas": {
+    "sha256": "cb6c59ebfc07e8818d2b57a5151d935bb6ab2b8bd87c0abe996ed6b1c7abc9fd",
+    "size": 13723805
+  },
+  "OblivionRemastered/Content/Paks/~mods/L_Yele_Map.utoc": {
+    "sha256": "ec9bcea89e214ad8cd18c3dbcaaf61bb1b0d2d9cd62ccc5836a4d1cf6ea906b6",
+    "size": 4612
+  }
+}
