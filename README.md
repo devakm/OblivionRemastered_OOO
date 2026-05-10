@@ -3,55 +3,67 @@
 > **License:** GNU General Public License v3.0 — see [`LICENSE`](LICENSE).
 > Adopted because this project depends on [Wrye Bash](https://github.com/wrye-bash/wrye-bash) (GPL v3) for TES4 plugin parsing.
 
-A version-controlled archive of every alpha / beta / release build of **Oscuro's Oblivion Overhaul Remastered FULL** ("OOORS Full"), with auto-generated per-release manifests so you can see exactly what changed from one build to the next.
+A version-controlled archive of every alpha / beta / release build of **Oscuro's Oblivion Overhaul Remastered FULL** ("OOORS Full"). The repo is the source of truth for the small editable parts of every release (configs, INIs, Lua, MagicLoader JSONs, tracking metadata); binaries (paks, ESPs, DLLs, etc.) live in `dist/<tag>.7z` and are uploaded as **GitHub Release assets**.
 
-- **Latest text content:** [`release/`](release/) — only the text files (JSON / INI / Lua / etc.) are checked into git. `git checkout <tag>` rewinds the text tree to any historical release.
-- **Per-release manifests:** [`manifests/`](manifests/) — SHA-256 of every file (text AND binary) in every release, for diff and integrity checking.
-- **Per-release changes:** [`docs/per-release/`](docs/per-release/) — added / removed / changed file lists vs the previous release.
-- **Top-level changelog:** [`docs/changelog.md`](docs/changelog.md).
-- **What this mod is:** [`docs/overview.md`](docs/overview.md).
-- **Install instructions:** [`docs/installation.md`](docs/installation.md).
-- **Dependencies:** [`docs/dependencies.md`](docs/dependencies.md).
+For the architecture rationale + every design decision: [`docs/v2-design.md`](docs/v2-design.md). For Claude / future-self instructions: [`CLAUDE.md`](CLAUDE.md). For the release runbook: [`docs/release-process.md`](docs/release-process.md).
 
-## Downloading
+## What you get
 
-Binary install archives (`.7z`) are attached to **GitHub Releases** for each tag. Browse releases at <https://github.com/devakm/OblivionRemastered_OOO/releases>.
+- **Editable working tree at [`release/`](release/)** — text-only mirror of the install layout. Edit JSON / INI / Lua / etc. directly in the repo.
+- **Per-binary `.md` co-files** alongside every binary — track which release shipped which SHA, with direct download URL pointing at the matching GitHub Release asset.
+- **Per-ESP `.records/` inventories** — structured per-record-type JSON files for every ESP/ESM. `git diff alpha85..alpha90 -- '*.records/'` shows actual armor / weapon / leveled-list / cell changes between any two releases.
+- **Per-release notes at [`docs/per-release/`](docs/per-release/)** — auto-generated file-level diff + ESP content diff for every tag.
+- **Manifests at [`manifests/`](manifests/)** — SHA-256 of every file (text + binary) per release; the integrity record.
 
-A landing page with current and historical downloads is also published to <https://devakm.github.io/devnull/docs/OOO/OBR/>.
+## How history is organized
 
-## How storage is split
+- One commit per release; commit subject = the release name (e.g. `alpha37`).
+- One git tag per release; same name.
+- Linear history on `main` from `alpha00-premerge` through `alpha90`.
+- The `alpha32nex` variant lives on `variants/alpha32nex` (forked off the `alpha32` commit).
 
-| What | Where | Why |
-|------|-------|-----|
-| Manifests, per-release diff docs, scripts, project docs | git, plain text | Small, diffable. |
-| Text from each release tree (JSON / INI / Lua / MD) | git, in `release/` | Lets `git diff` show actual record / config / script changes between any two releases. |
-| Binary from each release tree (paks, ESPs, DLLs, textures) | NOT in git — in `dist/<tag>.7z`, uploaded as a GitHub Release asset | Keeps the repo tiny; binaries don't compress further with delta. |
+## Downloading a release
 
-## Tooling
+Every release's `.7z` install archive is attached to its **GitHub Release** at <https://github.com/devakm/OblivionRemastered_OOO/releases>. The Pages site at <https://devakm.github.io/devnull/docs/OOO/OBR/> has a friendlier index + per-release changelog.
 
-See [`CLAUDE.md`](CLAUDE.md) for the full toolchain reference. Quick view:
+To grab a binary that shipped with a specific historical release without downloading the whole `.7z`:
 
-```
-scripts/build_manifest.py     # hash a tree → manifest JSON
-scripts/diff_releases.py      # compare two manifests
-scripts/ingest_release.py     # one source folder → text commit + tag + dist/<tag>.7z
-scripts/backfill_history.py   # ingest every alpha source folder in order
-scripts/package_release.py    # standalone .7z rebuilder
-scripts/publish_github.py     # gh release create  (dry-run by default)
-scripts/sync_pages.py         # render HTML into the devnull pages repo
+```powershell
+py -3 scripts/fetch_binary.py --tag alpha75 release/.../Oscuro's_Oblivion_Overhaul.esp
 ```
 
-## Repository status
+This reads the binary's sibling `.md` co-file, downloads the matching `.7z` (cached at `work/_release_cache/`), extracts only the requested file, and verifies its SHA-256.
 
-- **Plain git only** — no Git LFS. Binaries don't enter the repo.
-- **One commit per release**, message = the release name (e.g. `alpha37`).
-- **One tag per release**, name = the release name.
-- `alpha32nex` lives on its own branch off the `alpha32` commit (`variants/alpha32nex`).
+## Tooling at a glance
 
-## Reproducing a historical release
+```
+scripts/release.py          # cut a new release end-to-end (the user-facing command)
+scripts/backfill_v2.py      # one-shot historical rebuild from source folders
+scripts/fetch_binary.py     # grab a historical binary from its GitHub Release
+scripts/sync_pages.py       # render HTML into the devnull pages repo
+scripts/sync_syncmap.py     # generate both SyncMap variants from OOO_SyncGen source
+scripts/publish_github.py   # standalone gh-release uploader
+scripts/build_records.py    # standalone ESP inventory writer
+scripts/diff_records.py     # standalone inventory diff renderer
+scripts/update_cofile.py    # standalone .md co-file appender
+scripts/tes4_parser.py      # Wrye Bash adapter
+scripts/_wrye_bootstrap.py  # bootstraps Wrye Bash as a library
+```
 
-```bash
-git checkout alpha75              # text tree at alpha75 lands in release/
-# Then download alpha75.7z from the matching GitHub Release for the binaries:
-#   https://github.com/devakm/OblivionRemastered_OOO/releases/tag/alpha75
+See [`CLAUDE.md`](CLAUDE.md) for the full toolchain reference and [`docs/release-process.md`](docs/release-process.md) for the runbook.
+
+## Setup
+
+```powershell
+# 1. Python deps (runtime requirements for the parser adapter)
+py -3 -m pip install -r requirements.txt
+
+# 2. Wrye Bash checkout (GPL v3) — used as a library for TES4 parsing
+git clone https://github.com/wrye-bash/wrye-bash X:\dev\wrye-bash
+# OR set WRYE_BASH_MOPY env var if your checkout is elsewhere
+
+# 3. 7-Zip + GitHub CLI (for packaging + publishing)
+winget install 7zip.7zip
+winget install GitHub.cli
+gh auth login
 ```

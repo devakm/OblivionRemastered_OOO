@@ -1,28 +1,23 @@
 # Release process
 
-End-to-end procedure for publishing a new alpha — or re-publishing an existing one. This is the runbook for **`alpha90`** once its fixup work is done, and for **every future alpha** after that.
+End-to-end procedure for publishing a new alpha — or re-publishing an existing one. This is the v2 runbook (current architecture). For the architecture rationale see [`v2-design.md`](v2-design.md).
 
 ## TL;DR
 
 ```powershell
-# 0. regenerate the two SyncMap variants from the OOO_SyncGen Deluxe source
-#    of truth and drop them into the alpha source folder. (See "Step 0" below.)
-py -3 scripts/sync_syncmap.py --target "X:\games\Oscuro\Oscuro's_..._alphaNN"
+# 1. Edit release/ in place. Drop new binaries (paks, ESPs, DLLs) into the
+#    correct release/OblivionRemastered/... paths. Update text files (JSON,
+#    INI, Lua, etc.) directly. The repo is the staging tree.
 
-# 1. ingest the source folder (idempotent: --force if you're re-doing an existing tag)
-py -3 scripts/ingest_release.py "X:\games\Oscuro\Oscuro's_..._alphaNN" --force
+# 2. Cut the release end-to-end (regenerates SyncMap, hashes, parses ESPs,
+#    updates co-files, writes per-release diff doc, commits, tags, packages,
+#    pushes, creates the GitHub Release).
+py -3 scripts/release.py alphaNN --latest --for-real
 
-# 2. push the new commit + the new tag
-git push origin main
-git push origin alphaNN
-
-# 3. publish the GitHub Release with the .7z attached, marked Latest
-py -3 scripts/publish_github.py --tag alphaNN --latest --for-real
-
-# 4. regenerate the Pages staging files
+# 3. Refresh the GitHub Pages staging.
 py -3 scripts/sync_pages.py
 
-# 5. review + commit + push the devnull repo (manual)
+# 4. Review + commit + push the devnull Pages repo (manual).
 cd X:\dev\devnull
 git add docs/OOO/OBR/
 git commit -m "OBR: alphaNN release"
@@ -31,133 +26,112 @@ git push
 
 ---
 
-## Step-by-step
+## What `release.py` does, step by step
 
-### 0. Regenerate the SyncMap variants from the OOO_SyncGen source of truth
+When you run `py -3 scripts/release.py alphaNN --latest --for-real`, in order:
 
-OOORS Full ships **two** SyncMap files inside every release:
+| # | Step | Output |
+|---|------|--------|
+| 0 | Regenerate the two SyncMap variants by invoking `sync_syncmap.py --target release/`. Reads from `X:\mod-tools\OOO_SyncGen\SyncGen\Overrides\Oscuro's_Oblivion_Overhaul_Overrides.ini`. | Updates `release/OblivionRemastered/Content/Dev/ObvData/Data/SyncMap/...` and `release/OblivionRemastered/Content/Dev/ObvData/Data/OptionalPatches/SyncMap - DeluxeEdition/...`. |
+| 1 | Validate working tree — no uncommitted changes outside `release/`, `manifests/`, `docs/per-release/`. Aborts if the tag already exists (unless `--force`). | (no output if clean) |
+| 2 | Hash every file in `release/` (text + gitignored binaries; skips `*.md` co-files and `*.records/` directories). | `manifests/alphaNN.json` |
+| 3 | Parse every ESP/ESM in `release/` via Wrye Bash. | `<esp>.records/_meta.json` + `<esp>.records/<TYPE>.json` for each record type. |
+| 4 | For every binary in `release/`, append (or replace) its row in the sibling `<binary>.md` co-file with this tag's SHA + size + GitHub URLs. The `★` marker on each row is recomputed pairwise so it stays correct. | `<binary>.md` updated. |
+| 5 | Diff vs the previous tag's manifest + `.records/` bundles. File-level changes (added / removed / changed paths) plus per-ESP content diff (added / removed / changed records, with leveled-list entry detail and cell ref-count deltas). | `docs/per-release/alphaNN.md` |
+| 6 | `git add -A release/ manifests/ docs/per-release/`, commit (subject = `alphaNN`), tag. | new commit on `main`, tag `alphaNN`. |
+| 7 | Build `dist/alphaNN.7z` from `release/` EXCLUDING `*.md` co-files and `*.records/` directories. | `dist/alphaNN.7z` |
+| 8 | (`--for-real` only) `git push origin main`, `git push origin alphaNN`, `gh release create alphaNN dist/alphaNN.7z --title alphaNN --notes-file docs/per-release/alphaNN.md --latest`. | New GitHub Release attached to `alphaNN`. |
 
-| File in release | Audience |
-|---|---|
-| `…\Data\SyncMap\Oscuro's_Oblivion_Overhaul.ini` | Default — **non-Deluxe Edition** owners |
-| `…\Data\OptionalPatches\SyncMap - DeluxeEdition\Oscuro's_Oblivion_Overhaul.ini` | **Deluxe Edition** owners |
+Without `--for-real` step 8 is printed but not executed. Always **dry-run first** with `--for-real` omitted to confirm the plan.
 
-The two files are derived from a single source of truth maintained outside this repo:
+## Common patterns
 
-```
-X:\mod-tools\OOO_SyncGen\SyncGen\Overrides\Oscuro's_Oblivion_Overhaul_Overrides.ini
-```
-
-That source IS the Deluxe variant — it uses Deluxe-DLC asset paths for the items that have a Deluxe analogue:
-
-- `/Game/Forms/items/armor/DEA…` — Deluxe Armor "Order" set
-- `/Game/Forms/items/armor/DEM…` — Deluxe Armor "Cataclysm" set
-- `/Game/Forms/items/weapons/DEA…` — Deluxe weapons "Order" set
-- `/Game/Forms/items/weapons/DEM…` — Deluxe weapons "Cataclysm" set
-
-Each of those Deluxe entries has a commented-out non-Deluxe alternative directly above it. **`scripts/sync_syncmap.py`** reads that source and writes:
-
-- The **Deluxe** target — verbatim copy of the source.
-- The **default** target — same file with each Deluxe pair swapped (the previously-commented non-Deluxe line becomes active; the previously-active Deluxe line becomes commented).
+### Brand-new alpha, becomes the current build
 
 ```powershell
-py -3 scripts/sync_syncmap.py --target "X:\games\Oscuro\Oscuro's_..._alphaNN"
+py -3 scripts/release.py alpha91 --latest --for-real
 ```
 
-Pair-swap rule (the "important restriction"): only triggered when the active line uses `/Game/Forms/items/armor/DEA…` or `/Game/Forms/items/armor/DEM…`. Other commented prose (header `; EditorID:` lines, prose notes, unrelated commented mappings) is left untouched.
+`--latest` flips the new release into the displayed Latest slot on the GitHub Releases page (auto-demoting whatever was previously Latest to a regular release).
 
-Output stats look like:
-
-```
-[sync_syncmap]   18 Deluxe-active line(s) found
-[sync_syncmap]   18 pair(s) swapped to non-Deluxe
-```
-
-If the script reports `Deluxe-active line(s) had no preceding alternative`, a Deluxe entry was added to the source without a commented-out non-Deluxe fallback — fix the source first (the missing fallback is what users without Deluxe will end up with).
-
-**Important:** the target folder lives under `X:\games\Oscuro\` which the project's `restrict-path.py` hook flags as read-only. `sync_syncmap.py` itself is benign (it's just file I/O), but to actually run it against a source folder you'll need to invoke it **from your own shell**, not via a Claude tool call. Claude can dry-run the script with `--target work\_syncmap_test --dry-run` for verification, but should not write into the source folder directly.
-
-To preview without modifying the source folder:
+### Backfilling an old alpha that pre-dates the current Latest
 
 ```powershell
-py -3 scripts/sync_syncmap.py --target "work\_syncmap_test" --show-unmatched
-diff "X:\mod-tools\OOO_SyncGen\SyncGen\Overrides\Oscuro's_Oblivion_Overhaul_Overrides.ini" "work\_syncmap_test\OblivionRemastered\Content\Dev\ObvData\Data\SyncMap\Oscuro's_Oblivion_Overhaul.ini"
+py -3 scripts/release.py alpha75-fixup --prerelease --for-real
 ```
 
-### 1. Ingest the source folder
+`--prerelease` keeps GitHub from auto-promoting it to Latest.
+
+### Re-running an already-tagged release (e.g. after a bug fix)
 
 ```powershell
-py -3 scripts/ingest_release.py "X:\games\Oscuro\Oscuro's_Oblivion_Remastered_Shivering_Full_alphaNN"
+py -3 scripts/release.py alphaNN --latest --for-real --force
 ```
 
-What this does (in order):
+`--force` deletes the local tag, re-runs the pipeline, re-creates the tag at the new commit. Step 8 then force-pushes the tag and uses `gh release upload --clobber` to replace the asset.
 
-- Hashes every file in the source folder → writes `manifests/alphaNN.json`.
-- Diffs vs the previous tag's manifest → writes `docs/per-release/alphaNN.md`.
-- Wipes `release/` and copies **only text files** (`.json`, `.ini`, `.lua`, `.md`, `.txt`, etc.) from the source folder into `release/`.
-- Builds `dist/alphaNN.7z` from the **full** source folder (text + binary). Skips this step if `dist/alphaNN.7z` already exists — pass `--force` to rebuild.
-- Stages `release/`, `manifests/`, `docs/per-release/` → commits → tags `alphaNN`.
-
-**If the tag already exists** (you're re-publishing): pass `--force`. It will delete the old tag, rebuild the archive, and re-create the tag pointing at the new commit.
+### Local-only dry build (no push, no GitHub Release)
 
 ```powershell
-py -3 scripts/ingest_release.py "X:\games\Oscuro\Oscuro's_..._alphaNN" --force
+py -3 scripts/release.py alphaNN
 ```
 
-**If you only want to update the archive** without re-doing the commit (e.g. you blew away `dist/` by accident): use `package_release.py` standalone:
+No `--for-real` — produces commit + tag + `dist/alphaNN.7z` locally, then prints what step 8 *would* do. Inspect `dist/alphaNN.7z` before deciding to publish.
+
+### Plan-only inspection (no FS or git changes)
 
 ```powershell
-py -3 scripts/package_release.py --source "X:\games\Oscuro\Oscuro's_..._alphaNN" --name alphaNN
+py -3 scripts/release.py alphaNN --dry-run
 ```
 
-### 2. Push the commit + tag
+Walks every step and prints what it would do. Useful for sanity-checking before a real run.
+
+---
+
+## Variants (`alpha32nex`-style branches)
+
+Variants live on `variants/<tag>` branches off their parent tag. To ingest a new variant:
 
 ```powershell
-git push origin main
-git push origin alphaNN
+git checkout -b variants/alpha95nex alpha95
+py -3 scripts/release.py alpha95nex --prerelease --for-real
+git checkout main
 ```
 
-If you're force-re-tagging an existing release (step 1 with `--force`), you also need:
+`publish_github.py` (which `release.py` invokes internally for step 8) automatically falls back to `git show <tag>:docs/per-release/<tag>.md` when the notes file isn't in the working tree — so variant branches that don't have other tags' notes locally work without manual intervention.
 
-```powershell
-git push origin alphaNN --force
-```
+---
 
-Force-push of a tag is acceptable here only because tags in this repo are 1:1 with releases — they don't get rebased. **Do not force-push `main`.**
+## Latest vs Pre-release
 
-### 3. Publish the GitHub Release
+| Situation | Flag |
+|-----------|------|
+| New alpha just shipped, becomes the current build | `--latest` |
+| Hot-fix re-issue of the current alpha | `--latest` (replaces existing) |
+| Backfilling a historical alpha that pre-dates the current Latest | `--prerelease` |
+| Variant branch (`alpha32nex` etc.) | `--prerelease` |
+| Experimental side build for testers | `--prerelease` |
 
-For a brand-new alpha that should become the displayed **Latest** release:
+`--latest` and `--prerelease` are mutually exclusive in `gh release`. Always pass one or the other; otherwise GitHub picks based on tag ordering, which can be surprising.
 
-```powershell
-py -3 scripts/publish_github.py --tag alphaNN --latest --for-real
-```
+---
 
-`--latest` flips this release into the "Latest" slot on the Releases page. GitHub automatically demotes whatever was previously Latest to a regular release.
+## Skipping steps for special cases
 
-For an alpha that should be a historical / pre-release entry (e.g. backfilling an old version that's not the current build):
+| Flag | When to use |
+|------|-------------|
+| `--skip-syncmap` | You've already manually edited the two SyncMap files in `release/` and don't want them regenerated from OOO_SyncGen. Rare. |
+| `--skip-records` | You want to skip parsing ESPs entirely (e.g. the Wrye Bash checkout is broken and you want to ship anyway). The release will lack the per-ESP content diff in its notes; everything else still runs. |
 
-```powershell
-py -3 scripts/publish_github.py --tag alphaNN --prerelease --for-real
-```
+---
 
-Without `--for-real`, the script prints what it would do but doesn't call `gh`. Always dry-run first.
+## Refreshing the GitHub Pages site
 
-**If the release already exists** (you're re-publishing): the script detects this and runs `gh release upload <tag> dist/<tag>.7z --clobber` instead of `gh release create`, which replaces the asset on the existing release page.
-
-### 4. Refresh Pages staging
+`scripts/sync_pages.py` writes HTML into `X:\dev\devnull\docs\OOO\OBR\`. It does NOT commit or push the devnull repo — review first, then commit manually:
 
 ```powershell
 py -3 scripts/sync_pages.py
-```
 
-This rewrites `X:\dev\devnull\docs\OOO\OBR\{index,changelog,install,dependencies,overview}.html`. The new release shows up in the index and changelog automatically (script reads the live tag list).
-
-### 5. Commit + push the devnull repo (manual)
-
-`sync_pages.py` deliberately does not touch git in the devnull repo — review first, then commit:
-
-```powershell
 cd X:\dev\devnull
 git status                        # should show docs/OOO/OBR/*.html modified
 git diff docs/OOO/OBR/index.html  # eyeball the new release entry
@@ -170,42 +144,25 @@ GitHub Pages auto-rebuilds within ~1 minute. The new release is then visible at 
 
 ---
 
-## Special case: variant branches (`alpha32nex` and friends)
+## Fetching a historical binary
 
-Variants live on `variants/<tagname>` branches off their parent tag. Their `docs/per-release/<tag>.md` is committed on that branch, NOT on `main`. So when you're checked out on `main` and try to publish a variant, the notes file isn't in your working tree.
-
-`publish_github.py` falls back to `git show <tag>:docs/per-release/<tag>.md` automatically (introduced after the `alpha32nex` snag during the initial backfill publish). No manual action needed — but if you ever do this by hand:
+For testing or comparison — pull a binary that shipped with a specific past release without downloading the whole `.7z` manually:
 
 ```powershell
-git show alpha32nex:docs/per-release/alpha32nex.md > work\_notes\alpha32nex.md
-gh release create alpha32nex dist\alpha32nex.7z --title alpha32nex --notes-file work\_notes\alpha32nex.md --prerelease
+# fetch one specific binary for a specific tag, default dest = work/historical/<tag>/...
+py -3 scripts/fetch_binary.py --tag alpha75 release/.../Oscuro's_Oblivion_Overhaul.esp
+
+# fetch every binary that has a .md co-file row for a tag
+py -3 scripts/fetch_binary.py --tag alpha75 --all
+
+# show what would be fetched, no downloads
+py -3 scripts/fetch_binary.py --tag alpha75 --all --list
+
+# fetch and overwrite the working-tree binary in place
+py -3 scripts/fetch_binary.py --tag alpha75 release/.../Foo.pak --into-place
 ```
 
-Variants almost always get `--prerelease` since they're side-channels, not the main line.
-
-To ingest a NEW variant (e.g. some future `alpha95nex`):
-
-```powershell
-git checkout -b variants/alpha95nex alpha95
-py -3 scripts/ingest_release.py "X:\games\Oscuro\Oscuro's_..._alpha95nex"
-git checkout main
-```
-
-(`backfill_history.py` does this automatically when run from scratch — it's only manual when you're adding one variant after the fact.)
-
----
-
-## Latest vs Pre-release: who gets which flag
-
-| Situation | Flag |
-|-----------|------|
-| New alpha just shipped, becomes the current build | `--latest` |
-| Hot-fix re-issue of the current alpha | `--latest` (replaces existing) |
-| Backfilling a historical alpha that pre-dates the current Latest | `--prerelease` |
-| Variant branch (alpha32nex etc.) | `--prerelease` |
-| Experimental side build for testers | `--prerelease` |
-
-`--latest` and `--prerelease` are mutually exclusive in `gh release`. If you don't pass either, GitHub uses semver-ish heuristics, which can be surprising — be explicit.
+The `.7z` is cached at `work/_release_cache/<tag>.7z` so multiple fetches per tag re-use one download. SHA-256 is verified against the `.md` co-file's recorded value; mismatch aborts loudly.
 
 ---
 
@@ -213,41 +170,10 @@ git checkout main
 
 | Mistake | Symptom | Fix |
 |---------|---------|-----|
-| Forgot to push the tag before `gh release create` | `gh` errors with "tag not found" | `git push origin <tag>` then retry |
-| Force-pushed `main` instead of just the tag | History rewrite, anyone who cloned the repo will need to re-clone | Use `git push origin <tag> --force`, never `git push origin main --force` |
-| Re-ran `ingest_release.py` without `--force` on an existing tag | Aborts with "tag already exists" | Add `--force` |
-| Edited a file in `docs/`, `scripts/`, or `release/` mid-ingest | Ingest aborts with "working tree has uncommitted changes outside …" | Commit or stash unrelated edits first |
-| Built `dist/<tag>.7z` from the wrong source | Manifest SHA-256s won't match the archive contents | Always ingest from the canonical `X:\games\Oscuro\Oscuro's_..._alphaNN` folder |
-| Marked a backfill as `--latest` instead of `--prerelease` | GitHub now shows an old build as "Latest" | `gh release edit <tag> --prerelease` to demote |
-| Ran `sync_pages.py` and then committed both repos in the wrong order | The devnull repo links to a tag that hasn't been pushed yet | Always: ingest → push tag → create Release → THEN sync_pages → THEN commit devnull |
-
----
-
-## What to do for `alpha90` specifically
-
-This is the procedure once `alpha90`'s fixup is done. (Right now `alpha90` exists as a tag and as a built `.7z`, but there is **no GitHub Release** for it yet — that was deliberately deferred.)
-
-1. Apply your fixes to the source folder at `X:\games\Oscuro\Oscuro's_Oblivion_Remastered_Shivering_Full_alpha90\`.
-2. Re-ingest with `--force` (overwrites the existing tag + commit + archive):
-   ```powershell
-   py -3 scripts/ingest_release.py "X:\games\Oscuro\Oscuro's_..._alpha90" --force
-   ```
-3. Push the new commit and force-push the tag:
-   ```powershell
-   git push origin main
-   git push origin alpha90 --force
-   ```
-4. Publish as the new Latest:
-   ```powershell
-   py -3 scripts/publish_github.py --tag alpha90 --latest --for-real
-   ```
-5. Refresh + push Pages:
-   ```powershell
-   py -3 scripts/sync_pages.py
-   cd X:\dev\devnull
-   git add docs/OOO/OBR/
-   git commit -m "OBR: publish alpha90 (current Latest)"
-   git push
-   ```
-
-After this, `alpha90` will show with the green "Latest" badge on the Releases page; all 88 historical alphas remain marked Pre-release.
+| Forgot to drop a binary into `release/` before running release.py | Binary's `.md` co-file gets no new row, archive missing the file | Drop the binary in, re-run with `--force` |
+| Edited a tracked file in another part of the repo mid-release | release.py aborts: "working tree has uncommitted changes outside …" | Commit or stash unrelated edits first |
+| Re-ran release.py without `--force` on an existing tag | Aborts: "tag X already exists" | Add `--force` |
+| Force-pushed `main` instead of just the tag | Rewrites public history; collaborators have to re-clone | Use `git push origin <tag> --force-with-lease`, never `git push origin main --force` casually |
+| Built `dist/<tag>.7z` from the wrong release/ contents | Manifest SHAs won't match the archive bytes | release.py builds atomically from current release/; always run as a single command, don't manually splice |
+| Marked an old backfill as `--latest` instead of `--prerelease` | GitHub now shows an old build as "Latest" | `gh release edit <tag> --prerelease` to demote, then re-run release.py for the actual current with `--latest` |
+| Ran `sync_pages.py` and pushed devnull before pushing the OOORS repo's tag | Pages links to a tag that doesn't exist on origin yet | Always: `release.py --for-real` (which pushes tag) → THEN `sync_pages.py` → THEN commit/push devnull |
