@@ -36,7 +36,8 @@
     "SOUN",
     "SPEL",
     "STAT",
-    "WEAP"
+    "WEAP",
+    "WRLD"
   ],
   "tes4": {
     "masters": [

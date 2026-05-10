@@ -8,6 +8,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "FortHorunn",
+    "formid": "Oblivion.esm:015E28",
+    "full": "LOC_FN_FortHorunn",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "Elenglynn",
     "formid": "Oblivion.esm:016634",
     "full": "LOC_FN_Elenglynn",
@@ -35,6 +43,22 @@
     "edid": "SageGlenHollow02",
     "formid": "Oblivion.esm:05E1E0",
     "full": "LOC_FN_SageGlenHollow02",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BrokenToothCave",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:039749",
+    "full": "Broken Tooth Cave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BrokenToothCave02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0398D0",
+    "full": "Shattered Bone Halls",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0

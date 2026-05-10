@@ -1,0 +1,86 @@
+[
+  {
+    "edid": "CreatureMinotaur3",
+    "formid": "Oblivion.esm:009D6B",
+    "full": "LOC_FN_CreatureMinotaur3",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur4",
+    "formid": "Oblivion.esm:009D6C",
+    "full": "LOC_FN_CreatureMinotaur4",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur1Weapon",
+    "formid": "Oblivion.esm:009D6D",
+    "full": "LOC_FN_CreatureMinotaur1Weapon",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur2Weapon",
+    "formid": "Oblivion.esm:009D6E",
+    "full": "LOC_FN_CreatureMinotaur2Weapon",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur4Weapon",
+    "formid": "Oblivion.esm:009D6F",
+    "full": "LOC_FN_CreatureMinotaur4Weapon",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur2",
+    "formid": "Oblivion.esm:00B9ED",
+    "full": "LOC_FN_CreatureMinotaur2",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur3Weapon",
+    "formid": "Oblivion.esm:01E647",
+    "full": "LOC_FN_CreatureMinotaur3Weapon",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureRat",
+    "formid": "Oblivion.esm:025314",
+    "full": "LOC_FN_CreatureRat",
+    "modl": "Creatures\\Rat\\Skeleton.NIF"
+  },
+  {
+    "edid": "DASheogorathDog",
+    "formid": "Oblivion.esm:026B84",
+    "full": "LOC_FN_DASheogorathDog",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "SECreatureSkinnedHound",
+    "formid": "Oblivion.esm:03B818",
+    "full": "LOC_FN_SECreatureSkinnedHound",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureClannfearRunt",
+    "formid": "Oblivion.esm:03E9CC",
+    "full": "LOC_FN_CreatureClannfearRunt",
+    "modl": "Creatures\\Clannfear\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur1",
+    "formid": "Oblivion.esm:03F148",
+    "full": "LOC_FN_CreatureMinotaur1",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "SECreatureSkinnedHoundGreater",
+    "formid": "Oblivion.esm:07929A",
+    "full": "LOC_FN_SECreatureSkinnedHoundGreater",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur2WeaponOOOAyleid",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:034F86",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  }
+]

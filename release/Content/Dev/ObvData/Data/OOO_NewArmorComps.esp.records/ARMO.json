@@ -1,0 +1,656 @@
+[
+  {
+    "edid": "ChainmailCuirass",
+    "formid": "Oblivion.esm:01C6D3",
+    "full": "LOC_FN_ChainmailCuirass",
+    "modl": "Armor\\Chainmail\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "ChainmailBoots",
+    "formid": "Oblivion.esm:01C6D4",
+    "full": "LOC_FN_ChainmailBoots",
+    "modl": "Armor\\Chainmail\\M\\Boots.NIF"
+  },
+  {
+    "edid": "ChainmailGreaves",
+    "formid": "Oblivion.esm:01C6D5",
+    "full": "LOC_FN_ChainmailGreaves",
+    "modl": "Armor\\Chainmail\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "ChainmailGauntlets",
+    "formid": "Oblivion.esm:01C6D6",
+    "full": "LOC_FN_ChainmailGauntlets",
+    "modl": "Armor\\Chainmail\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "ChainmailHelmet",
+    "formid": "Oblivion.esm:01C6D7",
+    "full": "LOC_FN_ChainmailHelmet",
+    "modl": "Armor\\Chainmail\\M\\Helmet.NIF"
+  },
+  {
+    "edid": "SteelGauntlets",
+    "formid": "Oblivion.esm:01C6D8",
+    "full": "LOC_FN_SteelGauntlets",
+    "modl": "Armor\\Steel\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "SteelGreaves",
+    "formid": "Oblivion.esm:0229A3",
+    "full": "LOC_FN_SteelGreaves",
+    "modl": "Armor\\Steel\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "SteelHelmet",
+    "formid": "Oblivion.esm:0229A4",
+    "full": "LOC_FN_SteelHelmet",
+    "modl": "Armor\\Steel\\M\\Helmet.NIF"
+  },
+  {
+    "edid": "SteelBoots",
+    "formid": "Oblivion.esm:0229A5",
+    "full": "LOC_FN_SteelBoots",
+    "modl": "Armor\\Steel\\M\\Boots.NIF"
+  },
+  {
+    "edid": "LeatherGreaves",
+    "formid": "Oblivion.esm:023198",
+    "full": "LOC_FN_LeatherGreaves",
+    "modl": "Armor\\Thief\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "LeatherGauntlets",
+    "formid": "Oblivion.esm:023199",
+    "full": "LOC_FN_LeatherGauntlets",
+    "modl": "Armor\\Thief\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "LeatherCuirass",
+    "formid": "Oblivion.esm:02319A",
+    "full": "LOC_FN_LeatherCuirass",
+    "modl": "Armor\\Thief\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "LeatherBoots",
+    "formid": "Oblivion.esm:02319B",
+    "full": "LOC_FN_LeatherBoots",
+    "modl": "Armor\\Thief\\M\\Boots.NIF"
+  },
+  {
+    "edid": "LeatherHelmet",
+    "formid": "Oblivion.esm:02319C",
+    "full": "LOC_FN_LeatherHelmet",
+    "modl": "Armor\\Thief\\Helmet.NIF"
+  },
+  {
+    "edid": "SteelShield",
+    "formid": "Oblivion.esm:023923",
+    "full": "LOC_FN_SteelShield",
+    "modl": "Armor\\Steel\\Shield.NIF"
+  },
+  {
+    "edid": "FurGreaves",
+    "formid": "Oblivion.esm:024764",
+    "full": "LOC_FN_FurGreaves",
+    "modl": "Armor\\Fur\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "FurGauntlets",
+    "formid": "Oblivion.esm:024765",
+    "full": "LOC_FN_FurGauntlets",
+    "modl": "Armor\\Fur\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "FurCuirass",
+    "formid": "Oblivion.esm:024766",
+    "full": "LOC_FN_FurCuirass",
+    "modl": "Armor\\Fur\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "FurBoots",
+    "formid": "Oblivion.esm:024767",
+    "full": "LOC_FN_FurBoots",
+    "modl": "Armor\\Fur\\M\\Boots.NIF"
+  },
+  {
+    "edid": "FurHelmet",
+    "formid": "Oblivion.esm:024768",
+    "full": "LOC_FN_FurHelmet",
+    "modl": "Armor\\Fur\\M\\Helmet.NIF"
+  },
+  {
+    "edid": "FurShield",
+    "formid": "Oblivion.esm:025056",
+    "full": "LOC_FN_FurShield",
+    "modl": "Armor\\Fur\\Shield.NIF"
+  },
+  {
+    "edid": "LeatherShield",
+    "formid": "Oblivion.esm:025058",
+    "full": "LOC_FN_LeatherShield",
+    "modl": "Armor\\Leather\\Shield.NIF"
+  },
+  {
+    "edid": "MithrilBoots",
+    "formid": "Oblivion.esm:02C0FC",
+    "full": "LOC_FN_MithrilBoots",
+    "modl": "Armor\\Mithril\\M\\Boots.NIF"
+  },
+  {
+    "edid": "MithrilCuirass",
+    "formid": "Oblivion.esm:02C0FE",
+    "full": "LOC_FN_MithrilCuirass",
+    "modl": "Armor\\Mithril\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "MithrilGauntlets",
+    "formid": "Oblivion.esm:02C100",
+    "full": "LOC_FN_MithrilGauntlets",
+    "modl": "Armor\\Mithril\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "MithrilGreaves",
+    "formid": "Oblivion.esm:02C102",
+    "full": "LOC_FN_MithrilGreaves",
+    "modl": "Armor\\Mithril\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "MithrilHelmet",
+    "formid": "Oblivion.esm:02C104",
+    "full": "LOC_FN_MithrilHelmet",
+    "modl": "Armor\\Mithril\\M\\Helmet.NIF"
+  },
+  {
+    "edid": "ChainmailShield",
+    "formid": "Oblivion.esm:032D49",
+    "full": "LOC_FN_ChainmailShield",
+    "modl": "Armor\\Chainmail\\Shield.NIF"
+  },
+  {
+    "edid": "MithrilShield",
+    "formid": "Oblivion.esm:0352BF",
+    "full": "LOC_FN_MithrilShield",
+    "modl": "Armor\\Mithril\\Shield.NIF"
+  },
+  {
+    "edid": "IronShield",
+    "formid": "Oblivion.esm:0352C1",
+    "full": "LOC_FN_IronShield",
+    "modl": "Armor\\Iron\\Shield.NIF"
+  },
+  {
+    "edid": "TownguardAnShield",
+    "formid": "Oblivion.esm:0352C3",
+    "full": "LOC_FN_TownguardAnShield",
+    "modl": "Armor\\TownguardAn\\Shield.NIF"
+  },
+  {
+    "edid": "TownguardBraShield",
+    "formid": "Oblivion.esm:0352C5",
+    "full": "LOC_FN_TownguardBraShield",
+    "modl": "Armor\\TownguardBra\\Shield.NIF"
+  },
+  {
+    "edid": "TownguardBruShield",
+    "formid": "Oblivion.esm:0352C7",
+    "full": "LOC_FN_TownguardBruShield",
+    "modl": "Armor\\TownguardBru\\Shield.NIF"
+  },
+  {
+    "edid": "TownguardCheShield",
+    "formid": "Oblivion.esm:0352C9",
+    "full": "LOC_FN_TownguardCheShield",
+    "modl": "Armor\\TownguardChe\\Shield.NIF"
+  },
+  {
+    "edid": "TownguardChoShield",
+    "formid": "Oblivion.esm:0352CB",
+    "full": "LOC_FN_TownguardChoShield",
+    "modl": "Armor\\TownguardCho\\Shield.NIF"
+  },
+  {
+    "edid": "TownguardKvShield",
+    "formid": "Oblivion.esm:0352CD",
+    "full": "LOC_FN_TownguardKvShield",
+    "modl": "Armor\\TownguardKv\\Shield.NIF"
+  },
+  {
+    "edid": "TownguardLeShield",
+    "formid": "Oblivion.esm:0352CF",
+    "full": "LOC_FN_TownguardLeShield",
+    "modl": "Armor\\TownguardLe\\Shield.NIF"
+  },
+  {
+    "edid": "TownguardSkShield",
+    "formid": "Oblivion.esm:0352D1",
+    "full": "LOC_FN_TownguardSkShield",
+    "modl": "Armor\\TownguardSk\\Shield.NIF"
+  },
+  {
+    "edid": "LegionShield",
+    "formid": "Oblivion.esm:0352D3",
+    "full": "LOC_FN_LegionShield",
+    "modl": "Armor\\Legion\\Shield.NIF"
+  },
+  {
+    "edid": "GlassHelmet",
+    "formid": "Oblivion.esm:03633F",
+    "full": "LOC_FN_GlassHelmet",
+    "modl": "Armor\\Glass\\Helmet.NIF"
+  },
+  {
+    "edid": "GlassGauntlets",
+    "formid": "Oblivion.esm:036340",
+    "full": "LOC_FN_GlassGauntlets",
+    "modl": "Armor\\Glass\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "GlassBoots",
+    "formid": "Oblivion.esm:036341",
+    "full": "LOC_FN_GlassBoots",
+    "modl": "Armor\\Glass\\M\\Boots.NIF"
+  },
+  {
+    "edid": "GlassGreaves",
+    "formid": "Oblivion.esm:036342",
+    "full": "LOC_FN_GlassGreaves",
+    "modl": "Armor\\Glass\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "GlassCuirass",
+    "formid": "Oblivion.esm:036343",
+    "full": "LOC_FN_GlassCuirass",
+    "modl": "Armor\\Glass\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "GlassShield",
+    "formid": "Oblivion.esm:036344",
+    "full": "LOC_FN_GlassShield",
+    "modl": "Armor\\Glass\\Shield.NIF"
+  },
+  {
+    "edid": "DwarvenHelmet",
+    "formid": "Oblivion.esm:036345",
+    "full": "LOC_FN_DwarvenHelmet",
+    "modl": "Armor\\Dwarven\\M\\Helmet.NIF"
+  },
+  {
+    "edid": "DwarvenGauntlets",
+    "formid": "Oblivion.esm:036346",
+    "full": "LOC_FN_DwarvenGauntlets",
+    "modl": "Armor\\Dwarven\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "DwarvenBoots",
+    "formid": "Oblivion.esm:036347",
+    "full": "LOC_FN_DwarvenBoots",
+    "modl": "Armor\\Dwarven\\M\\Boots.NIF"
+  },
+  {
+    "edid": "DwarvenGreaves",
+    "formid": "Oblivion.esm:036348",
+    "full": "LOC_FN_DwarvenGreaves",
+    "modl": "Armor\\Dwarven\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "DwarvenCuirass",
+    "formid": "Oblivion.esm:036349",
+    "full": "LOC_FN_DwarvenCuirass",
+    "modl": "Armor\\Dwarven\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "DwarvenShield",
+    "formid": "Oblivion.esm:03634A",
+    "full": "LOC_FN_DwarvenShield",
+    "modl": "Armor\\Dwarven\\Shield.NIF"
+  },
+  {
+    "edid": "OrcishHelmet",
+    "formid": "Oblivion.esm:03634B",
+    "full": "LOC_FN_OrcishHelmet",
+    "modl": "Armor\\Orcish\\Helmet.NIF"
+  },
+  {
+    "edid": "OrcishGauntlets",
+    "formid": "Oblivion.esm:03634C",
+    "full": "LOC_FN_OrcishGauntlets",
+    "modl": "Armor\\Orcish\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "OrcishBoots",
+    "formid": "Oblivion.esm:03634D",
+    "full": "LOC_FN_OrcishBoots",
+    "modl": "Armor\\Orcish\\M\\Boots.NIF"
+  },
+  {
+    "edid": "OrcishGreaves",
+    "formid": "Oblivion.esm:03634E",
+    "full": "LOC_FN_OrcishGreaves",
+    "modl": "Armor\\Orcish\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "OrcishCuirass",
+    "formid": "Oblivion.esm:03634F",
+    "full": "LOC_FN_OrcishCuirass",
+    "modl": "Armor\\Orcish\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "OrcishShield",
+    "formid": "Oblivion.esm:036350",
+    "full": "LOC_FN_OrcishShield",
+    "modl": "Armor\\Orcish\\Shield.NIF"
+  },
+  {
+    "edid": "EbonyHelmet",
+    "formid": "Oblivion.esm:036351",
+    "full": "LOC_FN_EbonyHelmet",
+    "modl": "Armor\\Ebony\\M\\Helmet.NIF"
+  },
+  {
+    "edid": "EbonyGauntlets",
+    "formid": "Oblivion.esm:036352",
+    "full": "LOC_FN_EbonyGauntlets",
+    "modl": "Armor\\Ebony\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "EbonyBoots",
+    "formid": "Oblivion.esm:036353",
+    "full": "LOC_FN_EbonyBoots",
+    "modl": "Armor\\Ebony\\M\\Boots.NIF"
+  },
+  {
+    "edid": "EbonyGreaves",
+    "formid": "Oblivion.esm:036354",
+    "full": "LOC_FN_EbonyGreaves",
+    "modl": "Armor\\Ebony\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "EnchEbonyCuirassResistPoison",
+    "formid": "Oblivion.esm:036355",
+    "full": "LOC_FN_EnchEbonyCuirassResistPoison",
+    "modl": "Armor\\Ebony\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "EbonyShield",
+    "formid": "Oblivion.esm:036356",
+    "full": "LOC_FN_EbonyShield",
+    "modl": "Armor\\Ebony\\Shield.NIF"
+  },
+  {
+    "edid": "DaedricHelmet",
+    "formid": "Oblivion.esm:036357",
+    "full": "LOC_FN_DaedricHelmet",
+    "modl": "Armor\\Daedric\\M\\Helmet.NIF"
+  },
+  {
+    "edid": "DaedricGauntlets",
+    "formid": "Oblivion.esm:036358",
+    "full": "LOC_FN_DaedricGauntlets",
+    "modl": "Armor\\Daedric\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "DaedricBoots",
+    "formid": "Oblivion.esm:036359",
+    "full": "LOC_FN_DaedricBoots",
+    "modl": "Armor\\Daedric\\M\\Boots.NIF"
+  },
+  {
+    "edid": "DaedricGreaves",
+    "formid": "Oblivion.esm:03635A",
+    "full": "LOC_FN_DaedricGreaves",
+    "modl": "Armor\\Daedric\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "DaedricCuirass",
+    "formid": "Oblivion.esm:03635B",
+    "full": "LOC_FN_DaedricCuirass",
+    "modl": "Armor\\Daedric\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "DaedricShield",
+    "formid": "Oblivion.esm:03635C",
+    "full": "LOC_FN_DaedricShield",
+    "modl": "Armor\\Daedric\\Shield.NIF"
+  },
+  {
+    "edid": "BlackwoodShield",
+    "formid": "Oblivion.esm:03647D",
+    "full": "LOC_FN_BlackwoodShield",
+    "modl": "Armor\\Blackwood\\Shield.NIF"
+  },
+  {
+    "edid": "BlackwoodCuirass",
+    "formid": "Oblivion.esm:038510",
+    "full": "LOC_FN_BlackwoodCuirass",
+    "modl": "Armor\\Blackwood\\M\\Curiass.NIF"
+  },
+  {
+    "edid": "BlackwoodGauntlets",
+    "formid": "Oblivion.esm:038511",
+    "full": "LOC_FN_BlackwoodGauntlets",
+    "modl": "Armor\\Blackwood\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "BlackwoodGreaves",
+    "formid": "Oblivion.esm:038512",
+    "full": "LOC_FN_BlackwoodGreaves",
+    "modl": "Armor\\Blackwood\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "BlackwoodHelmet",
+    "formid": "Oblivion.esm:038513",
+    "full": "LOC_FN_BlackwoodHelmet",
+    "modl": "Armor\\Blackwood\\M\\Helmet.NIF"
+  },
+  {
+    "edid": "BlackwoodBoots",
+    "formid": "Oblivion.esm:038514",
+    "full": "LOC_FN_BlackwoodBoots",
+    "modl": "Armor\\Blackwood\\M\\Boots.NIF"
+  },
+  {
+    "edid": "GriffinArmorCuirassOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003C1C",
+    "full": "Draconis Family Cuirass",
+    "modl": "armor\\Griffin\\m\\Cuirass.nif"
+  },
+  {
+    "edid": "GriffinArmorShieldOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003C1D",
+    "full": "Draconis Family Shield",
+    "modl": "armor\\Griffin\\Shield.nif"
+  },
+  {
+    "edid": "HeavenFuryBoots",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DB",
+    "full": "Heaven's Fury Boots",
+    "modl": "armor\\hf1\\ww3bt.nif"
+  },
+  {
+    "edid": "HeavenFuryCuirass",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DC",
+    "full": "Heaven's Fury Cuirass",
+    "modl": "armor\\hf1\\ww3cu.nif"
+  },
+  {
+    "edid": "HeavenFuryGauntlets",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DD",
+    "full": "Heaven's Fury Gauntlets",
+    "modl": "armor\\hf1\\ww3ga.nif"
+  },
+  {
+    "edid": "HeavenFuryGreaves",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DE",
+    "full": "Heaven's Fury Greaves",
+    "modl": "armor\\hf1\\ww3gr.nif"
+  },
+  {
+    "edid": "HeavenFuryHelmet",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DF",
+    "full": "Heaven's Fury Helmet",
+    "modl": "armor\\hf1\\ww3hlm.nif"
+  },
+  {
+    "edid": "HeavenFuryShield",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046E0",
+    "full": "Heaven's Fury Shield",
+    "modl": "armor\\hf1\\ww3shield.nif"
+  },
+  {
+    "edid": "HeavenFuryHelmetAlt",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0046E1",
+    "full": "Heaven's Fury Helmet",
+    "modl": "armor\\hf1\\althelmet.nif"
+  },
+  {
+    "edid": "HeavenFuryBootsGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C84",
+    "full": "Heaven's Fury Boots",
+    "modl": "armor\\hf2\\m\\boots.nif"
+  },
+  {
+    "edid": "HeavenFuryCuirassGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C85",
+    "full": "Heaven's Fury Cuirass",
+    "modl": "armor\\hf2\\m\\cuirass.nif"
+  },
+  {
+    "edid": "HeavenFuryGauntletsGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C86",
+    "full": "Heaven's Fury Gauntlets",
+    "modl": "armor\\hf2\\m\\gauntlets.nif"
+  },
+  {
+    "edid": "HeavenFuryGreavesGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C87",
+    "full": "Heaven's Fury Greaves",
+    "modl": "armor\\hf2\\m\\greaves.nif"
+  },
+  {
+    "edid": "HeavenFuryHelmetGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C88",
+    "full": "Heaven's Fury Helmet",
+    "modl": "armor\\hf2\\helmet.nif"
+  },
+  {
+    "edid": "HeavenFuryHelmetGoldAlt",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C89",
+    "full": "Heaven's Fury Helmet",
+    "modl": "armor\\hf2\\Alternative\\helmet.nif"
+  },
+  {
+    "edid": "HeavenFuryShieldGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004C8A",
+    "full": "Heaven's Fury Shield",
+    "modl": "armor\\hf2\\shield.nif"
+  },
+  {
+    "edid": "OOOSEUniqueSunShield",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00534D",
+    "full": "Shield of the Sun",
+    "modl": "OOOSE\\Armor\\Other\\sunshield.nif"
+  },
+  {
+    "edid": "1grayfoxsboots",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005673",
+    "full": "Gray Fox's Boots",
+    "modl": "Armor\\Thief\\M\\Boots.NIF"
+  },
+  {
+    "edid": "1grayfoxsbracers",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005674",
+    "full": "Gray Fox's Bracers",
+    "modl": "Armor\\Bracers\\Bracer01M.NIF"
+  },
+  {
+    "edid": "1grayfoxscuirass",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005675",
+    "full": "Gray Fox's Cuirass",
+    "modl": "Armor\\Thief\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "1grayfoxsgloves",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005676",
+    "full": "Gray Fox's Gloves",
+    "modl": "Armor\\Thief\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "1grayfoxsgreaves",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005677",
+    "full": "Gray Fox's Greaves",
+    "modl": "Armor\\Thief\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "TheSilverDragonArmorPlateOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02566F",
+    "full": "The Dragon's Savior",
+    "modl": "armor\\TheSilverDragonOrder\\m\\cuirass.nif"
+  },
+  {
+    "edid": "TheSilverDragonBootsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025670",
+    "full": "The Dragon's Pace",
+    "modl": "armor\\TheSilverDragonOrder\\m\\boots.nif"
+  },
+  {
+    "edid": "TheSilverDragonGauntletsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025671",
+    "full": "The Dragon's Iron Fist",
+    "modl": "armor\\TheSilverDragonOrder\\m\\gauntlets.nif"
+  },
+  {
+    "edid": "TheSilverDragonGreavesOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025672",
+    "full": "The Dragon's Spellshards",
+    "modl": "armor\\TheSilverDragonOrder\\m\\greaves.nif"
+  },
+  {
+    "edid": "TheSilverDragonHelmetOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025673",
+    "full": "The Dragon's Companion",
+    "modl": "armor\\TheSilverDragonOrder\\helmet2.nif"
+  },
+  {
+    "edid": "TheSilverDragonMaskOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025674",
+    "full": "The Dragon's Breath",
+    "modl": "armor\\TheSilverDragonOrder\\m\\TheDragonsShadeofWar.nif"
+  },
+  {
+    "edid": "TheSilverDragonShieldOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025675",
+    "full": "The Dragon's Guardian",
+    "modl": "armor\\TheSilverDragonOrder\\shield.nif"
+  },
+  {
+    "edid": "SkullShieldHeavyOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025BBD",
+    "full": "Embrace of Doom",
+    "modl": "armor\\skull\\shield.nif"
+  },
+  {
+    "edid": "SkullShieldLightOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025BBE",
+    "full": "Light Silver Skull Shield",
+    "modl": "armor\\skull\\shield.nif"
+  },
+  {
+    "edid": "ShadowMailHoodOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:038860",
+    "full": "Shadowmail Hood",
+    "modl": "armor\\ShadowMail\\hood.nif"
+  },
+  {
+    "edid": "ShadowMailTunicOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:038862",
+    "full": "Shadowmail Tunic",
+    "modl": "armor\\ShadowMail\\m\\rangerarmor.nif"
+  },
+  {
+    "edid": "TornesBlockadeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:043D9D",
+    "full": "Torne's Blockade",
+    "modl": "armor\\tornes\\tornes.nif"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "edid": "ZOOOChestJewelry01NobleT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004643",
+    "full": "Exquisite Jewelry Box",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODeskUpper02NobleRespawn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A177",
+    "full": "Fine Wood Desk",
+    "modl": "Furniture\\UpperClass\\UpperDesk01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMidAlchemy",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042002",
+    "full": "Elegant Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMid02Magic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042004",
+    "full": "Rune Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMid02ArmoryLesserWizT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042005",
+    "full": "Rune Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestNobleMagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042006",
+    "full": "Ornate Runed Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestNobleArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042009",
+    "full": "Elegant Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  }
+]

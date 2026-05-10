@@ -1,0 +1,13 @@
+{
+  "esp": "OOO_NewArmorOdds.esp",
+  "record_types": [
+    "ARMO"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "Oscuro's_Oblivion_Overhaul.esp"
+    ],
+    "version": 1.0
+  }
+}

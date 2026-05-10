@@ -1,0 +1,13 @@
+{
+  "esp": "OOO_NewMiscItems.esp",
+  "record_types": [
+    "MISC"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "Oscuro's_Oblivion_Overhaul.esp"
+    ],
+    "version": 1.0
+  }
+}

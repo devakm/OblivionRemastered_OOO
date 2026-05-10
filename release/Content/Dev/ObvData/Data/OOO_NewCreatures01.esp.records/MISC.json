@@ -1,0 +1,74 @@
+[
+  {
+    "edid": "WolfPelt02OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00329B",
+    "full": "Tundra Wolf Pelt",
+    "modl": "Clutter\\WolfPelt.NIF"
+  },
+  {
+    "edid": "LionHide01a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003655",
+    "full": "Large Lion Pelt",
+    "modl": "Clutter\\LionHide.NIF"
+  },
+  {
+    "edid": "WolfPelt01a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003656",
+    "full": "Large Wolf Pelt",
+    "modl": "Clutter\\WolfPelt.NIF"
+  },
+  {
+    "edid": "WolfPelt02OOOa",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D10",
+    "full": "Large Tundra Wolf Pelt",
+    "modl": "Clutter\\WolfPelt.NIF"
+  },
+  {
+    "edid": "WolfPeltWarg",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D11",
+    "full": "Shadow Wolf Pelt",
+    "modl": "Clutter\\WolfPelt.NIF"
+  },
+  {
+    "edid": "WolfPeltWarga",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D17",
+    "full": "Large Shadow Wolf Pelt",
+    "modl": "Clutter\\WolfPelt.NIF"
+  },
+  {
+    "edid": "LionHide01Snowa",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D19",
+    "full": "Large Snow Lion Pelt",
+    "modl": "Clutter\\LionHide.NIF"
+  },
+  {
+    "edid": "LeopardSnowPeltOOOa",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D1A",
+    "full": "Large Snow Leopard Pelt",
+    "modl": "Clutter\\LionHide.NIF"
+  },
+  {
+    "edid": "LeopardPeltOOOa",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D1B",
+    "full": "Large Jaguar Pelt",
+    "modl": "Clutter\\LionHide.NIF"
+  },
+  {
+    "edid": "WolfPeltWargGiant",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02929A",
+    "full": "Long Fang's Pelt",
+    "modl": "Clutter\\WolfPelt.NIF"
+  },
+  {
+    "edid": "WolfPeltWargGiant2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:029824",
+    "full": "Giant Shadow Wolf Pelt",
+    "modl": "Clutter\\WolfPelt.NIF"
+  },
+  {
+    "edid": "WolfPelt01Giant",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02F9FB",
+    "full": "Giant Wolf Pelt",
+    "modl": "Clutter\\WolfPelt.NIF"
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "edid": "CreatureHellHoundOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003293",
+    "full": "Hell Hound",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureHellHoundOOO1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D0A",
+    "full": "Hell Hound",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureHellHoundOOO2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D0B",
+    "full": "Hell Hound",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureHellHoundOOO3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D0C",
+    "full": "Hell Hound",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureClannfear1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089FB",
+    "full": "LOC_FN_CreatureClannfear",
+    "modl": "Creatures\\Clannfear\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureClannfear2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089FC",
+    "full": "LOC_FN_CreatureClannfear",
+    "modl": "Creatures\\Clannfear\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureClannfear3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089FD",
+    "full": "LOC_FN_CreatureClannfear",
+    "modl": "Creatures\\Clannfear\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureClannfearRunt1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089FE",
+    "full": "LOC_FN_CreatureClannfearRunt",
+    "modl": "Creatures\\Clannfear\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureClannfearRunt2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089FF",
+    "full": "LOC_FN_CreatureClannfearRunt",
+    "modl": "Creatures\\Clannfear\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureDaedroth1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A00",
+    "full": "LOC_FN_CreatureDaedroth",
+    "modl": "Creatures\\Daedroth\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureDaedroth2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A01",
+    "full": "LOC_FN_CreatureDaedroth",
+    "modl": "Creatures\\Daedroth\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureDaedroth3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A02",
+    "full": "LOC_FN_CreatureDaedroth",
+    "modl": "Creatures\\Daedroth\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureScamp1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A09",
+    "full": "LOC_FN_CreatureScamp",
+    "modl": "Creatures\\Scamp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureScamp2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A0A",
+    "full": "LOC_FN_CreatureScamp",
+    "modl": "Creatures\\Scamp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureScamp3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A0B",
+    "full": "LOC_FN_CreatureScamp",
+    "modl": "Creatures\\Scamp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureScampStunted1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A0C",
+    "full": "LOC_FN_CreatureScampStunted",
+    "modl": "Creatures\\Scamp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureScampStunted2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A0D",
+    "full": "LOC_FN_CreatureScampStunted",
+    "modl": "Creatures\\Scamp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureScampStunted3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A0E",
+    "full": "LOC_FN_CreatureScampStunted",
+    "modl": "Creatures\\Scamp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureGuardianScampFightingChance",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:029CB5",
+    "full": "Scamp Guardian",
+    "modl": "Creatures\\Scamp\\Skeleton.NIF"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "edid": "WeapIronBattleAxe",
+    "formid": "Oblivion.esm:000D7F",
+    "full": "LOC_FN_WeapIronBattleAxe",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "WeapIronWarAxe",
+    "formid": "Oblivion.esm:000D81",
+    "full": "LOC_FN_WeapIronWarAxe",
+    "modl": "Weapons\\Iron\\WarAxe.NIF"
+  },
+  {
+    "edid": "WeapIronMace",
+    "formid": "Oblivion.esm:000D82",
+    "full": "LOC_FN_WeapIronMace",
+    "modl": "Weapons\\Iron\\Mace.NIF"
+  },
+  {
+    "edid": "WeapSteelCutlassSharp",
+    "formid": "Oblivion.esm:0055AB",
+    "full": "LOC_FN_WeapSteelCutlassSharp",
+    "modl": "Weapons\\Cutlass\\Cutlass.NIF"
+  },
+  {
+    "edid": "WeapElvenLongSword",
+    "formid": "Oblivion.esm:0229B3",
+    "full": "LOC_FN_WeapElvenLongSword",
+    "modl": "Weapons\\Elven\\LongSword.NIF"
+  },
+  {
+    "edid": "WeapSteelBattleAxe",
+    "formid": "Oblivion.esm:0229B6",
+    "full": "LOC_FN_WeapSteelBattleAxe",
+    "modl": "Weapons\\Steel\\BattleAxe.NIF"
+  },
+  {
+    "edid": "WeapSteelMace",
+    "formid": "Oblivion.esm:0229BB",
+    "full": "LOC_FN_WeapSteelMace",
+    "modl": "Weapons\\Steel\\Mace.NIF"
+  },
+  {
+    "edid": "WeapSteelWarhammer",
+    "formid": "Oblivion.esm:0229BE",
+    "full": "LOC_FN_WeapSteelWarhammer",
+    "modl": "Weapons\\Steel\\Warhammer.NIF"
+  },
+  {
+    "edid": "WeapElvenBow",
+    "formid": "Oblivion.esm:0229BF",
+    "full": "LOC_FN_WeapElvenBow",
+    "modl": "Weapons\\Elven\\Bow.NIF"
+  },
+  {
+    "edid": "WeapSilverBattleAxe",
+    "formid": "Oblivion.esm:025221",
+    "full": "LOC_FN_WeapSilverBattleAxe",
+    "modl": "Weapons\\Silver\\Battleaxe.NIF"
+  },
+  {
+    "edid": "WeapSilverMace",
+    "formid": "Oblivion.esm:025223",
+    "full": "LOC_FN_WeapSilverMace",
+    "modl": "Weapons\\Silver\\Mace.NIF"
+  },
+  {
+    "edid": "WeapSilverWarhammer",
+    "formid": "Oblivion.esm:025225",
+    "full": "LOC_FN_WeapSilverWarhammer",
+    "modl": "Weapons\\Silver\\Warhammer.NIF"
+  },
+  {
+    "edid": "WeapSilverClaymore",
+    "formid": "Oblivion.esm:025226",
+    "full": "LOC_FN_WeapSilverClaymore",
+    "modl": "Weapons\\Silver\\Claymore.NIF"
+  },
+  {
+    "edid": "WeapDwarvenWarHammer",
+    "formid": "Oblivion.esm:035DD5",
+    "full": "LOC_FN_WeapDwarvenWarHammer",
+    "modl": "Weapons\\Dwarven\\Warhammer.NIF"
+  },
+  {
+    "edid": "WeapGlassWarAxe",
+    "formid": "Oblivion.esm:035E5D",
+    "full": "LOC_FN_WeapGlassWarAxe",
+    "modl": "Weapons\\Glass\\WarAxe.NIF"
+  },
+  {
+    "edid": "WeapGlassMace",
+    "formid": "Oblivion.esm:035E5E",
+    "full": "LOC_FN_WeapGlassMace",
+    "modl": "Weapons\\Glass\\Mace.NIF"
+  },
+  {
+    "edid": "WeapGlassBattleAxe",
+    "formid": "Oblivion.esm:035E60",
+    "full": "LOC_FN_WeapGlassBattleAxe",
+    "modl": "Weapons\\Glass\\Battleaxe.NIF"
+  },
+  {
+    "edid": "WeapGlassClaymore",
+    "formid": "Oblivion.esm:035E61",
+    "full": "LOC_FN_WeapGlassClaymore",
+    "modl": "Weapons\\Glass\\Claymore.NIF"
+  },
+  {
+    "edid": "WeapGlassWarHammer",
+    "formid": "Oblivion.esm:035E62",
+    "full": "LOC_FN_WeapGlassWarHammer",
+    "modl": "Weapons\\Glass\\Warhammer.NIF"
+  },
+  {
+    "edid": "WeapElvenDagger",
+    "formid": "Oblivion.esm:035E63",
+    "full": "LOC_FN_WeapElvenDagger",
+    "modl": "Weapons\\Elven\\Dagger.NIF"
+  },
+  {
+    "edid": "WeapElvenShortsword",
+    "formid": "Oblivion.esm:035E64",
+    "full": "LOC_FN_WeapElvenShortsword",
+    "modl": "Weapons\\Elven\\ShortSword.NIF"
+  },
+  {
+    "edid": "WeapElvenWarAxe",
+    "formid": "Oblivion.esm:035E65",
+    "full": "LOC_FN_WeapElvenWarAxe",
+    "modl": "Weapons\\Elven\\Waraxe.NIF"
+  },
+  {
+    "edid": "WeapElvenMace",
+    "formid": "Oblivion.esm:035E66",
+    "full": "LOC_FN_WeapElvenMace",
+    "modl": "Weapons\\Elven\\Mace.NIF"
+  },
+  {
+    "edid": "WeapElvenBattleAxe",
+    "formid": "Oblivion.esm:035E67",
+    "full": "LOC_FN_WeapElvenBattleAxe",
+    "modl": "Weapons\\Elven\\Battleaxe.NIF"
+  },
+  {
+    "edid": "WeapElvenClaymore",
+    "formid": "Oblivion.esm:035E68",
+    "full": "LOC_FN_WeapElvenClaymore",
+    "modl": "Weapons\\Elven\\Claymore.NIF"
+  },
+  {
+    "edid": "WeapElvenWarHammer",
+    "formid": "Oblivion.esm:035E69",
+    "full": "LOC_FN_WeapElvenWarHammer",
+    "modl": "Weapons\\Elven\\Warhammer.NIF"
+  },
+  {
+    "edid": "WeapEbonyClaymore",
+    "formid": "Oblivion.esm:035E70",
+    "full": "LOC_FN_WeapEbonyClaymore",
+    "modl": "Weapons\\Ebony\\Claymore.NIF"
+  },
+  {
+    "edid": "WeapEbonyWarHammer",
+    "formid": "Oblivion.esm:035E71",
+    "full": "LOC_FN_WeapEbonyWarHammer",
+    "modl": "Weapons\\Ebony\\Warhammer.NIF"
+  },
+  {
+    "edid": "WeapDaedricClaymore",
+    "formid": "Oblivion.esm:035E78",
+    "full": "LOC_FN_WeapDaedricClaymore",
+    "modl": "Weapons\\Daedric\\Claymore.NIF"
+  },
+  {
+    "edid": "WeapDaedricBow",
+    "formid": "Oblivion.esm:035E7C",
+    "full": "LOC_FN_WeapDaedricBow",
+    "modl": "Weapons\\Daedric\\Bow.NIF"
+  },
+  {
+    "edid": "WeapSteelBattleAxeFine",
+    "formid": "Oblivion.esm:03A856",
+    "full": "LOC_FN_WeapSteelBattleAxeFine",
+    "modl": "Weapons\\Steel\\BattleAxeFine.NIF"
+  },
+  {
+    "edid": "WeapSteelMaceFine",
+    "formid": "Oblivion.esm:03A85B",
+    "full": "LOC_FN_WeapSteelMaceFine",
+    "modl": "Weapons\\Steel\\MaceFine.NIF"
+  },
+  {
+    "edid": "WeapSteelWarhammerFine",
+    "formid": "Oblivion.esm:03A85E",
+    "full": "LOC_FN_WeapSteelWarhammerFine",
+    "modl": "Weapons\\Steel\\WarhammerFine.NIF"
+  },
+  {
+    "edid": "WeapIronWarAxeFine",
+    "formid": "Oblivion.esm:03A866",
+    "full": "LOC_FN_WeapIronWarAxeFine",
+    "modl": "Weapons\\Iron\\WarAxe.NIF"
+  },
+  {
+    "edid": "WeapAkaviriLongSword2H",
+    "formid": "Oblivion.esm:09DAC5",
+    "full": "LOC_FN_WeapAkaviriLongSword2H",
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "edid": "ChestClutterMiddleSame02",
+    "formid": "Oblivion.esm:024456",
+    "full": "LOC_FN_ChestClutterMiddleSame02",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "DeskClutterUpper02",
+    "formid": "Oblivion.esm:024467",
+    "full": "LOC_FN_DeskClutterUpper02",
+    "modl": "Furniture\\UpperClass\\UpperDesk01.NIF"
+  },
+  {
+    "edid": "ChestVendorAlchemyPotionsMedI01",
+    "formid": "Oblivion.esm:02449B",
+    "full": "LOC_FN_ChestVendorAlchemyPotionsMedI01",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ChestVendorPawnbrokerLow01",
+    "formid": "Oblivion.esm:0244B1",
+    "full": "LOC_FN_ChestVendorPawnbrokerLow01",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ChestVendorPawnbrokerLow02",
+    "formid": "Oblivion.esm:0244B2",
+    "full": "LOC_FN_ChestVendorPawnbrokerLow02",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ChestClutterUpperSame02",
+    "formid": "Oblivion.esm:024A78",
+    "full": "LOC_FN_ChestClutterUpperSame02",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ChestJewelryUpper01",
+    "formid": "Oblivion.esm:064F54",
+    "full": "LOC_FN_ChestJewelryUpper01",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ChestJewelryNoble01",
+    "formid": "Oblivion.esm:064F55",
+    "full": "LOC_FN_ChestJewelryNoble01",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ChestHouseArmoryMiddle01",
+    "formid": "Oblivion.esm:0A4975",
+    "full": "LOC_FN_ChestHouseArmoryMiddle01",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ChestHouseArmoryUpper02",
+    "formid": "Oblivion.esm:0A4978",
+    "full": "LOC_FN_ChestHouseArmoryUpper02",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ChestHouseHealingUpper01",
+    "formid": "Oblivion.esm:181D1D",
+    "full": "LOC_FN_ChestHouseHealingUpper01",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ChestJewelryMiddle01",
+    "formid": "Oblivion.esm:18B72C",
+    "full": "LOC_FN_ChestJewelryMiddle01",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  }
+]

@@ -11100,6 +11100,174 @@
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
+    "edid": "GhostMinionMeleeMale1a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00312E",
+    "full": "Ghostly Warrior",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale1b",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003130",
+    "full": "Ghostly Warrior",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale1c",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003131",
+    "full": "Ghostly Warrior",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale1d",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003132",
+    "full": "Ghostly Warrior",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale1e",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003133",
+    "full": "Ghostly Warrior",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale1f",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003134",
+    "full": "Ghostly Warrior",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale1g",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003135",
+    "full": "Ghostly Warrior",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale1h",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003136",
+    "full": "Ghostly Warrior",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale2a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003137",
+    "full": "Spectral Warrior",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale2b",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003138",
+    "full": "Spectral Warrior",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale2c",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003139",
+    "full": "Spectral Warrior",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale2d",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00313A",
+    "full": "Spectral Warrior",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale2e",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00313B",
+    "full": "Spectral Warrior",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale2f",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00313C",
+    "full": "Spectral Warrior",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale2g",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00313D",
+    "full": "Spectral Warrior",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale2h",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00313E",
+    "full": "Spectral Warrior",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003635",
+    "full": "Spectral Reaver",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale3a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003636",
+    "full": "Spectral Reaver",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale3b",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003637",
+    "full": "Spectral Reaver",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale3c",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003638",
+    "full": "Spectral Reaver",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale3d",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003639",
+    "full": "Spectral Reaver",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale3e",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00363A",
+    "full": "Spectral Reaver",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale3f",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00363B",
+    "full": "Spectral Reaver",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale3g",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00363C",
+    "full": "Spectral Reaver",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale3h",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00363D",
+    "full": "Spectral Reaver",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMaleBoss",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003C2F",
+    "full": "Reaver of Ghuul Icxth",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "zOOODragonborneLeader",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E9C",
+    "full": "Sir Alain Uruk",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "zOOODragonborneCaptive",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E9D",
+    "full": "Order of the Dragonborne's Knight",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
     "edid": "ConjurerBossFemaleBreton2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003F0C",
     "full": "Plane Summoner",
@@ -11460,6 +11628,12 @@
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
+    "edid": "GhostMinionMeleeMaleSummon",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004B1A",
+    "full": "Spectral Reaver",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
     "edid": "MarauderMageFemale4BAyleid",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005F6C",
     "full": "Marauder Battlemage",
@@ -11472,9 +11646,237 @@
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
+    "edid": "ZZZOOOPilgrimZenithar3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006AC5",
+    "full": "Pilgrim of Zenithar",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimZenithar2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006AD2",
+    "full": "Pilgrim of Zenithar",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimZenithar1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006AD5",
+    "full": "Pilgrim of Zenithar",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimTiber1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006AD8",
+    "full": "Pilgrim of Tiber Septim",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimTiber2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006ADA",
+    "full": "Pilgrim of Tiber Septim",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimTiber3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006ADB",
+    "full": "Pilgrim of Tiber Septim",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimStendarr3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006ADD",
+    "full": "Pilgrim of Stendarr",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimStendarr2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006ADE",
+    "full": "Pilgrim of Stendarr",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimStendarr1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006AE0",
+    "full": "Pilgrim of Stendarr",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimMara1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006AE2",
+    "full": "Pilgrim of Mara",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimMara2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006B01",
+    "full": "Pilgrim of Mara",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimMara3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006B02",
+    "full": "Pilgrim of Mara",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimKynareth1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006B04",
+    "full": "Pilgrim of Kynareth",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimKynareth2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006B08",
+    "full": "Pilgrim of Kynareth",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimKynareth3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006B0A",
+    "full": "Pilgrim of Kynareth",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimJulianos1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006B0C",
+    "full": "Pilgrim of Julianos",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimJulianos2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006B0E",
+    "full": "Pilgrim of Julianos",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimJulianos3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006B10",
+    "full": "Pilgrim of Julianos",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimJulianos4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006B12",
+    "full": "Pilgrim of Julianos",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimDibella1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006B14",
+    "full": "Pilgrim of Dibella",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimDibella2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006B16",
+    "full": "Pilgrim of Dibella",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimDibella3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006B17",
+    "full": "Pilgrim of Dibella",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimArkay1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006B1B",
+    "full": "Pilgrim of Arkay",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimArkay2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006B1C",
+    "full": "Pilgrim of Arkay",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "XSunChildOrvas",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006F6C",
+    "full": "Orvas Meltraden",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
     "edid": "MannimarcoTest",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00722D",
     "full": "Mannimarco",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ZZZOOOPilgrimArkay3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007280",
+    "full": "Pilgrim of Arkay",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimAkatosh1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007281",
+    "full": "Pilgrim of Akatosh",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimAkatosh2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007283",
+    "full": "Pilgrim of Akatosh",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimAkatosh3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007284",
+    "full": "Pilgrim of Akatosh",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimAkatosh4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007285",
+    "full": "Pilgrim of Akatosh",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "GhostMinionSpecialMeleeStrong01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0093B1",
+    "full": "Spectral Reaver",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionSpecialMeleeNormal01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0093B2",
+    "full": "Spectral Warrior",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "zOOODragonborneGoblinKillerFatback",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D551",
+    "full": "Order of the Dragonborne's Knight",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "zOOODragonborneGoblinKillerDerelict1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00F776",
+    "full": "Order of the Dragonborne's Knight",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "zOOODragonborneGoblinKillerDerelict2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00F777",
+    "full": "Order of the Dragonborne's Knight",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "zOOODragonborneGoblinKillerPlundered",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00F77C",
+    "full": "Order of the Dragonborne's Knight",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "zOOODragonborneGoblinKillerHaunted",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00F77F",
+    "full": "Order of the Dragonborne's Knight",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "zOOODragonborneGoblinKillerPillaged",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00FE6D",
+    "full": "Order of the Dragonborne's Knight",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
@@ -12108,9 +12510,69 @@
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
+    "edid": "GhostMinionMeleeMale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014662",
+    "full": "Ghostly Warrior",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ZZZOOOPilgrimAkatoshGuard1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014CCF",
+    "full": "Order of the Dragonborne's Knight",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimAkatosh1a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014CD7",
+    "full": "Pilgrim of Akatosh",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimAkatoshGuard2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014CDD",
+    "full": "Order of the Dragonborne's Knight",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimAkatoshGuard3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014CE3",
+    "full": "Order of the Dragonborne's Knight",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimAkatoshGuard4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014CE9",
+    "full": "Order of the Dragonborne's Knight",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimTiberGuard1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014CEF",
+    "full": "Order of the Dragonborne's Knight",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimTiberGuard2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014CF0",
+    "full": "Order of the Dragonborne's Knight",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ZZZOOOPilgrimTiberGuard3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014CF1",
+    "full": "Order of the Dragonborne's Knight",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
     "edid": "NecromancerBossLordNoor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014D22",
     "full": "Fayth Noor",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GhostMinionMeleeMale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:016DEB",
+    "full": "Spectral Warrior",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
@@ -12477,6 +12939,12 @@
     "edid": "MarauderRaiderBossALady",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04D525",
     "full": "Sheil Hestarius",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "zOOODragonborneDead",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA62",
+    "full": "Order of the Dragonborne's Knight",
     "modl": "Characters\\_Male\\skeleton.nif"
   }
 ]
