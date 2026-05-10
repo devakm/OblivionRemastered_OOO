@@ -592,6 +592,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "LeyawiinTheDividingLine",
+    "formid": "Oblivion.esm:030538",
+    "full": "The Dividing Line",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "AnvilJesanSextiusHouse",
     "formid": "Oblivion.esm:0308C0",
     "full": "LOC_FN_AnvilJesanSextiusHouse",
@@ -643,6 +651,14 @@
     "edid": "CadlewChapel",
     "formid": "Oblivion.esm:0313B0",
     "full": "LOC_FN_CadlewChapel",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BravilCastlePrivateQuartersNorthWing",
+    "formid": "Oblivion.esm:031A50",
+    "full": "Castle Bravil Lord's Manor North Wing",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
