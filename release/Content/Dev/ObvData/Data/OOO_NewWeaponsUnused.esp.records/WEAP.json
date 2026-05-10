@@ -1,0 +1,32 @@
+[
+  {
+    "edid": "WeaponSabreZSpecialA1hOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:013834",
+    "full": "Hithlain",
+    "modl": "Weapons\\Adonnay\\hithlain_1h.nif"
+  },
+  {
+    "edid": "WeaponSabreZSpecialA2hOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:013835",
+    "full": "Hithlain",
+    "modl": "Weapons\\Adonnay\\hithlain_2h.nif"
+  },
+  {
+    "edid": "WeaponSabreZSpecialB1hOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:013836",
+    "full": "Ithildin",
+    "modl": "Weapons\\Adonnay\\ithildin_1h.nif"
+  },
+  {
+    "edid": "WeaponSabreZSpecialC1hOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:013838",
+    "full": "Naith",
+    "modl": "Weapons\\Adonnay\\naith_1h.nif"
+  },
+  {
+    "edid": "WeaponSabreZSpecialC2hOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:013839",
+    "full": "Naith",
+    "modl": "Weapons\\Adonnay\\naith_2h.nif"
+  }
+]

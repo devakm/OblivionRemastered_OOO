@@ -842,7 +842,7 @@
   {
     "edid": "CreatureWolf",
     "formid": "Oblivion.esm:06E912",
-    "full": "LOC_FN_CreatureWolf",
+    "full": "Wolf",
     "modl": "Creatures\\Dog\\Skeleton.NIF"
   },
   {

@@ -30,6 +30,12 @@
     "modl": null
   },
   {
+    "edid": "GeomancyPearlPerfectSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015D1",
+    "full": "Geomantic Illumination (perfect)",
+    "modl": null
+  },
+  {
     "edid": "GeomancyRubyPerfectSpell",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0015D3",
     "full": "Geomantic Wrath (perfect)",
@@ -4101,12 +4107,6 @@
     "edid": "DreadSetBonusOOOv2H",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA3B",
     "full": "Dread Visage",
-    "modl": null
-  },
-  {
-    "edid": "GeomancyPearlPerfectSpell",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0915D1",
-    "full": "Geomantic Illumination (perfect)",
     "modl": null
   }
 ]

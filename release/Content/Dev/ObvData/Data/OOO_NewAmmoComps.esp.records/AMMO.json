@@ -1,0 +1,50 @@
+[
+  {
+    "edid": "Arrow1Iron",
+    "formid": "Oblivion.esm:017829",
+    "full": "LOC_FN_Arrow1Iron",
+    "modl": "Weapons\\Iron\\Arrow.NIF"
+  },
+  {
+    "edid": "Arrow8Daedric",
+    "formid": "Oblivion.esm:01EFD3",
+    "full": "LOC_FN_Arrow8Daedric",
+    "modl": "Weapons\\Daedric\\Arrow.NIF"
+  },
+  {
+    "edid": "Arrow3Silver",
+    "formid": "Oblivion.esm:01EFD4",
+    "full": "LOC_FN_Arrow3Silver",
+    "modl": "Weapons\\Silver\\Arrow.NIF"
+  },
+  {
+    "edid": "Arrow7Ebony",
+    "formid": "Oblivion.esm:01EFD5",
+    "full": "LOC_FN_Arrow7Ebony",
+    "modl": "Weapons\\Ebony\\Arrow.NIF"
+  },
+  {
+    "edid": "Arrow5Elven",
+    "formid": "Oblivion.esm:0229C0",
+    "full": "LOC_FN_Arrow5Elven",
+    "modl": "Weapons\\Elven\\Arrow.NIF"
+  },
+  {
+    "edid": "Arrow2Steel",
+    "formid": "Oblivion.esm:0229C1",
+    "full": "LOC_FN_Arrow2Steel",
+    "modl": "Weapons\\Steel\\Arrow.NIF"
+  },
+  {
+    "edid": "Arrow6Glass",
+    "formid": "Oblivion.esm:022BE1",
+    "full": "LOC_FN_Arrow6Glass",
+    "modl": "Weapons\\Glass\\Arrow.NIF"
+  },
+  {
+    "edid": "Arrow4Dwarven",
+    "formid": "Oblivion.esm:022BE2",
+    "full": "LOC_FN_Arrow4Dwarven",
+    "modl": "Weapons\\Dwarven\\Arrow.NIF"
+  }
+]

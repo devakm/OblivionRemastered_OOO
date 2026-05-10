@@ -48,6 +48,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "Nonungalo02",
+    "formid": "Oblivion.esm:0A04E8",
+    "full": "LOC_FN_Nonungalo02",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "Nonungalo",
     "formid": "Oblivion.esm:0A04E9",
     "full": "LOC_FN_Nonungalo",

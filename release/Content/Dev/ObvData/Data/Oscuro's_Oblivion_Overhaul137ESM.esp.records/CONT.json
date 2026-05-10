@@ -5235,7 +5235,7 @@
     "edid": "DungBanditBossChest02OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC3F",
     "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "DungConjurerBossChestAlyied01OOO",
@@ -5253,43 +5253,43 @@
     "edid": "DungMarauderBossChestAlyied02OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC42",
     "full": "Ayleid Reliquary",
-    "modl": null
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
   },
   {
     "edid": "DungMarauderChestAlyied01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC43",
     "full": "Ayleid Cask",
-    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
   },
   {
     "edid": "DungMarauderChestAlyied02OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC44",
     "full": "Ayleid Cask",
-    "modl": null
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
   },
   {
     "edid": "DungMythEnemyBossChestAlyied01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC45",
     "full": "Ayleid Coffer",
-    "modl": null
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
   },
   {
     "edid": "DungMythEnemyBossChestAlyied02OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC46",
     "full": "Ayleid Reliquary",
-    "modl": null
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
   },
   {
     "edid": "DungNecroBossChestFortOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC47",
     "full": "Chest",
-    "modl": null
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "DungNecroBossCoffinOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC48",
     "full": "Coffin",
-    "modl": null
+    "modl": "Dungeons\\Misc\\CoffinClosed03.NIF"
   },
   {
     "edid": "DungOblivionBossClawExt02OOO",
@@ -5301,7 +5301,7 @@
     "edid": "DungOblivionBossClawInt01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC4A",
     "full": "The Punished",
-    "modl": null
+    "modl": "Oblivion\\Clutter\\Containers\\ClawStandContainer.NIF"
   },
   {
     "edid": "DungOblivionBossSack01OOO",
@@ -5313,7 +5313,7 @@
     "edid": "DungTombBossCoffinOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC4C",
     "full": "Coffin",
-    "modl": null
+    "modl": "Dungeons\\Misc\\CoffinClosed03.NIF"
   },
   {
     "edid": "FieldhouseCave03ChestOOO",
@@ -5343,7 +5343,7 @@
     "edid": "Dark18ChestLarge1OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC51",
     "full": "Large Chest",
-    "modl": null
+    "modl": "Dungeons\\FortRuins\\Dungeon\\Clutter\\RFDchestLargeLidded.NIF"
   },
   {
     "edid": "Dark13VampireChest01OOO",
@@ -5355,7 +5355,7 @@
     "edid": "Dark02CaptainChestOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC53",
     "full": "Captain's Tussaud's Booty",
-    "modl": null
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "ChestJewelryUpper01OOO",
@@ -5373,13 +5373,13 @@
     "edid": "ChestClarabellaCaptainOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC56",
     "full": "Captain Patneim's Chest",
-    "modl": null
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
   },
   {
     "edid": "BlackRockChest02OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC57",
     "full": "Chest",
-    "modl": null
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
   },
   {
     "edid": "ZOOODungJewelry01Common",

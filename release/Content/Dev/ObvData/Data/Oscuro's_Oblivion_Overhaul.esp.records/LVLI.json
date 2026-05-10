@@ -61508,7 +61508,73 @@
   },
   {
     "edid": "OOOLootWeapon5High",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:029285"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:029285"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299CC"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299CC"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299CC"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299D6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299D6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299D6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:02B5F9"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:02B5F9"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:02B5F9"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:02C4F4"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:032D81"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002701"
   },
   {
@@ -65682,17 +65748,180 @@
   },
   {
     "edid": "OOOLootWeaponAyleidArrowsMed",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F3B"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F3C"
+      },
+      {
+        "count": 3,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F3C"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F3F"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F40"
+      },
+      {
+        "count": 3,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F40"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F45"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F46"
+      },
+      {
+        "count": 3,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F46"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002C54"
   },
   {
     "edid": "OOOLootWeaponAyleidArrowsSpecialSpecial",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F3D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F3E"
+      },
+      {
+        "count": 3,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F3E"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F41"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F42"
+      },
+      {
+        "count": 3,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F42"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F43"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F43"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F44"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F44"
+      },
+      {
+        "count": 3,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F44"
+      },
+      {
+        "count": 3,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F44"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002C55"
   },
   {
     "edid": "OOOLootWeaponAyleidArrowsSpecial",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F3B"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F3C"
+      },
+      {
+        "count": 3,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F3C"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F3F"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F40"
+      },
+      {
+        "count": 3,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F40"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F45"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F46"
+      },
+      {
+        "count": 3,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F46"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C55"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C55"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002C56"
   },
   {
@@ -65767,6 +65996,36 @@
         "count": 6,
         "level": 1,
         "ref_formid": "Oblivion.esm:026F5C"
+      },
+      {
+        "count": 4,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C56"
+      },
+      {
+        "count": 5,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C56"
+      },
+      {
+        "count": 5,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C56"
+      },
+      {
+        "count": 3,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0513A1"
+      },
+      {
+        "count": 4,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0513A1"
+      },
+      {
+        "count": 4,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0513A1"
       }
     ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002C57"
@@ -65833,6 +66092,36 @@
         "count": 10,
         "level": 1,
         "ref_formid": "Oblivion.esm:026D74"
+      },
+      {
+        "count": 4,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C54"
+      },
+      {
+        "count": 5,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C54"
+      },
+      {
+        "count": 5,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C54"
+      },
+      {
+        "count": 5,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0513A1"
+      },
+      {
+        "count": 6,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0513A1"
+      },
+      {
+        "count": 6,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0513A1"
       }
     ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002C58"
@@ -66458,47 +66747,416 @@
   },
   {
     "edid": "OOOLootWeaponAyleidBowsMed",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F18"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F19"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C63"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C63"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C63"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C64"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C64"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C64"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C65"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C65"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0513A0"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002C62"
   },
   {
     "edid": "OOOLootZWeaponAyleidBowWhite",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F1A"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F1B"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F1B"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F1C"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F1C"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F1C"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F1C"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002C63"
   },
   {
     "edid": "OOOLootZWeaponAyleidBowElm",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F20"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F20"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F21"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F22"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F22"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F22"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F22"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002C64"
   },
   {
     "edid": "OOOLootZWeaponAyleidBowCloud",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F23"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F24"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F24"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F25"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F25"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F25"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F25"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002C65"
   },
   {
     "edid": "OOOLootZWeaponAyleidBowSun",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F1D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F1E"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F1E"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F1E"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F1E"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F1F"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F1F"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002C66"
   },
   {
     "edid": "OOOLootZWeaponAyleidBowEbon",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F26"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F27"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F27"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F28"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F28"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F28"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F28"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002C67"
   },
   {
     "edid": "OOOLootZWeaponAyleidBowIvory",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F29"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F2A"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F2A"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F2B"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F2B"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F2B"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F2B"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002C68"
   },
   {
     "edid": "OOOLootWeaponAyleidBowsSpecial",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C63"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C63"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C63"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C64"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C64"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C64"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C65"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C65"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C65"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C6A"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C6A"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0513A0"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0513A0"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002C69"
   },
   {
     "edid": "OOOLootWeaponAyleidBowsSpecialSpecial",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C66"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C66"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C66"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C67"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C67"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:002C68"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002C6A"
   },
   {
@@ -66707,7 +67365,88 @@
   },
   {
     "edid": "OOOLootWeapon75HighAyleid",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:029285"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:029285"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299CC"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299CC"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299D6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299D6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299D6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:02C4F4"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:032D81"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001714"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001714"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001714"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0258C3"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0258C3"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0258C3"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0258C3"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002C6F"
   },
   {
@@ -130294,7 +131033,28 @@
   },
   {
     "edid": "OOOLootWeapon5Noble100",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0072F5"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0072F6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0072F7"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0072F8"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008E84"
   },
   {
@@ -151031,7 +151791,38 @@
   },
   {
     "edid": "OOOLootWeapon75Med",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:029285"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299CC"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299CC"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299D6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299D6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:02B5F9"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014CC4"
   },
   {
@@ -154437,7 +155228,38 @@
   },
   {
     "edid": "OOOLootWeapon5Med",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:029285"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299CC"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299CC"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299D6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299D6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:02B5F9"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0195A7"
   },
   {
@@ -154504,7 +155326,33 @@
   },
   {
     "edid": "OOOLootWeapon5Poor",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:02686F"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:02686F"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:029285"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:029285"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299CC"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0195AA"
   },
   {
@@ -169335,7 +170183,28 @@
   },
   {
     "edid": "OOOLootWeaponNoble",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0072F5"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0072F6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0072F7"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0072F8"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022F5A"
   },
   {
@@ -173585,7 +174454,73 @@
   },
   {
     "edid": "OOOLootWeapon5HighNecro",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:029285"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:029285"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299CC"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299CC"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299CC"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299D6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299D6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299D6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:02B5F9"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:02B5F9"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:02B5F9"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:032D81"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:024BEA"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:024BF0"
   },
   {
@@ -173698,7 +174633,43 @@
   },
   {
     "edid": "OOOLootWeapon5MedNecro",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:029285"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299CC"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299CC"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299D6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:0299D6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oblivion.esm:02B5F9"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:024BEB"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:024BF4"
   },
   {
@@ -173754,12 +174725,174 @@
   },
   {
     "edid": "OOOLootWeaponAyleidSpecial",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F2C"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F2D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F2E"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F2F"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F30"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F32"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F34"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083F5"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083F6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083F7"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083F8"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083FD"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083FE"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083FF"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008400"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0258C5"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0258C5"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0258C5"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0258C4"
   },
   {
     "edid": "OOOLootWeaponAyleidSpecialSpecial",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:000D59"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:000D5A"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:000D5B"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:000D5C"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F31"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001F33"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083F1"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083F2"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083F3"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083F4"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083F9"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083FA"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083FB"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083FC"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0258C5"
   },
   {
@@ -174024,7 +175157,48 @@
   },
   {
     "edid": "OOOLootWeaponAyleidMed",
-    "entries": [],
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083F5"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083F6"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083F7"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083F8"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083FD"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083FE"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0083FF"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008400"
+      }
+    ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0258CC"
   },
   {
@@ -189775,9 +190949,74 @@
     "edid": "AyleidArrowEnch",
     "entries": [
       {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:05138D"
+      },
+      {
         "count": 2,
         "level": 1,
-        "ref_formid": "Oblivion.esm:02686E"
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:05138D"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:05138E"
+      },
+      {
+        "count": 2,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:05138E"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:05138F"
+      },
+      {
+        "count": 2,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:05138F"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:051390"
+      },
+      {
+        "count": 2,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:051390"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:051392"
+      },
+      {
+        "count": 2,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:051392"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:051395"
+      },
+      {
+        "count": 2,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:051395"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:051396"
+      },
+      {
+        "count": 2,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:051396"
       }
     ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0513A1"

@@ -1581,7 +1581,7 @@
     "edid": "DungOblivionBagOfBones",
     "formid": "Oblivion.esm:03372B",
     "full": "Fleshy Pod",
-    "modl": "Oblivion\\Clutter\\Containers\\GroundFleshContainer01.NIF"
+    "modl": "harvest\\containers\\XMSGroundFleshContainer01.nif"
   },
   {
     "edid": "DungOblivionSackGround01",

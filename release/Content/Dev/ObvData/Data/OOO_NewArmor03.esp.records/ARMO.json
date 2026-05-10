@@ -1092,6 +1092,12 @@
     "modl": "Armor\\Steel\\M\\Cuirass.NIF"
   },
   {
+    "edid": "ArcticFurClawsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03BE6E",
+    "full": "Arctic Fur Gloves",
+    "modl": "Armor\\Fur\\M\\Gauntlets.NIF"
+  },
+  {
     "edid": "BMithrilBootsOOOz",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0429DC",
     "full": "Jephre's Bronze Boots",

@@ -696,6 +696,12 @@
     "modl": "characters\\_Male\\skeleton.nif"
   },
   {
+    "edid": "ValenLeaderBossyBoss",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002A47",
+    "full": "Eregor",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
     "edid": "BanditZSnowMeleeMale2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0039DD",
     "full": "Bandit",
@@ -712,6 +718,600 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0039E1",
     "full": "Bandit",
     "modl": "characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWarriorMale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E1F",
+    "full": "Sylvan Warsmer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWarriorMale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E21",
+    "full": "Sylvan Warsmer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWarriorMale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E22",
+    "full": "Sylvan Warsmer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWarriorMale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E23",
+    "full": "Sylvan Warsmer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWarriorMale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E24",
+    "full": "Sylvan Warsmer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWarriorMale6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E25",
+    "full": "Sylvan Warsmer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWarriorFemale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E26",
+    "full": "Sylvan Warsmer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWarriorFemale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E27",
+    "full": "Sylvan Warsmer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWarriorFemale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E28",
+    "full": "Sylvan Warsmer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWarriorFemale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E29",
+    "full": "Sylvan Warsmer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWarriorFemale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E2A",
+    "full": "Sylvan Warsmer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWarriorFemale6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E2B",
+    "full": "Sylvan Warsmer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenMissileMale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E2E",
+    "full": "Sylvan Archermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenMissileMale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E2F",
+    "full": "Sylvan Archermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenMissileMale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E30",
+    "full": "Sylvan Archermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenMissileMale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E31",
+    "full": "Sylvan Archermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenMissileMale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E32",
+    "full": "Sylvan Archermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenMissileMale6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E33",
+    "full": "Sylvan Archermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenMissileFemale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E37",
+    "full": "Sylvan Archermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenMissileFemale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E39",
+    "full": "Sylvan Archermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenMissileFemale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E3A",
+    "full": "Sylvan Archermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenMissileFemale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E3B",
+    "full": "Sylvan Archermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenMissileFemale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E3C",
+    "full": "Sylvan Archermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenMissileFemale6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E3D",
+    "full": "Sylvan Archermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWizardMale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E3F",
+    "full": "Sylvan Sorcerermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenMissileFemale7",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00511B",
+    "full": "Sylvan Archermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenMissileMale7",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00511C",
+    "full": "Sylvan Archermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWarriorFemale7",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00511D",
+    "full": "Sylvan Warsmer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWarriorMale7",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00511E",
+    "full": "Sylvan Warsmer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWizardFemale7",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00511F",
+    "full": "Sylvan Sorcerermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWizardMale7",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005120",
+    "full": "Sylvan Sorcerermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWizardMale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00583D",
+    "full": "Sylvan Sorcerermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWizardMale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00583E",
+    "full": "Sylvan Sorcerermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWizardMale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00583F",
+    "full": "Sylvan Sorcerermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWizardMale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005840",
+    "full": "Sylvan Sorcerermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWizardMale6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005841",
+    "full": "Sylvan Sorcerermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWizardFemale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005842",
+    "full": "Sylvan Sorcerermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWizardFemale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005843",
+    "full": "Sylvan Sorcerermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWizardFemale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005844",
+    "full": "Sylvan Sorcerermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWizardFemale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005845",
+    "full": "Sylvan Sorcerermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWizardFemale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005846",
+    "full": "Sylvan Sorcerermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenWizardFemale6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005847",
+    "full": "Sylvan Sorcerermer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenLeaderWarriorFemale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006AED",
+    "full": "Sylvan Warsmer Leader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenLeaderWarriorFemale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006AEF",
+    "full": "Sylvan Warsmer Leader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenLeaderWarriorFemale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006AF0",
+    "full": "Sylvan Warsmer Leader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenLeaderWarriorFemale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006AF2",
+    "full": "Sylvan Warsmer Leader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenLeaderWarriorMale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006AF3",
+    "full": "Sylvan Warsmer Leader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenLeaderWarriorMale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006AF4",
+    "full": "Sylvan Warsmer Leader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenLeaderWarriorMale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006AF5",
+    "full": "Sylvan Warsmer Leader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenLeaderWarriorMale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006AF6",
+    "full": "Sylvan Warsmer Leader",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZWarriorFemale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00779F",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZWarriorFemale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F7B",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZWarriorFemale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F7D",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZWarriorFemale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F7E",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZWarriorFemale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F7F",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZWarriorMale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F80",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZWarriorMale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F81",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZWarriorMale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F82",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZWarriorMale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F83",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZWarriorMale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F84",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZRangerFemale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F85",
+    "full": "Bosmer Ranger",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZRangerFemale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F89",
+    "full": "Bosmer Ranger",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZRangerFemale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F8A",
+    "full": "Bosmer Ranger",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZRangerMale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F8B",
+    "full": "Bosmer Ranger",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZRangerMale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F8C",
+    "full": "Bosmer Ranger",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZRangerMale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F8D",
+    "full": "Bosmer Ranger",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ2RangerFemale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008538",
+    "full": "Bosmer Ranger",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ2RangerFemale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008539",
+    "full": "Bosmer Ranger",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ2RangerFemale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00853A",
+    "full": "Bosmer Ranger",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ2RangerMale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00853B",
+    "full": "Bosmer Ranger",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ2RangerMale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00853C",
+    "full": "Bosmer Ranger",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ2RangerMale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00853D",
+    "full": "Bosmer Ranger",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ2WarriorFemale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00853E",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ2WarriorFemale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00853F",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ2WarriorFemale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008540",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ2WarriorFemale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008541",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ2WarriorFemale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008542",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ2WarriorMale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008543",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ2WarriorMale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008544",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ2WarriorMale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008545",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ2WarriorMale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008546",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ2WarriorMale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008547",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ3RangerFemale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA10",
+    "full": "Bosmer Ranger",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ3RangerFemale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA11",
+    "full": "Bosmer Ranger",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ3RangerFemale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA12",
+    "full": "Bosmer Ranger",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ3RangerMale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA13",
+    "full": "Bosmer Ranger",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ3RangerMale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA14",
+    "full": "Bosmer Ranger",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ3RangerMale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA15",
+    "full": "Bosmer Ranger",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ3WarriorFemale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA16",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ3WarriorFemale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA17",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ3WarriorFemale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA18",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ3WarriorFemale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA19",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ3WarriorFemale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA1A",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ3WarriorMale1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA1B",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ3WarriorMale2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA1C",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ3WarriorMale3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA1D",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ3WarriorMale4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA1E",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenZ3WarriorMale5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA1F",
+    "full": "Bosmer Protector",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ValenLeaderBossNarind",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B5DC",
+    "full": "Lareil",
+    "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "VampirePatriarchCrusaderMaleZTest",

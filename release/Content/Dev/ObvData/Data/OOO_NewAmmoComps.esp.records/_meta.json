@@ -1,0 +1,12 @@
+{
+  "esp": "OOO_NewAmmoComps.esp",
+  "record_types": [
+    "AMMO"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm"
+    ],
+    "version": 1.0
+  }
+}

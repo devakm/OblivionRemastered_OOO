@@ -804,6 +804,18 @@
     "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
+    "edid": "WeaponSabreZSpecialB2hOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:013837",
+    "full": "Fang",
+    "modl": "Weapons\\Elven\\Claymore.NIF"
+  },
+  {
+    "edid": "WeapBraidedDaiKatanaOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:013C56",
+    "full": "Braided Dai-Katana",
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
+  },
+  {
     "edid": "zzOOODBRewardStaff",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0150AD",
     "full": "Staff of Sickness",
@@ -816,6 +828,12 @@
     "modl": "Weapons\\Iron\\Dagger.NIF"
   },
   {
+    "edid": "WeaponZSabreIvory1hShortOOOEderiath",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024E77",
+    "full": "Ederiath's Edge of Ages",
+    "modl": "Weapons\\Elven\\ShortSword.NIF"
+  },
+  {
     "edid": "TheSilverDragonBowOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025677",
     "full": "The Dragon's Purification",
@@ -826,6 +844,12 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025679",
     "full": "The Dragon's Hunger",
     "modl": "Weapons\\TheSilverDragonOrder\\TheDragonBlade.nif"
+  },
+  {
+    "edid": "WeaponSabreZBrightwood1hOOONonungalo",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E6A",
+    "full": "Sun Child",
+    "modl": "Weapons\\Elven\\LongSword.NIF"
   },
   {
     "edid": "pegasus2haxeOOO",
@@ -1050,6 +1074,66 @@
     "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
   },
   {
+    "edid": "WeapBraidedBattleaxeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDE9",
+    "full": "Braided Battleaxe",
+    "modl": "Weapons\\Ebony\\Battleaxe.NIF"
+  },
+  {
+    "edid": "WeapBraidedBowOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDEA",
+    "full": "Braided Bow",
+    "modl": "Weapons\\Ebony\\Bow.NIF"
+  },
+  {
+    "edid": "WeapBraidedClaymoreOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDEB",
+    "full": "Braided Claymore",
+    "modl": "Weapons\\Ebony\\Claymore.NIF"
+  },
+  {
+    "edid": "WeapBraidedDaggerOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDEC",
+    "full": "Braided Dagger",
+    "modl": "Weapons\\Ebony\\Dagger.NIF"
+  },
+  {
+    "edid": "WeapBraidedKatanaOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDED",
+    "full": "Braided Katana",
+    "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
+  },
+  {
+    "edid": "WeapBraidedLongswordOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDEE",
+    "full": "Braided Longsword",
+    "modl": "Weapons\\Ebony\\LongSword.NIF"
+  },
+  {
+    "edid": "WeapBraidedMaceOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDEF",
+    "full": "Braided Morningstar",
+    "modl": "Weapons\\Ebony\\Mace.NIF"
+  },
+  {
+    "edid": "WeapBraidedShortswordOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF0",
+    "full": "Braided Shortsword",
+    "modl": "Weapons\\Ebony\\ShortSword.NIF"
+  },
+  {
+    "edid": "WeapBraidedWaraxeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF1",
+    "full": "Braided War Axe",
+    "modl": "Weapons\\Ebony\\WarAxe.NIF"
+  },
+  {
+    "edid": "WeapBraidedWarhammerOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF2",
+    "full": "Braided Warhammer",
+    "modl": "Weapons\\Ebony\\Warhammer.NIF"
+  },
+  {
     "edid": "DAClavicusUmbraSwordOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:044564",
     "full": "Umbra",
@@ -1060,6 +1144,12 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:044F31",
     "full": "Ancient Golden Long Sword",
     "modl": "weapons\\ancent\\longsword.nif"
+  },
+  {
+    "edid": "tkIcxthSwordOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:047691",
+    "full": "Icxth",
+    "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
   },
   {
     "edid": "TandAkaviriDaiKatOOO",
@@ -1432,5 +1522,17 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:05138C",
     "full": "Morimolag Neandamacil",
     "modl": "Weapons\\Elven\\ShortSword.NIF"
+  },
+  {
+    "edid": "tkIcxthSwordOOOv2L",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA41",
+    "full": "Icxth",
+    "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
+  },
+  {
+    "edid": "tkIcxthSwordOOOv2H",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA42",
+    "full": "Icxth",
+    "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
   }
 ]
