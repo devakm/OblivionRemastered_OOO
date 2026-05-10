@@ -104,6 +104,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "MelusPetilusHouse",
+    "formid": "Oblivion.esm:025E28",
+    "full": "LOC_FN_MelusPetilusHouse",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "SkingradTwoSistersLodgeUpstairs",
     "formid": "Oblivion.esm:028C91",
     "full": "LOC_FN_SkingradTwoSistersLodgeUpstairs",
@@ -563,6 +571,14 @@
     "edid": "OOODummyCell",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006157",
     "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "MelusPetiliusBasement",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006D3F",
+    "full": "Melus Petilius' Secret Room",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0

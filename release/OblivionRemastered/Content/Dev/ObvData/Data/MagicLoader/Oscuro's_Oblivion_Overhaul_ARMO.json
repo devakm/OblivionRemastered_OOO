@@ -543,8 +543,8 @@
     "LOC_FN_MithrilGreavesWorn": "Worn Mithril Greaves",
     "LOC_FN_MithrilGauntletsWorn": "Worn Mithril Gauntlets",
     "LOC_FN_MithrilCuirassWorn": "Worn Mithril Cuirass",
-    "LOC_FN_MithrilBootsWorn": "Worn Mithril Boots"
-	    "LOC_FN_CMIronBattleShield01OOO": "Crownblood Iron Shield",
+    "LOC_FN_MithrilBootsWorn": "Worn Mithril Boots",
+	"LOC_FN_CMIronBattleShield01OOO": "Crownblood Iron Shield",
     "LOC_FN_CMIronBattleShield02OOO": "Nightblood Iron Shield",
     "LOC_FN_CMIronBattleShield03OOO": "Green and Gold",
     "LOC_FN_CMIronBattleShield04OOO": "Blue and Red",
@@ -1067,7 +1067,7 @@
     "LOC_FN_OOOSEHereticRobe5Armor": "Heretic Transformed Robe",
     "LOC_FN_OOOSEHereticRobe5BossArmor": "Heretic Transformed Robe (Reinforced)",
     "LOC_FN_OOOSEZealotRobe5BossArmor": "Zealot Ascended Robe (Reinforced)",
-    "LOC_FN_OOOSEZealotRobe5Armor": "Zealot Ascended Robe"
+    "LOC_FN_OOOSEZealotRobe5Armor": "Zealot Ascended Robe",
 	"LOC_FN_GriffinArmorCuirassOOO": "Draconis Family Cuirass",
     "LOC_FN_GriffinArmorShieldOOO": "Draconis Family Shield",
     "LOC_FN_UniqueElvenEldarHelmetOOO": "Clear Sky Helmet"

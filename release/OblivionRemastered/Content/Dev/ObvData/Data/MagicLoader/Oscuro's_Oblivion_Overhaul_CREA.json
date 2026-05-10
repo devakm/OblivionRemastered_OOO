@@ -1,6 +1,7 @@
 {
   "Plugin": "Oscuro's_Oblivion_Overhaul.esp",
   "NewStrings": {
+    "LOC_FN_OOOGuarMount": "Guaroache",
     "LOC_FN_CreatureSkeleton4ChampionAyleid": "Skeleton Champion",
     "LOC_FN_CreatureSkeleton3HeroAyleid": "Skeleton Hero",
     "LOC_FN_CreatureSkeleton2GuardianAyleid": "Skeleton Guardian",

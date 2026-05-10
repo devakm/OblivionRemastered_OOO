@@ -12194,49 +12194,49 @@
   {
     "edid": "ConjurerZGuardianBossFemaleBreton2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003F14",
-    "full": "Astral Mistress",
+    "full": "LOC_FN_ConjurerZGuardianBossFemaleBreton2",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianBossFemaleHighElf2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003F15",
-    "full": "Astral Mistress",
+    "full": "LOC_FN_ConjurerZGuardianBossFemaleHighElf2",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianBossMaleBreton2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003F16",
-    "full": "Astral Lord",
+    "full": "LOC_FN_ConjurerZGuardianBossMaleBreton2",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianBossMaleHighElf2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003F17",
-    "full": "Astral Lord",
+    "full": "LOC_FN_ConjurerZGuardianBossMaleHighElf2",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianFemaleBreton2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003F18",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianFemaleBreton2",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianFemaleHighElf1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003F19",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianFemaleHighElf1",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianMaleBreton1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003F1A",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianMaleBreton1",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianMaleHighElf2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003F1B",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianMaleHighElf2",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
@@ -13346,7 +13346,7 @@
   {
     "edid": "ArgonianSmugglerFighter1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007229",
-    "full": "Black Marsh Smuggler",
+    "full": "LOC_FN_ArgonianSmugglerFighter1",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
@@ -13358,7 +13358,7 @@
   {
     "edid": "ArgonianSmugglerFighter2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007235",
-    "full": "Black Marsh Smuggler",
+    "full": "LOC_FN_ArgonianSmugglerFighter2",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
@@ -13394,187 +13394,187 @@
   {
     "edid": "ArgonianSmugglerFighter3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007746",
-    "full": "Black Marsh Smuggler",
+    "full": "LOC_FN_ArgonianSmugglerFighter3",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerFighter4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007747",
-    "full": "Black Marsh Smuggler",
+    "full": "LOC_FN_ArgonianSmugglerFighter4",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerFighter5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007748",
-    "full": "Black Marsh Smuggler",
+    "full": "LOC_FN_ArgonianSmugglerFighter5",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerFighter6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007749",
-    "full": "Black Marsh Smuggler",
+    "full": "LOC_FN_ArgonianSmugglerFighter6",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerFighter7",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00774A",
-    "full": "Black Marsh Smuggler",
+    "full": "LOC_FN_ArgonianSmugglerFighter7",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerFighter8",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00774B",
-    "full": "Black Marsh Smuggler",
+    "full": "LOC_FN_ArgonianSmugglerFighter8",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerFighterMale1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00774C",
-    "full": "Black Marsh Smuggler",
+    "full": "LOC_FN_ArgonianSmugglerFighterMale1",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerFighterMale2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00774D",
-    "full": "Black Marsh Smuggler",
+    "full": "LOC_FN_ArgonianSmugglerFighterMale2",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerFighterMale3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00774E",
-    "full": "Black Marsh Smuggler",
+    "full": "LOC_FN_ArgonianSmugglerFighterMale3",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerFighterMale4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00774F",
-    "full": "Black Marsh Smuggler",
+    "full": "LOC_FN_ArgonianSmugglerFighterMale4",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerFighterMale5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007750",
-    "full": "Black Marsh Smuggler",
+    "full": "LOC_FN_ArgonianSmugglerFighterMale5",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerFighterMale6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007751",
-    "full": "Black Marsh Smuggler",
+    "full": "LOC_FN_ArgonianSmugglerFighterMale6",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerFighterMale7",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007752",
-    "full": "Black Marsh Smuggler",
+    "full": "LOC_FN_ArgonianSmugglerFighterMale7",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerFighterMale8",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007753",
-    "full": "Black Marsh Smuggler",
+    "full": "LOC_FN_ArgonianSmugglerFighterMale8",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerShaman1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007754",
-    "full": "Black Marsh Shaman",
+    "full": "LOC_FN_ArgonianSmugglerShaman1",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerShaman2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007788",
-    "full": "Black Marsh Shaman",
+    "full": "LOC_FN_ArgonianSmugglerShaman2",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerShaman3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007789",
-    "full": "Black Marsh Shaman",
+    "full": "LOC_FN_ArgonianSmugglerShaman3",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerShaman4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00778A",
-    "full": "Black Marsh Shaman",
+    "full": "LOC_FN_ArgonianSmugglerShaman4",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerShaman5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00778B",
-    "full": "Black Marsh Shaman",
+    "full": "LOC_FN_ArgonianSmugglerShaman5",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerShaman6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00778C",
-    "full": "Black Marsh Shaman",
+    "full": "LOC_FN_ArgonianSmugglerShaman6",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerShaman7",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00778D",
-    "full": "Black Marsh Shaman",
+    "full": "LOC_FN_ArgonianSmugglerShaman7",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerShaman8",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00778E",
-    "full": "Black Marsh Shaman",
+    "full": "LOC_FN_ArgonianSmugglerShaman8",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerShamanMale1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00778F",
-    "full": "Black Marsh Shaman",
+    "full": "LOC_FN_ArgonianSmugglerShamanMale1",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerShamanMale2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007790",
-    "full": "Black Marsh Shaman",
+    "full": "LOC_FN_ArgonianSmugglerShamanMale2",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerShamanMale3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007791",
-    "full": "Black Marsh Shaman",
+    "full": "LOC_FN_ArgonianSmugglerShamanMale3",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerShamanMale4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007792",
-    "full": "Black Marsh Shaman",
+    "full": "LOC_FN_ArgonianSmugglerShamanMale4",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerShamanMale5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007793",
-    "full": "Black Marsh Shaman",
+    "full": "LOC_FN_ArgonianSmugglerShamanMale5",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerShamanMale6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007794",
-    "full": "Black Marsh Shaman",
+    "full": "LOC_FN_ArgonianSmugglerShamanMale6",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerShamanMale7",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007795",
-    "full": "Black Marsh Shaman",
+    "full": "LOC_FN_ArgonianSmugglerShamanMale7",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerShamanMale8",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007796",
-    "full": "Black Marsh Shaman",
+    "full": "LOC_FN_ArgonianSmugglerShamanMale8",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "ArgonianSmugglerLeader1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007797",
-    "full": "Eidkee V'shiir",
+    "full": "LOC_FN_ArgonianSmugglerLeader1",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
@@ -13905,6 +13905,42 @@
     "edid": "VampirePatriarchCrusaderMaleZTest",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00D9B1",
     "full": "LOC_FN_VampirePatriarchCrusaderMaleZTest",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ConjurerXGuardianBossFemaleBreton",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DDF6",
+    "full": "LOC_FN_ConjurerXGuardianBossFemaleBreton",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ConjurerXGuardianBossFemaleBreton2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DDF7",
+    "full": "LOC_FN_ConjurerXGuardianBossFemaleBreton2",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ConjurerXGuardianBossFemaleBreton3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DDF8",
+    "full": "LOC_FN_ConjurerXGuardianBossFemaleBreton3",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ConjurerXGuardianBossFemaleHighElf",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DDF9",
+    "full": "LOC_FN_ConjurerXGuardianBossFemaleHighElf",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ConjurerXGuardianBossFemaleHighElf2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DDFA",
+    "full": "LOC_FN_ConjurerXGuardianBossFemaleHighElf2",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ConjurerXGuardianBossFemaleHighElf3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DDFB",
+    "full": "LOC_FN_ConjurerXGuardianBossFemaleHighElf3",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
@@ -14420,145 +14456,145 @@
   {
     "edid": "ConjurerBossFemaleHighElf3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0118F4",
-    "full": "Plane Summoner",
+    "full": "LOC_FN_ConjurerBossFemaleHighElf3",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerBossFemaleBreton3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0118F5",
-    "full": "Plane Summoner",
+    "full": "LOC_FN_ConjurerBossFemaleBreton3",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerBossMaleBreton3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0118F6",
-    "full": "Plane Summoner",
+    "full": "LOC_FN_ConjurerBossMaleBreton3",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerBossMaleHighElf3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0118F7",
-    "full": "Plane Summoner",
+    "full": "LOC_FN_ConjurerBossMaleHighElf3",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerFemaleBreton1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0118F8",
-    "full": "Conjurer",
+    "full": "LOC_FN_ConjurerFemaleBreton1",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerFemaleBreton5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0118F9",
-    "full": "Conjurer",
+    "full": "LOC_FN_ConjurerFemaleBreton5",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerFemaleHighElf5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0118FA",
-    "full": "Conjurer",
+    "full": "LOC_FN_ConjurerFemaleHighElf5",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerMaleBreton5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0118FB",
-    "full": "Conjurer",
+    "full": "LOC_FN_ConjurerMaleBreton5",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerMaleHighElf5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0118FC",
-    "full": "Conjurer",
+    "full": "LOC_FN_ConjurerMaleHighElf5",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerMaleHighElf1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0118FD",
-    "full": "Conjurer",
+    "full": "LOC_FN_ConjurerMaleHighElf1",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerFemaleBreton6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0118FE",
-    "full": "Conjurer",
+    "full": "LOC_FN_ConjurerFemaleBreton6",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerFemaleHighElf6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0118FF",
-    "full": "Conjurer",
+    "full": "LOC_FN_ConjurerFemaleHighElf6",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerMaleBreton6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011900",
-    "full": "Conjurer",
+    "full": "LOC_FN_ConjurerMaleBreton6",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerMaleHighElf6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011901",
-    "full": "Conjurer",
+    "full": "LOC_FN_ConjurerMaleHighElf6",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianBossFemaleBreton3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011902",
-    "full": "Astral Mistress",
+    "full": "LOC_FN_ConjurerZGuardianBossFemaleBreton3",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianBossFemaleHighElf3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011903",
-    "full": "Astral Mistress",
+    "full": "LOC_FN_ConjurerZGuardianBossFemaleHighElf3",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianBossMaleBreton3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011904",
-    "full": "Astral Lord",
+    "full": "LOC_FN_ConjurerZGuardianBossMaleBreton3",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianBossMaleHighElf3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011905",
-    "full": "Astral Lord",
+    "full": "LOC_FN_ConjurerZGuardianBossMaleHighElf3",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianFemaleBreton1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011906",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianFemaleBreton1",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianFemaleBreton5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011907",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianFemaleBreton5",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianFemaleHighElf5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011908",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianFemaleHighElf5",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianMaleBreton5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011909",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianMaleBreton5",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianMaleHighElf1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01190A",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianMaleHighElf1",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianMaleHighElf5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01190B",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianMaleHighElf5",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
@@ -16334,91 +16370,91 @@
   {
     "edid": "ConjurerZGuardianMaleHighElf4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FAD",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianMaleHighElf4",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianMaleHighElf3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FAE",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianMaleHighElf3",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianMaleBreton4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FAF",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianMaleBreton4",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianMaleBreton3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FB0",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianMaleBreton3",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianMaleBreton2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FB1",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianMaleBreton2",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianFemaleHighElf4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FB2",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianFemaleHighElf4",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianFemaleHighElf3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FB3",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianFemaleHighElf3",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianFemaleHighElf2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FB4",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianFemaleHighElf2",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianFemaleBreton4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FB5",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianFemaleBreton4",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianFemaleBreton3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FB6",
-    "full": "Guardian of Oblivion",
+    "full": "LOC_FN_ConjurerZGuardianFemaleBreton3",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianBossMaleHighElf",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02349D",
-    "full": "Astral Lord",
+    "full": "LOC_FN_ConjurerZGuardianBossMaleHighElf",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianBossMaleBreton",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02349E",
-    "full": "Astral Lord",
+    "full": "LOC_FN_ConjurerZGuardianBossMaleBreton",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianBossFemaleHighElf",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02349F",
-    "full": "Astral Mistress",
+    "full": "LOC_FN_ConjurerZGuardianBossFemaleHighElf",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianBossFemaleBreton",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0234A0",
-    "full": "Astral Mistress",
+    "full": "LOC_FN_ConjurerZGuardianBossFemaleBreton",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerZGuardianBossyLady",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0234A6",
-    "full": "Lady of Embers",
+    "full": "LOC_FN_ConjurerZGuardianBossyLady",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
@@ -17060,7 +17096,7 @@
   {
     "edid": "ConjurerZGuardianBossyLord",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0479BE",
-    "full": "Astor Orontes",
+    "full": "LOC_FN_ConjurerZGuardianBossyLord",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {

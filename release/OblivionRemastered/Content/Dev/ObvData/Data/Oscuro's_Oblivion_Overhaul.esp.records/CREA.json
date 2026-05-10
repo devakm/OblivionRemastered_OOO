@@ -6014,13 +6014,13 @@
   {
     "edid": "OOOGuarMount",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02EFD4",
-    "full": "Guaroache",
+    "full": "LOC_FN_OOOGuarMount",
     "modl": "Creatures\\Horse\\Skeleton.NIF"
   },
   {
     "edid": "OOOGuarPropMount",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02EFE0",
-    "full": "Guaroache",
+    "full": "LOC_FN_OOOGuarMount",
     "modl": "Creatures\\Horse\\Skeleton.NIF"
   },
   {
