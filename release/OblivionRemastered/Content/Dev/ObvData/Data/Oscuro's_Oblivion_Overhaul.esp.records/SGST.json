@@ -196,5 +196,11 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE26",
     "full": "LOC_FN_bgSDStoneShockAncientOOO",
     "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "zOOOVoidStoneResistMAG6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE48",
+    "full": "LOC_FN_zOOOVoidStoneResistMAG6",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
   }
 ]

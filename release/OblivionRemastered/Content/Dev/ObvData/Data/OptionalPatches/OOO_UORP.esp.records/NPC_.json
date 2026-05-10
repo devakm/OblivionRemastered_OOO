@@ -1,0 +1,20 @@
+[
+  {
+    "edid": "Carandial",
+    "formid": "Oblivion.esm:00A108",
+    "full": "LOC_FN_Carandial",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "UlenAthram",
+    "formid": "Oblivion.esm:01FC55",
+    "full": "LOC_FN_UlenAthram",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "BremmanSenyan",
+    "formid": "Oblivion.esm:031BC7",
+    "full": "LOC_FN_BremmanSenyan",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  }
+]

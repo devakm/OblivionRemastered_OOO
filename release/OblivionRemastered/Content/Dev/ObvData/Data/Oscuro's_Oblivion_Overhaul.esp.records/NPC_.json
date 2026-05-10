@@ -1122,6 +1122,12 @@
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
+    "edid": "Carandial",
+    "formid": "Oblivion.esm:00A108",
+    "full": "LOC_FN_Carandial",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
     "edid": "CitySwimmer",
     "formid": "Oblivion.esm:00A109",
     "full": "LOC_FN_CitySwimmer",
@@ -2202,6 +2208,12 @@
     "modl": "Characters\\_Male\\skeleton.NIF"
   },
   {
+    "edid": "InielSintav",
+    "formid": "Oblivion.esm:016055",
+    "full": "LOC_FN_InielSintav",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
     "edid": "DulgroShug",
     "formid": "Oblivion.esm:016056",
     "full": "LOC_FN_DulgroShug",
@@ -2223,6 +2235,12 @@
     "edid": "TertiusFavonius",
     "formid": "Oblivion.esm:016061",
     "full": "LOC_FN_TertiusFavonius",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "KastusSintav",
+    "formid": "Oblivion.esm:016064",
+    "full": "LOC_FN_KastusSintav",
     "modl": "Characters\\_Male\\skeleton.NIF"
   },
   {
@@ -3124,6 +3142,12 @@
     "formid": "Oblivion.esm:01D252",
     "full": "LOC_FN_GreyThroat",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
+  },
+  {
+    "edid": "TrenusDuronius",
+    "formid": "Oblivion.esm:01D348",
+    "full": "LOC_FN_TrenusDuronius",
+    "modl": "Characters\\_Male\\skeleton.NIF"
   },
   {
     "edid": "StantusVarrid",

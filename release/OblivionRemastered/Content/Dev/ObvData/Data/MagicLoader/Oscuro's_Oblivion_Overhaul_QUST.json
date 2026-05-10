@@ -1,7 +1,10 @@
 {
   "Plugin": "Oscuro's_Oblivion_Overhaul.esp",
   "NewStrings": {
+	"LOC_LE_TG04Mistake_STAGE30_LOG2": "Amusei told me that the ring was inscribed on the inside with the name Alessia Caro, a.k.a. the Countess of Leyawiin. Apparently he tried to sell it back to her. When he went to deliver the ring, he was arrested and thrown into jail. She kept the ring. It must be somewhere in the castle, assuming she isn't wearing it. I'll need to find someone who can tell exactly where. This might be a good time to revisit Ahdarji, or to see what the beggars know.",
 	"LOC_FN_HouseImperialCity": "Buy a house in the Imperial City",
+	"LOC_FN_HouseBuyImperialCity": "I just happen to have 4,000 gold.",
+	"LOC_FN_HouseTooMuchImperialCity": "It's not worth 4,000 gold to me.",
     "LOC_LE_HouseImperialCity_STAGE0_LOG0": "I just bought a shack in the Imperial City. It's in the Waterfront district, on the far side of the harbor wall.",
     "LOC_LE_HouseImperialCity_STAGE1_LOG0": "Now that I've arrived at my new shack in the Imperial City, I may want to head over to Sergius Verus at Three Brothers Trade Goods to secure some furnishings for it.",
     "LOC_LE_HouseImperialCity_STAGE2_LOG0": "I've now bought everything Sergius has for my shack in the Imperial City.",

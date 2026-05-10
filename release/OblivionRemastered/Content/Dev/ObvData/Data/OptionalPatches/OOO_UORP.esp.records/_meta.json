@@ -1,0 +1,15 @@
+{
+  "esp": "OOO_UORP.esp",
+  "record_types": [
+    "NPC_"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "AltarESPMain.esp",
+      "Unofficial Oblivion Remastered Patch.esp",
+      "Oscuro's_Oblivion_Overhaul.esp"
+    ],
+    "version": 1.0
+  }
+}
