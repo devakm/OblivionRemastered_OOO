@@ -24,14 +24,92 @@
     "modl": null
   },
   {
+    "edid": "DANamiraStatueScript",
+    "formid": "Oblivion.esm:01C10B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DASanguineStatueScript",
+    "formid": "Oblivion.esm:01C141",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DAMeridiaStatueScript",
+    "formid": "Oblivion.esm:01EBFD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DAVaerminaStatueScript",
+    "formid": "Oblivion.esm:01EC11",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DAMalacathStatueScript",
+    "formid": "Oblivion.esm:01EC30",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DAHircineStatueScript",
+    "formid": "Oblivion.esm:01EC54",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DABoethiaStatueScript",
+    "formid": "Oblivion.esm:01EC8E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DAPeryiteStatueScript",
+    "formid": "Oblivion.esm:01EC95",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DAMephalaStatueScript",
+    "formid": "Oblivion.esm:01ECD9",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "TGStolenGoodsScript",
     "formid": "Oblivion.esm:01EE42",
     "full": null,
     "modl": null
   },
   {
+    "edid": "DAClavicusUmbraScript",
+    "formid": "Oblivion.esm:0243C7",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "GenericLoreScript",
     "formid": "Oblivion.esm:025811",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DANocturnalStatueScript",
+    "formid": "Oblivion.esm:026AC8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DAClavicusStatueScript",
+    "formid": "Oblivion.esm:026B23",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DAMolagBalStatueScript",
+    "formid": "Oblivion.esm:026B3F",
     "full": null,
     "modl": null
   },
