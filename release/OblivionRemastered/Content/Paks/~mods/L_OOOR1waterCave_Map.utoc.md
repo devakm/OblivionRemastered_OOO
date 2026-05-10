@@ -2,4 +2,4 @@
 
 | Release | SHA-256 | Size | Changed | Description | Download |
 |---------|---------|------|---------|-------------|----------|
-| alpha51 | `64770d38478e` | 2.1 KiB (2,141 B) | ★ | [release alpha51](https://github.com/devakm/OblivionRemastered_OOO/releases/tag/alpha51) | [alpha51.7z](https://github.com/devakm/OblivionRemastered_OOO/releases/download/alpha51/alpha51.7z) |
+| alpha52 | `64770d38478e` | 2.1 KiB (2,141 B) | ★ | [release alpha52](https://github.com/devakm/OblivionRemastered_OOO/releases/tag/alpha52) | [alpha52.7z](https://github.com/devakm/OblivionRemastered_OOO/releases/download/alpha52/alpha52.7z) |
