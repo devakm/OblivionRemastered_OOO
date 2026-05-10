@@ -1,6 +1,14 @@
 {
   "Plugin": "Oscuro's_Oblivion_Overhaul.esp",
   "NewStrings": {
+    "LOC_FN_OOOActBase": "(OOO) Shouldn't see me",
+    "LOC_FN_TG11ElvenStatue01OOOReady": "Ayleid Guardian",
+    "LOC_FN_TG11ElvenStatue02OOOReady": "Ayleid Guardian",
+    "LOC_FN_ChorrolGuardPrivateQuarters02Fem": "Chorrol Guard",
+    "LOC_FN_ChorrolGuardCountessFem": "Countess' Bodyguard",
+    "LOC_FN_DeadCaptiveZj": "Dead Captive",
+    "LOC_FN_AdventureDeadSpecialTorne": "Orio Torne",
+    "LOC_FN_zOOODragonborneDead": "Order of the Dragonborne's Knight",
     "LOC_FN_ConjurerXGuardianBossFemaleBreton": "Astral Mistress",
     "LOC_FN_ConjurerXGuardianBossFemaleBreton2": "Astral Mistress",
     "LOC_FN_ConjurerXGuardianBossFemaleBreton3": "Astral Mistress",
@@ -35,6 +43,9 @@
     "LOC_FN_ConjurerBossFemaleBreton3": "Plane Summoner",
     "LOC_FN_ConjurerBossMaleBreton3": "Plane Summoner",
     "LOC_FN_ConjurerBossMaleHighElf3": "Plane Summoner",
+    "LOC_FN_ConjurerBossFemaleHighElf": "Plane Summoner",
+    "LOC_FN_ConjurerBossMaleHighElf": "Plane Summoner",
+    "LOC_FN_ConjurerBossMaleBreton": "Plane Summoner",
     "LOC_FN_ConjurerFemaleBreton1": "Conjurer",
     "LOC_FN_ConjurerFemaleBreton5": "Conjurer",
     "LOC_FN_ConjurerFemaleHighElf5": "Conjurer",
@@ -1041,8 +1052,17 @@
     "LOC_FN_GhostMinionSpecialMeleeNormal01": "Spectral Warrior",
     "LOC_FN_GhostMinionSpecialMeleeStrong01": "Spectral Reaver",
     "LOC_FN_MarauderRaiderBossALady": "Sheil Hestarius",
-    "LOC_FN_DeadCaptiveZj": "Dead Captive",
-    "LOC_FN_AdventureDeadSpecialTorne": "Orio Torne",
-    "LOC_FN_zOOODragonborneDead": "Order of the Dragonborne's Knight"
+    "LOC_FN_OOOSeducerFemale1": "Seducer",
+    "LOC_FN_OOOSeducerFemale2": "Seducer",
+    "LOC_FN_OOOSeducerFemale2B": "Seducer",
+    "LOC_FN_OOOSeducerFemale3A": "Seducer",
+    "LOC_FN_OOOSeducerFemale3B": "Seducer",
+    "LOC_FN_OOOSeducerFemale3C": "Seducer",
+    "LOC_FN_OOOSeducerFemale4A": "Seducer",
+    "LOC_FN_OOOSeducerFemale4B": "Seducer",
+    "LOC_FN_OOOSeducerFemale5A": "Seducer",
+    "LOC_FN_OOOSeducerFemale5B": "Seducer",
+    "LOC_FN_OOOSeducerFemale5C": "Seducer",
+    "LOC_FN_OOOSeducerFemale5D": "Seducer"
   }
 }

@@ -7256,19 +7256,19 @@
   {
     "edid": "ConjurerBossFemaleHighElf",
     "formid": "Oblivion.esm:04B941",
-    "full": "Plane Summoner",
+    "full": "LOC_FN_ConjurerBossFemaleHighElf",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerBossMaleHighElf",
     "formid": "Oblivion.esm:04B942",
-    "full": "Plane Summoner",
+    "full": "LOC_FN_ConjurerBossMaleHighElf",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "ConjurerBossMaleBreton",
     "formid": "Oblivion.esm:04B943",
-    "full": "Plane Summoner",
+    "full": "LOC_FN_ConjurerBossMaleBreton",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
@@ -12812,7 +12812,7 @@
   {
     "edid": "OOOActBase",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006158",
-    "full": "(OOO) Shouldn't see me",
+    "full": "LOC_FN_OOOActBase",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
@@ -13898,13 +13898,13 @@
   {
     "edid": "TG11ElvenStatue01OOOReady",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00B086",
-    "full": "Ayleid Guardian",
+    "full": "LOC_FN_TG11ElvenStatue01OOOReady",
     "modl": "Characters\\_Male\\skeleton.NIF"
   },
   {
     "edid": "TG11ElvenStatue02OOOReady",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00B087",
-    "full": "Ayleid Guardian",
+    "full": "LOC_FN_TG11ElvenStatue02OOOReady",
     "modl": "Characters\\_Male\\skeleton.NIF"
   },
   {
@@ -14438,13 +14438,13 @@
   {
     "edid": "ChorrolGuardCountessFem",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0113F7",
-    "full": "Countess' Bodyguard",
+    "full": "LOC_FN_ChorrolGuardCountessFem",
     "modl": "Characters\\_Male\\skeleton.NIF"
   },
   {
     "edid": "ChorrolGuardPrivateQuarters02Fem",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011401",
-    "full": "Chorrol Guard",
+    "full": "LOC_FN_ChorrolGuardPrivateQuarters02Fem",
     "modl": "Characters\\_Male\\skeleton.NIF"
   },
   {
@@ -17348,73 +17348,73 @@
   {
     "edid": "OOOSeducerFemale1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA67",
-    "full": "Seducer",
+    "full": "LOC_FN_OOOSeducerFemale1",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "OOOSeducerFemale2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA68",
-    "full": "Seducer",
+    "full": "LOC_FN_OOOSeducerFemale2",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "OOOSeducerFemale2B",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA69",
-    "full": "Seducer",
+    "full": "LOC_FN_OOOSeducerFemale2B",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "OOOSeducerFemale3A",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA6A",
-    "full": "Seducer",
+    "full": "LOC_FN_OOOSeducerFemale3A",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "OOOSeducerFemale3B",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA6B",
-    "full": "Seducer",
+    "full": "LOC_FN_OOOSeducerFemale3B",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "OOOSeducerFemale3C",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA6C",
-    "full": "Seducer",
+    "full": "LOC_FN_OOOSeducerFemale3C",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "OOOSeducerFemale4A",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA6D",
-    "full": "Seducer",
+    "full": "LOC_FN_OOOSeducerFemale4A",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "OOOSeducerFemale4B",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA6E",
-    "full": "Seducer",
+    "full": "LOC_FN_OOOSeducerFemale4B",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "OOOSeducerFemale5A",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA6F",
-    "full": "Seducer",
+    "full": "LOC_FN_OOOSeducerFemale5A",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "OOOSeducerFemale5B",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA70",
-    "full": "Seducer",
+    "full": "LOC_FN_OOOSeducerFemale5B",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "OOOSeducerFemale5C",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA71",
-    "full": "Seducer",
+    "full": "LOC_FN_OOOSeducerFemale5C",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "OOOSeducerFemale5D",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA72",
-    "full": "Seducer",
+    "full": "LOC_FN_OOOSeducerFemale5D",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
