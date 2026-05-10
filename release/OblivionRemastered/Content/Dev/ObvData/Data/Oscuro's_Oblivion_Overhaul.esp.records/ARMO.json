@@ -8847,91 +8847,91 @@
     "edid": "javbmbbt01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035786",
     "full": "LOC_FN_javbmbbt01OOO",
-    "modl": "armor\\javbmb\\javbmbbt01.nif"
+    "modl": "Armor\\ImperialWatch\\M\\Boots.NIF"
   },
   {
     "edid": "javbmbcu01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035787",
     "full": "LOC_FN_javbmbcu01OOO",
-    "modl": "armor\\javbmb\\javbmbcu01.nif"
+    "modl": "Armor\\ImperialWatch\\M\\Cuirass.NIF"
   },
   {
     "edid": "javbmbga01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035788",
     "full": "LOC_FN_javbmbga01OOO",
-    "modl": "armor\\javbmb\\javbmbga01.nif"
+    "modl": "Armor\\ImperialWatch\\M\\Gauntlets.NIF"
   },
   {
     "edid": "javbmbgr01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035789",
     "full": "LOC_FN_javbmbgr01OOO",
-    "modl": "armor\\javbmb\\javbmbgr01.nif"
+    "modl": "Armor\\ImperialWatch\\M\\Greaves.NIF"
   },
   {
     "edid": "javbmbhlm01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03578A",
     "full": "LOC_FN_javbmbhlm01OOO",
-    "modl": "armor\\javbmb\\javbmbhlm01.nif"
+    "modl": "Armor\\ImperialWatch\\M\\Helmet.NIF"
   },
   {
     "edid": "javbsbt02OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03578B",
     "full": "LOC_FN_javbsbt02OOO",
-    "modl": "armor\\javbs\\javbsbt02.nif"
+    "modl": "Armor\\Blades\\M\\Boots.NIF"
   },
   {
     "edid": "javbscu02OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03578C",
     "full": "LOC_FN_javbscu02OOO",
-    "modl": "armor\\javbs\\javbscu02.nif"
+    "modl": "Armor\\Blades\\M\\Cuirass.NIF"
   },
   {
     "edid": "javbsga01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03578D",
     "full": "LOC_FN_javbsga01OOO",
-    "modl": "armor\\javbs\\javbsga01.nif"
+    "modl": "Armor\\Blades\\M\\Gauntlets.NIF"
   },
   {
     "edid": "javbsgr01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03578E",
     "full": "LOC_FN_javbsgr01OOO",
-    "modl": "armor\\javbs\\javbsgr01.nif"
+    "modl": "Armor\\Blades\\M\\Greaves.NIF"
   },
   {
     "edid": "javbshlm02OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03578F",
     "full": "LOC_FN_javbshlm02OOO",
-    "modl": "armor\\javbs\\javbshlm02.nif"
+    "modl": "Armor\\Blades\\M\\Helmet.NIF"
   },
   {
     "edid": "javrmbbt01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035790",
     "full": "LOC_FN_javrmbbt01OOO",
-    "modl": "armor\\javrmb\\javrmbbt01.nif"
+    "modl": "Armor\\ImperialWatch\\M\\Boots.NIF"
   },
   {
     "edid": "javrmbcu01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035791",
     "full": "LOC_FN_javrmbcu01OOO",
-    "modl": "armor\\javrmb\\javrmbcu01.nif"
+    "modl": "Armor\\ImperialWatch\\M\\Cuirass.NIF"
   },
   {
     "edid": "javrmbga01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035792",
     "full": "LOC_FN_javrmbga01OOO",
-    "modl": "armor\\javrmb\\javrmbga01.nif"
+    "modl": "Armor\\ImperialWatch\\M\\Gauntlets.NIF"
   },
   {
     "edid": "javrmbgr01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035793",
     "full": "LOC_FN_javrmbgr01OOO",
-    "modl": "armor\\javrmb\\javrmbgr01.nif"
+    "modl": "Armor\\ImperialWatch\\M\\Greaves.NIF"
   },
   {
     "edid": "javrmbhlm01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035794",
     "full": "LOC_FN_javrmbhlm01OOO",
-    "modl": "armor\\javrmb\\javrmbhlm01.nif"
+    "modl": "Armor\\ImperialWatch\\M\\Helmet.NIF"
   },
   {
     "edid": "OOOSEObeliskArmor1",
@@ -9873,37 +9873,37 @@
     "edid": "IvorybootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:044F32",
     "full": "LOC_FN_IvorybootsOOO",
-    "modl": "armor\\Ivory\\m\\boots.nif"
+    "modl": "Armor\\AmelionCeremonial\\M\\Boots.NIF"
   },
   {
     "edid": "IvorycuirassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:044F33",
     "full": "LOC_FN_IvorycuirassOOO",
-    "modl": "armor\\Ivory\\m\\cuirass.nif"
+    "modl": "Armor\\AmelionCeremonial\\M\\Cuirass.NIF"
   },
   {
     "edid": "IvorygauntletsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:044F34",
     "full": "LOC_FN_IvorygauntletsOOO",
-    "modl": "armor\\Ivory\\m\\gauntlets.nif"
+    "modl": "Armor\\AmelionCeremonial\\M\\Gauntlets.NIF"
   },
   {
     "edid": "IvorygreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:044F35",
     "full": "LOC_FN_IvorygreavesOOO",
-    "modl": "armor\\Ivory\\m\\greaves.nif"
+    "modl": "Armor\\AmelionCeremonial\\M\\Greaves.NIF"
   },
   {
     "edid": "IvoryhelmetOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:044F36",
     "full": "LOC_FN_IvoryhelmetOOO",
-    "modl": "armor\\Ivory\\m\\helmet.nif"
+    "modl": "Armor\\AmelionCeremonial\\M\\Helmet.NIF"
   },
   {
     "edid": "IvorysheildOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:044F37",
     "full": "LOC_FN_IvorysheildOOO",
-    "modl": "armor\\Ivory\\shield.nif"
+    "modl": "Armor\\AmelionCeremonial\\Shield.NIF"
   },
   {
     "edid": "OOOSEGoldenSaintOfficerHelmetReward2",

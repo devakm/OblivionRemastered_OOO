@@ -33424,6 +33424,27 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE3F"
   },
   {
+    "edid": "LL0Skeleton5Lord100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:00DE38"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:00DE38"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:00DE3F"
+      }
+    ],
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE40"
+  },
+  {
     "edid": "LL0HellHoundPack",
     "entries": [
       {
@@ -44605,6 +44626,16 @@
         "count": 1,
         "level": 23,
         "ref_formid": "Oblivion.esm:03265C"
+      },
+      {
+        "count": 1,
+        "level": 26,
+        "ref_formid": "Oblivion.esm:084B20"
+      },
+      {
+        "count": 1,
+        "level": 26,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:00DE40"
       }
     ],
     "formid": "Oscuro's_Oblivion_Overhaul.esp:028D38"

@@ -3,6 +3,7 @@
   "record_types": [
     "ARMO",
     "CREA",
+    "FACT",
     "NPC_",
     "SCPT",
     "WEAP"
@@ -10,6 +11,8 @@
   "tes4": {
     "masters": [
       "Oblivion.esm",
+      "DLCHorseArmor.esp",
+      "Knights.esp",
       "AltarESPMain.esp",
       "AltarDeluxe.esp",
       "Oscuro's_Oblivion_Overhaul.esp"

@@ -1,6 +1,7 @@
 {
   "esp": "OOO_OOMC_Compatibility_Patch.esp",
   "record_types": [
+    "CELL",
     "NPC_"
   ],
   "tes4": {
