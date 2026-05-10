@@ -306,6 +306,18 @@
     "modl": null
   },
   {
+    "edid": "LapGrapeBarrel",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001B9D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LapCaskScript",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001BA0",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "GrindGem0GoldNuggetSmallS",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001E2F",
     "full": null,
@@ -474,110 +486,14 @@
     "modl": null
   },
   {
-    "edid": "14ContTrapCrimeYesHiFi01NRAlAm",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F4B",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapNoCrimeYesHiFi01NRArHo",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F54",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapNoCrimeYesHiFi01AsAt",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F55",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapNoCrimeYesHiFi01NRBaer",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F5B",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapCrimeYesHiFi01NRStolenG",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F5D",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapNoCrimeYesHiFi01NRPatneim",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F7E",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapNoCrimeYesHiFi01NRClaudisArc",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F82",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapCrimeYesHiFi01NRAntoinettaM",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F84",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapNoCrimeYesHiFi01NRMraajDar",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F85",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapNoCrimeYesHiFi01NRTeinaava",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F86",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapCrimeYesHiFi01NRDNeville",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F87",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapNoCrimeYesHiFi01NRTelaendril",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F88",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapNoCrimeYesHiFi01NRDynariAmnis",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F8E",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapCrimeYesHiFi01NREidKee",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F91",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapCrimeYesHiFi01NRGlarthir",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F9C",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapCrimeYesHiFi01NRGlarthirCupboard",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F9D",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapCrimeYesHiFi01NRGogron",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F9E",
-    "full": null,
-    "modl": null
-  },
-  {
     "edid": "DreadSetScriptOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002655",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LapBrewerScript",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002A5D",
     "full": null,
     "modl": null
   },
@@ -674,114 +590,6 @@
   {
     "edid": "GhostWeaponWarHammer2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00364E",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "13ContTrapCrimeNoHiFi01NR",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D67",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "13ContTrapCrimeNoHiFi01",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D68",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "13ContTrapCrimeYesHiFi01",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D69",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "13ContTrapCrimeYesHiFi01NR",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D6A",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "13ContTrapNoCrimeNoHiFi01",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D6B",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "13ContTrapNoCrimeNoHiFi01NR",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D6C",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "13ContTrapNoCrimeYesHiFi01",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D6D",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "13ContTrapNoCrimeYesHiFi01NR",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D6E",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapNoCrimeYesHiFi01TG07LCC",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E3E",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapNoCrimeYesHiFi01NRKastusS",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E46",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapCrimeYesHiFi01NRKizra",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E48",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapNoCrimeYesHiFi01NRMS93CC",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E4E",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapNoCrimeYesHiFi01NRPhintiasFE",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E51",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapNoCrimeYesHiFi01NRTeekeeus",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E61",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapCrimeYesHiFi01NRTussaud",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E65",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapCrimeYesHiFi01NRUlrichLeland",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E67",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapCrimeYesHiFi01NRUmbacano",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E69",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapNoCrimeYesHiFi01NRVilenaDonton",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E6B",
     "full": null,
     "modl": null
   },
@@ -1110,6 +918,24 @@
     "modl": null
   },
   {
+    "edid": "lbBashCrimeFreeScriptOOOMergedLap",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004A5E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "lbBashCrimeFreeScriptOOOMergedLapTest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004A5F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "lbBashCrimeFreeScriptOOOMergedLapTest01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004A60",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "2MagicSpawnSpectralReaver",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004B1B",
     "full": null,
@@ -1170,12 +996,6 @@
     "modl": null
   },
   {
-    "edid": "14ContTrapCrimeYesHiFi01NRMelusP",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00528C",
-    "full": null,
-    "modl": null
-  },
-  {
     "edid": "lbBashCrimeFreeScriptOOOMergedLapTest02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00548D",
     "full": null,
@@ -1208,12 +1028,6 @@
   {
     "edid": "OOOSpellMerchantQuestScript",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005DF7",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "13ContTrapCrimeYesHiFi01NRMarieElena",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:005DFD",
     "full": null,
     "modl": null
   },
@@ -1568,6 +1382,12 @@
   {
     "edid": "9UberSoulGem",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C443",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "3LapTrappedChestsandDoorsOOOTest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C5F2",
     "full": null,
     "modl": null
   },
@@ -2622,12 +2442,6 @@
     "modl": null
   },
   {
-    "edid": "14ContTrapCrimeYesHiFi01NRDVicente",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0299E2",
-    "full": null,
-    "modl": null
-  },
-  {
     "edid": "9BossBuffScriptFCguardian",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:029CB2",
     "full": null,
@@ -3126,6 +2940,24 @@
     "modl": null
   },
   {
+    "edid": "LapTrappedChestsandDoorsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:045906",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LAPGuildOrInnTestScriptOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0462E0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LapDetectTrapsSpellScriptOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0462E1",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "OOOSEMazkenUpdater01SCRIPT",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0469B3",
     "full": null,
@@ -3146,12 +2978,6 @@
   {
     "edid": "4NPCWearCapeBlackandRedFireO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0479BC",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "14ContTrapCrimeYesHiFi01NRMarieElena",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0480E8",
     "full": null,
     "modl": null
   },
@@ -3312,26 +3138,14 @@
     "modl": null
   },
   {
-    "edid": "13CounterTrapNoCrimeYesHiFi01",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:057DD8",
-    "full": null,
-    "modl": null
-  },
-  {
     "edid": "OOOSEMuseumOddity",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:058A26",
     "full": null,
     "modl": null
   },
   {
-    "edid": "13StoneTrapNoCrimeNoHiFi01NR",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:059179",
-    "full": null,
-    "modl": null
-  },
-  {
-    "edid": "13DarkContTrapNoCrimeYesHiFi01NR",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:05A02C",
+    "edid": "OOO8InebriationSpellEffectDummyAle",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05A9F9",
     "full": null,
     "modl": null
   },
@@ -3440,6 +3254,96 @@
   {
     "edid": "OOO8InebriationSpell0WineTamika1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:05E4F4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOO8InebriationSpellEffectDummyBeer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05E512",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOO8InebriationSpellEffectDummyCiderApple",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05E514",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOO8InebriationSpellEffectDummyCiderApple2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05E515",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOO8InebriationSpellEffectDummyCyrBrandy",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05E516",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOO8InebriationSpellEffectDummyMead",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05E517",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOO8InebriationSpellEffectDummyNewheimBeer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05E518",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOO8InebriationSpellEffectDummyWineCheap",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05E519",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOO8InebriationSpellEffectDummyWineLap1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05E51A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOO8InebriationSpellEffectDummyWineLap2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05E51B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOO8InebriationSpellEffectDummyWineSurilie1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05E51C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOO8InebriationSpellEffectDummyWineSurilie2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05E51D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOO8InebriationSpellEffectDummyWineSurilie3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05E51E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOO8InebriationSpellEffectDummyWineTamika1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05E51F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOO8InebriationSpellEffectDummyWineTamika2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05E520",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOO8InebriationSpellEffectDummyWineTamika3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05E521",
     "full": null,
     "modl": null
   },

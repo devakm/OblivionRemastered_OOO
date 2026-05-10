@@ -1152,18 +1152,6 @@
     "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
   },
   {
-    "edid": "VendorRindirsStaffsDefStaffsOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0011E8",
-    "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
-  },
-  {
-    "edid": "VendorMysticEmporiumDefStaffsOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0011EA",
-    "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
-  },
-  {
     "edid": "ZOOODungSackMid02TreasuryRGC",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00164A",
     "full": "Sack",
@@ -1302,42 +1290,6 @@
     "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
-    "edid": "ChestDefStaffAlyeid",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A0",
-    "full": "Ayleid Reliquary",
-    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
-  },
-  {
-    "edid": "ChestDefStaffAlyeidBoss3",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A3",
-    "full": "Ayleid Reliquary",
-    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
-  },
-  {
-    "edid": "ChestDefStaffUpper4",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A6",
-    "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
-  },
-  {
-    "edid": "ChestDefStaffUpper2",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A7",
-    "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
-  },
-  {
-    "edid": "ChestDefStaffAlyeidBoss5",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A8",
-    "full": "Ayleid Reliquary",
-    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
-  },
-  {
-    "edid": "ChestDefStaffLower1",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A9",
-    "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
-  },
-  {
     "edid": "ZOOOChestJewelry01NobleTop",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0026F7",
     "full": "Exquisite Jewelry Box",
@@ -1372,12 +1324,6 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002713",
     "full": "Elaborate Chest",
     "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
-  },
-  {
-    "edid": "VendorArcaneUDefStaffOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:002AAE",
-    "full": "Chest",
-    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
   },
   {
     "edid": "CupboardClutterMiddleHelviusCecia",
@@ -1419,6 +1365,12 @@
     "edid": "ZOOOChestMiddle02UpperArmoryLesserT100Kizra",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003E49",
     "full": "Fine Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperArmoryLesserWizT100Kizra",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E4A",
+    "full": "Rune Banded Chest",
     "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {

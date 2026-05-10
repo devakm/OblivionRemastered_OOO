@@ -882,24 +882,6 @@
     "modl": "Clutter\\Books\\Parchment01.NIF"
   },
   {
-    "edid": "ScrollLAPDetectTrapsSpell1OOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:01EB93",
-    "full": "Minor Detect Traps",
-    "modl": "Clutter\\Books\\Scroll03.NIF"
-  },
-  {
-    "edid": "ScrollLAPDetectTrapsSpell2OOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:01EB99",
-    "full": "Detect Traps",
-    "modl": "Clutter\\Books\\Scroll03.NIF"
-  },
-  {
-    "edid": "ScrollLAPDetectTrapsSpell3OOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:01EB9A",
-    "full": "Extended Detect Traps",
-    "modl": "Clutter\\Books\\Scroll03.NIF"
-  },
-  {
     "edid": "ScrollDrainHealth1Kill",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01EB9B",
     "full": "LOC_FN_ScrollDrainHealth1Kill",

@@ -16,9 +16,25 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "SilverToothCave",
+    "formid": "Oblivion.esm:01499E",
+    "full": "LOC_FN_SilverToothCave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "SageGlenHollow",
     "formid": "Oblivion.esm:0149B0",
     "full": "LOC_FN_SageGlenHollow",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "PlunderedMine",
+    "formid": "Oblivion.esm:015C37",
+    "full": "LOC_FN_PlunderedMine",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -56,9 +72,25 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "Crowhaven01",
+    "formid": "Oblivion.esm:015E3E",
+    "full": "Crowhaven",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "Elenglynn",
     "formid": "Oblivion.esm:016634",
     "full": "LOC_FN_Elenglynn",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "InnIllOmen",
+    "formid": "Oblivion.esm:024F81",
+    "full": "LOC_FN_InnIllOmen",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -72,6 +104,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "ICTalosPlazaUmbacanoManorUpstairs",
+    "formid": "Oblivion.esm:02B438",
+    "full": "LOC_FN_ICTalosPlazaUmbacanoManorUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "AnvilCastleRoyalQuarters",
     "formid": "Oblivion.esm:02C37D",
     "full": "LOC_FN_AnvilCastleRoyalQuarters",
@@ -80,9 +120,97 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "LeyawiinFiveClawsLodge",
+    "formid": "Oblivion.esm:02C7CC",
+    "full": "LOC_FN_LeyawiinFiveClawsLodge",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "RoxeyInn",
+    "formid": "Oblivion.esm:02C8C7",
+    "full": "LOC_FN_RoxeyInn",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BravilLonelySuitorLodge",
+    "formid": "Oblivion.esm:02D245",
+    "full": "The Lonely Suitor Lodge",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BrinaCrossInn",
+    "formid": "Oblivion.esm:02DC01",
+    "full": "LOC_FN_BrinaCrossInn",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "CheydinhalBridgeInn",
+    "formid": "Oblivion.esm:030213",
+    "full": "LOC_FN_CheydinhalBridgeInn",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "AnvilFightersGuild",
     "formid": "Oblivion.esm:0308CB",
     "full": "LOC_FN_AnvilFightersGuild",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "TheDrunkenDragonInn",
+    "formid": "Oblivion.esm:030FCD",
+    "full": "TheDrunkenDragonInn",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "GottshawInnTavern",
+    "formid": "Oblivion.esm:031347",
+    "full": "LOC_FN_GottshawInnTavern",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ImperialBridgeInnTavern",
+    "formid": "Oblivion.esm:031348",
+    "full": "LOC_FN_ImperialBridgeInnTavern",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "WawnetInnTavern",
+    "formid": "Oblivion.esm:031349",
+    "full": "LOC_FN_WawnetInnTavern",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICTalosPlazaUmbacanoManorTop",
+    "formid": "Oblivion.esm:032483",
+    "full": "LOC_FN_ICTalosPlazaUmbacanoManorTop",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICPalaceOcatoChambers",
+    "formid": "Oblivion.esm:03ABFC",
+    "full": "Imperial Battlemage's Chambers",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -123,6 +251,22 @@
     "edid": "SageGlenHollow02",
     "formid": "Oblivion.esm:05E1E0",
     "full": "LOC_FN_SageGlenHollow02",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "DasekMoor03",
+    "formid": "Oblivion.esm:05F25E",
+    "full": "LOC_FN_DasekMoor03",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ImperialSewerSystemTG11c",
+    "formid": "Oblivion.esm:09DEF0",
+    "full": "LOC_FN_ImperialSewerSystemTG11c",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -184,6 +328,126 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "zOOOBarastas02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:000D63",
+    "full": "Barastas Nelar",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Cehani",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001B2E",
+    "full": "LOC_FN_Cehani",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Cehani02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001D36",
+    "full": "LOC_FN_Cehani02",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BravilMages",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00209A",
+    "full": "Dummy Cell",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "AnvilMages",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00209B",
+    "full": "Dummy Cell",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BravilFighters",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00209C",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "AnvilFighters",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00209D",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ChorrolFighters",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00209E",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ChorrolMages",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00209F",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "CheydinhalFighters",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0020A2",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "CheydinhalMages",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0020A3",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "SkingradMages",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0020A4",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "SkingradFighters",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0020A5",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BrumaMages",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0020A6",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BrumaFighters",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0020A7",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "zOOONarind",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002158",
     "full": "Narind",
@@ -200,9 +464,33 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "LeyawiinFighter",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00258E",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "LeyawiinMages",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00258F",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "Yeleri",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002642",
     "full": "Yeleri",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Yeleri02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0027DB",
+    "full": "LOC_FN_Yeleri02",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -250,7 +538,7 @@
   {
     "edid": "Dostares02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00453A",
-    "full": "Dostares Sevadal",
+    "full": "LOC_FN_Dostares02",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -272,9 +560,73 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "zOOOArondar03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007C0B",
+    "full": "Arondar Arestenia",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "zOOOArondar02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007C0C",
+    "full": "Arondar Arestel",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "LipsandTarn03OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A844",
+    "full": "LOC_FN_LipsandTarn03OOO",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "DeepCoverCave",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:015C2B",
+    "full": "LOC_FN_DeepCoverCave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "DeepCoverCave02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:015D7D",
+    "full": "Deep Cover Caverns",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "GraveGroundCave",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01630A",
     "full": "LOC_FN_GraveGroundCave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BloodClotCave",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:016D4A",
+    "full": "LOC_FN_BloodClotCave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BloodClotCave02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:016E23",
+    "full": "LOC_FN_BloodClotCave02",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BloodClotCave03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:016ECF",
+    "full": "LOC_FN_BloodClotCave03",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -314,7 +666,7 @@
   {
     "edid": "GloomWayCave",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01E620",
-    "full": "Gloom Way Cave",
+    "full": "LOC_FN_GloomWayCave",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -371,6 +723,14 @@
     "edid": "ThunderingSteps02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03A070",
     "full": "LOC_FN_ThunderingSteps02",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ThunderingSteps03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03A15C",
+    "full": "LOC_FN_ThunderingSteps03",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0

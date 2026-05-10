@@ -2976,6 +2976,48 @@
     "modl": null
   },
   {
+    "edid": "ZZZGolemWaterSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0042B8",
+    "full": "Summon Water Golem",
+    "modl": null
+  },
+  {
+    "edid": "ZZZGolemSilverSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0042B9",
+    "full": "Summon Silver Golem",
+    "modl": null
+  },
+  {
+    "edid": "ZZZGolemGoldSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0042BB",
+    "full": "Summon Gold Golem",
+    "modl": null
+  },
+  {
+    "edid": "ZZZGolemMithrilSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0042BD",
+    "full": "Summon Mithril Golem",
+    "modl": null
+  },
+  {
+    "edid": "ZZZGolemIronSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0042BF",
+    "full": "Summon Iron Golem",
+    "modl": null
+  },
+  {
+    "edid": "ZZZGolemGlassSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0042C1",
+    "full": "Summon Glass Golem",
+    "modl": null
+  },
+  {
+    "edid": "ZZZGolemEbonySummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0042C3",
+    "full": "Summon Ebony Golem",
+    "modl": null
+  },
+  {
     "edid": "1detectlifeeffect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0042FA",
     "full": "Cowl's Life Detection",
@@ -3512,7 +3554,7 @@
   {
     "edid": "StandardWeaknessDisease2Apprentice",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00AF8C",
-    "full": "",
+    "full": "Weakness to Fire",
     "modl": null
   },
   {
@@ -3585,6 +3627,18 @@
     "edid": "OblivionGuardianGolemMagma",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00DA5E",
     "full": "Call of Magma",
+    "modl": null
+  },
+  {
+    "edid": "VampireGolemBlood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DA62",
+    "full": "Call of Blood",
+    "modl": null
+  },
+  {
+    "edid": "VampireGolemMud",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DA63",
+    "full": "Call of Mud",
     "modl": null
   },
   {
@@ -6405,6 +6459,48 @@
     "edid": "OOOSEBregorAb",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:043EE1",
     "full": "Bregor's Ability",
+    "modl": null
+  },
+  {
+    "edid": "LAPBashLockOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:045DED",
+    "full": "BashLockEffect",
+    "modl": null
+  },
+  {
+    "edid": "LAPDetectTrapsSpell1OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:045DEE",
+    "full": "Minor Detect Traps",
+    "modl": null
+  },
+  {
+    "edid": "LapDetectTrapsSpell2OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:045DF0",
+    "full": "Detect Traps",
+    "modl": null
+  },
+  {
+    "edid": "LapDetectTrapsSpell3OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:045DF2",
+    "full": "Extended Detect Traps",
+    "modl": null
+  },
+  {
+    "edid": "LAPDodgedOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:045DF4",
+    "full": "Dodged",
+    "modl": null
+  },
+  {
+    "edid": "LAPGuildOrInnTestSpellOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:045DF6",
+    "full": "Guild or Inn Test Spell",
+    "modl": null
+  },
+  {
+    "edid": "LapHtHBashLockOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:045DF8",
+    "full": "Bash Lock",
     "modl": null
   },
   {

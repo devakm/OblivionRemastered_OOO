@@ -1454,229 +1454,253 @@
   {
     "edid": "LapGrapeJuice",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002A5A",
-    "full": "",
+    "full": "- Grape Juice -",
     "modl": "clutter\\Booze\\meadbottle.nif"
   },
   {
     "edid": "LapAppleJuice",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002A60",
-    "full": "",
+    "full": "- Apple Juice -",
     "modl": "clutter\\Booze\\alebottle.nif"
+  },
+  {
+    "edid": "LapHomemadeWine",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002A61",
+    "full": "- Home-Brewed Wine -",
+    "modl": "clutter\\Booze\\winebottle02.nif"
+  },
+  {
+    "edid": "LapAppleCider",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002A63",
+    "full": "- Apple Cider -",
+    "modl": "clutter\\Booze\\beerbottle.nif"
+  },
+  {
+    "edid": "LapAgedWine",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002A65",
+    "full": "- Well-Aged Wine -",
+    "modl": "clutter\\Booze\\winebottle03.nif"
+  },
+  {
+    "edid": "LapAppleBrandy",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002A67",
+    "full": "- Apply Brandy -",
+    "modl": "clutter\\Booze\\winebottle03.nif"
   },
   {
     "edid": "lbPotionOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C5FB",
-    "full": "",
+    "full": "Weapon Damage",
     "modl": "clutter\\RCpotions\\potionpoison.nif"
   },
   {
     "edid": "PotionRestoreFatigueS2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:010BDB",
-    "full": "",
+    "full": "Potent Potion of Respite",
     "modl": "clutter\\RCpotions\\potion01_yellow.nif"
   },
   {
     "edid": "PotionRestoreFatigueS3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:010BDC",
-    "full": "",
+    "full": "Stalwart Potion of Respite",
     "modl": "clutter\\RCpotions\\potion01_yellow.nif"
   },
   {
     "edid": "PotionRestoreFatigueS4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:010BDE",
-    "full": "",
+    "full": "Mighty Potion of Respite",
     "modl": "clutter\\RCpotions\\potion01_yellow.nif"
   },
   {
     "edid": "PotionRestoreFatigueS5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:010BE0",
-    "full": "",
+    "full": "Amazing Potion of Respite",
     "modl": "clutter\\RCpotions\\potion01_yellow.nif"
   },
   {
     "edid": "PotionRestoreFatigueS6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:010BE2",
-    "full": "",
+    "full": "Marvelous Potion of Respite",
     "modl": "clutter\\RCpotions\\potion01_yellow.nif"
   },
   {
     "edid": "PotionRestoreMagickaS2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:010BEC",
-    "full": "",
+    "full": "Potent Potion of Sorcery",
     "modl": "clutter\\RCpotions\\potion01_blue.nif"
   },
   {
     "edid": "PotionRestoreMagickaS3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:010BED",
-    "full": "",
+    "full": "Stalwart Potion of Sorcery",
     "modl": "clutter\\RCpotions\\potion01_blue.nif"
   },
   {
     "edid": "PotionRestoreMagickaS4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:010BEF",
-    "full": "",
+    "full": "Mighty Potion of Sorcery",
     "modl": "clutter\\RCpotions\\potion01_blue.nif"
   },
   {
     "edid": "PotionRestoreMagickaS5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:010BF1",
-    "full": "",
+    "full": "Amazing Potion of Sorcery",
     "modl": "clutter\\RCpotions\\potion01_blue.nif"
   },
   {
     "edid": "PotionRestoreMagickaS6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:010BF3",
-    "full": "",
+    "full": "Marvelous Potion of Sorcery",
     "modl": "clutter\\RCpotions\\potion01_blue.nif"
   },
   {
     "edid": "PotionRestoreHealthS2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02E3A9",
-    "full": "",
+    "full": "Potent Potion of Healing",
     "modl": "clutter\\RCpotions\\potion01_red.nif"
   },
   {
     "edid": "PotionRestoreHealthS3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02E3AA",
-    "full": "",
+    "full": "Stalwart Potion of Healing",
     "modl": "clutter\\RCpotions\\potion01_red.nif"
   },
   {
     "edid": "PotionRestoreHealthS4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02E3AC",
-    "full": "",
+    "full": "Mighty Potion of Healing",
     "modl": "clutter\\RCpotions\\potion01_red.nif"
   },
   {
     "edid": "PotionRestoreHealthS6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02E3AE",
-    "full": "",
+    "full": "Marvelous Potion of Healing",
     "modl": "clutter\\RCpotions\\potion01_red.nif"
   },
   {
     "edid": "PotionRestoreHealthS5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02E3B0",
-    "full": "",
+    "full": "Amazing Potion of Healing",
     "modl": "clutter\\RCpotions\\potion01_red.nif"
   },
   {
     "edid": "LAPPoisonCombustionAOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0462E2",
-    "full": "",
+    "full": "Weak Combusting Poison",
     "modl": "clutter\\RCpotions\\potionpoison.nif"
   },
   {
     "edid": "LAPPoisonCombustionBOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0462E3",
-    "full": "",
+    "full": "Combusting Poison",
     "modl": "clutter\\RCpotions\\potionpoison.nif"
   },
   {
     "edid": "LAPPoisonCombustionCOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0462E5",
-    "full": "",
+    "full": "Strong Combusting Poison",
     "modl": "clutter\\RCpotions\\potionpoison.nif"
   },
   {
     "edid": "LAPPoisonFreezingGraspAOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0462E7",
-    "full": "",
+    "full": "Weak Freezing Grasp Poison",
     "modl": "clutter\\RCpotions\\potionpoison.nif"
   },
   {
     "edid": "LAPPoisonFreezingGraspBOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0462E9",
-    "full": "",
+    "full": "Freezing Grasp Poison",
     "modl": "clutter\\RCpotions\\potionpoison.nif"
   },
   {
     "edid": "LAPPoisonFreezingGraspCOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0462EB",
-    "full": "",
+    "full": "Strong Freezing Grasp Poison",
     "modl": "clutter\\RCpotions\\potionpoison.nif"
   },
   {
     "edid": "LAPPoisonRustAOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0462ED",
-    "full": "",
+    "full": "Weak Devouring Rust Poison",
     "modl": "clutter\\RCpotions\\potionpoison.nif"
   },
   {
     "edid": "LAPPoisonRustBOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0462EF",
-    "full": "",
+    "full": "Devouring Rust Poison",
     "modl": "clutter\\RCpotions\\potionpoison.nif"
   },
   {
     "edid": "LAPPoisonRustCOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0462F1",
-    "full": "",
+    "full": "Strong Devouring Rust Poison",
     "modl": "clutter\\RCpotions\\potionpoison.nif"
   },
   {
     "edid": "LAPPoisonShockingAOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0462F3",
-    "full": "",
+    "full": "Weak Shocking Poison",
     "modl": "clutter\\RCpotions\\potionpoison.nif"
   },
   {
     "edid": "LAPPoisonShockingBOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0462F5",
-    "full": "",
+    "full": "Shocking Poison",
     "modl": "clutter\\RCpotions\\potionpoison.nif"
   },
   {
     "edid": "LapPoisonShockingCOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0462F7",
-    "full": "",
+    "full": "Strong Shocking Poison",
     "modl": "clutter\\RCpotions\\potionpoison.nif"
   },
   {
     "edid": "TandFighterPot1OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048A41",
-    "full": "",
+    "full": "Associate's Regeneration",
     "modl": "clutter\\RCpotions\\potion01_red.nif"
   },
   {
     "edid": "TandFighterPot2OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048A42",
-    "full": "",
+    "full": "Associate's Enduring",
     "modl": "clutter\\RCpotions\\potion01_yellow.nif"
   },
   {
     "edid": "TandMagePot1OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048A44",
-    "full": "",
+    "full": "Associate's Renewal",
     "modl": "clutter\\RCpotions\\potion01_red.nif"
   },
   {
     "edid": "TandMagePot2OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048A46",
-    "full": "",
+    "full": "Associate's Clarity",
     "modl": "clutter\\RCpotions\\potion01_blue.nif"
   },
   {
     "edid": "bgSlowFallWeakOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA25",
-    "full": "",
+    "full": "Tiny Slowfall Sludge Clod",
     "modl": "clutter\\GX\\Gems\\ironnuggetsmall.nif"
   },
   {
     "edid": "bgSlowFallNormOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA26",
-    "full": "",
+    "full": "Slowfall Sludge Clod",
     "modl": "clutter\\GX\\Gems\\ironnugget.nif"
   },
   {
     "edid": "bgSlowFallStrongOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA27",
-    "full": "",
+    "full": "Large Slowfall Sludge Clod",
     "modl": "clutter\\GX\\Gems\\ironnuggetlarge.nif"
   },
   {
     "edid": "bgGravityPoisonOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA28",
-    "full": "",
+    "full": "Repulsive Sludge Clod",
     "modl": "clutter\\GX\\Gems\\Ironnuggetsmall.nif"
   },
   {
