@@ -1,0 +1,7 @@
+# Runtime deps for the TES4 parser adapter (scripts/_wrye_bootstrap.py).
+# All four are pulled in transitively by Wrye Bash's import chain, even though
+# we don't use the GUI directly. Install with:  py -3 -m pip install -r requirements.txt
+chardet>=5.0
+wxPython>=4.2
+lz4>=4.0
+pyyaml>=6.0
