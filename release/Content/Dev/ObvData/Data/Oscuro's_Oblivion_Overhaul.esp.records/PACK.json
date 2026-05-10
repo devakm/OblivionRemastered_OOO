@@ -228,12 +228,6 @@
     "modl": null
   },
   {
-    "edid": "OOOSECreatureExterior3000AllowFalls",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015D3",
-    "full": null,
-    "modl": null
-  },
-  {
     "edid": "OOOSECreatureInterior1500AllowFalls",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0015D4",
     "full": null,
@@ -278,6 +272,18 @@
   {
     "edid": "OOOSESylDefaultSit",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011AB7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "aaaCreatureStayNear",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:029CB4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOGolemGuardianFollowPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AC0B",
     "full": null,
     "modl": null
   },
@@ -338,6 +344,12 @@
   {
     "edid": "OOOSEMS43FollowPlayer",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:083CCF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSECreatureExterior3000AllowFalls",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0915D3",
     "full": null,
     "modl": null
   },

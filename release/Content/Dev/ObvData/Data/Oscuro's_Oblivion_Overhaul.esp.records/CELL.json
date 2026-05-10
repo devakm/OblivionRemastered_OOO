@@ -1,5 +1,37 @@
 [
   {
+    "edid": "SageGlenHollow",
+    "formid": "Oblivion.esm:0149B0",
+    "full": "LOC_FN_SageGlenHollow",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Elenglynn",
+    "formid": "Oblivion.esm:016634",
+    "full": "LOC_FN_Elenglynn",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICTalosPlazaJakbenImbelHouseTop",
+    "formid": "Oblivion.esm:03D867",
+    "full": "LOC_FN_ICTalosPlazaJakbenImbelHouseTop",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICMarketDistrictAFightingChanceUpstairs",
+    "formid": "Oblivion.esm:049AEF",
+    "full": "LOC_FN_ICMarketDistrictAFightingChanceUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "SageGlenHollow02",
     "formid": "Oblivion.esm:05E1E0",
     "full": "LOC_FN_SageGlenHollow02",

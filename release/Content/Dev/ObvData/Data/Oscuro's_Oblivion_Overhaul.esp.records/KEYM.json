@@ -1,5 +1,17 @@
 [
   {
+    "edid": "JakbenImbelChestKeyOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A5D1",
+    "full": "Jakben Imbel's Jeweled Key",
+    "modl": "Clutter\\Key\\Key.NIF"
+  },
+  {
+    "edid": "RohssanChestKeyOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0141EE",
+    "full": "Rohssan's Jeweled Key",
+    "modl": "Clutter\\Key\\Key.NIF"
+  },
+  {
     "edid": "OOOSE38DisplayCaseKey",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0520EF",
     "full": "Display Case Key",

@@ -10676,8 +10676,8 @@
   {
     "edid": "TheSilverDragonClaymoreOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025678",
-    "full": "",
-    "modl": "Weapons\\TheSilverDragonOrder\\TheProtector .nif"
+    "full": "The Dragon's Beastclaw",
+    "modl": "Weapons\\Silver\\Claymore.NIF"
   },
   {
     "edid": "TheSilverDragonSwordOOO",
@@ -11042,7 +11042,7 @@
   {
     "edid": "WeapSilverClaymoreZ",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:029C24",
-    "full": "",
+    "full": "Silvery Falls",
     "modl": "Weapons\\Silver\\Claymore.NIF"
   },
   {

@@ -48,6 +48,18 @@
     "modl": "Dungeons\\Root\\Interior\\misc\\AmberTrunk02.NIF"
   },
   {
+    "edid": "ChestClutterMiddleSame02",
+    "formid": "Oblivion.esm:024456",
+    "full": "LOC_FN_ChestClutterMiddleSame02",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "DeskClutterUpper02",
+    "formid": "Oblivion.esm:024467",
+    "full": "LOC_FN_DeskClutterUpper02",
+    "modl": "Furniture\\UpperClass\\UpperDesk01.NIF"
+  },
+  {
     "edid": "ChestVendorAlchemyPotionsLowI01",
     "formid": "Oblivion.esm:024497",
     "full": "LOC_FN_ChestVendorAlchemyPotionsLowI01",
@@ -84,6 +96,12 @@
     "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
+    "edid": "ChestVendorPawnbrokerLow01",
+    "formid": "Oblivion.esm:0244B1",
+    "full": "LOC_FN_ChestVendorPawnbrokerLow01",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
     "edid": "ChestVendorPawnbrokerLow02",
     "formid": "Oblivion.esm:0244B2",
     "full": "LOC_FN_ChestVendorPawnbrokerLow02",
@@ -94,6 +112,12 @@
     "formid": "Oblivion.esm:0244CA",
     "full": "LOC_FN_ChestVendorTraderMed01",
     "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ChestClutterUpperSame02",
+    "formid": "Oblivion.esm:024A78",
+    "full": "LOC_FN_ChestClutterUpperSame02",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "DungOblivionBagOfBones",
@@ -1068,6 +1092,42 @@
     "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
+    "edid": "ZOOOChestUpper01NobleAlchemyLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004640",
+    "full": "Elegant Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01NobleT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004643",
+    "full": "Exquisite Jewelry Box",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleArmoryFighterT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0062F0",
+    "full": "Elegant Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODeskUpper02NobleRespawn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A177",
+    "full": "Fine Wood Desk",
+    "modl": "Furniture\\UpperClass\\UpperDesk01.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle01UpperTreasuryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B05E",
+    "full": "Studded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleDragonClaymore",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0141EC",
+    "full": "Elegant Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
     "edid": "OOOSE32PCUrn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:023629",
     "full": "Urn",
@@ -1098,10 +1158,52 @@
     "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
   },
   {
+    "edid": "ZOOODungAyleidMid01Treasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0258D1",
+    "full": "Ayleid Cask",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestNobleArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAB2",
+    "full": "Elegant Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
     "edid": "OOOSE32PCCupboard",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03D3F9",
     "full": "Cupboard",
     "modl": "Clutter\\SEfurniture\\SECupboard01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMid02ArmoryLesserWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:041FFA",
+    "full": "Rune Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMid02ArmoryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:041FFC",
+    "full": "Fine Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMid01Treasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:041FFE",
+    "full": "Studded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestLowAlchemy",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:041FFF",
+    "full": "Elegant Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMidAlchemyT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042001",
+    "full": "Elegant Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
   },
   {
     "edid": "ZOOODungConjChestMidAlchemy",
@@ -1132,6 +1234,12 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:042009",
     "full": "Elegant Chest",
     "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestNobleAlchemyT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:04200B",
+    "full": "Ornate Runed Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
     "edid": "OOOSE32PCCupboardEmpty",

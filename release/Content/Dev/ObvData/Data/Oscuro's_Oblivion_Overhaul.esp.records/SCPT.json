@@ -1014,6 +1014,12 @@
     "modl": null
   },
   {
+    "edid": "9BossBuffScriptFCguardian",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:029CB2",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "OOOSE30LuckMatrixMadnessGrummiteScript",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02A11E",
     "full": null,
@@ -1196,6 +1202,12 @@
   {
     "edid": "OOOSlaverGuarStolenAlarm",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0317B7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "2MagicSpawnFireAtroGiant",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0324BB",
     "full": null,
     "modl": null
   },
