@@ -2634,6 +2634,18 @@
     "modl": "Creatures\\Zombie\\Skeleton.NIF"
   },
   {
+    "edid": "SummonAtronachFrost",
+    "formid": "Oblivion.esm:0C8BCA",
+    "full": "LOC_FN_SummonAtronachFrost",
+    "modl": "Creatures\\FrostAtronach\\skeleton.nif"
+  },
+  {
+    "edid": "SummonAtronachStorm",
+    "formid": "Oblivion.esm:0C8BCB",
+    "full": "LOC_FN_SummonAtronachStorm",
+    "modl": "Creatures\\StormAtronach\\Skeleton.nif"
+  },
+  {
     "edid": "DogBlackBowBoss",
     "formid": "Oblivion.esm:0CA873",
     "full": "LOC_FN_DogBlackBowBoss",

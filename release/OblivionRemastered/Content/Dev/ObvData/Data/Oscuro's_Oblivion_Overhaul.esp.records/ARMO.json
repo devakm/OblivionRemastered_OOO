@@ -5247,7 +5247,7 @@
     "edid": "CMIronBattleShield08OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001253",
     "full": "LOC_FN_CMIronBattleShield08OOO",
-    "modl": "Armor\\CMBattleShields\\CMBattleShield008.nif"
+    "modl": "Armor\\Iron\\Shield.NIF"
   },
   {
     "edid": "CMIronBattleShield09OOO",
@@ -8301,25 +8301,25 @@
     "edid": "YinYangShieldHeavyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025BBF",
     "full": "LOC_FN_YinYangShieldHeavyOOO",
-    "modl": "armor\\yin-yangshi\\shield.nif"
+    "modl": "Armor\\Chainmail\\Shield.NIF"
   },
   {
     "edid": "YinYangShieldLightOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025BC0",
     "full": "LOC_FN_YinYangShieldLightOOO",
-    "modl": "armor\\yin-yangshi\\shield.nif"
+    "modl": "Armor\\Orcish\\Shield.NIF"
   },
   {
     "edid": "pegasushelmetOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:026C63",
     "full": "LOC_FN_pegasushelmetOOO",
-    "modl": "armor\\Pegasus\\phelmet.nif"
+    "modl": "Armor\\AmelionCeremonial\\M\\Helmet.NIF"
   },
   {
     "edid": "pegasusshieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:026C64",
     "full": "LOC_FN_pegasusshieldOOO",
-    "modl": "armor\\Pegasus\\pshield.nif"
+    "modl": "Armor\\AmelionCeremonial\\Shield.NIF"
   },
   {
     "edid": "drbootsOOO",
@@ -9285,49 +9285,49 @@
     "edid": "EYCCAbootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0392EF",
     "full": "LOC_FN_EYCCAbootsOOO",
-    "modl": "armor\\EY_CCA\\f\\boots.nif"
+    "modl": "Armor\\AmelionCeremonial\\M\\Boots.NIF"
   },
   {
     "edid": "EYCCAcuirassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0392F0",
     "full": "LOC_FN_EYCCAcuirassOOO",
-    "modl": "armor\\EY_CCA\\f\\cuirass.nif"
+    "modl": "Armor\\AmelionCeremonial\\M\\Cuirass.NIF"
   },
   {
     "edid": "EYCCAgauntlesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0392F1",
     "full": "LOC_FN_EYCCAgauntlesOOO",
-    "modl": "armor\\EY_CCA\\f\\gauntlet.nif"
+    "modl": "Armor\\AmelionCeremonial\\M\\Gauntlets.NIF"
   },
   {
     "edid": "EYCCAgreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0392F2",
     "full": "LOC_FN_EYCCAgreavesOOO",
-    "modl": "armor\\EY_CCA\\f\\greaves.nif"
+    "modl": "Armor\\AmelionCeremonial\\M\\Greaves.NIF"
   },
   {
     "edid": "EYQMABootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0392F3",
     "full": "LOC_FN_EYQMABootsOOO",
-    "modl": "armor\\EY_QMA\\f\\boots.nif"
+    "modl": "Armor\\AmelionCeremonial\\M\\Boots.NIF"
   },
   {
     "edid": "EYQMAcuirassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0392F4",
     "full": "LOC_FN_EYQMAcuirassOOO",
-    "modl": "armor\\EY_QMA\\f\\cuirass.nif"
+    "modl": "Armor\\AmelionCeremonial\\M\\Cuirass.NIF"
   },
   {
     "edid": "EYQMAgauntletsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0392F5",
     "full": "LOC_FN_EYQMAgauntletsOOO",
-    "modl": "armor\\EY_QMA\\f\\gauntlet.nif"
+    "modl": "Armor\\AmelionCeremonial\\M\\Gauntlets.NIF"
   },
   {
     "edid": "EYQMAgreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0392F6",
     "full": "LOC_FN_EYQMAgreavesOOO",
-    "modl": "armor\\EY_QMA\\f\\greaves.nif"
+    "modl": "Armor\\AmelionCeremonial\\M\\Greaves.NIF"
   },
   {
     "edid": "DaedricCuirassQV",
@@ -10119,13 +10119,13 @@
     "edid": "DreadCuirassOOOv2L",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA3C",
     "full": "LOC_FN_DreadCuirassOOOv2L",
-    "modl": "armor\\Dread Armor\\m\\ooodcuirassm.nif"
+    "modl": "Armor\\Daedric\\M\\Cuirass.NIF"
   },
   {
     "edid": "DreadBootsOOOv2L",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA3D",
     "full": "LOC_FN_DreadBootsOOOv2L",
-    "modl": "armor\\Dread Armor\\m\\ooodbootsm.nif"
+    "modl": "Armor\\Daedric\\M\\Boots.NIF"
   },
   {
     "edid": "DreadGauntletsOOOv2L",
@@ -10137,13 +10137,13 @@
     "edid": "DreadGreavesOOOv2L",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA3F",
     "full": "LOC_FN_DreadGreavesOOOv2L",
-    "modl": "armor\\Dread Armor\\m\\ooodgreavesm.nif"
+    "modl": "Armor\\Daedric\\M\\Greaves.NIF"
   },
   {
     "edid": "DreadHelmetOOOv2L",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA40",
     "full": "LOC_FN_DreadHelmetOOOv2L",
-    "modl": "armor\\Dread Armor\\ooodhelmet.nif"
+    "modl": "Armor\\Daedric\\M\\Helmet.NIF"
   },
   {
     "edid": "OOOSEBonemoldArmorNPC",

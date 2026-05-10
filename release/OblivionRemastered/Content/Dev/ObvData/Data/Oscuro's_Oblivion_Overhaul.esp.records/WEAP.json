@@ -9741,7 +9741,7 @@
     "edid": "rdTemplarSwordOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C412",
     "full": "LOC_FN_rdTemplarSwordOOO",
-    "modl": "Weapons\\Ebony\\LongSword.NIF"
+    "modl": "Weapons\\BlackwaterBlade\\BlackwaterBlade.NIF"
   },
   {
     "edid": "rdTwoHeadBattleAxeOOO",
@@ -10095,7 +10095,7 @@
     "edid": "rdTemplarSwordOOO2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:019D3D",
     "full": "LOC_FN_rdTemplarSwordOOO2",
-    "modl": "Weapons\\Silver\\LongSword.NIF"
+    "modl": "Weapons\\BlackwaterBlade\\BlackwaterBlade.NIF"
   },
   {
     "edid": "ShadowMailBowOOOFlame",
@@ -10413,7 +10413,7 @@
     "edid": "drlongswordOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02716B",
     "full": "LOC_FN_drlongswordOOO",
-    "modl": "Weapons\\Silver\\LongSword.NIF"
+    "modl": "Weapons\\Silver\\AmelionCeremonialSword.NIF"
   },
   {
     "edid": "drshortswordOOO",

@@ -1,6 +1,8 @@
 {
 	"Plugin": "Oscuro's_Oblivion_Overhaul.esp",
 	"NewStrings": {
+		"LOC_SC_MyChorrolHouse_OOO": "Arborwatch - My Manor",
+		"LOC_SC_BravilPlayerHomeName_01": "My Bravil House",
 		"LOC_SC_9BossBuffScriptMarlek_01": "The great Nord warrior finally collapses under my attacks. He was truly a mighty foe. I can see why he earned the respect of so many, and how he might have earned such fine armor.",
 		"LOC_SC_9BossBuffScriptSheil_01": "The mighty raider falls dead. A shriek of anger was her last expression in this world. Yet, there was something else to it--a certain sense of disappointment and disbelief. It was fury born of an existential loss. Such power had no doubt strong influence in this world, and, whatever its extent, it was precious to her.",
 		"LOC_SC_9BossBuffScriptLareil_01": "The fierce Sylvan Ranger, her eyes still looking wild and uncanny, stare into nothingness. Her power and character revealed thus lead me to believe that she was a very important member of these mighty rangers, perhaps their leader in Narind.",
