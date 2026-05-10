@@ -1,0 +1,22 @@
+{
+  "Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_SPELL.json": {
+    "sha256": "80b9fd292a17fe649a1d99e5bb1d72174fcccfd7cf029980a9c5dddeddccbc30",
+    "size": 687
+  },
+  "Content/Dev/ObvData/Data/OOO_NewArmor.esp": {
+    "sha256": "b6ea6165ce339affb2953bba04e9447d409d0f4cb8546b67c2bfb1f5d84b5e6c",
+    "size": 72461
+  },
+  "Content/Dev/ObvData/Data/OOO_NewChests.esp": {
+    "sha256": "c4b33415fc09b4b8c0ffad34f3cca8541f7421bcbe9ffa2940c0197238ca64c8",
+    "size": 5073
+  },
+  "Content/Dev/ObvData/Data/Oscuro's_Oblivion_Overhaul.esp": {
+    "sha256": "23f0a6a540052e88dd4f8ec7097cc2be5875791d543ca92beb477a250d4c8a8e",
+    "size": 7170569
+  },
+  "Content/Dev/ObvData/Data/SyncMap/Oscuro's_Oblivion_Overhaul.ini": {
+    "sha256": "fd3e30d2ebfca85b5c3e7260c352c67ee15e766ee145340d5cab6847826d49a6",
+    "size": 18329
+  }
+}
