@@ -350,6 +350,11 @@ def current_branch() -> str:
 
 
 def main() -> int:
+    # Force UTF-8 stdout so unicode arrows in our log messages render
+    # correctly when the Windows console default is cp1252.
+    for stream in (sys.stdout, sys.stderr):
+        if hasattr(stream, "reconfigure"):
+            stream.reconfigure(encoding="utf-8")
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--dry-run", action="store_true", help="print plan, no changes")
     ap.add_argument("--limit", type=int, default=0,
