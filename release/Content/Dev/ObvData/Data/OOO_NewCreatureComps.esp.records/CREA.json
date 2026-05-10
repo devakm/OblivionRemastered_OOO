@@ -84,6 +84,18 @@
     "modl": "Creatures\\Sheep\\Skeleton.NIF"
   },
   {
+    "edid": "CreatureHorseBay",
+    "formid": "Oblivion.esm:015B90",
+    "full": "LOC_FN_CreatureHorseBay",
+    "modl": "Creatures\\Horse\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureHorsePaint",
+    "formid": "Oblivion.esm:015B93",
+    "full": "LOC_FN_CreatureHorsePaint",
+    "modl": "Creatures\\Horse\\Skeleton.NIF"
+  },
+  {
     "edid": "CreatureWraith2GloomWeapon",
     "formid": "Oblivion.esm:01E5EB",
     "full": "LOC_FN_CreatureWraith2GloomWeapon",
@@ -154,6 +166,12 @@
     "formid": "Oblivion.esm:01E64D",
     "full": "LOC_FN_CreatureXivilaiWeapon",
     "modl": "Creatures\\Xivilai\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureHorseChestnut",
+    "formid": "Oblivion.esm:01F11C",
+    "full": "LOC_FN_CreatureHorseChestnut",
+    "modl": "Creatures\\Horse\\Skeleton.NIF"
   },
   {
     "edid": "CreatureGoblin1",
@@ -418,6 +436,42 @@
     "formid": "Oblivion.esm:09F957",
     "full": "LOC_FN_CreatureZombieDread4",
     "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureHorseBay1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0084EC",
+    "full": "Wild Bay Horse",
+    "modl": "Creatures\\Horse\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureHorseBay2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0084ED",
+    "full": "Wild Bay Horse",
+    "modl": "Creatures\\Horse\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureHorseChestnut1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0084EF",
+    "full": "Wild Chestnut Horse",
+    "modl": "Creatures\\Horse\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureHorseChestnut2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0084F1",
+    "full": "Wild Chestnut Horse",
+    "modl": "Creatures\\Horse\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureHorsePaint1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0084F2",
+    "full": "Wild Paint Horse",
+    "modl": "Creatures\\Horse\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureHorsePaint2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0084F3",
+    "full": "Wild Paint Horse",
+    "modl": "Creatures\\Horse\\Skeleton.NIF"
   },
   {
     "edid": "CreatureMinotaur2WeaponOOOAyleid",

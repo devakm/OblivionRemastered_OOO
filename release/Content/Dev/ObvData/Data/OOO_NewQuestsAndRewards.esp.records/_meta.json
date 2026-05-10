@@ -1,11 +1,15 @@
 {
   "esp": "OOO_NewQuestsAndRewards.esp",
   "record_types": [
-    "CREA"
+    "CREA",
+    "SCPT"
   ],
   "tes4": {
     "masters": [
       "Oblivion.esm",
+      "DLCHorseArmor.esp",
+      "Knights.esp",
+      "AltarDeluxe.esp",
       "Oscuro's_Oblivion_Overhaul.esp"
     ],
     "version": 1.0

@@ -1,14 +1,38 @@
 [
   {
+    "edid": "HorsePCArmoredMehrunesShadowmere",
+    "formid": "AltarDeluxe.esp:014DDF",
+    "full": "LOC_FN_HorsePCArmoredMehrunesShadowmere",
+    "modl": "Creatures\\Horse\\Skeleton.NIF"
+  },
+  {
+    "edid": "HorsePCArmoredMehrunesWhiteAnvil",
+    "formid": "AltarDeluxe.esp:014DE0",
+    "full": "LOC_FN_HorsePCArmoredMehrunesWhiteAnvil",
+    "modl": "Creatures\\Horse\\Skeleton.NIF"
+  },
+  {
+    "edid": "HorsePCArmoredSteelOldNag",
+    "formid": "DLCHorseArmor.esp:0034CA",
+    "full": "LOC_FN_HorsePCArmoredSteelOldNag",
+    "modl": "Creatures\\Horse\\Skeleton.NIF"
+  },
+  {
+    "edid": "HorsePCBayBravil",
+    "formid": "Oblivion.esm:04DE8E",
+    "full": "LOC_FN_HorsePCBayBravil",
+    "modl": "Creatures\\Horse\\Skeleton.NIF"
+  },
+  {
     "edid": "OOOGuarMount",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02EFD4",
-    "full": "Tamed Guar",
-    "modl": "creatures\\OOO_guar\\skeleton.nif"
+    "full": "Guaroache",
+    "modl": "Creatures\\Horse\\Skeleton.NIF"
   },
   {
     "edid": "OOOGuarPropMount",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02EFE0",
-    "full": "Tamed Guar",
-    "modl": "creatures\\OOO_guar\\skeleton.nif"
+    "full": "Guaroache",
+    "modl": "Creatures\\Horse\\Skeleton.NIF"
   }
 ]

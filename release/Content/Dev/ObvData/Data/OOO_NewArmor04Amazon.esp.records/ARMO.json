@@ -1,5 +1,143 @@
 [
   {
+    "edid": "TownguardCuirassSk",
+    "formid": "Oblivion.esm:01DC4B",
+    "full": "LOC_FN_TownguardCuirassSk",
+    "modl": "Armor\\TownguardSk\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "FurGreaves",
+    "formid": "Oblivion.esm:024764",
+    "full": "LOC_FN_FurGreaves",
+    "modl": "Armor\\Fur\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "FurGauntlets",
+    "formid": "Oblivion.esm:024765",
+    "full": "LOC_FN_FurGauntlets",
+    "modl": "Armor\\Fur\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "FurCuirass",
+    "formid": "Oblivion.esm:024766",
+    "full": "LOC_FN_FurCuirass",
+    "modl": "Armor\\Fur\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "FurBoots",
+    "formid": "Oblivion.esm:024767",
+    "full": "LOC_FN_FurBoots",
+    "modl": "Armor\\Fur\\M\\Boots.NIF"
+  },
+  {
+    "edid": "FurHelmet",
+    "formid": "Oblivion.esm:024768",
+    "full": "LOC_FN_FurHelmet",
+    "modl": "Armor\\Fur\\M\\Helmet.NIF"
+  },
+  {
+    "edid": "FurShield",
+    "formid": "Oblivion.esm:025056",
+    "full": "LOC_FN_FurShield",
+    "modl": "Armor\\Fur\\Shield.NIF"
+  },
+  {
+    "edid": "TownguardCuirassAn",
+    "formid": "Oblivion.esm:02766D",
+    "full": "LOC_FN_TownguardCuirassAn",
+    "modl": "Armor\\TownguardAn\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "TownguardCuirassBra",
+    "formid": "Oblivion.esm:027673",
+    "full": "LOC_FN_TownguardCuirassBra",
+    "modl": "Armor\\TownguardBra\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "TownguardCuirassBru",
+    "formid": "Oblivion.esm:027677",
+    "full": "LOC_FN_TownguardCuirassBru",
+    "modl": "Armor\\TownguardBru\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "TownguardCuirassChe",
+    "formid": "Oblivion.esm:027678",
+    "full": "LOC_FN_TownguardCuirassChe",
+    "modl": "Armor\\TownguardChe\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "TownguardCuirassCho",
+    "formid": "Oblivion.esm:027679",
+    "full": "LOC_FN_TownguardCuirassCho",
+    "modl": "Armor\\TownguardCho\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "TownguardCuirassKv",
+    "formid": "Oblivion.esm:02767A",
+    "full": "LOC_FN_TownguardCuirassKv",
+    "modl": "Armor\\TownguardKv\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "TownguardCuirassLe",
+    "formid": "Oblivion.esm:02767B",
+    "full": "LOC_FN_TownguardCuirassLe",
+    "modl": "Armor\\TownguardLe\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "TownguardHelmet",
+    "formid": "Oblivion.esm:02767C",
+    "full": "LOC_FN_TownguardHelmet",
+    "modl": "Armor\\TownguardCho\\Helmet.NIF"
+  },
+  {
+    "edid": "TownguardAnShield",
+    "formid": "Oblivion.esm:0352C3",
+    "full": "LOC_FN_TownguardAnShield",
+    "modl": "Armor\\TownguardAn\\Shield.NIF"
+  },
+  {
+    "edid": "TownguardBraShield",
+    "formid": "Oblivion.esm:0352C5",
+    "full": "LOC_FN_TownguardBraShield",
+    "modl": "Armor\\TownguardBra\\Shield.NIF"
+  },
+  {
+    "edid": "TownguardBruShield",
+    "formid": "Oblivion.esm:0352C7",
+    "full": "LOC_FN_TownguardBruShield",
+    "modl": "Armor\\TownguardBru\\Shield.NIF"
+  },
+  {
+    "edid": "TownguardCheShield",
+    "formid": "Oblivion.esm:0352C9",
+    "full": "LOC_FN_TownguardCheShield",
+    "modl": "Armor\\TownguardChe\\Shield.NIF"
+  },
+  {
+    "edid": "TownguardChoShield",
+    "formid": "Oblivion.esm:0352CB",
+    "full": "LOC_FN_TownguardChoShield",
+    "modl": "Armor\\TownguardCho\\Shield.NIF"
+  },
+  {
+    "edid": "TownguardKvShield",
+    "formid": "Oblivion.esm:0352CD",
+    "full": "LOC_FN_TownguardKvShield",
+    "modl": "Armor\\TownguardKv\\Shield.NIF"
+  },
+  {
+    "edid": "TownguardLeShield",
+    "formid": "Oblivion.esm:0352CF",
+    "full": "LOC_FN_TownguardLeShield",
+    "modl": "Armor\\TownguardLe\\Shield.NIF"
+  },
+  {
+    "edid": "TownguardSkShield",
+    "formid": "Oblivion.esm:0352D1",
+    "full": "LOC_FN_TownguardSkShield",
+    "modl": "Armor\\TownguardSk\\Shield.NIF"
+  },
+  {
     "edid": "SEDarkSeducerArmor2Leather",
     "formid": "Oblivion.esm:0414E9",
     "full": "LOC_FN_SEDarkSeducerArmor2Leather",
@@ -27,7 +165,7 @@
     "edid": "drbootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02714E",
     "full": "Blood Thorn Boots",
-    "modl": "armor\\darkrose\\drboots.nif"
+    "modl": "Armor\\Fur\\M\\Boots.NIF"
   },
   {
     "edid": "drbreastOOO",
@@ -39,7 +177,7 @@
     "edid": "drgauntOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027150",
     "full": "Blood Thorn Gauntlets",
-    "modl": "armor\\darkrose\\drgaunt.nif"
+    "modl": "Armor\\Fur\\M\\Gauntlets.NIF"
   },
   {
     "edid": "drgreavesOOO",
@@ -51,7 +189,7 @@
     "edid": "drhelmOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027152",
     "full": "Blood Thorn Helm",
-    "modl": "armor\\darkrose\\drhelmet.nif"
+    "modl": "Armor\\TownguardCho\\Helmet.NIF"
   },
   {
     "edid": "drhoodOOO",
@@ -63,12 +201,66 @@
     "edid": "drshieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027154",
     "full": "Dark Thorn Shield",
-    "modl": "armor\\darkrose\\drshield.nif"
+    "modl": "Armor\\TownguardKv\\Shield.NIF"
   },
   {
     "edid": "drshield2OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027155",
     "full": "Blood Thorn Shield",
-    "modl": "armor\\darkrose\\drshield2.nif"
+    "modl": "Armor\\TownguardAn\\Shield.NIF"
+  },
+  {
+    "edid": "FurCuirassWorn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030DB8",
+    "full": "Worn Fur Cuirass",
+    "modl": "Armor\\Fur\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "FurBootsWorn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030DB9",
+    "full": "Worn Fur Boots",
+    "modl": "Armor\\Fur\\M\\Boots.NIF"
+  },
+  {
+    "edid": "FurGauntletsWorn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030DBA",
+    "full": "Worn Fur Gauntlets",
+    "modl": "Armor\\Fur\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "FurGreavesWorn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030DBB",
+    "full": "Worn Fur Greaves",
+    "modl": "Armor\\Fur\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "FurHelmetWorn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030DBC",
+    "full": "Worn Fur Helmet",
+    "modl": "Armor\\Fur\\M\\Helmet.NIF"
+  },
+  {
+    "edid": "FurShieldWorn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030DBD",
+    "full": "Worn Fur Shield",
+    "modl": "Armor\\Fur\\Shield.NIF"
+  },
+  {
+    "edid": "ShadowMailHoodOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:038860",
+    "full": "Shadowmail Hood",
+    "modl": "Clothes\\RobeMCBlack\\Hood.NIF"
+  },
+  {
+    "edid": "ShadowMailTunicOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:038862",
+    "full": "Shadowmail Tunic",
+    "modl": "Armor\\TownguardChe\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "FurGauntletsBeast",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03BE6C",
+    "full": "Fur Beast Gauntlets",
+    "modl": "armor\\BeastClaw\\m\\beastclawgauntlets.nif"
   }
 ]

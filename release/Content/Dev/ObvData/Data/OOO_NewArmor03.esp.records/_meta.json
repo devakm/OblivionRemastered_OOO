@@ -1,7 +1,8 @@
 {
   "esp": "OOO_NewArmor03.esp",
   "record_types": [
-    "ARMO"
+    "ARMO",
+    "LVLI"
   ],
   "tes4": {
     "masters": [

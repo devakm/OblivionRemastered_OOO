@@ -5253,7 +5253,7 @@
     "edid": "CMIronBattleShield09OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001254",
     "full": "Ranger's Insignia Shield",
-    "modl": "Armor\\CMBattleShields\\CMBattleShield009.nif"
+    "modl": "Armor\\TownguardLe\\Shield.NIF"
   },
   {
     "edid": "CMIronBattleShield10OOO",
@@ -6183,7 +6183,7 @@
     "edid": "OOOSEUniqueSunShield",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00534D",
     "full": "Shield of the Sun",
-    "modl": "OOOSE\\Armor\\Other\\sunshield.nif"
+    "modl": "Armor\\GoldenSaint\\Shield.NIF"
   },
   {
     "edid": "1grayfoxsboots",
@@ -7389,37 +7389,37 @@
     "edid": "NoblebootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0072EF",
     "full": "Noble Boots",
-    "modl": "armor\\Noble Plate\\m\\nobleboots.nif"
+    "modl": "Armor\\Ebony\\M\\Boots.NIF"
   },
   {
     "edid": "NoblecuirassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0072F0",
     "full": "Noble Cuirass",
-    "modl": "armor\\Noble Plate\\m\\noblecuirass.nif"
+    "modl": "Armor\\Ebony\\M\\Cuirass.NIF"
   },
   {
     "edid": "NoblegauntletsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0072F1",
     "full": "Noble Gauntlets",
-    "modl": "armor\\Noble Plate\\m\\noblegauntlets.nif"
+    "modl": "Armor\\Ebony\\M\\Gauntlets.NIF"
   },
   {
     "edid": "NoblegreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0072F2",
     "full": "Noble Greaves",
-    "modl": "armor\\Noble Plate\\m\\noblegreaves.nif"
+    "modl": "Armor\\Ebony\\M\\Greaves.NIF"
   },
   {
     "edid": "NobleHelmetOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0072F3",
     "full": "Noble Helmet",
-    "modl": "armor\\Noble Plate\\m\\noblehelmet.nif"
+    "modl": "Armor\\Ebony\\M\\Helmet.NIF"
   },
   {
     "edid": "NobleshieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0072F4",
     "full": "Noble Shield",
-    "modl": "armor\\Noble Plate\\nobleshield.nif"
+    "modl": "Armor\\Ebony\\Shield.NIF"
   },
   {
     "edid": "1greyfoxsboots",
@@ -7461,19 +7461,19 @@
     "edid": "00GRASA01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00790C",
     "full": "Amazon's Bronze Armor",
-    "modl": "armor\\growlf\\Sexychamp\\fullbody\\gold\\sexychamp.nif"
+    "modl": "Armor\\ArenaHeavyYellow\\M\\Cuirass.NIF"
   },
   {
     "edid": "00GRASA02OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00790D",
     "full": "Amazon's Cobalt Armor",
-    "modl": "armor\\growlf\\Sexychamp\\fullbody\\iron\\sexychamp.nif"
+    "modl": "Armor\\ArenaHeavyBlue\\M\\Cuirass.NIF"
   },
   {
     "edid": "00GRASA03OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00790E",
     "full": "Amazon's Leather Armor",
-    "modl": "armor\\growlf\\Sexychamp\\fullbody\\leather\\sexychamp.nif"
+    "modl": "Armor\\ArenaLightYellow\\M\\Cuirass.NIF"
   },
   {
     "edid": "EnchRGlassBootsFortSneakOOO",
@@ -8217,31 +8217,31 @@
     "edid": "TheSilverDragonArmorPlateOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02566F",
     "full": "The Dragon's Savior",
-    "modl": "armor\\TheSilverDragonOrder\\m\\cuirass.nif"
+    "modl": "Armor\\Orcish\\M\\Cuirass.NIF"
   },
   {
     "edid": "TheSilverDragonBootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025670",
     "full": "The Dragon's Pace",
-    "modl": "armor\\TheSilverDragonOrder\\m\\boots.nif"
+    "modl": "Armor\\Orcish\\M\\Boots.NIF"
   },
   {
     "edid": "TheSilverDragonGauntletsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025671",
     "full": "The Dragon's Iron Fist",
-    "modl": "armor\\TheSilverDragonOrder\\m\\gauntlets.nif"
+    "modl": "Armor\\Orcish\\M\\Gauntlets.NIF"
   },
   {
     "edid": "TheSilverDragonGreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025672",
     "full": "The Dragon's Spellshards",
-    "modl": "armor\\TheSilverDragonOrder\\m\\greaves.nif"
+    "modl": "Armor\\Orcish\\M\\Greaves.NIF"
   },
   {
     "edid": "TheSilverDragonHelmetOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025673",
     "full": "The Dragon's Companion",
-    "modl": "armor\\TheSilverDragonOrder\\helmet2.nif"
+    "modl": "Armor\\Orcish\\Helmet.NIF"
   },
   {
     "edid": "TheSilverDragonMaskOOO",
@@ -8253,7 +8253,7 @@
     "edid": "TheSilverDragonShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025675",
     "full": "The Dragon's Guardian",
-    "modl": "armor\\TheSilverDragonOrder\\shield.nif"
+    "modl": "Armor\\Orcish\\Shield.NIF"
   },
   {
     "edid": "RedDragonShieldHeavyOOO",
@@ -8283,7 +8283,7 @@
     "edid": "SkullShieldHeavyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025BBD",
     "full": "Embrace of Doom",
-    "modl": "armor\\skull\\shield.nif"
+    "modl": "Armor\\TownguardSk\\Shield.NIF"
   },
   {
     "edid": "SkullShieldLightOOO",
@@ -8319,7 +8319,7 @@
     "edid": "drbootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02714E",
     "full": "Blood Thorn Boots",
-    "modl": "armor\\darkrose\\drboots.nif"
+    "modl": "Armor\\Fur\\M\\Boots.NIF"
   },
   {
     "edid": "drbreastOOO",
@@ -8331,7 +8331,7 @@
     "edid": "drgauntOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027150",
     "full": "Blood Thorn Gauntlets",
-    "modl": "armor\\darkrose\\drgaunt.nif"
+    "modl": "Armor\\Fur\\M\\Gauntlets.NIF"
   },
   {
     "edid": "drgreavesOOO",
@@ -8343,7 +8343,7 @@
     "edid": "drhelmOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027152",
     "full": "Blood Thorn Helm",
-    "modl": "armor\\darkrose\\drhelmet.nif"
+    "modl": "Armor\\TownguardCho\\Helmet.NIF"
   },
   {
     "edid": "drhoodOOO",
@@ -8355,13 +8355,13 @@
     "edid": "drshieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027154",
     "full": "Dark Thorn Shield",
-    "modl": "armor\\darkrose\\drshield.nif"
+    "modl": "Armor\\TownguardKv\\Shield.NIF"
   },
   {
     "edid": "drshield2OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027155",
     "full": "Blood Thorn Shield",
-    "modl": "armor\\darkrose\\drshield2.nif"
+    "modl": "Armor\\TownguardAn\\Shield.NIF"
   },
   {
     "edid": "ArmorDraconicArmorbootsOOO",
@@ -8397,31 +8397,31 @@
     "edid": "KDWhiteRoseBootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02715B",
     "full": "White Rose Boots",
-    "modl": "Armor\\Mithril\\M\\Boots.NIF"
+    "modl": "Armor\\Chainmail\\M\\Boots.NIF"
   },
   {
     "edid": "KDWhiteRoseBPOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02715C",
     "full": "White Rose Breastplate",
-    "modl": "Armor\\Mithril\\M\\Cuirass.NIF"
+    "modl": "Armor\\Chainmail\\M\\Cuirass.NIF"
   },
   {
     "edid": "KDWhiteRoseGauntletsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02715D",
     "full": "White Rose Gauntlets",
-    "modl": "armor\\KDwhiterose\\whiterosegauntlets.nif"
+    "modl": "Armor\\Chainmail\\M\\Gauntlets.NIF"
   },
   {
     "edid": "KDWhiteRoseGreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02715E",
     "full": "White Rose Greaves",
-    "modl": "Armor\\Mithril\\M\\Greaves.NIF"
+    "modl": "Armor\\Chainmail\\M\\Greaves.NIF"
   },
   {
     "edid": "KDWhiteRoseShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02715F",
     "full": "White Rose Shield",
-    "modl": "armor\\KDwhiterose\\whiteroseshield.nif"
+    "modl": "Armor\\Chainmail\\Shield.NIF"
   },
   {
     "edid": "KDWhiteRoseHBootsOOO",
@@ -8439,7 +8439,7 @@
     "edid": "KDWhiteRoseHelmOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027162",
     "full": "White Rose Helm",
-    "modl": "armor\\KDwhiterose\\whiterosehelm.nif"
+    "modl": "Armor\\Chainmail\\M\\Helmet.NIF"
   },
   {
     "edid": "KDWhiteRoseHGauntletsOOO",
@@ -9183,7 +9183,7 @@
     "edid": "ShadowMailHoodOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038860",
     "full": "Shadowmail Hood",
-    "modl": "armor\\ShadowMail\\hood.nif"
+    "modl": "Clothes\\RobeMCBlack\\Hood.NIF"
   },
   {
     "edid": "ShadowMailShieldOOO",
@@ -9195,7 +9195,7 @@
     "edid": "ShadowMailTunicOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038862",
     "full": "Shadowmail Tunic",
-    "modl": "armor\\ShadowMail\\m\\rangerarmor.nif"
+    "modl": "Armor\\TownguardChe\\M\\Cuirass.NIF"
   },
   {
     "edid": "DaedricBootsLava",
@@ -9411,37 +9411,37 @@
     "edid": "HeavyBraidedBootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF3",
     "full": "Heavy Braided Boots",
-    "modl": "armor\\HBraided\\m\\hbBoots.nif"
+    "modl": "Armor\\Orcish\\M\\Boots.NIF"
   },
   {
     "edid": "HeavyBraidedCuirassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF4",
     "full": "Heavy Braided Cuirass",
-    "modl": "armor\\HBraided\\m\\hbcuirass.nif"
+    "modl": "Armor\\Orcish\\M\\Cuirass.NIF"
   },
   {
     "edid": "HeavyBraidedGauntletsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF5",
     "full": "Heavy Braided Gauntlets",
-    "modl": "armor\\HBraided\\m\\hbgauntlets.nif"
+    "modl": "Armor\\Orcish\\M\\Gauntlets.NIF"
   },
   {
     "edid": "HeavyBraidedGreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF6",
     "full": "Heavy Braided Greaves",
-    "modl": "armor\\HBraided\\m\\hbgreaves.nif"
+    "modl": "Armor\\Orcish\\M\\Greaves.NIF"
   },
   {
     "edid": "HeavyBraidedHelmetOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF7",
     "full": "Heavy Braided Helmet",
-    "modl": "armor\\HBraided\\hbhelmet.nif"
+    "modl": "Armor\\Orcish\\Helmet.NIF"
   },
   {
     "edid": "HeavyBraidedShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF8",
     "full": "Heavy Braided Shield",
-    "modl": "armor\\HBraided\\hbshield.nif"
+    "modl": "Armor\\Orcish\\Shield.NIF"
   },
   {
     "edid": "BraidedBootsOOO",
@@ -9663,7 +9663,7 @@
     "edid": "TornesBlockadeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:043D9D",
     "full": "Torne's Blockade",
-    "modl": "armor\\tornes\\tornes.nif"
+    "modl": "Armor\\TownguardAn\\Shield.NIF"
   },
   {
     "edid": "OOOSEAmberHelmetBregor1",

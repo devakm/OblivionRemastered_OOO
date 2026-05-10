@@ -1,5 +1,11 @@
 [
   {
+    "edid": "WeapSteelBow",
+    "formid": "Oblivion.esm:0229B7",
+    "full": "LOC_FN_WeapSteelBow",
+    "modl": "Weapons\\Steel\\Bow.NIF"
+  },
+  {
     "edid": "WeapElvenBow",
     "formid": "Oblivion.esm:0229BF",
     "full": "LOC_FN_WeapElvenBow",
@@ -10,6 +16,12 @@
     "formid": "Oblivion.esm:025227",
     "full": "LOC_FN_WeapSilverBow",
     "modl": "Weapons\\Silver\\Bow.NIF"
+  },
+  {
+    "edid": "WeapIronBow",
+    "formid": "Oblivion.esm:025231",
+    "full": "LOC_FN_WeapIronBow",
+    "modl": "Weapons\\Iron\\Bow.NIF"
   },
   {
     "edid": "WeapDwarvenBow",
@@ -36,9 +48,15 @@
     "modl": "Weapons\\Daedric\\Bow.NIF"
   },
   {
-    "edid": "drbowOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:02716D",
-    "full": "Blood Thorn Bow",
-    "modl": "Weapons\\Silver\\Bow.NIF"
+    "edid": "WeapSteelBowFine",
+    "formid": "Oblivion.esm:03A857",
+    "full": "LOC_FN_WeapSteelBowFine",
+    "modl": "Weapons\\Steel\\Bow.NIF"
+  },
+  {
+    "edid": "WeapIronBowFine",
+    "formid": "Oblivion.esm:03A860",
+    "full": "LOC_FN_WeapIronBowFine",
+    "modl": "Weapons\\Iron\\Bow.NIF"
   }
 ]

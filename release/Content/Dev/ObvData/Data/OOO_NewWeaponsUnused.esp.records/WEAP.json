@@ -28,5 +28,11 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:013839",
     "full": "Naith",
     "modl": "Weapons\\Adonnay\\naith_2h.nif"
+  },
+  {
+    "edid": "DAClavicusUmbraSwordOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:044564",
+    "full": "Umbra",
+    "modl": "Weapons\\Steel\\fgd05_UmbraSword.NIF"
   }
 ]

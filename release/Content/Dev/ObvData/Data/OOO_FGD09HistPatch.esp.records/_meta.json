@@ -1,0 +1,13 @@
+{
+  "esp": "OOO_FGD09HistPatch.esp",
+  "record_types": [
+    "QUST",
+    "WEAP"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm"
+    ],
+    "version": 1.0
+  }
+}

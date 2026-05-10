@@ -1,0 +1,18 @@
+[
+  {
+    "edid": "FGD09Hist",
+    "formid": "Oblivion.esm:0356CA",
+    "full": "LOC_FN_FGD09Hist",
+    "stage_indices": [
+      10,
+      20,
+      25,
+      30,
+      40,
+      50,
+      90,
+      95,
+      100
+    ]
+  }
+]

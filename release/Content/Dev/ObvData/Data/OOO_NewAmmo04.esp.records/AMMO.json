@@ -156,6 +156,12 @@
     "modl": "Weapons\\Elven\\Arrow.NIF"
   },
   {
+    "edid": "drarrowsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02714D",
+    "full": "Blood Thorn Arrows",
+    "modl": "Weapons\\Silver\\Arrow.NIF"
+  },
+  {
     "edid": "ShadowMailArrowOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038863",
     "full": "Shadow Arrow",

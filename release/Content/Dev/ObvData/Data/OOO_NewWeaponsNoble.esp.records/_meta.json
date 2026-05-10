@@ -1,8 +1,6 @@
 {
   "esp": "OOO_NewWeaponsNoble.esp",
-  "record_types": [
-    "WEAP"
-  ],
+  "record_types": [],
   "tes4": {
     "masters": [
       "Oblivion.esm",

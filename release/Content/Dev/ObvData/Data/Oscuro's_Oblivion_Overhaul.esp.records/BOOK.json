@@ -1,5 +1,11 @@
 [
   {
+    "edid": "Book4RareChildrenoftheSky",
+    "formid": "Oblivion.esm:024587",
+    "full": "LOC_FN_Book4RareChildrenoftheSky",
+    "modl": "Clutter\\Books\\Folio02.NIF"
+  },
+  {
     "edid": "ZCloudRulerTempleBanditNote",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0010CB",
     "full": "Recent Disturbances Near Bruma",

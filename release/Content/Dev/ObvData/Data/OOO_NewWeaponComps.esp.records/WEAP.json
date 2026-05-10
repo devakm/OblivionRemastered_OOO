@@ -1,5 +1,11 @@
 [
   {
+    "edid": "DLCBattlehornDragonsword05",
+    "formid": "DLCBattlehornCastle.esp:0147F0",
+    "full": "LOC_FN_DLCBattlehornDragonsword05",
+    "modl": "Weapons\\Dragonsword\\longsword.NIF"
+  },
+  {
     "edid": "WeapSteelCutlassMaster",
     "formid": "DLCThievesDen.esp:011AE1",
     "full": "LOC_FN_WeapSteelCutlassMaster",
@@ -10,6 +16,12 @@
     "formid": "Oblivion.esm:000C0C",
     "full": "LOC_FN_WeapIronLongsword",
     "modl": "Weapons\\Iron\\LongSword.NIF"
+  },
+  {
+    "edid": "WeapIronShortsword",
+    "formid": "Oblivion.esm:000C0D",
+    "full": "LOC_FN_WeapIronShortsword",
+    "modl": "Weapons\\Iron\\ShortSword.NIF"
   },
   {
     "edid": "WeapIronBattleAxe",
@@ -96,6 +108,18 @@
     "modl": "Weapons\\Steel\\Mace.NIF"
   },
   {
+    "edid": "WeapSteelShortsword",
+    "formid": "Oblivion.esm:0229BC",
+    "full": "LOC_FN_WeapSteelShortsword",
+    "modl": "Weapons\\Steel\\Shortsword.NIF"
+  },
+  {
+    "edid": "WeapSteelWarAxe",
+    "formid": "Oblivion.esm:0229BD",
+    "full": "LOC_FN_WeapSteelWarAxe",
+    "modl": "Weapons\\Steel\\WarAxe.NIF"
+  },
+  {
     "edid": "WeapSteelWarhammer",
     "formid": "Oblivion.esm:0229BE",
     "full": "LOC_FN_WeapSteelWarhammer",
@@ -160,6 +184,18 @@
     "formid": "Oblivion.esm:025226",
     "full": "LOC_FN_WeapSilverClaymore",
     "modl": "Weapons\\Silver\\Claymore.NIF"
+  },
+  {
+    "edid": "WeapSilverBow",
+    "formid": "Oblivion.esm:025227",
+    "full": "LOC_FN_WeapSilverBow",
+    "modl": "Weapons\\Silver\\Bow.NIF"
+  },
+  {
+    "edid": "WeapIronBow",
+    "formid": "Oblivion.esm:025231",
+    "full": "LOC_FN_WeapIronBow",
+    "modl": "Weapons\\Iron\\Bow.NIF"
   },
   {
     "edid": "WeapDwarvenBattleAxe",
@@ -384,6 +420,12 @@
     "modl": "Weapons\\Daedric\\LongSword.NIF"
   },
   {
+    "edid": "WeapDaedricBattleAxe",
+    "formid": "Oblivion.esm:035E77",
+    "full": "LOC_FN_WeapDaedricBattleAxe",
+    "modl": "Weapons\\Daedric\\Battleaxe.NIF"
+  },
+  {
     "edid": "WeapDaedricClaymore",
     "formid": "Oblivion.esm:035E78",
     "full": "LOC_FN_WeapDaedricClaymore",
@@ -450,10 +492,34 @@
     "modl": "Weapons\\Steel\\MaceFine.NIF"
   },
   {
+    "edid": "WeapSteelShortswordFine",
+    "formid": "Oblivion.esm:03A85C",
+    "full": "LOC_FN_WeapSteelShortswordFine",
+    "modl": "Weapons\\Steel\\ShortswordFine.NIF"
+  },
+  {
+    "edid": "WeapSteelWarAxeFine",
+    "formid": "Oblivion.esm:03A85D",
+    "full": "LOC_FN_WeapSteelWarAxeFine",
+    "modl": "Weapons\\Steel\\WarAxeFine.NIF"
+  },
+  {
     "edid": "WeapSteelWarhammerFine",
     "formid": "Oblivion.esm:03A85E",
     "full": "LOC_FN_WeapSteelWarhammerFine",
     "modl": "Weapons\\Steel\\WarhammerFine.NIF"
+  },
+  {
+    "edid": "WeapIronBattleAxeFine",
+    "formid": "Oblivion.esm:03A85F",
+    "full": "LOC_FN_WeapIronBattleAxeFine",
+    "modl": "Weapons\\Iron\\Battleaxe.NIF"
+  },
+  {
+    "edid": "WeapIronBowFine",
+    "formid": "Oblivion.esm:03A860",
+    "full": "LOC_FN_WeapIronBowFine",
+    "modl": "Weapons\\Iron\\Bow.NIF"
   },
   {
     "edid": "WeapIronClaymoreFine",
@@ -474,6 +540,12 @@
     "modl": "Weapons\\Iron\\Mace.NIF"
   },
   {
+    "edid": "WeapIronShortswordFine",
+    "formid": "Oblivion.esm:03A865",
+    "full": "LOC_FN_WeapIronShortswordFine",
+    "modl": "Weapons\\Iron\\ShortSword.NIF"
+  },
+  {
     "edid": "WeapIronWarAxeFine",
     "formid": "Oblivion.esm:03A866",
     "full": "LOC_FN_WeapIronWarAxeFine",
@@ -492,6 +564,18 @@
     "modl": "Weapons\\Cutlass\\Cutlass.NIF"
   },
   {
+    "edid": "WeapClub",
+    "formid": "Oblivion.esm:03B375",
+    "full": "LOC_FN_WeapClub",
+    "modl": "Weapons\\Club\\Club.NIF"
+  },
+  {
+    "edid": "WeapIronShortswordRusty",
+    "formid": "Oblivion.esm:090615",
+    "full": "LOC_FN_WeapIronShortswordRusty",
+    "modl": "Weapons\\Iron\\ShortSword.NIF"
+  },
+  {
     "edid": "WeapAkaviriLongSword2H",
     "formid": "Oblivion.esm:09DAC5",
     "full": "LOC_FN_WeapAkaviriLongSword2H",
@@ -504,148 +588,214 @@
     "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
   },
   {
-    "edid": "WeaponSabreBrightwood1hOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:000D59",
-    "full": "Sunwood Shining",
-    "modl": "Weapons\\Adonnay\\sabre_1h.nif"
+    "edid": "rdMithrilWarAxeOOOHoar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0010BF",
+    "full": "Hang'em",
+    "modl": "Weapons\\RD\\rdmithrilaxe.nif"
   },
   {
-    "edid": "WeaponSabreBrightwood1hShortOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:000D5A",
-    "full": "Sunwood Whisper",
-    "modl": "Weapons\\Adonnay\\sabre_1h_short.nif"
+    "edid": "rdKukriOOOBellamont",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001630",
+    "full": "Vengeance",
+    "modl": "Weapons\\RD\\rdkukri.nif"
   },
   {
-    "edid": "WeaponSabreBrightwood2hOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:000D5B",
-    "full": "Sunwood Fury",
-    "modl": "Weapons\\Adonnay\\sabre_2h.nif"
+    "edid": "WeapSpiritBattleAxe2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00363E",
+    "full": "Spectral Battle Axe",
+    "modl": "Weapons\\Steel\\BattleAxeFine.NIF"
   },
   {
-    "edid": "WeaponSabreBrightwood2hlongOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:000D5C",
-    "full": "Sunwood Glory",
-    "modl": "Weapons\\Adonnay\\sabre_2h_long.nif"
+    "edid": "WeapSpiritClaymore2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00363F",
+    "full": "Spectral Claymore",
+    "modl": "Weapons\\Steel\\ClaymoreFine.NIF"
   },
   {
-    "edid": "WeaponSabreEbony1hOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0083F1",
-    "full": "Ebony Shining",
-    "modl": "Weapons\\Adonnay\\ebony_sabre_1h.nif"
+    "edid": "WeapSpiritDagger2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003640",
+    "full": "Spectral Dagger",
+    "modl": "Weapons\\Steel\\DaggerFine.NIF"
   },
   {
-    "edid": "WeaponSabreEbony1hShortOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0083F2",
-    "full": "Ebony Whisper",
-    "modl": "Weapons\\Adonnay\\ebony_sabre_1h_short.nif"
+    "edid": "WeapSpiritLongsword2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003641",
+    "full": "Spectral Longsword",
+    "modl": "Weapons\\Steel\\LongswordFine.NIF"
   },
   {
-    "edid": "WeaponSabreEbony2hOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0083F3",
-    "full": "Ebony Fury",
-    "modl": "Weapons\\Adonnay\\ebony_sabre_2h.nif"
+    "edid": "WeapSpiritMace2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003642",
+    "full": "Spectral Mace",
+    "modl": "Weapons\\Steel\\MaceFine.NIF"
   },
   {
-    "edid": "WeaponSabreEbony2hlongOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0083F4",
-    "full": "Ebony Glory",
-    "modl": "Weapons\\Adonnay\\ebony_sabre_2h_long.nif"
+    "edid": "WeapSpiritShortSword2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003643",
+    "full": "Spectral Shortsword",
+    "modl": "Weapons\\Steel\\ShortswordFine.NIF"
   },
   {
-    "edid": "WeaponSabreElmwood1hOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0083F5",
-    "full": "Elmwood Shining",
-    "modl": "Weapons\\Adonnay\\elmwood_sabre_1h.nif"
+    "edid": "WeapSpiritWarAxe2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003644",
+    "full": "Spectral War Axe",
+    "modl": "Weapons\\Steel\\WarAxeFine.NIF"
   },
   {
-    "edid": "WeaponSabreElmwood1hShortOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0083F6",
-    "full": "Elmwood Whisper",
-    "modl": "Weapons\\Adonnay\\elmwood_sabre_1h_short.nif"
+    "edid": "WeapSpiritWarhammer2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003645",
+    "full": "Spectral Warhammer",
+    "modl": "Weapons\\Steel\\WarhammerFine.NIF"
   },
   {
-    "edid": "WeaponSabreElmwood2hOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0083F7",
-    "full": "Elmwood Fury",
-    "modl": "Weapons\\Adonnay\\elmwood_sabre_2h.nif"
+    "edid": "rdTemplarSwordOOO3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E9E",
+    "full": "Worn Templar Longsword",
+    "modl": "Weapons\\Steel\\LongswordFine.NIF"
   },
   {
-    "edid": "WeaponSabreElmwood2hlongOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0083F8",
-    "full": "Elmwood Glory",
-    "modl": "Weapons\\Adonnay\\elmwood_sabre_2h_long.nif"
+    "edid": "WeapDaedricScimitarOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00BFFA",
+    "full": "Daedric Scimitar",
+    "modl": "Weapons\\Daedric\\LongSword.NIF"
   },
   {
-    "edid": "WeaponSabreIvory1hOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0083F9",
-    "full": "Royal Shining",
-    "modl": "Weapons\\Adonnay\\ivory_sabre_1h.nif"
+    "edid": "WeapGlassScimitarOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00BFFE",
+    "full": "Glass Scimitar",
+    "modl": "Weapons\\Glass\\LongSword.NIF"
   },
   {
-    "edid": "WeaponSabreIvory1hShortOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0083FA",
-    "full": "Royal Whisper",
-    "modl": "Weapons\\Adonnay\\ivory_sabre_1h_short.nif"
+    "edid": "rdKukriOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C40E",
+    "full": "Kukri",
+    "modl": "Weapons\\RD\\rdkukri.nif"
   },
   {
-    "edid": "WeaponSabreIvory2hOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0083FB",
-    "full": "Royal Fury",
-    "modl": "Weapons\\Adonnay\\ivory_sabre_2h.nif"
+    "edid": "rdMithrilWarAxeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C40F",
+    "full": "Mithril War Axe",
+    "modl": "Weapons\\RD\\rdmithrilaxe.nif"
   },
   {
-    "edid": "WeaponSabreIvory2hlongOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0083FC",
-    "full": "Royal Glory",
-    "modl": "Weapons\\Adonnay\\ivory_sabre_2h_long.nif"
+    "edid": "rdSteelBeardedWarAxeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C411",
+    "full": "Steel Bearded War Axe",
+    "modl": "Weapons\\RD\\rd1hsteelbeardaxe.nif"
   },
   {
-    "edid": "WeaponSabreWhiteleather1hOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0083FD",
-    "full": "White Oak Shining",
-    "modl": "Weapons\\Adonnay\\whiteleather_sabre_1h.nif"
+    "edid": "rdTemplarSwordOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C412",
+    "full": "Champion's Sword",
+    "modl": "Weapons\\Ebony\\LongSword.NIF"
   },
   {
-    "edid": "WeaponSabreWhiteleather1hShortOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0083FE",
-    "full": "White Oak Whisper",
-    "modl": "Weapons\\Adonnay\\whiteleather_sabre_1h_short.nif"
+    "edid": "rdTwoHeadBattleAxeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C413",
+    "full": "Double-Headed Battle Axe",
+    "modl": "Weapons\\RD\\rdvikingaxe1.nif"
   },
   {
-    "edid": "WeaponSabreWhiteleather2hOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:0083FF",
-    "full": "White Oak Fury",
-    "modl": "Weapons\\Adonnay\\whiteleather_sabre_2h.nif"
+    "edid": "WeapDaedricWarHammerXyval",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:013162",
+    "full": "Prince Xyval Vyktur's Fury",
+    "modl": "Weapons\\Daedric\\Warhammer.NIF"
   },
   {
-    "edid": "WeaponSabreWhiteleather2hlongOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:008400",
-    "full": "White Oak Glory",
-    "modl": "Weapons\\Adonnay\\whiteleather_sabre_2h_long.nif"
+    "edid": "rdTemplarSwordOOO4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:013550",
+    "full": "Sir Alain's Sword",
+    "modl": "Weapons\\Ebony\\LongSword.NIF"
   },
   {
-    "edid": "WeaponSabreIvory2hlongOOONandir",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B5E2",
-    "full": "Morning Glory",
-    "modl": "Weapons\\Adonnay\\ivory_sabre_2h_long.nif"
+    "edid": "rdTemplarSwordOOO2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:019D3D",
+    "full": "Templar Longsword",
+    "modl": "Weapons\\Silver\\LongSword.NIF"
   },
   {
-    "edid": "WeaponSabreZSpecialB2hOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:013837",
-    "full": "Fang",
-    "modl": "Weapons\\Elven\\Claymore.NIF"
+    "edid": "ShadowMailBowOOOFlame",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:019D3E",
+    "full": "Shadow Bow of Flames",
+    "modl": "weapons\\ShadowMail\\bow.nif"
   },
   {
-    "edid": "WeaponZSabreIvory1hShortOOOEderiath",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:024E77",
-    "full": "Ederiath's Edge of Ages",
-    "modl": "Weapons\\Elven\\ShortSword.NIF"
+    "edid": "WeapSpiritLongsword",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01AE56",
+    "full": "Ghostly Longsword",
+    "modl": "Weapons\\Steel\\Longsword.NIF"
   },
   {
-    "edid": "WeaponSabreZBrightwood1hOOONonungalo",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E6A",
-    "full": "Sun Child",
-    "modl": "Weapons\\Elven\\LongSword.NIF"
+    "edid": "WeapSpiritBattleAxe",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01AE57",
+    "full": "Ghostly Battle Axe",
+    "modl": "Weapons\\Steel\\BattleAxe.NIF"
+  },
+  {
+    "edid": "WeapSpiritClaymore",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01AE59",
+    "full": "Ghostly Claymore",
+    "modl": "Weapons\\Steel\\Claymore.NIF"
+  },
+  {
+    "edid": "WeapSpiritDagger",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01AE5B",
+    "full": "Ghostly Dagger",
+    "modl": "Weapons\\Steel\\Dagger.NIF"
+  },
+  {
+    "edid": "WeapSpiritMace",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01AE5D",
+    "full": "Ghostly Mace",
+    "modl": "Weapons\\Steel\\Mace.NIF"
+  },
+  {
+    "edid": "WeapSpiritShortSword",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01AE84",
+    "full": "Ghostly Shortsword",
+    "modl": "Weapons\\Steel\\Shortsword.NIF"
+  },
+  {
+    "edid": "WeapSpiritWarAxe",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01AE85",
+    "full": "Ghostly War Axe",
+    "modl": "Weapons\\Steel\\WarAxe.NIF"
+  },
+  {
+    "edid": "WeapSpiritWarhammer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01AE86",
+    "full": "Ghostly Warhammer",
+    "modl": "Weapons\\Steel\\Warhammer.NIF"
+  },
+  {
+    "edid": "ArenaSteelClaymore",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01D1BB",
+    "full": "LOC_FN_WeapSteelClaymore",
+    "modl": "Weapons\\Steel\\Claymore.NIF"
+  },
+  {
+    "edid": "WeapDaedricClaymoreZVal",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02CDBA",
+    "full": "Valkynaz's Claymore",
+    "modl": "Weapons\\Daedric\\Claymore.NIF"
+  },
+  {
+    "edid": "WeapDaedricBattleAxeZVal",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02CDBB",
+    "full": "Valkynaz's Battle Axe",
+    "modl": "Weapons\\Daedric\\Battleaxe.NIF"
+  },
+  {
+    "edid": "WeapDaedricWarHammerZVal",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02CDBC",
+    "full": "Valkynaz's Warhammer",
+    "modl": "Weapons\\Daedric\\Warhammer.NIF"
+  },
+  {
+    "edid": "WeapDaedricBowZVal",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02CDBD",
+    "full": "Valkynaz's Bow",
+    "modl": "Weapons\\Daedric\\Bow.NIF"
   },
   {
     "edid": "WeapSeverianDaedricDaikatana",
@@ -744,27 +894,33 @@
     "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
   },
   {
-    "edid": "tkIcxthSwordOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:047691",
-    "full": "Icxth",
-    "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
+    "edid": "ShadowMailBladeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:038864",
+    "full": "Sword of Shadow",
+    "modl": "weapons\\ShadowMail\\ShadowBlade.nif"
+  },
+  {
+    "edid": "ShadowMailBowOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:038865",
+    "full": "Shadow Bow",
+    "modl": "weapons\\ShadowMail\\bow.nif"
+  },
+  {
+    "edid": "ShadowMailClaymoreOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:038866",
+    "full": "Claymore of Shadow ",
+    "modl": "weapons\\ShadowMail\\Claymore.nif"
+  },
+  {
+    "edid": "ShadowMailShortBladeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:038867",
+    "full": "Shortsword of Shadow",
+    "modl": "weapons\\ShadowMail\\shortsword.nif"
   },
   {
     "edid": "WeapSeverianSilverKatanaSpecial",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04D52D",
     "full": "Sheil's Silver Katana",
-    "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
-  },
-  {
-    "edid": "tkIcxthSwordOOOv2L",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA41",
-    "full": "Icxth",
-    "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
-  },
-  {
-    "edid": "tkIcxthSwordOOOv2H",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA42",
-    "full": "Icxth",
     "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
   }
 ]
