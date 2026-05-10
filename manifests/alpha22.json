@@ -1,0 +1,534 @@
+{
+  "Content/Dev/ObvData/Data/Archive/OOO_FGD09HistPatch.esp": {
+    "sha256": "fa9c442d83123c923d856083a23ddf98911c3a31132e6a13cf838d68c62a4abd",
+    "size": 3448
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_GameSettings.esp": {
+    "sha256": "148ceae9b2ec38e0c826e7fba7bb3fc14f6aa42ffc6ddf1dbc2d872c71394b84",
+    "size": 36512
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_GameSettings.esp.save.2025_06_26_20_13_21": {
+    "sha256": "148ceae9b2ec38e0c826e7fba7bb3fc14f6aa42ffc6ddf1dbc2d872c71394b84",
+    "size": 36512
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewAmmo04.esp": {
+    "sha256": "6f2484dec5f60a0e5a9095d20ecba8744be0a61f2a6d4fc3cbf41691151607cc",
+    "size": 6443
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewAmmoComps.esp": {
+    "sha256": "b7f119f72ebcaf434b1a36677e95fd78f89ac5d32322467e2757f09e06e3a6c5",
+    "size": 1602
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewArmor.esp": {
+    "sha256": "715d2158e68ec3fb288787b95db1533916509a5ba7d1cb2145ba94c248bb219b",
+    "size": 150267
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewArmor03.esp": {
+    "sha256": "e1cfcc7912143d6bca3e7a5355f5851ea7f5c769fd7ccd61c452da5d1690f83a",
+    "size": 120834
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewArmor04Amazon.esp": {
+    "sha256": "ad4d1495bd6812a642376a862e45f10e6ee58bd946210ecf9fec9b733f00222c",
+    "size": 20326
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewArmor04Bosmer.esp": {
+    "sha256": "aea024352728208532f19bc00e8aa3ee5ec0caa1260f5bce08705957ddedb459",
+    "size": 3789
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewArmorCombined.esp": {
+    "sha256": "2db68b1cb2cb3a441c9882eec1d74479994b8fd58e026b5bab1f0da3dee07148",
+    "size": 701850
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewArmorCombined04.esp": {
+    "sha256": "15d544cbb41fb3b65f686d0dcb35d3a0876a5afefab4997f3ddc8fc563da1742",
+    "size": 277346
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewArmorComps.esp": {
+    "sha256": "a98b61b2e417e01eb449bf93cefa356df731595a44c2e1ff3765ccfd7dbce262",
+    "size": 55331
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewArmorOdds.esp": {
+    "sha256": "ebfdfccc698720d35e515bfab13b41f441c5d8b5a79a701f6da68eac9771282f",
+    "size": 2274
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewArmorUnused.esp": {
+    "sha256": "b6d3366e43120c11773e0bc886582e14f0bdfff0afe3f528ec4b781d40af0aae",
+    "size": 8090
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewBooks04.esp": {
+    "sha256": "273027fc31a5bded203ec7f8c8d745362eb50d5a5283f422475154f3aad778ac",
+    "size": 44709
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewBooksComp.esp": {
+    "sha256": "c7a47b674c7b74e881b4969efd6452b1ba4d5dc4d29a101bc1e5f9fba96dc3c7",
+    "size": 120216
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewCells04.esp": {
+    "sha256": "f26fe616d5a27f86398991a230e20aa21275c65d48ee3065231a63649cec7643",
+    "size": 194552
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewChestComps.esp": {
+    "sha256": "2dbb041e9c56103231d02d8b8940dce55a8bb3ccac4f6e6ff4f916612cfede3f",
+    "size": 4035524
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewChests.esp": {
+    "sha256": "4aced9e9f88c1649ea6a21183cb5656dcbb32d898221b2db85a2fe6de6cf0d67",
+    "size": 3523
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewChests03.esp": {
+    "sha256": "fb7179f5be96b50d66363f148dcc24d3e8878cca79b8a59f3fd0ec0a421e7270",
+    "size": 159413
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewChests2.esp": {
+    "sha256": "efc18dc9e4a1c0ffb5da101ca137d479ff864edbf76e596ae95cb0aa9c569d9e",
+    "size": 7873
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewChests2.esp.save.2025_06_26_21_29_56": {
+    "sha256": "16cd64a6e64185aa89cbd96532e17605c7224054974171e183f512904c270b27",
+    "size": 7621
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewChestsSkip.esp": {
+    "sha256": "f5453f8c52fbe216923b9e2a6465e30d96265aa3ab9fc4c98ccf695679a0b6ab",
+    "size": 83365
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewClothing04.esp": {
+    "sha256": "063ff260adbcff3304c73aee91742b73bbdedaf382de0b360ce328222a72f229",
+    "size": 38218
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewClothingComps.esp": {
+    "sha256": "89162d63910c351c632db8b784d1757f9b0330387a478a6f74f05061f8f2452a",
+    "size": 12906
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewCreatureComps.esp": {
+    "sha256": "c6417c9b897682a405127ea6e3315da5887a264637c79f805da2f8dd74a7549b",
+    "size": 163796
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewCreatures01.esp": {
+    "sha256": "715586fce9639cb9feeebddd376ae7f827aa32c3e955c7c11a6f0acd7e5ed159",
+    "size": 11818
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewCreatures02.esp": {
+    "sha256": "8b1e67d1520b4a5a70f73ae7784fed39c44acc5a98bf3fda4aee4f2c21127bed",
+    "size": 747
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewCreatures03.esp": {
+    "sha256": "6284ab2b7068493d12e022cfeeecfeff946ded41fa122fdfebd145666ab30ed4",
+    "size": 351161
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewCreatures04Fish.esp": {
+    "sha256": "6027db45a4d9ce6d4d3b777f72c8a6389a76a91c55b3ec9b8053c377fa56bdd8",
+    "size": 13868
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewCreatures04Golems.esp": {
+    "sha256": "29d9cad7e96d303c2a5167104b72bc4228df4a48b3b7dc9f95eced15653695bf",
+    "size": 46818
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewCreatures04Special.esp": {
+    "sha256": "259a481c296faea94489bffb77589468a443045e32a6eebe8e341c7e049d44b2",
+    "size": 21086
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewCreaturesCombined04.esp": {
+    "sha256": "64dfb1534f67386f5a5c0866d60743134464d598540fa83801638844fde64b75",
+    "size": 349766
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewDoors04.esp": {
+    "sha256": "4309e3d1b0e6033f4df5794958e6decd46f98c6aa39599aa75c67b0d0e345214",
+    "size": 945
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewDoors04Temp.esp": {
+    "sha256": "ad19f0533c336a7197562e7816fd0735804fa93c7c84bede15cd30ad084020f5",
+    "size": 1033
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewGear04Amazon.esp": {
+    "sha256": "c2eecddd36364b4616435aa03080426d8b6129bbba853dd9f7d7c1c9840785a6",
+    "size": 2124
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewGear04Bosmer.esp": {
+    "sha256": "8fefc44a09d38fa043d6327f3f8de9db6699e678e4913366773a20773e03dce7",
+    "size": 1041
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewGear04Sylvan.esp": {
+    "sha256": "217548b92f7b81e30d07520653cc5526d571b14b8f05dbdec667ef3267cb3def",
+    "size": 8922
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewGemShards04.esp": {
+    "sha256": "e1589f16ad40c46154bc84f698e154c2e09d7b022210c7cc4e8b4fd1a18500e7",
+    "size": 3576
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewInteriorDoors.esp": {
+    "sha256": "9adc24bc5429939c4f6cd53c50f3aa9fe222bfa69bfd4776ad000c3fbcf65031",
+    "size": 614
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewMapMarkers04.esp": {
+    "sha256": "0cb430750308b7cdd58729d7981ecff85eb9a5ee6070c3c6e035749fbceceb48",
+    "size": 122387
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewMiscComp04.esp": {
+    "sha256": "63517ec774cbefb9c28f750ffa34b38fc90254fc74466c52cd8ce105905106f3",
+    "size": 4309
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewMiscItems.esp": {
+    "sha256": "f8ea4333e341f972623bdf99ea307489d687b080ba42d186238ab74df036134c",
+    "size": 39707
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewNPCs03.esp": {
+    "sha256": "8940b5147e468932e19209a533a8139b3a60ffb9cf483bdcdf56ecf9e19e0222",
+    "size": 211939
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewNPCs04.esp": {
+    "sha256": "0f9134cc525932e45889ff2669a373484f2427c18abda8cf1722189f0a67379e",
+    "size": 722630
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewNPCs04Odd.esp": {
+    "sha256": "705467876bda28fb11fda709011821059dd1e2882eb49dd666c5c99762c34e0b",
+    "size": 64096
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewNPCs04Seducer.esp": {
+    "sha256": "44ae2496214ccda452d2cf9bacd3f6e25f2a6baed26d5056c2620f3951aa605f",
+    "size": 13254
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewNPCs04Special.esp": {
+    "sha256": "c62f9508a628318e872e9fcf98cbad390e6b3863af3f4506fcbc9d680990c69a",
+    "size": 60708
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewNPCsCombined.esp": {
+    "sha256": "fce327b2aa16283ba6de71a990036c761ee2a08285cac58ebcb75fda5cf34415",
+    "size": 983099
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewPotions04.esp": {
+    "sha256": "c74fd763522740675f8ccd7c21a46cd22f6a5ed70455790104fa34143482b13f",
+    "size": 10827
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewQuestsAndRewards.esp": {
+    "sha256": "96b5d220f325ab6032e3e64f9ccaa7f7853f370406f376ff141f28272d92979b",
+    "size": 5419
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewRobesComp.esp": {
+    "sha256": "ae003ce048e9d6d9043bd083c960ae5bb4a4989b03d324f94119b844ab5f5134",
+    "size": 23852
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewSIClothing05.esp": {
+    "sha256": "10d578ba6d5bb61883cfc8f3e89b8b88524b1ac024cbd5bfc31cf0d1e7f16c7a",
+    "size": 8799
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewScripts04.esp": {
+    "sha256": "b164dc79604f5e9bfce4cce8e34a62e08406007716f3086dd40deb54e87e4f6a",
+    "size": 4153153
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewSigilStones04.esp": {
+    "sha256": "c3c31052d545d8841e5aefe8e642d7a97691a42b002ca6f820b2b55fff3ab987",
+    "size": 3727
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewSpells04.esp": {
+    "sha256": "81c58f7ed1db29d37e3f90133ef441fe517624d0e898a0a080fceef24e86616d",
+    "size": 176885
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewSpells04Geomancy.esp": {
+    "sha256": "ae268474174eb7b2fe40c70b81cb47cb55a0ea08a03387a95a649a0806cbe5bb",
+    "size": 24447
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewWeaponComps.esp": {
+    "sha256": "ba86d601f75ffb2117f14df2beab34231de4bbab56bdf8c75e0e1f6d9a48e68c",
+    "size": 34724
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewWeaponCompsBow.esp": {
+    "sha256": "e74134bd85bf5d5b821718fcc4d525b7a57d22c3108a9b98b78839722b8d1e28",
+    "size": 2137
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewWeaponCompsSI.esp": {
+    "sha256": "72070675ea9f1c6de2281caa85ba3bdc290668defcbb6309bc79b5da120fba28",
+    "size": 188380
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewWeapons01.esp": {
+    "sha256": "2c865972241d3488fb4466d2d7c04f7e382e67c3f01cb22d0c25565f70132511",
+    "size": 392
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewWeapons03.esp": {
+    "sha256": "2ad917550590a697282788048bcd60b36ea9153b9b121e0d56936a4147e7a148",
+    "size": 67254
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewWeaponsCombined04.esp": {
+    "sha256": "1eff7e8b26e1e9116c061a587f22621116656f5ca2abf7e0d9ce5ebc574f258c",
+    "size": 71292
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewWeaponsNoble.esp": {
+    "sha256": "324eb585908bcc0c6e456364397b40c0b2f53a0acd649fe25f81c144b975375a",
+    "size": 129
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewWeaponsOdd.esp": {
+    "sha256": "b866e1cb71a178974ddd1c5860f6a964fc3f4be871203680e4a4ea8261d63ff7",
+    "size": 12422
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewWeaponsUnused.esp": {
+    "sha256": "5d9d2e548b16f5702f882d9cb63b888229ef0d3b3dcd628f41afb5a11c227a98",
+    "size": 1273
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NewWildernessSpawns.esp": {
+    "sha256": "cda25f4a20715a6ddf87cd83cceed03ed6a7325d61ea55c021fdad1e3a2f23c2",
+    "size": 3712
+  },
+  "Content/Dev/ObvData/Data/Archive/OOO_NoSpiderDaedra.esp": {
+    "sha256": "0b954f8b7fc4de34e20a5e063d0f4c9273303985e95f378ade28920f4133acc9",
+    "size": 6801
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp": {
+    "sha256": "0d37140b042f2699751a3a0afd9d426ece5af722f7695178d6f44f89e525d4b0",
+    "size": 11505807
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp.save.2025_06_26_19_04_06": {
+    "sha256": "a28c1d8f771307e6b1629a591e4011501f25314030ccb7c455070af3874a28a9",
+    "size": 7221692
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp.save.2025_06_26_19_07_50": {
+    "sha256": "f92c80abbd53b4d2cfbf6eb1e64010448031be8b358fbcdebccca18142719290",
+    "size": 7221692
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp.save.2025_06_26_19_09_36": {
+    "sha256": "2cbfafeaf349a71dfbd3dd8a6c009befc23c32b5869009bab7ee07cb4ca16781",
+    "size": 7221692
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp.save.2025_06_26_19_10_35": {
+    "sha256": "56537388dd5956e9a4e514a28cb7e2edd6cef98d2b97f8c69515491f0e1c7ae4",
+    "size": 7221692
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp.save.2025_06_26_19_12_31": {
+    "sha256": "df6759a76e717d3c53129a4061502f08b9faab71ad5f20eb61c6637077bf705b",
+    "size": 7221692
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp.save.2025_06_26_19_14_30": {
+    "sha256": "4d8284c6c397cfc1d6fa276916873a6debd7a887c881a55f86e1faec0f3d4d6b",
+    "size": 7221692
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp.save.2025_06_26_19_15_12": {
+    "sha256": "2119ba25ebf646b3358df8ab09c851c42383f7adf2bbff7724366fe8c4895fc4",
+    "size": 7221692
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp.save.2025_06_26_19_15_42": {
+    "sha256": "cd94e48e3bcb910654d84a3b225c58e47bbad10578818f9f01f7930ec2d1e0f9",
+    "size": 7221692
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp.save.2025_06_26_19_16_17": {
+    "sha256": "b1a036205074c0b1ce11cb730587ebf13e11a790bcc4125f9f716a274ad3dc86",
+    "size": 7221692
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp.save.2025_06_26_19_22_55": {
+    "sha256": "7163ad60bde642c2472a49355b026379f2b8995d68fdb60b0ba34d1f7646fb78",
+    "size": 7221692
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp.save.2025_06_26_19_26_42": {
+    "sha256": "b205377ff51de048a1d645376b939a8a0be5ec7660a9f86a27547f584a0d8e07",
+    "size": 7222227
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp.save.2025_06_26_19_33_42": {
+    "sha256": "43c321733ec5b5052461254198037d5b9188f8c6e0faf3842f156c8f18e1e22c",
+    "size": 7278337
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp.save.2025_06_26_19_41_55": {
+    "sha256": "6f0ae76f40ee4d278ef30d2b64ff943b436f8cd219998fe1809763e8a41380ee",
+    "size": 7386724
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp.save.2025_06_26_19_52_26": {
+    "sha256": "491429ffe8fdb10230ce8b257dc1aaaf32c03f0f20074053fa67e9923d0f4ff5",
+    "size": 7466295
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp.save.2025_06_26_19_54_52": {
+    "sha256": "ae9f61f647b9957e939e35496f6f591f6ffe4ce0dc62ad32ea9d664d61bdf24e",
+    "size": 7476189
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp.save.2025_06_26_20_02_21": {
+    "sha256": "814bb9aa5bb6f1ef70e6cfe14b40b7fe92d3b278d09c3c3e6b80f225bacc6ff6",
+    "size": 7500605
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp.save.2025_06_26_20_06_55": {
+    "sha256": "e2afe42446c937139b7c90d0f102537ad14fffc737f2f75f5ce27897ffb8251d",
+    "size": 7523701
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp.save.2025_06_26_21_29_56": {
+    "sha256": "28a35d9e0b331d657ea86d93e1b22d373e5accfa9ba59b1969b21c33807ed157",
+    "size": 7523740
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul.esp.save.2025_06_26_21_34_13": {
+    "sha256": "fae645112f68da38cd7b42b4ec9c641204984f21ec8362615b4b911c8ca2804b",
+    "size": 7524090
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul137.esp": {
+    "sha256": "bb90d5cfddeed686fca285df228eb74202a85579294587728c183ad86399f75d",
+    "size": 6205703
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul137ESM.esp": {
+    "sha256": "a1009896b0624655d75394fdb010a394346c66cabf156812eaf793de23b2888f",
+    "size": 14324324
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul137ESM.esp.save.2025_06_26_19_04_06": {
+    "sha256": "05df1b72f1ceb6b1121fac4b2c89c8b7ad760eef5ce0a983695be77537893fbf",
+    "size": 14323171
+  },
+  "Content/Dev/ObvData/Data/Archive/Oscuro's_Oblivion_Overhaul137ESM.esp.save.2025_06_26_19_27_50": {
+    "sha256": "e298acc1a40ed5ad18112fdbcf1783a7bb160a2b3ebefe9f9533ab0008c0bdb8",
+    "size": 14323171
+  },
+  "Content/Dev/ObvData/Data/Archive/Plugins.txt": {
+    "sha256": "df0c1f9cf4e090c12c5bfd780e08dc991a99fabd07f5aee64f37e41552a907f2",
+    "size": 1752
+  },
+  "Content/Dev/ObvData/Data/Archive/Plugins.txt.bak": {
+    "sha256": "5f59a123fe0c0044bb3e51982e1164de19f00f1005399b0fc5e8aeaaca4b6d80",
+    "size": 814
+  },
+  "Content/Dev/ObvData/Data/Archive/Plugins_bak1.txt": {
+    "sha256": "30bff74f109c8e9d507fbbeb380258cce7d4915b0acd408ab8a0aac21a5db716",
+    "size": 667
+  },
+  "Content/Dev/ObvData/Data/Archive/Plugins_bak2.txt": {
+    "sha256": "5f59a123fe0c0044bb3e51982e1164de19f00f1005399b0fc5e8aeaaca4b6d80",
+    "size": 814
+  },
+  "Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_ALCH.json": {
+    "sha256": "212518ae1dd7cce8a67ecdf6b02b90ca2988649ded3886f37bd84a48ca4181be",
+    "size": 2776
+  },
+  "Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_AMMO.json": {
+    "sha256": "5818f87cfe554744fa958f49b109f98a6d815d3283233f605945f187ac293998",
+    "size": 2232
+  },
+  "Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_ARMO.json": {
+    "sha256": "e1f1e74417e01eaf6951c22677c9363f255da7434a9745804cdfde96bf1ab7c4",
+    "size": 67085
+  },
+  "Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_BOOK.json": {
+    "sha256": "e569d98069fb8b503254295bf7842b4700ead03e1385705b408ae7e8f8cc6024",
+    "size": 932872
+  },
+  "Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CELL.json": {
+    "sha256": "0a836707900d5d8df400bbd49ea1ab14e6e13a1c27d4da8409357fb7bce16e5f",
+    "size": 2156
+  },
+  "Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CLOT.json": {
+    "sha256": "0484d81ac9af218003482d35cc106f900c23793fb3106eab4ac2e40f16791d3c",
+    "size": 5734
+  },
+  "Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CONT.json": {
+    "sha256": "7509a1455ddd6ec053953f8043066b657b789584ade4883ca7e8f7cde8ac5738",
+    "size": 28166
+  },
+  "Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CREA.json": {
+    "sha256": "246e02c3bf0e922d7744c7f3668eb770d2a6604cdb036bb0c37b05508b90ed94",
+    "size": 19052
+  },
+  "Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_DIAL.json": {
+    "sha256": "7bdbf2d2c601d57c3c4be048573640b9125bb7e9bbc25522c9f065dec61177ba",
+    "size": 35895
+  },
+  "Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_INGR.json": {
+    "sha256": "08101f61da39bb3f960fc9f9a72e2b399a670da96307db3625d0264b4cae72ef",
+    "size": 3143
+  },
+  "Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_MISC.json": {
+    "sha256": "ee47f0610b44713124056c7f396e37acd51b4920b5dc0523b11d8a1d120be197",
+    "size": 9682
+  },
+  "Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_NPC_.json": {
+    "sha256": "ff7275ae60e737a070687436145d71cc2440c6fe5aa866365f0c4de0a756fbb0",
+    "size": 52567
+  },
+  "Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_QUST.json": {
+    "sha256": "ae120e19cc723daca7e634f7a47d13c63b1d1a702e903e530b7ab55894c5ffff",
+    "size": 153890
+  },
+  "Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_SPELL.json": {
+    "sha256": "097e1bcb4bf714c7846ecba7060edb49865aded2483bb629a9ad8a9d2f3131e9",
+    "size": 46815
+  },
+  "Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_WEAP.json": {
+    "sha256": "13a660d8f123bdc796b54a0a36f16f9d29e7cbf968c1a8f5e76947efdee776f4",
+    "size": 54804
+  },
+  "Content/Dev/ObvData/Data/MagicLoaderArchive/OOO_NewAmmoUnused04.json": {
+    "sha256": "cc8e3829941de4dd77a32b4de2fb1479b7646f5251d1e489782da332dfe0ddc3",
+    "size": 505
+  },
+  "Content/Dev/ObvData/Data/MagicLoaderArchive/Oscuro's_Oblivion_Overhaul_ARMO2.json": {
+    "sha256": "a7c76588102a2af2ba1d9d646d1527cddd28cb0a59383f21cf39564ef18c77ed",
+    "size": 15705
+  },
+  "Content/Dev/ObvData/Data/MagicLoaderArchive/Oscuro's_Oblivion_Overhaul_Combined.json": {
+    "sha256": "bae2349f2c795d653bd9549d847e0522ec860e223329a4fa453b2d9c09463f40",
+    "size": 1304101
+  },
+  "Content/Dev/ObvData/Data/MagicLoaderArchive/Oscuro's_Oblivion_Overhaul_WEAP2.json": {
+    "sha256": "10d0e35859c386637e6237fccc464fae0f5836bac32f049c5c4d4ed11f5ead6a",
+    "size": 37211
+  },
+  "Content/Dev/ObvData/Data/Oscuro's_Oblivion_Overhaul.esp": {
+    "sha256": "29f1acf253c13c46bf969f37247f7a4df5ef79c9f50f21cbfdb4d3425e764563",
+    "size": 10522514
+  },
+  "Content/Dev/ObvData/Data/SyncMap/Oscuro's_Oblivion_Overhaul.ini": {
+    "sha256": "2adf8f0d9e15aff96710b95b96452b5b77b97c5e5c8b3dc57af473ddf93f1ca4",
+    "size": 470411
+  },
+  "Content/Dev/ObvData/Data/SyncMapVersions/Oscuro's_Oblivion_Overhaul.ini": {
+    "sha256": "3b7ad3f2bcf04c0b4ff4072bb87281970eeaedf2f9ec8426fe27b764204ba448",
+    "size": 400303
+  },
+  "Content/Dev/ObvData/Data/SyncMapVersions/Oscuro's_Oblivion_Overhaul_Clothing03.ini": {
+    "sha256": "f7f586dc0fb88a6bcec94a210f84c0f289e00bb6a894385ecf044b61cefd8a62",
+    "size": 14500
+  },
+  "Content/Dev/ObvData/Data/SyncMapVersions/Oscuro's_Oblivion_Overhaul_NewAmmo.ini": {
+    "sha256": "2642052b8889017971e20ac5f7d1de21765c248a1908024a352ca56358011012",
+    "size": 4329
+  },
+  "Content/Dev/ObvData/Data/SyncMapVersions/Oscuro's_Oblivion_Overhaul_NewArmor03.ini": {
+    "sha256": "9dbbef289035156c2538ca7acb293cd079b58292b2d242832e5eabe472fefedd",
+    "size": 141491
+  },
+  "Content/Dev/ObvData/Data/SyncMapVersions/Oscuro's_Oblivion_Overhaul_NewBooks04.ini": {
+    "sha256": "147a66e0bbc3e3a934eb0c223fe679ce8609ce04842d9551d928843d06b74be2",
+    "size": 285765
+  },
+  "Content/Dev/ObvData/Data/SyncMapVersions/Oscuro's_Oblivion_Overhaul_NewChests03.ini": {
+    "sha256": "20faad165c52742fd1a9348dbe04663f60c77ddb794c44ba0cb1a3be15312b00",
+    "size": 600219
+  },
+  "Content/Dev/ObvData/Data/SyncMapVersions/Oscuro's_Oblivion_Overhaul_NewClothing03.ini": {
+    "sha256": "f0ecdb826f08023e724f971e5a78c2b0686f98a1e85a0e7eaeb4e344d8934a30",
+    "size": 24982
+  },
+  "Content/Dev/ObvData/Data/SyncMapVersions/Oscuro's_Oblivion_Overhaul_NewClothing03_bak.ini": {
+    "sha256": "f0ecdb826f08023e724f971e5a78c2b0686f98a1e85a0e7eaeb4e344d8934a30",
+    "size": 24982
+  },
+  "Content/Dev/ObvData/Data/SyncMapVersions/Oscuro's_Oblivion_Overhaul_NewCreatures03.ini": {
+    "sha256": "1334c08a93464a3bda9eb8f436ca9fc8632bcb4bfd542794358921b3167a688c",
+    "size": 351621
+  },
+  "Content/Dev/ObvData/Data/SyncMapVersions/Oscuro's_Oblivion_Overhaul_NewMiscItems.ini": {
+    "sha256": "4c86654b1a071cf724f95a5b92fd23d0988905e6aa5789769623d97f043d0e36",
+    "size": 26770
+  },
+  "Content/Dev/ObvData/Data/SyncMapVersions/Oscuro's_Oblivion_Overhaul_NewPotions.ini": {
+    "sha256": "5e5b4704529d61d65bc1bf526cf70c20af65169150af8905b91cd95875ca8bae",
+    "size": 47818
+  },
+  "Content/Dev/ObvData/Data/SyncMapVersions/Oscuro's_Oblivion_Overhaul_NewWeapons03.ini": {
+    "sha256": "4bcc37750dd25f5bb2fab5316ee6c03cff9e49af0c00e503a456443276badc8c",
+    "size": 208162
+  },
+  "Content/Dev/ObvData/Data/SyncMapVersions/Oscuro's_Oblivion_Overhaul__NewNPCs04.ini": {
+    "sha256": "94de8e673a432dd8e2a7eb6e5ff95f90f7cda12ef72ebb9395aecb7f818e9f0a",
+    "size": 208820
+  },
+  "Content/Dev/ObvData/Data/SyncMapVersions/Oscuro's_Oblivion_Overhaul_bak01.ini": {
+    "sha256": "a282d8044581207f68c9e010e929e6f2fca8a99abcef4bc2938918f7c08bb904",
+    "size": 337509
+  },
+  "Content/Dev/ObvData/Data/SyncMapVersions/Oscuro's_Oblivion_Overhaul_newIngredients.ini": {
+    "sha256": "74aaa03a18ce6302af85d914bc05373bcd964564c94625764288e2021ea126f8",
+    "size": 11693
+  },
+  "OOOInstallerFloydian1.jpg": {
+    "sha256": "77f509a4b0070ce478fb1829096ad64fd0b6aed02f071c3d7e182772c0f83a7a",
+    "size": 187736
+  }
+}

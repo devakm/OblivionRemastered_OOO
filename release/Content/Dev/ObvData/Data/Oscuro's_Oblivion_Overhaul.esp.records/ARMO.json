@@ -5204,49 +5204,49 @@
   {
     "edid": "CMIronBattleShield01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00124C",
-    "full": "Crownblood Iron Shield",
+    "full": "LOC_FN_CMIronBattleShield01OOO",
     "modl": "Armor\\CMBattleShields\\CMBattleShield001.nif"
   },
   {
     "edid": "CMIronBattleShield02OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00124D",
-    "full": "Nightblood Iron Shield",
+    "full": "LOC_FN_CMIronBattleShield02OOO",
     "modl": "Armor\\CMBattleShields\\CMBattleShield002.nif"
   },
   {
     "edid": "CMIronBattleShield03OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00124E",
-    "full": "Green and Gold",
+    "full": "LOC_FN_CMIronBattleShield03OOO",
     "modl": "Armor\\CMBattleShields\\CMBattleShield003.nif"
   },
   {
     "edid": "CMIronBattleShield04OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00124F",
-    "full": "Blue and Red",
+    "full": "LOC_FN_CMIronBattleShield04OOO",
     "modl": "Armor\\CMBattleShields\\CMBattleShield004.nif"
   },
   {
     "edid": "CMIronBattleShield05OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001250",
-    "full": "Ice Dragon Clan Insignia",
+    "full": "LOC_FN_CMIronBattleShield05OOO",
     "modl": "Armor\\CMBattleShields\\CMBattleShield005.nif"
   },
   {
     "edid": "CMIronBattleShield06OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001251",
-    "full": "Arctic Wolves' Clan Insignia",
+    "full": "LOC_FN_CMIronBattleShield06OOO",
     "modl": "Armor\\CMBattleShields\\CMBattleShield006.nif"
   },
   {
     "edid": "CMIronBattleShield07OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001252",
-    "full": "Skyrim Ornate Shield",
+    "full": "LOC_FN_CMIronBattleShield07OOO",
     "modl": "Armor\\CMBattleShields\\CMBattleShield007.nif"
   },
   {
     "edid": "CMIronBattleShield08OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001253",
-    "full": "Knotblood Iron Shield",
+    "full": "LOC_FN_CMIronBattleShield08OOO",
     "modl": "Armor\\CMBattleShields\\CMBattleShield008.nif"
   },
   {
@@ -5258,19 +5258,19 @@
   {
     "edid": "CMIronBattleShield10OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001255",
-    "full": "Red and Green Decorative",
+    "full": "LOC_FN_CMIronBattleShield10OOO",
     "modl": "Armor\\CMBattleShields\\CMBattleShield010.nif"
   },
   {
     "edid": "CMIronBattleShield11OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001256",
-    "full": "Three Wolves' Clan Insignia",
+    "full": "LOC_FN_CMIronBattleShield11OOO",
     "modl": "Armor\\CMBattleShields\\CMBattleShield011.nif"
   },
   {
     "edid": "EnchBGlassGreavesFortAgilityOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00125A",
-    "full": "Greaves of Agility",
+    "full": "LOC_FN_EnchBGlassGreavesFortAgilityOOO",
     "modl": "armor\\bglass\\m\\greaves.nif"
   },
   {
@@ -5570,49 +5570,49 @@
   {
     "edid": "OOOSEOrderedGSArmor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001D21",
-    "full": "Golden Saint Armor",
+    "full": "LOC_FN_OOOSEOrderedGSArmor",
     "modl": "OOOSE\\Armor\\Other\\GSOrdered.nif"
   },
   {
     "edid": "OffhandBrightwoodKnifeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F35",
-    "full": "Ayleid Tree Parrying Knife",
+    "full": "LOC_FN_OffhandBrightwoodKnifeOOO",
     "modl": "Weapons\\Adonnay\\Offhand\\offhand_brightwood_knife.nif"
   },
   {
     "edid": "OffhandCloudKnifeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F36",
-    "full": "Ayleid Cloud Parrying Knife",
+    "full": "LOC_FN_OffhandCloudKnifeOOO",
     "modl": "Weapons\\Adonnay\\Offhand\\offhand_cloud_knife.nif"
   },
   {
     "edid": "OffhandEbonyKnifeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F37",
-    "full": "Ayleid Ebony Parrying Knife",
+    "full": "LOC_FN_OffhandEbonyKnifeOOO",
     "modl": "Weapons\\Adonnay\\Offhand\\offhand_ebony_knife.nif"
   },
   {
     "edid": "OffhandElmKnifeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F38",
-    "full": "Ayleid Parrying Knife",
+    "full": "LOC_FN_OffhandElmKnifeOOO",
     "modl": "Weapons\\Adonnay\\Offhand\\offhand_elmwood_knife.nif"
   },
   {
     "edid": "OffhandIvoryKnifeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F39",
-    "full": "Ayleid Royal Parrying Knife",
+    "full": "LOC_FN_OffhandIvoryKnifeOOO",
     "modl": "Weapons\\Adonnay\\Offhand\\offhand_ivory_knife.nif"
   },
   {
     "edid": "OffhandWhiteKnifeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F3A",
-    "full": "Ayleid White Parrying Knife",
+    "full": "LOC_FN_OffhandWhiteKnifeOOO",
     "modl": "Weapons\\Adonnay\\Offhand\\offhand_whiteleather_knife.nif"
   },
   {
     "edid": "UniqueEnDMithrilBootsVoidOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0020C9",
-    "full": "Boots of the Void",
+    "full": "LOC_FN_UniqueEnDMithrilBootsVoidOOO",
     "modl": "armor\\dmithril\\m\\boots.nif"
   },
   {
@@ -5744,7 +5744,7 @@
   {
     "edid": "UniqueEnRLeatherGreavesMasterElementsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0020E0",
-    "full": "Elemental Master's Greaves",
+    "full": "LOC_FN_UniqueEnRLeatherGreavesMasterElementsOOO",
     "modl": "armor\\rleather\\m\\greaves.nif"
   },
   {
@@ -5756,37 +5756,37 @@
   {
     "edid": "OOOSEOrderedDSArmor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002420",
-    "full": "Golden Saint Armor",
+    "full": "LOC_FN_OOOSEOrderedDSArmor",
     "modl": "OOOSE\\Armor\\Other\\DSOrdered.nif"
   },
   {
     "edid": "DefStaffUnique1OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002593",
-    "full": "Kelum Mor Dwemer",
+    "full": "LOC_FN_DefStaffUnique1OOO",
     "modl": "armor\\DefensiveStaves\\staffunique1.nif"
   },
   {
     "edid": "DefStaffUnique2OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00259B",
-    "full": "Arch-Mage's Defence",
+    "full": "LOC_FN_DefStaffUnique2OOO",
     "modl": "armor\\DefensiveStaves\\staffunique2.nif"
   },
   {
     "edid": "DefStaffUnique3OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00259D",
-    "full": "Aiden Direnni",
+    "full": "LOC_FN_DefStaffUnique3OOO",
     "modl": "armor\\DefensiveStaves\\staffunique3.nif"
   },
   {
     "edid": "DefStaffUnique4OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00259E",
-    "full": "Lhotun's Wish",
+    "full": "LOC_FN_DefStaffUnique4OOO",
     "modl": "armor\\DefensiveStaves\\ashenstaff.nif"
   },
   {
     "edid": "DefStaffUnique5OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00259F",
-    "full": "Almalexia's Love",
+    "full": "LOC_FN_DefStaffUnique5OOO",
     "modl": "armor\\DefensiveStaves\\elvenstaff.nif"
   },
   {
@@ -5888,31 +5888,31 @@
   {
     "edid": "DreadBootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002650",
-    "full": "Dread Boots",
+    "full": "LOC_FN_DreadBootsOOO",
     "modl": "armor\\Dread Armor\\m\\ooodbootsm.nif"
   },
   {
     "edid": "DreadCuirassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002651",
-    "full": "Dread Cuirass",
+    "full": "LOC_FN_DreadCuirassOOO",
     "modl": "armor\\Dread Armor\\m\\ooodcuirassm.nif"
   },
   {
     "edid": "DreadGauntletsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002652",
-    "full": "Dread Gauntlets",
+    "full": "LOC_FN_DreadGauntletsOOO",
     "modl": "armor\\Dread Armor\\m\\ooodgauntletsm.nif"
   },
   {
     "edid": "DreadGreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002653",
-    "full": "Dread Greaves",
+    "full": "LOC_FN_DreadGreavesOOO",
     "modl": "armor\\Dread Armor\\m\\ooodgreavesm.nif"
   },
   {
     "edid": "DreadHelmetOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002654",
-    "full": "Dread Helmet",
+    "full": "LOC_FN_DreadHelmetOOO",
     "modl": "armor\\Dread Armor\\ooodhelmet.nif"
   },
   {
@@ -6056,13 +6056,13 @@
   {
     "edid": "GriffinArmorCuirassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003C1C",
-    "full": "Draconis Family Cuirass",
+    "full": "LOC_FN_GriffinArmorCuirassOOO",
     "modl": "armor\\Griffin\\m\\Cuirass.nif"
   },
   {
     "edid": "GriffinArmorShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003C1D",
-    "full": "Draconis Family Shield",
+    "full": "LOC_FN_GriffinArmorShieldOOO",
     "modl": "armor\\Griffin\\Shield.nif"
   },
   {
@@ -6098,43 +6098,43 @@
   {
     "edid": "HeavenFuryBoots",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DB",
-    "full": "Heaven's Fury Boots",
+    "full": "LOC_FN_HeavenFuryBoots",
     "modl": "armor\\hf1\\ww3bt.nif"
   },
   {
     "edid": "HeavenFuryCuirass",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DC",
-    "full": "Heaven's Fury Cuirass",
+    "full": "LOC_FN_HeavenFuryCuirass",
     "modl": "armor\\hf1\\ww3cu.nif"
   },
   {
     "edid": "HeavenFuryGauntlets",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DD",
-    "full": "Heaven's Fury Gauntlets",
+    "full": "LOC_FN_HeavenFuryGauntlets",
     "modl": "armor\\hf1\\ww3ga.nif"
   },
   {
     "edid": "HeavenFuryGreaves",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DE",
-    "full": "Heaven's Fury Greaves",
+    "full": "LOC_FN_HeavenFuryGreaves",
     "modl": "armor\\hf1\\ww3gr.nif"
   },
   {
     "edid": "HeavenFuryHelmet",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0046DF",
-    "full": "Heaven's Fury Helmet",
+    "full": "LOC_FN_HeavenFuryHelmet",
     "modl": "armor\\hf1\\ww3hlm.nif"
   },
   {
     "edid": "HeavenFuryShield",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0046E0",
-    "full": "Heaven's Fury Shield",
+    "full": "LOC_FN_HeavenFuryShield",
     "modl": "armor\\hf1\\ww3shield.nif"
   },
   {
     "edid": "HeavenFuryHelmetAlt",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0046E1",
-    "full": "Heaven's Fury Helmet",
+    "full": "LOC_FN_HeavenFuryHelmetAlt",
     "modl": "armor\\hf1\\althelmet.nif"
   },
   {
@@ -6170,7 +6170,7 @@
   {
     "edid": "HeavenFuryHelmetGoldAlt",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004C89",
-    "full": "Heaven's Fury Helmet",
+    "full": "LOC_FN_HeavenFuryHelmetGoldAlt",
     "modl": "armor\\hf2\\Alternative\\helmet.nif"
   },
   {
@@ -6188,31 +6188,31 @@
   {
     "edid": "1grayfoxsboots",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005673",
-    "full": "Gray Fox's Boots",
+    "full": "LOC_FN_1grayfoxsboots",
     "modl": "Armor\\Thief\\M\\Boots.NIF"
   },
   {
     "edid": "1grayfoxsbracers",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005674",
-    "full": "Gray Fox's Bracers",
+    "full": "LOC_FN_1grayfoxsbracers",
     "modl": "Armor\\Bracers\\Bracer01M.NIF"
   },
   {
     "edid": "1grayfoxscuirass",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005675",
-    "full": "Gray Fox's Cuirass",
+    "full": "LOC_FN_1grayfoxscuirass",
     "modl": "Armor\\Thief\\M\\Cuirass.NIF"
   },
   {
     "edid": "1grayfoxsgloves",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005676",
-    "full": "Gray Fox's Gloves",
+    "full": "LOC_FN_1grayfoxsgloves",
     "modl": "Armor\\Thief\\M\\Gauntlets.NIF"
   },
   {
     "edid": "1grayfoxsgreaves",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005677",
-    "full": "Gray Fox's Greaves",
+    "full": "LOC_FN_1grayfoxsgreaves",
     "modl": "Armor\\Thief\\M\\Greaves.NIF"
   },
   {
@@ -8162,19 +8162,19 @@
   {
     "edid": "DaedricShieldLavaOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01ABFF",
-    "full": "Daedric Prince Shield",
+    "full": "LOC_FN_DaedricShieldLavaOOO",
     "modl": "Armor\\Daedric\\Shield.NIF"
   },
   {
     "edid": "ReguardNobilityOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01AFCB",
-    "full": "Redguard Nobility Shield",
+    "full": "LOC_FN_ReguardNobilityOOO",
     "modl": "armor\\CMRedguardScaled\\RedguardShield.nif"
   },
   {
     "edid": "CMIronBattleShield08OOOSpecial",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C2DD",
-    "full": "Rinfal Vrethu's Insignia Shield",
+    "full": "LOC_FN_CMIronBattleShield08OOOSpecial",
     "modl": "Armor\\CMBattleShields\\CMBattleShield008.nif"
   },
   {
@@ -8246,7 +8246,7 @@
   {
     "edid": "TheSilverDragonMaskOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025674",
-    "full": "The Dragon's Breath",
+    "full": "LOC_FN_TheSilverDragonMaskOOO",
     "modl": "armor\\TheSilverDragonOrder\\m\\TheDragonsShadeofWar.nif"
   },
   {
@@ -8258,25 +8258,25 @@
   {
     "edid": "RedDragonShieldHeavyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025BB9",
-    "full": "Elite Dragonborne Insignia",
+    "full": "LOC_FN_RedDragonShieldHeavyOOO",
     "modl": "armor\\reddragonsh\\shield.nif"
   },
   {
     "edid": "RedDragonShieldLightOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025BBA",
-    "full": "Light Red Dragon Shield",
+    "full": "LOC_FN_RedDragonShieldLightOOO",
     "modl": "armor\\reddragonsh\\shield.nif"
   },
   {
     "edid": "ScorpionShieldHeavyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025BBB",
-    "full": "Hestarius Family Crest Shield",
+    "full": "LOC_FN_ScorpionShieldHeavyOOO",
     "modl": "armor\\scorpions\\shield.nif"
   },
   {
     "edid": "ScorpionShieldLightOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025BBC",
-    "full": "Light Scorpion Shield",
+    "full": "LOC_FN_ScorpionShieldLightOOO",
     "modl": "armor\\scorpions\\shield.nif"
   },
   {
@@ -8288,31 +8288,31 @@
   {
     "edid": "SkullShieldLightOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025BBE",
-    "full": "Light Silver Skull Shield",
+    "full": "LOC_FN_SkullShieldLightOOO",
     "modl": "armor\\skull\\shield.nif"
   },
   {
     "edid": "YinYangShieldHeavyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025BBF",
-    "full": "Black and White Akavari Shield",
+    "full": "LOC_FN_YinYangShieldHeavyOOO",
     "modl": "armor\\yin-yangshi\\shield.nif"
   },
   {
     "edid": "YinYangShieldLightOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025BC0",
-    "full": "Black and White Akavari Shield",
+    "full": "LOC_FN_YinYangShieldLightOOO",
     "modl": "armor\\yin-yangshi\\shield.nif"
   },
   {
     "edid": "pegasushelmetOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:026C63",
-    "full": "Winged Helmet",
+    "full": "LOC_FN_pegasushelmetOOO",
     "modl": "armor\\Pegasus\\phelmet.nif"
   },
   {
     "edid": "pegasusshieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:026C64",
-    "full": "Winged Shield",
+    "full": "LOC_FN_pegasusshieldOOO",
     "modl": "armor\\Pegasus\\pshield.nif"
   },
   {
@@ -8426,13 +8426,13 @@
   {
     "edid": "KDWhiteRoseHBootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027160",
-    "full": "White Rose Boots",
+    "full": "LOC_FN_KDWhiteRoseHBootsOOO",
     "modl": "Armor\\Mithril\\M\\Boots.NIF"
   },
   {
     "edid": "KDWhiteRoseHBPOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027161",
-    "full": "White Rose Breastplate",
+    "full": "LOC_FN_KDWhiteRoseHBPOOO",
     "modl": "Armor\\Mithril\\M\\Cuirass.NIF"
   },
   {
@@ -8444,31 +8444,31 @@
   {
     "edid": "KDWhiteRoseHGauntletsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027163",
-    "full": "White Rose Gauntlets",
+    "full": "LOC_FN_KDWhiteRoseHGauntletsOOO",
     "modl": "armor\\KDwhiterose\\whiterosegauntlets.nif"
   },
   {
     "edid": "KDWhiteRoseHGreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027164",
-    "full": "White Rose Greaves",
+    "full": "LOC_FN_KDWhiteRoseHGreavesOOO",
     "modl": "Armor\\Mithril\\M\\Greaves.NIF"
   },
   {
     "edid": "KDWhiteRoseHHelmOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027165",
-    "full": "White Rose Helm",
+    "full": "LOC_FN_KDWhiteRoseHHelmOOO",
     "modl": "armor\\KDwhiterose\\whiterosehelm.nif"
   },
   {
     "edid": "KDWhiteRoseHShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027166",
-    "full": "White Rose Shield",
+    "full": "LOC_FN_KDWhiteRoseHShieldOOO",
     "modl": "armor\\KDwhiterose\\whiteroseshield.nif"
   },
   {
     "edid": "CMOrcNobilityOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027167",
-    "full": "Orcish Nobility Shield",
+    "full": "LOC_FN_CMOrcNobilityOOO",
     "modl": "Armor\\CMOrcNobility\\CMOrcNobilityShield.nif"
   },
   {
@@ -8504,13 +8504,13 @@
   {
     "edid": "OOOSEHereticArmor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02B613",
-    "full": "Heretic Armor",
+    "full": "LOC_FN_OOOSEHereticArmor",
     "modl": "OOOSE\\Armor\\Other\\HereticM.NIF"
   },
   {
     "edid": "OOOSEZealotArmor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02B615",
-    "full": "Zealot Armor",
+    "full": "LOC_FN_OOOSEZealotArmor",
     "modl": "OOOSE\\Armor\\Other\\ZealotM.nif"
   },
   {
@@ -8552,55 +8552,55 @@
   {
     "edid": "vellaChainBikiniOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0329CD",
-    "full": "Amazon's Dark Plated Bikini",
+    "full": "LOC_FN_vellaChainBikiniOOO",
     "modl": "armor\\vella\\vellaChainBikini.nif"
   },
   {
     "edid": "vellaChainGreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0329CE",
-    "full": "Amazon's Dark Plated Greaves",
+    "full": "LOC_FN_vellaChainGreavesOOO",
     "modl": "armor\\vella\\vellaChainGreaves.nif"
   },
   {
     "edid": "vellaGlassBootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0329CF",
-    "full": "Ornate Obsidian Boots",
+    "full": "LOC_FN_vellaGlassBootsOOO",
     "modl": "armor\\vella\\vellaGlassBoots.nif"
   },
   {
     "edid": "vellaGlassCuirassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0329D0",
-    "full": "Ornate Obsidian Cuirass",
+    "full": "LOC_FN_vellaGlassCuirassOOO",
     "modl": "armor\\vella\\vellaGlassCuirass.nif"
   },
   {
     "edid": "vellaGlassGauntletsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0329D1",
-    "full": "Ornate Obsidian Gauntlets",
+    "full": "LOC_FN_vellaGlassGauntletsOOO",
     "modl": "armor\\vella\\vellaGlassGauntlets.nif"
   },
   {
     "edid": "vellaGlassGreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0329D2",
-    "full": "Ornate Obsidian Greaves",
+    "full": "LOC_FN_vellaGlassGreavesOOO",
     "modl": "armor\\vella\\vellaGlassGreaves.nif"
   },
   {
     "edid": "vellaGlassHelmetOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0329D3",
-    "full": "Ornate Obsidian Helmet",
+    "full": "LOC_FN_vellaGlassHelmetOOO",
     "modl": "armor\\vella\\vellaGlassHelmet.nif"
   },
   {
     "edid": "vellaGlassShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0329D4",
-    "full": "Ornate Obsidian Shield",
+    "full": "LOC_FN_vellaGlassShieldOOO",
     "modl": "armor\\vella\\vellaGlassShield.nif"
   },
   {
     "edid": "vellaShadowsCowlOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0329D5",
-    "full": "Amazon's Dark Cowl",
+    "full": "LOC_FN_vellaShadowsCowlOOO",
     "modl": "armor\\vella\\vellaCowl.nif"
   },
   {
@@ -8636,7 +8636,7 @@
   {
     "edid": "vellaGlassBootsOOOz",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:034754",
-    "full": "Amazon Dark Plated Boots",
+    "full": "LOC_FN_vellaGlassBootsOOOz",
     "modl": "armor\\vella\\vellaGlassBoots.nif"
   },
   {
@@ -8678,475 +8678,475 @@
   {
     "edid": "vellaGlassGauntletsOOOz",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:034C3B",
-    "full": "Amazon's Dark Plated Gauntlets",
+    "full": "LOC_FN_vellaGlassGauntletsOOOz",
     "modl": "armor\\vella\\vellaGlassGauntlets.nif"
   },
   {
     "edid": "javbmbbt01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035786",
-    "full": "High Chancellor's Boots",
+    "full": "LOC_FN_javbmbbt01OOO",
     "modl": "armor\\javbmb\\javbmbbt01.nif"
   },
   {
     "edid": "javbmbcu01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035787",
-    "full": "High Chancellor's Cuirass",
+    "full": "LOC_FN_javbmbcu01OOO",
     "modl": "armor\\javbmb\\javbmbcu01.nif"
   },
   {
     "edid": "javbmbga01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035788",
-    "full": "High Chancellor's Gauntlets",
+    "full": "LOC_FN_javbmbga01OOO",
     "modl": "armor\\javbmb\\javbmbga01.nif"
   },
   {
     "edid": "javbmbgr01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035789",
-    "full": "High Chancellor's Greaves",
+    "full": "LOC_FN_javbmbgr01OOO",
     "modl": "armor\\javbmb\\javbmbgr01.nif"
   },
   {
     "edid": "javbmbhlm01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03578A",
-    "full": "High Chancellor's Helm",
+    "full": "LOC_FN_javbmbhlm01OOO",
     "modl": "armor\\javbmb\\javbmbhlm01.nif"
   },
   {
     "edid": "javbsbt02OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03578B",
-    "full": "Blades Elite Boots",
+    "full": "LOC_FN_javbsbt02OOO",
     "modl": "armor\\javbs\\javbsbt02.nif"
   },
   {
     "edid": "javbscu02OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03578C",
-    "full": "Blades Elite Cuirass",
+    "full": "LOC_FN_javbscu02OOO",
     "modl": "armor\\javbs\\javbscu02.nif"
   },
   {
     "edid": "javbsga01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03578D",
-    "full": "Blades Elite Gauntlets",
+    "full": "LOC_FN_javbsga01OOO",
     "modl": "armor\\javbs\\javbsga01.nif"
   },
   {
     "edid": "javbsgr01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03578E",
-    "full": "Blades Elite Greaves",
+    "full": "LOC_FN_javbsgr01OOO",
     "modl": "armor\\javbs\\javbsgr01.nif"
   },
   {
     "edid": "javbshlm02OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03578F",
-    "full": "Blades Elite Helm",
+    "full": "LOC_FN_javbshlm02OOO",
     "modl": "armor\\javbs\\javbshlm02.nif"
   },
   {
     "edid": "javrmbbt01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035790",
-    "full": "Arch-Mage's Boots",
+    "full": "LOC_FN_javrmbbt01OOO",
     "modl": "armor\\javrmb\\javrmbbt01.nif"
   },
   {
     "edid": "javrmbcu01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035791",
-    "full": "Arch-Mage's Cuirass",
+    "full": "LOC_FN_javrmbcu01OOO",
     "modl": "armor\\javrmb\\javrmbcu01.nif"
   },
   {
     "edid": "javrmbga01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035792",
-    "full": "Arch-Mage's Gauntlets",
+    "full": "LOC_FN_javrmbga01OOO",
     "modl": "armor\\javrmb\\javrmbga01.nif"
   },
   {
     "edid": "javrmbgr01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035793",
-    "full": "Arch-Mage's Greaves",
+    "full": "LOC_FN_javrmbgr01OOO",
     "modl": "armor\\javrmb\\javrmbgr01.nif"
   },
   {
     "edid": "javrmbhlm01OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035794",
-    "full": "Arch-Mage's Helm",
+    "full": "LOC_FN_javrmbhlm01OOO",
     "modl": "armor\\javrmb\\javrmbhlm01.nif"
   },
   {
     "edid": "OOOSEObeliskArmor1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035F17",
-    "full": "Tarnished Obelisk Armor",
+    "full": "LOC_FN_OOOSEObeliskArmor1",
     "modl": "OOOSE\\armor\\obelisk\\Heavy\\M\\Armor.nif"
   },
   {
     "edid": "OOOSEObeliskArmor2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035F18",
-    "full": "Simple Obelisk Armor",
+    "full": "LOC_FN_OOOSEObeliskArmor2",
     "modl": "OOOSE\\armor\\obelisk\\Heavy\\M\\Armor.nif"
   },
   {
     "edid": "OOOSEObeliskArmor3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035F19",
-    "full": "Sterile Obelisk Armor",
+    "full": "LOC_FN_OOOSEObeliskArmor3",
     "modl": "OOOSE\\armor\\obelisk\\Heavy\\M\\Armor.nif"
   },
   {
     "edid": "OOOSEObeliskArmor4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035F1A",
-    "full": "Pure Obelisk Armor",
+    "full": "LOC_FN_OOOSEObeliskArmor4",
     "modl": "OOOSE\\armor\\obelisk\\Heavy\\M\\Armor.nif"
   },
   {
     "edid": "OOOSEObeliskArmor5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035F1B",
-    "full": "Immaculate Obelisk Armor",
+    "full": "LOC_FN_OOOSEObeliskArmor5",
     "modl": "OOOSE\\armor\\obelisk\\Heavy\\M\\Armor.nif"
   },
   {
     "edid": "OOOSEObeliskArmor6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035F1C",
-    "full": "Perfect Obelisk Armor",
+    "full": "LOC_FN_OOOSEObeliskArmor6",
     "modl": "OOOSE\\armor\\obelisk\\Heavy\\M\\Armor.nif"
   },
   {
     "edid": "OOOSEObeliskSuit1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035F1D",
-    "full": "Tarnished Obelisk Suit",
+    "full": "LOC_FN_OOOSEObeliskSuit1",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\M\\Suit.nif"
   },
   {
     "edid": "OOOSEObeliskSuit2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035F1E",
-    "full": "Simple Obelisk Suit",
+    "full": "LOC_FN_OOOSEObeliskSuit2",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\M\\Suit.nif"
   },
   {
     "edid": "OOOSEObeliskSuit3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035F1F",
-    "full": "Sterile Obelisk Suit",
+    "full": "LOC_FN_OOOSEObeliskSuit3",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\M\\Suit.nif"
   },
   {
     "edid": "OOOSEObeliskSuit4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035F20",
-    "full": "Pure Obelisk Suit",
+    "full": "LOC_FN_OOOSEObeliskSuit4",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\M\\Suit.nif"
   },
   {
     "edid": "OOOSEObeliskSuit5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035F21",
-    "full": "Immaculate Obelisk Suit",
+    "full": "LOC_FN_OOOSEObeliskSuit5",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\M\\Suit.nif"
   },
   {
     "edid": "OOOSEObeliskSuit6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:035F22",
-    "full": "Perfect Obelisk Suit",
+    "full": "LOC_FN_OOOSEObeliskSuit6",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\M\\Suit.nif"
   },
   {
     "edid": "OOOSEObeliskHelmetOpen1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036ED9",
-    "full": "Tarnished Obelisk Thornhelm",
+    "full": "LOC_FN_OOOSEObeliskHelmetOpen1",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetOpen.nif"
   },
   {
     "edid": "OOOSEObeliskHelmetOpen2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EDA",
-    "full": "Simple Obelisk Thornhelm",
+    "full": "LOC_FN_OOOSEObeliskHelmetOpen2",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetOpen.nif"
   },
   {
     "edid": "OOOSEObeliskHelmetOpen3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EDB",
-    "full": "Sterile Obelisk Thornhelm",
+    "full": "LOC_FN_OOOSEObeliskHelmetOpen3",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetOpen.nif"
   },
   {
     "edid": "OOOSEObeliskHelmetOpen4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EDC",
-    "full": "Pure Obelisk Thornhelm",
+    "full": "LOC_FN_OOOSEObeliskHelmetOpen4",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetOpen.nif"
   },
   {
     "edid": "OOOSEObeliskHelmetOpen5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EDD",
-    "full": "Immaculate Obelisk Thornhelm",
+    "full": "LOC_FN_OOOSEObeliskHelmetOpen5",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetOpen.nif"
   },
   {
     "edid": "OOOSEObeliskHelmetOpen6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EDE",
-    "full": "Perfect Obelisk Thornhelm",
+    "full": "LOC_FN_OOOSEObeliskHelmetOpen6",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetOpen.nif"
   },
   {
     "edid": "OOOSEObeliskMask1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EDF",
-    "full": "Tarnished Obelisk Mask",
+    "full": "LOC_FN_OOOSEObeliskMask1",
     "modl": "OOOSE\\armor\\obelisk\\Light\\HelmetClosed.nif"
   },
   {
     "edid": "OOOSEObeliskMask2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EE0",
-    "full": "Simple Obelisk Mask",
+    "full": "LOC_FN_OOOSEObeliskMask2",
     "modl": "OOOSE\\armor\\obelisk\\Light\\HelmetClosed.nif"
   },
   {
     "edid": "OOOSEObeliskMask3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EE1",
-    "full": "Sterile Obelisk Mask",
+    "full": "LOC_FN_OOOSEObeliskMask3",
     "modl": "OOOSE\\armor\\obelisk\\Light\\HelmetClosed.nif"
   },
   {
     "edid": "OOOSEObeliskMask4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EE2",
-    "full": "Pure Obelisk Mask",
+    "full": "LOC_FN_OOOSEObeliskMask4",
     "modl": "OOOSE\\armor\\obelisk\\Light\\HelmetClosed.nif"
   },
   {
     "edid": "OOOSEObeliskMask5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EE3",
-    "full": "Immaculate Obelisk Mask",
+    "full": "LOC_FN_OOOSEObeliskMask5",
     "modl": "OOOSE\\armor\\obelisk\\Light\\HelmetClosed.nif"
   },
   {
     "edid": "OOOSEObeliskMask6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EE4",
-    "full": "Perfect Obelisk Mask",
+    "full": "LOC_FN_OOOSEObeliskMask6",
     "modl": "OOOSE\\armor\\obelisk\\Light\\HelmetClosed.nif"
   },
   {
     "edid": "OOOSEObeliskHelmet1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EE5",
-    "full": "Tarnished Obelisk Helmet",
+    "full": "LOC_FN_OOOSEObeliskHelmet1",
     "modl": "OOOSE\\armor\\obelisk\\Heavy\\Helmet.nif"
   },
   {
     "edid": "OOOSEObeliskHelmet2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EE6",
-    "full": "Simple Obelisk Helmet",
+    "full": "LOC_FN_OOOSEObeliskHelmet2",
     "modl": "OOOSE\\armor\\obelisk\\Heavy\\Helmet.nif"
   },
   {
     "edid": "OOOSEObeliskHelmet3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EE7",
-    "full": "Sterile Obelisk Helmet",
+    "full": "LOC_FN_OOOSEObeliskHelmet3",
     "modl": "OOOSE\\armor\\obelisk\\Heavy\\Helmet.nif"
   },
   {
     "edid": "OOOSEObeliskHelmet4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EE8",
-    "full": "Pure Obelisk Helmet",
+    "full": "LOC_FN_OOOSEObeliskHelmet4",
     "modl": "OOOSE\\armor\\obelisk\\Heavy\\Helmet.nif"
   },
   {
     "edid": "OOOSEObeliskHelmet5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EE9",
-    "full": "Immaculate Obelisk Helmet",
+    "full": "LOC_FN_OOOSEObeliskHelmet5",
     "modl": "OOOSE\\armor\\obelisk\\Heavy\\Helmet.nif"
   },
   {
     "edid": "OOOSEObeliskHelmet6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EEA",
-    "full": "Perfect Obelisk Helmet",
+    "full": "LOC_FN_OOOSEObeliskHelmet6",
     "modl": "OOOSE\\armor\\obelisk\\Heavy\\Helmet.nif"
   },
   {
     "edid": "OOOSEObeliskTowershield1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EEB",
-    "full": "Tarnished Obelisk Tower Shield",
+    "full": "LOC_FN_OOOSEObeliskTowershield1",
     "modl": "OOOSE\\Armor\\Obelisk\\Heavy\\Shield.nif"
   },
   {
     "edid": "OOOSEObeliskTowershield2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EEC",
-    "full": "Simple Obelisk Tower Shield",
+    "full": "LOC_FN_OOOSEObeliskTowershield2",
     "modl": "OOOSE\\Armor\\Obelisk\\Heavy\\Shield.nif"
   },
   {
     "edid": "OOOSEObeliskTowershield3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EED",
-    "full": "Sterile Obelisk Tower Shield",
+    "full": "LOC_FN_OOOSEObeliskTowershield3",
     "modl": "OOOSE\\Armor\\Obelisk\\Heavy\\Shield.nif"
   },
   {
     "edid": "OOOSEObeliskTowershield4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EEE",
-    "full": "Pure Obelisk Tower Shield",
+    "full": "LOC_FN_OOOSEObeliskTowershield4",
     "modl": "OOOSE\\Armor\\Obelisk\\Heavy\\Shield.nif"
   },
   {
     "edid": "OOOSEObeliskTowershield5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EEF",
-    "full": "Immaculate Obelisk Tower Shield",
+    "full": "LOC_FN_OOOSEObeliskTowershield5",
     "modl": "OOOSE\\Armor\\Obelisk\\Heavy\\Shield.nif"
   },
   {
     "edid": "OOOSEObeliskTowershield6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EF0",
-    "full": "Perfect Obelisk Tower Shield",
+    "full": "LOC_FN_OOOSEObeliskTowershield6",
     "modl": "OOOSE\\Armor\\Obelisk\\Heavy\\Shield.nif"
   },
   {
     "edid": "OOOSEObeliskShield1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EF1",
-    "full": "Tarnished Obelisk Shield",
+    "full": "LOC_FN_OOOSEObeliskShield1",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\Shield.nif"
   },
   {
     "edid": "OOOSEObeliskShield2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EF2",
-    "full": "Simple Obelisk Shield",
+    "full": "LOC_FN_OOOSEObeliskShield2",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\Shield.nif"
   },
   {
     "edid": "OOOSEObeliskShield3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EF3",
-    "full": "Sterile Obelisk Shield",
+    "full": "LOC_FN_OOOSEObeliskShield3",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\Shield.nif"
   },
   {
     "edid": "OOOSEObeliskShield4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EF4",
-    "full": "Pure Obelisk Shield",
+    "full": "LOC_FN_OOOSEObeliskShield4",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\Shield.nif"
   },
   {
     "edid": "OOOSEObeliskShield5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EF5",
-    "full": "Immaculate Obelisk Shield",
+    "full": "LOC_FN_OOOSEObeliskShield5",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\Shield.nif"
   },
   {
     "edid": "OOOSEObeliskShield6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036EF6",
-    "full": "Perfect Obelisk Shield",
+    "full": "LOC_FN_OOOSEObeliskShield6",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\Shield.nif"
   },
   {
     "edid": "OOOSEOrderMask1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D44",
-    "full": "Tarnished Order Mask",
+    "full": "LOC_FN_OOOSEOrderMask1",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetClosed.nif"
   },
   {
     "edid": "OOOSEOrderMask2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D45",
-    "full": "Simple Order Mask",
+    "full": "LOC_FN_OOOSEOrderMask2",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetClosed.nif"
   },
   {
     "edid": "OOOSEOrderMask3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D46",
-    "full": "Sterile Order Mask",
+    "full": "LOC_FN_OOOSEOrderMask3",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetClosed.nif"
   },
   {
     "edid": "OOOSEOrderMask4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D47",
-    "full": "Pure Order Mask",
+    "full": "LOC_FN_OOOSEOrderMask4",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetClosed.nif"
   },
   {
     "edid": "OOOSEOrderMask5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D48",
-    "full": "Immaculate Order Mask",
+    "full": "LOC_FN_OOOSEOrderMask5",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetClosed.nif"
   },
   {
     "edid": "OOOSEOrderMask6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D49",
-    "full": "Perfect Order Mask",
+    "full": "LOC_FN_OOOSEOrderMask6",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetClosed.nif"
   },
   {
     "edid": "OOOSEOrderRobe1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D4A",
-    "full": "Tarnished Order Robe",
+    "full": "LOC_FN_OOOSEOrderRobe1",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\M\\Suit.nif"
   },
   {
     "edid": "OOOSEOrderRobe2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D4B",
-    "full": "Simple Order Robe",
+    "full": "LOC_FN_OOOSEOrderRobe2",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\M\\Suit.nif"
   },
   {
     "edid": "OOOSEOrderRobe3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D4C",
-    "full": "Sterile Order Robe",
+    "full": "LOC_FN_OOOSEOrderRobe3",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\M\\Suit.nif"
   },
   {
     "edid": "OOOSEOrderRobe4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D4D",
-    "full": "Pure Order Robe",
+    "full": "LOC_FN_OOOSEOrderRobe4",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\M\\Suit.nif"
   },
   {
     "edid": "OOOSEOrderRobe5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D4E",
-    "full": "Immaculate Order Robe",
+    "full": "LOC_FN_OOOSEOrderRobe5",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\M\\Suit.nif"
   },
   {
     "edid": "OOOSEOrderRobe6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D4F",
-    "full": "Perfect Order Robe",
+    "full": "LOC_FN_OOOSEOrderRobe6",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\M\\Suit.nif"
   },
   {
     "edid": "OOOSEOrderShield1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D50",
-    "full": "Tarnished Order Shield",
+    "full": "LOC_FN_OOOSEOrderShield1",
     "modl": "OOOSE\\Armor\\Obelisk\\Heavy\\Shield.nif"
   },
   {
     "edid": "OOOSEOrderShield2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D51",
-    "full": "Simple Order Shield",
+    "full": "LOC_FN_OOOSEOrderShield2",
     "modl": "OOOSE\\Armor\\Obelisk\\Heavy\\Shield.nif"
   },
   {
     "edid": "OOOSEOrderShield3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D52",
-    "full": "Sterile Order Shield",
+    "full": "LOC_FN_OOOSEOrderShield3",
     "modl": "OOOSE\\Armor\\Obelisk\\Heavy\\Shield.nif"
   },
   {
     "edid": "OOOSEOrderShield4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D53",
-    "full": "Pure Order Shield",
+    "full": "LOC_FN_OOOSEOrderShield4",
     "modl": "OOOSE\\Armor\\Obelisk\\Heavy\\Shield.nif"
   },
   {
     "edid": "OOOSEOrderShield5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D54",
-    "full": "Immaculate Order Shield",
+    "full": "LOC_FN_OOOSEOrderShield5",
     "modl": "OOOSE\\Armor\\Obelisk\\Heavy\\Shield.nif"
   },
   {
     "edid": "OOOSEOrderShield6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D55",
-    "full": "Perfect Order Shield",
+    "full": "LOC_FN_OOOSEOrderShield6",
     "modl": "OOOSE\\Armor\\Obelisk\\Heavy\\Shield.nif"
   },
   {
     "edid": "OOOSEPriestOrderMask",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D62",
-    "full": "Perfect Order Mask",
+    "full": "LOC_FN_OOOSEPriestOrderMask",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetClosed.nif"
   },
   {
     "edid": "OOOSEPriestOrderRobe",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D63",
-    "full": "Perfect Order Robe",
+    "full": "LOC_FN_OOOSEPriestOrderRobe",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\M\\Suit.nif"
   },
   {
     "edid": "OOOSEOrderShieldKnight",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:037D64",
-    "full": "Shield of Order",
+    "full": "LOC_FN_OOOSEOrderShieldKnight",
     "modl": "OOOSE\\Armor\\Obelisk\\Heavy\\Shield.nif"
   },
   {
@@ -9230,97 +9230,97 @@
   {
     "edid": "DaedricShieldLava",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038D54",
-    "full": "Daedric Prince Shield",
+    "full": "LOC_FN_DaedricShieldLava",
     "modl": "Armor\\Daedric\\Shield.NIF"
   },
   {
     "edid": "Goblinshield1OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038E02",
-    "full": "Bloody Hand Shield",
+    "full": "LOC_FN_Goblinshield1OOO",
     "modl": "armor\\FPGoblinShield\\g1shield.nif"
   },
   {
     "edid": "Goblinshield2OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038E03",
-    "full": "Rock Biter Shield",
+    "full": "LOC_FN_Goblinshield2OOO",
     "modl": "armor\\FPGoblinShield\\g2shield.nif"
   },
   {
     "edid": "Goblinshield3OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038E04",
-    "full": "Skull Breaker Shield",
+    "full": "LOC_FN_Goblinshield3OOO",
     "modl": "armor\\FPGoblinShield\\g3shield.nif"
   },
   {
     "edid": "Goblinshield4OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038E05",
-    "full": "White Skin Shield",
+    "full": "LOC_FN_Goblinshield4OOO",
     "modl": "armor\\FPGoblinShield\\g4shield.nif"
   },
   {
     "edid": "Goblinshield5OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038E06",
-    "full": "Three Feather Shield",
+    "full": "LOC_FN_Goblinshield5OOO",
     "modl": "armor\\FPGoblinShield\\g5shield.nif"
   },
   {
     "edid": "Goblinshield6OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038E07",
-    "full": "Sharp Tooth Shield",
+    "full": "LOC_FN_Goblinshield6OOO",
     "modl": "armor\\FPGoblinShield\\g6shield.nif"
   },
   {
     "edid": "Goblinshield7OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038E08",
-    "full": "Dust Eater Shield",
+    "full": "LOC_FN_Goblinshield7OOO",
     "modl": "armor\\FPGoblinShield\\g7shield.nif"
   },
   {
     "edid": "EYCCAbootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0392EF",
-    "full": "Chromed Amazon Boots",
+    "full": "LOC_FN_EYCCAbootsOOO",
     "modl": "armor\\EY_CCA\\f\\boots.nif"
   },
   {
     "edid": "EYCCAcuirassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0392F0",
-    "full": "Chromed Amazon Cuirass",
+    "full": "LOC_FN_EYCCAcuirassOOO",
     "modl": "armor\\EY_CCA\\f\\cuirass.nif"
   },
   {
     "edid": "EYCCAgauntlesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0392F1",
-    "full": "Chromed Amazon Gauntlets",
+    "full": "LOC_FN_EYCCAgauntlesOOO",
     "modl": "armor\\EY_CCA\\f\\gauntlet.nif"
   },
   {
     "edid": "EYCCAgreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0392F2",
-    "full": "Chromed Amazon Greaves",
+    "full": "LOC_FN_EYCCAgreavesOOO",
     "modl": "armor\\EY_CCA\\f\\greaves.nif"
   },
   {
     "edid": "EYQMABootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0392F3",
-    "full": "Amazon Queen's Boots",
+    "full": "LOC_FN_EYQMABootsOOO",
     "modl": "armor\\EY_QMA\\f\\boots.nif"
   },
   {
     "edid": "EYQMAcuirassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0392F4",
-    "full": "Amazon Queen's Cuirass",
+    "full": "LOC_FN_EYQMAcuirassOOO",
     "modl": "armor\\EY_QMA\\f\\cuirass.nif"
   },
   {
     "edid": "EYQMAgauntletsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0392F5",
-    "full": "Amazon Queen's Gauntlets",
+    "full": "LOC_FN_EYQMAgauntletsOOO",
     "modl": "armor\\EY_QMA\\f\\gauntlet.nif"
   },
   {
     "edid": "EYQMAgreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0392F6",
-    "full": "Amazon Queen's Greaves",
+    "full": "LOC_FN_EYQMAgreavesOOO",
     "modl": "armor\\EY_QMA\\f\\greaves.nif"
   },
   {
@@ -9398,7 +9398,7 @@
   {
     "edid": "FurGauntletsBeast",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03BE6C",
-    "full": "Fur Beast Gauntlets",
+    "full": "LOC_FN_FurGauntletsBeast",
     "modl": "armor\\BeastClaw\\m\\beastclawgauntlets.nif"
   },
   {
@@ -9446,181 +9446,181 @@
   {
     "edid": "BraidedBootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDF9",
-    "full": "Braided Boots",
+    "full": "LOC_FN_BraidedBootsOOO",
     "modl": "armor\\Braided\\m\\bboots.nif"
   },
   {
     "edid": "BraidedGlovesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDFA",
-    "full": "Braided Gloves",
+    "full": "LOC_FN_BraidedGlovesOOO",
     "modl": "armor\\Braided\\m\\bgauntlet.nif"
   },
   {
     "edid": "BraidedHelmetOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDFB",
-    "full": "Braided Helm",
+    "full": "LOC_FN_BraidedHelmetOOO",
     "modl": "armor\\Braided\\bhelmet.nif"
   },
   {
     "edid": "BraidedHoodOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDFC",
-    "full": "Braided Hood",
+    "full": "LOC_FN_BraidedHoodOOO",
     "modl": "armor\\Braided\\bhood.nif"
   },
   {
     "edid": "BraidedShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDFD",
-    "full": "Braided Shield",
+    "full": "LOC_FN_BraidedShieldOOO",
     "modl": "armor\\Braided\\bshield.nif"
   },
   {
     "edid": "BraidedSuitOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03DDFE",
-    "full": "Braided Tunic",
+    "full": "LOC_FN_BraidedSuitOOO",
     "modl": "armor\\Braided\\m\\bshirt.nif"
   },
   {
     "edid": "OOOSEObeliskMaskBeast1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E981",
-    "full": "Tarnished Obelisk Mask",
+    "full": "LOC_FN_OOOSEObeliskMaskBeast1",
     "modl": "OOOSE\\armor\\obelisk\\Light\\HelmetClosedBeast.nif"
   },
   {
     "edid": "OOOSEObeliskMaskBeast2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E982",
-    "full": "Simple Obelisk Mask",
+    "full": "LOC_FN_OOOSEObeliskMaskBeast2",
     "modl": "OOOSE\\armor\\obelisk\\Light\\HelmetClosedBeast.nif"
   },
   {
     "edid": "OOOSEObeliskMaskBeast3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E983",
-    "full": "Sterile Obelisk Mask",
+    "full": "LOC_FN_OOOSEObeliskMaskBeast3",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetClosedBeast.nif"
   },
   {
     "edid": "OOOSEObeliskMaskBeast4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E984",
-    "full": "Pure Obelisk Mask",
+    "full": "LOC_FN_OOOSEObeliskMaskBeast4",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetClosedBeast.nif"
   },
   {
     "edid": "OOOSEObeliskMaskBeast5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E985",
-    "full": "Immaculate Obelisk Mask",
+    "full": "LOC_FN_OOOSEObeliskMaskBeast5",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetClosedBeast.nif"
   },
   {
     "edid": "OOOSEObeliskMaskBeast6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E986",
-    "full": "Perfect Obelisk Mask",
+    "full": "LOC_FN_OOOSEObeliskMaskBeast6",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetClosedBeast.nif"
   },
   {
     "edid": "OOOSEOrderMaskBeast1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E987",
-    "full": "Tarnished Order Mask",
+    "full": "LOC_FN_OOOSEOrderMaskBeast1",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetClosedBeast.nif"
   },
   {
     "edid": "OOOSEOrderMaskBeast2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E988",
-    "full": "Simple Order Mask",
+    "full": "LOC_FN_OOOSEOrderMaskBeast2",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetClosedBeast.nif"
   },
   {
     "edid": "OOOSEOrderMaskBeast3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E989",
-    "full": "Sterile Order Mask",
+    "full": "LOC_FN_OOOSEOrderMaskBeast3",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetClosedBeast.nif"
   },
   {
     "edid": "OOOSEOrderMaskBeast4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E98A",
-    "full": "Pure Order Mask",
+    "full": "LOC_FN_OOOSEOrderMaskBeast4",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetClosedBeast.nif"
   },
   {
     "edid": "OOOSEOrderMaskBeast5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E98B",
-    "full": "Immaculate Order Mask",
+    "full": "LOC_FN_OOOSEOrderMaskBeast5",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetClosedBeast.nif"
   },
   {
     "edid": "OOOSEOrderMaskBeast6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E98C",
-    "full": "Perfect Order Mask",
+    "full": "LOC_FN_OOOSEOrderMaskBeast6",
     "modl": "OOOSE\\Armor\\Obelisk\\Light\\HelmetClosedBeast.nif"
   },
   {
     "edid": "OOOSEDarkSeducerOfficerHelmetReward6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:040CBA",
-    "full": "Mazken Officer's Helmet",
+    "full": "LOC_FN_OOOSEDarkSeducerOfficerHelmetReward6",
     "modl": "Armor\\DarkSeducer\\M\\HelmetCaptain.NIF"
   },
   {
     "edid": "OOOSEDarkSeducerOfficerHelmetReward5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:040CBB",
-    "full": "Mazken Officer's Helmet",
+    "full": "LOC_FN_OOOSEDarkSeducerOfficerHelmetReward5",
     "modl": "Armor\\DarkSeducer\\M\\HelmetCaptain.NIF"
   },
   {
     "edid": "OOOSEDarkSeducerOfficerHelmetReward4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:040CBC",
-    "full": "Mazken Officer's Helmet",
+    "full": "LOC_FN_OOOSEDarkSeducerOfficerHelmetReward4",
     "modl": "Armor\\DarkSeducer\\M\\HelmetCaptain.NIF"
   },
   {
     "edid": "OOOSEDarkSeducerOfficerHelmetReward3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:040CBD",
-    "full": "Mazken Officer's Helmet",
+    "full": "LOC_FN_OOOSEDarkSeducerOfficerHelmetReward3",
     "modl": "Armor\\DarkSeducer\\M\\HelmetCaptain.NIF"
   },
   {
     "edid": "OOOSEDarkSeducerOfficerHelmetReward2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:040CBE",
-    "full": "Mazken Officer's Helmet",
+    "full": "LOC_FN_OOOSEDarkSeducerOfficerHelmetReward2",
     "modl": "Armor\\DarkSeducer\\M\\HelmetCaptain.NIF"
   },
   {
     "edid": "OOOSEDarkSeducerOfficerHelmetReward1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:040CBF",
-    "full": "Mazken Officer's Helmet",
+    "full": "LOC_FN_OOOSEDarkSeducerOfficerHelmetReward1",
     "modl": "Armor\\DarkSeducer\\M\\HelmetCaptain.NIF"
   },
   {
     "edid": "OOOSEDarkSeducerEliteHelmetReward1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:040CC5",
-    "full": "Mazken Elite Helmet",
+    "full": "LOC_FN_OOOSEDarkSeducerEliteHelmetReward1",
     "modl": "OOOSE\\armor\\femdark\\m\\helmetelite.nif"
   },
   {
     "edid": "OOOSEDarkSeducerEliteHelmetReward2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:040CC6",
-    "full": "Mazken Elite Helmet",
+    "full": "LOC_FN_OOOSEDarkSeducerEliteHelmetReward2",
     "modl": "OOOSE\\armor\\femdark\\m\\helmetelite.nif"
   },
   {
     "edid": "OOOSEDarkSeducerEliteHelmetReward3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:040CC7",
-    "full": "Mazken Elite Helmet",
+    "full": "LOC_FN_OOOSEDarkSeducerEliteHelmetReward3",
     "modl": "OOOSE\\armor\\femdark\\m\\helmetelite.nif"
   },
   {
     "edid": "OOOSEDarkSeducerEliteHelmetReward4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:040CC8",
-    "full": "Mazken Elite Helmet",
+    "full": "LOC_FN_OOOSEDarkSeducerEliteHelmetReward4",
     "modl": "OOOSE\\armor\\femdark\\m\\helmetelite.nif"
   },
   {
     "edid": "OOOSEDarkSeducerEliteHelmetReward5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:040CC9",
-    "full": "Mazken Elite Helmet",
+    "full": "LOC_FN_OOOSEDarkSeducerEliteHelmetReward5",
     "modl": "OOOSE\\armor\\femdark\\m\\helmetelite.nif"
   },
   {
     "edid": "OOOSEDarkSeducerEliteHelmetReward6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:040CCA",
-    "full": "Mazken Elite Helmet",
+    "full": "LOC_FN_OOOSEDarkSeducerEliteHelmetReward6",
     "modl": "OOOSE\\armor\\femdark\\m\\helmetelite.nif"
   },
   {
@@ -9668,115 +9668,115 @@
   {
     "edid": "OOOSEAmberHelmetBregor1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:043EE2",
-    "full": "Bregor's Helmet",
+    "full": "LOC_FN_OOOSEAmberHelmetBregor1",
     "modl": "OOOSE\\Armor\\Amber\\HelmetBregor.nif"
   },
   {
     "edid": "OOOSEAmberHelmetBregor2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:043EE4",
-    "full": "Bregor's Helmet",
+    "full": "LOC_FN_OOOSEAmberHelmetBregor2",
     "modl": "OOOSE\\Armor\\Amber\\HelmetBregor.nif"
   },
   {
     "edid": "OOOSEAmberHelmetBregor3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:043EE5",
-    "full": "Bregor's Helmet",
+    "full": "LOC_FN_OOOSEAmberHelmetBregor3",
     "modl": "OOOSE\\Armor\\Amber\\HelmetBregor.nif"
   },
   {
     "edid": "OOOSEAmberHelmetBregor4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:043EE6",
-    "full": "Bregor's Helmet",
+    "full": "LOC_FN_OOOSEAmberHelmetBregor4",
     "modl": "OOOSE\\Armor\\Amber\\HelmetBregor.nif"
   },
   {
     "edid": "OOOSEAmberHelmetBregor5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:043EE7",
-    "full": "Bregor's Helmet",
+    "full": "LOC_FN_OOOSEAmberHelmetBregor5",
     "modl": "OOOSE\\Armor\\Amber\\HelmetBregor.nif"
   },
   {
     "edid": "OOOSEAmberHelmetBregor6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:043EE8",
-    "full": "Bregor's Helmet",
+    "full": "LOC_FN_OOOSEAmberHelmetBregor6",
     "modl": "OOOSE\\Armor\\Amber\\HelmetBregor.nif"
   },
   {
     "edid": "OOOSEGoldenSaintOfficerHelmetReward1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:044CFE",
-    "full": "Aureal Officer's Helmet",
+    "full": "LOC_FN_OOOSEGoldenSaintOfficerHelmetReward1",
     "modl": "OOOSE\\Armor\\FemSaint\\m\\helmetcaptain.nif"
   },
   {
     "edid": "IvorybootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:044F32",
-    "full": "The Bear's Boots",
+    "full": "LOC_FN_IvorybootsOOO",
     "modl": "armor\\Ivory\\m\\boots.nif"
   },
   {
     "edid": "IvorycuirassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:044F33",
-    "full": "The Bear's Cuirass",
+    "full": "LOC_FN_IvorycuirassOOO",
     "modl": "armor\\Ivory\\m\\cuirass.nif"
   },
   {
     "edid": "IvorygauntletsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:044F34",
-    "full": "The Bear's Gauntlets",
+    "full": "LOC_FN_IvorygauntletsOOO",
     "modl": "armor\\Ivory\\m\\gauntlets.nif"
   },
   {
     "edid": "IvorygreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:044F35",
-    "full": "The Bear's Greaves",
+    "full": "LOC_FN_IvorygreavesOOO",
     "modl": "armor\\Ivory\\m\\greaves.nif"
   },
   {
     "edid": "IvoryhelmetOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:044F36",
-    "full": "The Bear's Helmet",
+    "full": "LOC_FN_IvoryhelmetOOO",
     "modl": "armor\\Ivory\\m\\helmet.nif"
   },
   {
     "edid": "IvorysheildOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:044F37",
-    "full": "The Bear's Shield",
+    "full": "LOC_FN_IvorysheildOOO",
     "modl": "armor\\Ivory\\shield.nif"
   },
   {
     "edid": "OOOSEGoldenSaintOfficerHelmetReward2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:045401",
-    "full": "Aureal Officer's Helmet",
+    "full": "LOC_FN_OOOSEGoldenSaintOfficerHelmetReward2",
     "modl": "OOOSE\\Armor\\FemSaint\\m\\helmetcaptain.nif"
   },
   {
     "edid": "OOOSEGoldenSaintOfficerHelmetReward3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:045402",
-    "full": "Aureal Officer's Helmet",
+    "full": "LOC_FN_OOOSEGoldenSaintOfficerHelmetReward3",
     "modl": "OOOSE\\Armor\\FemSaint\\m\\helmetcaptain.nif"
   },
   {
     "edid": "OOOSEGoldenSaintOfficerHelmetReward4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:045403",
-    "full": "Aureal Officer's Helmet",
+    "full": "LOC_FN_OOOSEGoldenSaintOfficerHelmetReward4",
     "modl": "OOOSE\\Armor\\FemSaint\\m\\helmetcaptain.nif"
   },
   {
     "edid": "OOOSEGoldenSaintOfficerHelmetReward5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:045404",
-    "full": "Aureal Officer's Helmet",
+    "full": "LOC_FN_OOOSEGoldenSaintOfficerHelmetReward5",
     "modl": "OOOSE\\Armor\\FemSaint\\m\\helmetcaptain.nif"
   },
   {
     "edid": "OOOSEGoldenSaintOfficerHelmetReward6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:045405",
-    "full": "Aureal Officer's Helmet",
+    "full": "LOC_FN_OOOSEGoldenSaintOfficerHelmetReward6",
     "modl": "OOOSE\\Armor\\FemSaint\\m\\helmetcaptain.nif"
   },
   {
     "edid": "BlackwoodCuirassQV",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0485D8",
-    "full": "Unfinished Blackwood Cuirass",
+    "full": "LOC_FN_BlackwoodCuirassQV",
     "modl": "armor\\BlackWood\\M\\cuirass_unfinished.nif"
   },
   {
@@ -9974,91 +9974,91 @@
   {
     "edid": "DefStaffBlackOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F4F",
-    "full": "Black Wooden Staff",
+    "full": "LOC_FN_DefStaffBlackOOO",
     "modl": "armor\\DefensiveStaves\\solidwoodstaffblack.nif"
   },
   {
     "edid": "DefStaffSilverOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F50",
-    "full": "Silver Battlestaff",
+    "full": "LOC_FN_DefStaffSilverOOO",
     "modl": "armor\\DefensiveStaves\\silverstaff.nif"
   },
   {
     "edid": "DefStaffElvenOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F51",
-    "full": "Elven Defender",
+    "full": "LOC_FN_DefStaffElvenOOO",
     "modl": "armor\\DefensiveStaves\\elvenstaff.nif"
   },
   {
     "edid": "DefStaffGlassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F52",
-    "full": "Glass Defender",
+    "full": "LOC_FN_DefStaffGlassOOO",
     "modl": "armor\\DefensiveStaves\\glassstaff.nif"
   },
   {
     "edid": "DefStaffEbonyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F53",
-    "full": "Ebony War Staff",
+    "full": "LOC_FN_DefStaffEbonyOOO",
     "modl": "armor\\DefensiveStaves\\ebonystaff.nif"
   },
   {
     "edid": "DefStaffOrcishOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F54",
-    "full": "Orcish War Staff",
+    "full": "LOC_FN_DefStaffOrcishOOO",
     "modl": "armor\\DefensiveStaves\\orcishstaff.nif"
   },
   {
     "edid": "DefStaffDwarvenOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F55",
-    "full": "Dwemer Rod",
+    "full": "LOC_FN_DefStaffDwarvenOOO",
     "modl": "armor\\DefensiveStaves\\dwarvenstaff.nif"
   },
   {
     "edid": "DefStaffDaedricOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F56",
-    "full": "Daedric Battlestaff",
+    "full": "LOC_FN_DefStaffDaedricOOO",
     "modl": "armor\\DefensiveStaves\\daedricstaff.nif"
   },
   {
     "edid": "DefStaffSteelOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F57",
-    "full": "Steel Battlestaff",
+    "full": "LOC_FN_DefStaffSteelOOO",
     "modl": "armor\\DefensiveStaves\\steelstaff.nif"
   },
   {
     "edid": "DefStaffAshenwoodOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F58",
-    "full": "Ashenwood Staff",
+    "full": "LOC_FN_DefStaffAshenwoodOOO",
     "modl": "armor\\DefensiveStaves\\ashenstaff.nif"
   },
   {
     "edid": "DefStaffOakenOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F59",
-    "full": "Oaken Staff",
+    "full": "LOC_FN_DefStaffOakenOOO",
     "modl": "armor\\DefensiveStaves\\oakenstaff.nif"
   },
   {
     "edid": "DefStaffYewOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F5A",
-    "full": "Yew Staff",
+    "full": "LOC_FN_DefStaffYewOOO",
     "modl": "armor\\DefensiveStaves\\yewstaff.nif"
   },
   {
     "edid": "DefStaffBrownOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F5B",
-    "full": "Brown Wooden Staff",
+    "full": "LOC_FN_DefStaffBrownOOO",
     "modl": "armor\\DefensiveStaves\\solidwoodstaffbrown.nif"
   },
   {
     "edid": "DefStaffWhiteOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F5C",
-    "full": "White Wooden Staff",
+    "full": "LOC_FN_DefStaffWhiteOOO",
     "modl": "armor\\DefensiveStaves\\solidwoodstaffwhite.nif"
   },
   {
     "edid": "OOOSE13KnightArmor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04D324",
-    "full": "Knight of Order Armor",
+    "full": "LOC_FN_OOOSE13KnightArmor",
     "modl": "OOOSE\\armor\\obelisk\\OrderKnightElite.nif"
   },
   {
@@ -10070,145 +10070,145 @@
   {
     "edid": "1greyfoxsgreaves",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0513CD",
-    "full": "Gray Fox's Greaves",
+    "full": "LOC_FN_1greyfoxsgreaves",
     "modl": "armor\\Gray Fox Armory\\m\\greyfoxsgreaves.nif"
   },
   {
     "edid": "1grayfoxarmor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0513CE",
-    "full": "Gray Fox Armor",
+    "full": "LOC_FN_1grayfoxarmor",
     "modl": "armor\\Gray Fox Armory\\m\\grayfoxarmor.nif"
   },
   {
     "edid": "1greyfoxscuirass",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0513CF",
-    "full": "Gray Fox's Cuirass",
+    "full": "LOC_FN_1greyfoxscuirass",
     "modl": "armor\\Gray Fox Armory\\m\\greyfoxscuirass.nif"
   },
   {
     "edid": "1greyfoxsgloves",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0513D0",
-    "full": "Gray Fox's Gloves",
+    "full": "LOC_FN_1greyfoxsgloves",
     "modl": "armor\\Gray Fox Armory\\m\\greyfoxsgloves.nif"
   },
   {
     "edid": "1greyfoxsbracers",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0513D1",
-    "full": "Gray Fox's Bracers",
+    "full": "LOC_FN_1greyfoxsbracers",
     "modl": "armor\\Gray Fox Armory\\m\\greyfoxsbracers.nif"
   },
   {
     "edid": "OOOSEHerdirArmor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:059138",
-    "full": "Inquisitor's Armor",
+    "full": "LOC_FN_OOOSEHerdirArmor",
     "modl": "OOOSE\\armor\\other\\InquisitorM.nif"
   },
   {
     "edid": "OOOSEKnightThornArmor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:060F44",
-    "full": "Knights of the Thorn Armor",
+    "full": "LOC_FN_OOOSEKnightThornArmor",
     "modl": "OOOSE\\armor\\other\\ThornM.nif"
   },
   {
     "edid": "DreadCuirassOOOv2L",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA3C",
-    "full": "Dread Cuirass",
+    "full": "LOC_FN_DreadCuirassOOOv2L",
     "modl": "armor\\Dread Armor\\m\\ooodcuirassm.nif"
   },
   {
     "edid": "DreadBootsOOOv2L",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA3D",
-    "full": "Dread Boots",
+    "full": "LOC_FN_DreadBootsOOOv2L",
     "modl": "armor\\Dread Armor\\m\\ooodbootsm.nif"
   },
   {
     "edid": "DreadGauntletsOOOv2L",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA3E",
-    "full": "Dread Gauntlets",
+    "full": "LOC_FN_DreadGauntletsOOOv2L",
     "modl": "armor\\Dread Armor\\m\\ooodgauntletsm.nif"
   },
   {
     "edid": "DreadGreavesOOOv2L",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA3F",
-    "full": "Dread Greaves",
+    "full": "LOC_FN_DreadGreavesOOOv2L",
     "modl": "armor\\Dread Armor\\m\\ooodgreavesm.nif"
   },
   {
     "edid": "DreadHelmetOOOv2L",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA40",
-    "full": "Dread Helmet",
+    "full": "LOC_FN_DreadHelmetOOOv2L",
     "modl": "armor\\Dread Armor\\ooodhelmet.nif"
   },
   {
     "edid": "OOOSEBonemoldArmorNPC",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:08050F",
-    "full": "Jayred's Bonemold Armor",
+    "full": "LOC_FN_OOOSEBonemoldArmorNPC",
     "modl": "OOOSE\\Armor\\Other\\BonemoldM.nif"
   },
   {
     "edid": "OOOSEBonemoldArmor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:095BD1",
-    "full": "Bonemold Armor",
+    "full": "LOC_FN_OOOSEBonemoldArmor",
     "modl": "OOOSE\\Armor\\Other\\BonemoldM.nif"
   },
   {
     "edid": "OOOSEKnightThornArmorUNPL",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:11ABA1",
-    "full": "Knights of the Thorn Armor",
+    "full": "LOC_FN_OOOSEKnightThornArmorUNPL",
     "modl": "OOOSE\\armor\\other\\ThornM.nif"
   },
   {
     "edid": "OOOSEZealotRobe4BossArmor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:12D183",
-    "full": "Zealot War Priest Robe (Enchanted)",
+    "full": "LOC_FN_OOOSEZealotRobe4BossArmor",
     "modl": "OOOSE\\Clothes\\KobaLRobes\\ZealotRobe4M.NIF"
   },
   {
     "edid": "OOOSEZealotRobe4Armor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:12D184",
-    "full": "Zealot War Priest Robe",
+    "full": "LOC_FN_OOOSEZealotRobe4Armor",
     "modl": "OOOSE\\Clothes\\KobaLRobes\\ZealotRobe4M.NIF"
   },
   {
     "edid": "OOOSEGoldenFlameRobeArmor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:12D185",
-    "full": "Golden Flame Robe",
+    "full": "LOC_FN_OOOSEGoldenFlameRobeArmor",
     "modl": "OOOSE\\Clothes\\KobaLRobes\\GoldenFlameRobeM.nif"
   },
   {
     "edid": "OOOSEHereticRobe4BossArmor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:12D186",
-    "full": "Heretic War Priest Robe (Enchanted)",
+    "full": "LOC_FN_OOOSEHereticRobe4BossArmor",
     "modl": "OOOSE\\Clothes\\KobaLRobes\\HereticRobe4M.NIF"
   },
   {
     "edid": "OOOSEHereticRobe4Armor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:12D187",
-    "full": "Heretic War Priest Robe",
+    "full": "LOC_FN_OOOSEHereticRobe4Armor",
     "modl": "OOOSE\\Clothes\\KobaLRobes\\HereticRobe4M.NIF"
   },
   {
     "edid": "OOOSEHereticRobe5Armor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:12D188",
-    "full": "Heretic Transformed Robe",
+    "full": "LOC_FN_OOOSEHereticRobe5Armor",
     "modl": "OOOSE\\Clothes\\KobaLRobes\\HereticRobe5M.NIF"
   },
   {
     "edid": "OOOSEHereticRobe5BossArmor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:12D189",
-    "full": "Heretic Transformed Robe (Reinforced)",
+    "full": "LOC_FN_OOOSEHereticRobe5BossArmor",
     "modl": "OOOSE\\Clothes\\KobaLRobes\\HereticRobe5BossM.NIF"
   },
   {
     "edid": "OOOSEZealotRobe5BossArmor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:12D18A",
-    "full": "Zealot Ascended Robe (Reinforced)",
+    "full": "LOC_FN_OOOSEZealotRobe5BossArmor",
     "modl": "OOOSE\\Clothes\\KobaLRobes\\ZealotRobe5BossM.NIF"
   },
   {
     "edid": "OOOSEZealotRobe5Armor",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:12D18B",
-    "full": "Zealot Ascended Robe",
+    "full": "LOC_FN_OOOSEZealotRobe5Armor",
     "modl": "OOOSE\\Clothes\\KobaLRobes\\ZealotRobe5M.NIF"
   }
 ]

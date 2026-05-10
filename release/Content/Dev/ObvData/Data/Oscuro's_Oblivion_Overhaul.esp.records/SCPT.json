@@ -1,5 +1,29 @@
 [
   {
+    "edid": "ARCAVEINTRAPSCRIPT01",
+    "formid": "Oblivion.esm:007F31",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "TG07LexScript",
+    "formid": "Oblivion.esm:00C225",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "TG08BlindScript",
+    "formid": "Oblivion.esm:014703",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "TG09ArrowScript",
+    "formid": "Oblivion.esm:01482B",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "GenericLoreScript",
     "formid": "Oblivion.esm:025811",
     "full": null,
