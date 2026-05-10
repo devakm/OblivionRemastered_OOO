@@ -1,0 +1,182 @@
+[
+  {
+    "edid": "IrlavJarolDead",
+    "formid": "Oblivion.esm:014674",
+    "full": "LOC_FN_IrlavJarolDead",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "RaminusPolus",
+    "formid": "Oblivion.esm:034E15",
+    "full": "LOC_FN_RaminusPolus",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "HannibalTraven",
+    "formid": "Oblivion.esm:034E16",
+    "full": "LOC_FN_HannibalTraven",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "IrlavJarol",
+    "formid": "Oblivion.esm:034EAB",
+    "full": "LOC_FN_IrlavJarol",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "JulienneFanis",
+    "formid": "Oblivion.esm:034EAF",
+    "full": "LOC_FN_JulienneFanis",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "Borissean",
+    "formid": "Oblivion.esm:034EB0",
+    "full": "LOC_FN_Borissean",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "GasparStegine",
+    "formid": "Oblivion.esm:034EB1",
+    "full": "LOC_FN_GasparStegine",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "TarMeena",
+    "formid": "Oblivion.esm:034EB2",
+    "full": "LOC_FN_TarMeena",
+    "modl": "Characters\\_Male\\SkeletonBeast.NIF"
+  },
+  {
+    "edid": "BoderiFarano",
+    "formid": "Oblivion.esm:034EB3",
+    "full": "LOC_FN_BoderiFarano",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "Delmar",
+    "formid": "Oblivion.esm:034EB4",
+    "full": "LOC_FN_Delmar",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "MartinaFloria",
+    "formid": "Oblivion.esm:034EB5",
+    "full": "LOC_FN_MartinaFloria",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "RenaldViernis",
+    "formid": "Oblivion.esm:034EB6",
+    "full": "LOC_FN_RenaldViernis",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "Bothiel",
+    "formid": "Oblivion.esm:034EB7",
+    "full": "LOC_FN_Bothiel",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "MGMageWarlock1",
+    "formid": "Oblivion.esm:06A82E",
+    "full": "LOC_FN_MGMageWarlock1",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "MGMageMagician2",
+    "formid": "Oblivion.esm:06A82F",
+    "full": "LOC_FN_MGMageMagician2",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "MGMageMagician3",
+    "formid": "Oblivion.esm:06A830",
+    "full": "LOC_FN_MGMageMagician3",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "MGMageApprentice2",
+    "formid": "Oblivion.esm:06A831",
+    "full": "LOC_FN_MGMageApprentice2",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "MGMageConjurer3",
+    "formid": "Oblivion.esm:06A832",
+    "full": "LOC_FN_MGMageConjurer3",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "MGMageApprentice",
+    "formid": "Oblivion.esm:06A833",
+    "full": "LOC_FN_MGMageApprentice",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "MGMageJourneyman4",
+    "formid": "Oblivion.esm:06AAA9",
+    "full": "LOC_FN_MGMageJourneyman4",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "MGMageEvoker5",
+    "formid": "Oblivion.esm:06AAAA",
+    "full": "LOC_FN_MGMageEvoker5",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "MGMageApprentice6",
+    "formid": "Oblivion.esm:06AAAB",
+    "full": "LOC_FN_MGMageApprentice6",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "MGMageEvoker7",
+    "formid": "Oblivion.esm:06AAAC",
+    "full": "LOC_FN_MGMageEvoker7",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "MGMageJourneyman8",
+    "formid": "Oblivion.esm:06AAAD",
+    "full": "LOC_FN_MGMageJourneyman8",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "MGMageConjurer9",
+    "formid": "Oblivion.esm:06AAAE",
+    "full": "LOC_FN_MGMageConjurer9",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "MGMageApprentice10",
+    "formid": "Oblivion.esm:06AAAF",
+    "full": "LOC_FN_MGMageApprentice10",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "MGMageWarlock4",
+    "formid": "Oblivion.esm:06AAB0",
+    "full": "LOC_FN_MGMageWarlock4",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "MGMageMasterWizard5",
+    "formid": "Oblivion.esm:06AAB1",
+    "full": "LOC_FN_MGMageMasterWizard5",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "MGMageWizard6",
+    "formid": "Oblivion.esm:06AAB2",
+    "full": "LOC_FN_MGMageWizard6",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "EvangelineBeanique",
+    "formid": "Oblivion.esm:14C715",
+    "full": "LOC_FN_EvangelineBeanique",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  }
+]

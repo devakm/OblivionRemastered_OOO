@@ -1,0 +1,18 @@
+{
+  "esp": "OOMC_ImperialCityMages.esp",
+  "record_types": [
+    "CELL",
+    "CLOT",
+    "CONT",
+    "LVLI",
+    "NPC_"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "DLCOrrery.esp",
+      "AltarESPMain.esp"
+    ],
+    "version": 1.0
+  }
+}
