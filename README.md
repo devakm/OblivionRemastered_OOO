@@ -1,5 +1,8 @@
 # Oscuro's Oblivion Overhaul Remastered FULL — Release Tracker
 
+> **License:** GNU General Public License v3.0 — see [`LICENSE`](LICENSE).
+> Adopted because this project depends on [Wrye Bash](https://github.com/wrye-bash/wrye-bash) (GPL v3) for TES4 plugin parsing.
+
 A version-controlled archive of every alpha / beta / release build of **Oscuro's Oblivion Overhaul Remastered FULL** ("OOORS Full"), with auto-generated per-release manifests so you can see exactly what changed from one build to the next.
 
 - **Latest text content:** [`release/`](release/) — only the text files (JSON / INI / Lua / etc.) are checked into git. `git checkout <tag>` rewinds the text tree to any historical release.
