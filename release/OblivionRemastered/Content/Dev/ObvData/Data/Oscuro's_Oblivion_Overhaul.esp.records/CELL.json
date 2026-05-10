@@ -1938,7 +1938,7 @@
   {
     "edid": "Yeleri",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002642",
-    "full": "Yeleri",
+    "full": "LOC_FN_Yeleri",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
