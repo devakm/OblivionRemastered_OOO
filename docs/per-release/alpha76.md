@@ -1,0 +1,44 @@
+# alpha76 — release notes
+
+_Compared against `alpha75`._
+
+## File-level changes
+
+- Added: 0
+- Removed: 0
+- Changed: 1
+
+### Changed
+
+- `OblivionRemastered/Content/Dev/ObvData/Data/Oscuro's_Oblivion_Overhaul.esp`
+
+## ESP changes — `Oscuro's_Oblivion_Overhaul.esp`
+
+### Quest (QUST) — +0 -1 ~0
+
+**Removed:**
+
+- `OOOWarningNoteMonitor` (FormID `00DE89`)
+
+### Script (SCPT) — +0 -1 ~0
+
+**Removed:**
+
+- `OOOWarningNoteMonitorQS` (FormID `00DE8A`)
+
+## ESP changes — `OOO_DeluxeEdition.esp`
+
+_No record-level changes detected._
+
+## ESP changes — `OOO_OOMC_Compatibility_Patch.esp`
+
+_No record-level changes detected._
+
+## ESP changes — `OOO_UnlimitedRingsReduxPatch.esp`
+
+_No record-level changes detected._
+
+## ESP changes — `OOO_UORP.esp`
+
+_No record-level changes detected._
+
