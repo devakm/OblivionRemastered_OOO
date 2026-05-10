@@ -672,6 +672,12 @@
     "modl": null
   },
   {
+    "edid": "OOOZZZCreatureFollowPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DCDB",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "OOOSECutterSleep",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00DDBA",
     "full": null,
@@ -720,14 +726,44 @@
     "modl": null
   },
   {
+    "edid": "OOOGraveMinoTravelCasa",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01647B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOGraveMinoTravelRaid",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01647D",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "OOOZArgonianGruntWander",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01703A",
     "full": null,
     "modl": null
   },
   {
+    "edid": "OOOGraveMinoTravelHalfWayRaid",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:019BCD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOGraveMinoTravelHalfWayCasa",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:019BCE",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "OOOWander21x2Vamp",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:024E7D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZZZCreatureFollowPlayerSummon",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025164",
     "full": null,
     "modl": null
   },
@@ -764,6 +800,24 @@
   {
     "edid": "OOOHorunnMinoTravelHome",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0399D2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOHorunnMinoTravelRaid",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0399D3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOONonungaloMinoTravelHome",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03A262",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOONonungaloMinoTravelRaid",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03A263",
     "full": null,
     "modl": null
   },

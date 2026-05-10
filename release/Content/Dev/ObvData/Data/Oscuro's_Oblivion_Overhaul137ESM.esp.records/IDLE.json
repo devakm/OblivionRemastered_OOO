@@ -1,0 +1,92 @@
+[
+  {
+    "edid": "GuarMountDismountOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030DA3",
+    "full": null,
+    "modl": "creatures\\OOO_guar\\IdleAnims"
+  },
+  {
+    "edid": "GuarMountOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030DA4",
+    "full": null,
+    "modl": "creatures\\OOO_guar\\IdleAnims\\guarmount.kf"
+  },
+  {
+    "edid": "GuarDismountOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030DA5",
+    "full": null,
+    "modl": "creatures\\OOO_guar\\IdleAnims\\guardismount.kf"
+  },
+  {
+    "edid": "GuarGetUpFaceUpOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030DA6",
+    "full": null,
+    "modl": "creatures\\OOO_guar\\IdleAnims\\getupfaceup.kf"
+  },
+  {
+    "edid": "GuarGetUpFaceDownOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030DA7",
+    "full": null,
+    "modl": "creatures\\OOO_guar\\IdleAnims\\getupfacedown.kf"
+  },
+  {
+    "edid": "GuarIdleAnimsLookOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030DA8",
+    "full": null,
+    "modl": "creatures\\OOO_guar\\IdleAnims\\look.kf"
+  },
+  {
+    "edid": "GuarIdleAnimsSearchOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030DA9",
+    "full": null,
+    "modl": "creatures\\OOO_guar\\IdleAnims\\search.kf"
+  },
+  {
+    "edid": "HungerGetUpFaceUpOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030DAA",
+    "full": null,
+    "modl": "creatures\\OOO_hunger\\IdleAnims\\getupfaceup.kf"
+  },
+  {
+    "edid": "HungerGetUpFaceDownOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030DAB",
+    "full": null,
+    "modl": "creatures\\OOO_hunger\\IdleAnims\\getupfacedown.kf"
+  },
+  {
+    "edid": "HungerIdleAnimsScratchOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030DAC",
+    "full": null,
+    "modl": "creatures\\OOO_hunger\\IdleAnims\\scratch.kf"
+  },
+  {
+    "edid": "HungerIdleAnimsSnifOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030DAD",
+    "full": null,
+    "modl": "creatures\\OOO_hunger\\IdleAnims\\snif.kf"
+  },
+  {
+    "edid": "CreaturesGargoyleIdleAnimsLandOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:040D74",
+    "full": null,
+    "modl": "creatures\\OOO_gargoyle\\IdleAnims\\land.kf"
+  },
+  {
+    "edid": "CreaturesGargoyleIdleAnimsScanOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:040D75",
+    "full": null,
+    "modl": "creatures\\OOO_gargoyle\\IdleAnims\\scan.kf"
+  },
+  {
+    "edid": "CreaturesGargoyleIdleAnimsGetUpFaceDownOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:040D76",
+    "full": null,
+    "modl": "creatures\\OOO_gargoyle\\IdleAnims\\getupfacedown.kf"
+  },
+  {
+    "edid": "CreaturesGargoyleIdleAnimsGetUpFaceUpOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:040D77",
+    "full": null,
+    "modl": "creatures\\OOO_gargoyle\\IdleAnims\\getupfaceup.kf"
+  }
+]

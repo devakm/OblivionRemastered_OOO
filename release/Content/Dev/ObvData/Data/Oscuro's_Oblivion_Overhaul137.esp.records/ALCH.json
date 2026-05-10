@@ -1,0 +1,1436 @@
+[
+  {
+    "edid": "PotionBurdenW",
+    "formid": "Oblivion.esm:00920C",
+    "full": "Weak Poison of Burden",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionBurdenS",
+    "formid": "Oblivion.esm:00920D",
+    "full": "Strong Poison of Burden",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionCureDisease",
+    "formid": "Oblivion.esm:00920E",
+    "full": "Potion of Cure Disease",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionCurePoison",
+    "formid": "Oblivion.esm:00920F",
+    "full": "Potion of Cure Poison",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionCureParlaysis",
+    "formid": "Oblivion.esm:00922E",
+    "full": "Potion of Cure Paralysis",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionDetectLifeW",
+    "formid": "Oblivion.esm:00922F",
+    "full": "Weak Potion of Detect Life",
+    "modl": "clutter\\RCpotions\\potion01_white.nif"
+  },
+  {
+    "edid": "PotionDetectLifeS",
+    "formid": "Oblivion.esm:009230",
+    "full": "Strong Potion of Detect Life",
+    "modl": "clutter\\RCpotions\\potion01_white.nif"
+  },
+  {
+    "edid": "PotionDispel",
+    "formid": "Oblivion.esm:00927B",
+    "full": "Potion of Dispel",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "PotionDrainAgility",
+    "formid": "Oblivion.esm:00927C",
+    "full": "Poison of Fumbling",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainEndurance",
+    "formid": "Oblivion.esm:00927D",
+    "full": "Poison of Debilitation",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainFatigue",
+    "formid": "Oblivion.esm:00927E",
+    "full": "Poison of Weariness",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainHealth",
+    "formid": "Oblivion.esm:00927F",
+    "full": "Poison of Sickness",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainIntelligence",
+    "formid": "Oblivion.esm:009280",
+    "full": "Poison of Feeblemind",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainLuck",
+    "formid": "Oblivion.esm:009281",
+    "full": "Poison of Catastrophe",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainPersonality",
+    "formid": "Oblivion.esm:009282",
+    "full": "Poison of Repulsion",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainSpeed",
+    "formid": "Oblivion.esm:009283",
+    "full": "Poison of Apathy",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainMagicka",
+    "formid": "Oblivion.esm:009284",
+    "full": "Poison of Separation",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainStrength",
+    "formid": "Oblivion.esm:009285",
+    "full": "Poison of Frailty",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionFeather",
+    "formid": "Oblivion.esm:0092E6",
+    "full": "Potion of Feather",
+    "modl": "clutter\\RCpotions\\potion01_black.nif"
+  },
+  {
+    "edid": "PotionFireShield",
+    "formid": "Oblivion.esm:0092E7",
+    "full": "Potion of Fire Shield",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "PotionFortifyAgilityW",
+    "formid": "Oblivion.esm:0092E8",
+    "full": "Weak Potion of Agility",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyAgilityS",
+    "formid": "Oblivion.esm:0092E9",
+    "full": "Strong Potion of Agility",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyEnduranceW",
+    "formid": "Oblivion.esm:0092EA",
+    "full": "Weak Potion of Endurance",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyEnduranceS",
+    "formid": "Oblivion.esm:0092EB",
+    "full": "Strong Potion of Endurance",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyFatigueW",
+    "formid": "Oblivion.esm:0092EC",
+    "full": "Weak Potion of Fatigue",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyFatigueS",
+    "formid": "Oblivion.esm:0092ED",
+    "full": "Strong Potion of Fatigue",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyHealthW",
+    "formid": "Oblivion.esm:0092EE",
+    "full": "Weak Potion of Health",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyHealthS",
+    "formid": "Oblivion.esm:0092EF",
+    "full": "Strong Potion of Health",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyIntelligenceW",
+    "formid": "Oblivion.esm:0092F0",
+    "full": "Weak Potion of Intelligence",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyIntelligenceS",
+    "formid": "Oblivion.esm:0092F1",
+    "full": "Strong Potion of Intelligence",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyLuckW",
+    "formid": "Oblivion.esm:0092F2",
+    "full": "Weak Potion of Luck",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyLuckS",
+    "formid": "Oblivion.esm:0092F3",
+    "full": "Strong Potion of Luck",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyPersonalityW",
+    "formid": "Oblivion.esm:0092F4",
+    "full": "Weak Potion of Personality",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyPersonalityS",
+    "formid": "Oblivion.esm:0092F5",
+    "full": "Strong Potion of Personality",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifySpeedW",
+    "formid": "Oblivion.esm:0092F6",
+    "full": "Weak Potion of Speed",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifySpeedS",
+    "formid": "Oblivion.esm:0092F7",
+    "full": "Strong Potion of Speed",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyMagickaW",
+    "formid": "Oblivion.esm:0092F8",
+    "full": "Weak Potion of Magicka",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyMagickaS",
+    "formid": "Oblivion.esm:0092F9",
+    "full": "Strong Potion of Magicka",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyStrengthW",
+    "formid": "Oblivion.esm:0092FA",
+    "full": "Weak Potion of Strength",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyStrengthS",
+    "formid": "Oblivion.esm:0092FB",
+    "full": "Strong Potion of Strength",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFrostShield",
+    "formid": "Oblivion.esm:0092FE",
+    "full": "Potion of Frost Shield",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "PotionInvisibility",
+    "formid": "Oblivion.esm:0092FF",
+    "full": "Potion of Invisibility",
+    "modl": "clutter\\RCpotions\\potion01_white.nif"
+  },
+  {
+    "edid": "PotionLight",
+    "formid": "Oblivion.esm:009300",
+    "full": "Potion of Light",
+    "modl": "clutter\\RCpotions\\potion01_white.nif"
+  },
+  {
+    "edid": "PotionNighteye",
+    "formid": "Oblivion.esm:009301",
+    "full": "Potion of Nighteye",
+    "modl": "clutter\\RCpotions\\potion01_white.nif"
+  },
+  {
+    "edid": "PotionParalyze",
+    "formid": "Oblivion.esm:009302",
+    "full": "Poison of Paralysis",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionReflect",
+    "formid": "Oblivion.esm:009303",
+    "full": "Potion of Reflection",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "PotionResistDisease",
+    "formid": "Oblivion.esm:009304",
+    "full": "Potion of Resistance",
+    "modl": "clutter\\RCpotions\\potion01_cyan.nif"
+  },
+  {
+    "edid": "PotionResistFire",
+    "formid": "Oblivion.esm:009305",
+    "full": "Potion of Insulation",
+    "modl": "clutter\\RCpotions\\potion01_cyan.nif"
+  },
+  {
+    "edid": "PotionResistFrost",
+    "formid": "Oblivion.esm:009306",
+    "full": "Potion of Warmth",
+    "modl": "clutter\\RCpotions\\potion01_cyan.nif"
+  },
+  {
+    "edid": "PotionResistMagicka",
+    "formid": "Oblivion.esm:009307",
+    "full": "Potion of Disbelief",
+    "modl": "clutter\\RCpotions\\potion01_cyan.nif"
+  },
+  {
+    "edid": "PotionResistPoison",
+    "formid": "Oblivion.esm:009308",
+    "full": "Potion of Antivenom",
+    "modl": "clutter\\RCpotions\\potion01_cyan.nif"
+  },
+  {
+    "edid": "PotionResistShock",
+    "formid": "Oblivion.esm:009309",
+    "full": "Potion of Grounding",
+    "modl": "clutter\\RCpotions\\potion01_cyan.nif"
+  },
+  {
+    "edid": "PotionRestoreAgilityW",
+    "formid": "Oblivion.esm:00930A",
+    "full": "Weak Potion of Grace",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionRestoreAgilityS",
+    "formid": "Oblivion.esm:00930B",
+    "full": "Strong Potion of Grace",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionRestoreEnduranceW",
+    "formid": "Oblivion.esm:00930C",
+    "full": "Weak Potion of Fortitude",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionRestoreEnduranceS",
+    "formid": "Oblivion.esm:00930D",
+    "full": "Strong Potion of Fortitude",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionRestoreFatigueW",
+    "formid": "Oblivion.esm:00930E",
+    "full": "Weak Potion of Respite",
+    "modl": "clutter\\RCpotions\\potion01_yellow.nif"
+  },
+  {
+    "edid": "PotionRestoreFatigueS",
+    "formid": "Oblivion.esm:00930F",
+    "full": "Strong Potion of Respite",
+    "modl": "clutter\\RCpotions\\potion01_yellow.nif"
+  },
+  {
+    "edid": "PotionRestoreHealthW",
+    "formid": "Oblivion.esm:009310",
+    "full": "Weak Potion of Healing",
+    "modl": "clutter\\RCpotions\\potion01_red.nif"
+  },
+  {
+    "edid": "PotionRestoreHealthS",
+    "formid": "Oblivion.esm:009311",
+    "full": "Strong Potion of Healing",
+    "modl": "clutter\\RCpotions\\potion01_red.nif"
+  },
+  {
+    "edid": "PotionRestoreIntelligenceW",
+    "formid": "Oblivion.esm:009312",
+    "full": "Weak Potion of Insight",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionRestoreIntelligenceS",
+    "formid": "Oblivion.esm:009313",
+    "full": "Strong Potion of Insight",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionRestoreLuckW",
+    "formid": "Oblivion.esm:009314",
+    "full": "Weak Potion of Fortune",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionRestoreLuckS",
+    "formid": "Oblivion.esm:009315",
+    "full": "Strong Potion of Fortune",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionRestorePersonalityW",
+    "formid": "Oblivion.esm:009316",
+    "full": "Weak Potion of Charisma",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionRestorePersonalityS",
+    "formid": "Oblivion.esm:009317",
+    "full": "Strong Potion of Charisma",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionRestoreSpeedW",
+    "formid": "Oblivion.esm:009318",
+    "full": "Weak Potion of Alacrity",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionRestoreSpeedS",
+    "formid": "Oblivion.esm:009319",
+    "full": "Strong Potion of Alacrity",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionRestoreMagickaW",
+    "formid": "Oblivion.esm:00931A",
+    "full": "Weak Potion of Sorcery",
+    "modl": "clutter\\RCpotions\\potion01_blue.nif"
+  },
+  {
+    "edid": "PotionRestoreMagickaS",
+    "formid": "Oblivion.esm:00931B",
+    "full": "Strong Potion of Sorcery",
+    "modl": "clutter\\RCpotions\\potion01_blue.nif"
+  },
+  {
+    "edid": "PotionRestoreStrengthW",
+    "formid": "Oblivion.esm:00931C",
+    "full": "Weak Potion of Might",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionRestoreStrengthS",
+    "formid": "Oblivion.esm:00931D",
+    "full": "Strong Potion of Might",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionSilence",
+    "formid": "Oblivion.esm:009320",
+    "full": "Poison of Silence",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionSpellAbsorption",
+    "formid": "Oblivion.esm:009321",
+    "full": "Potion of Absorption",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "PotionWaterBreathingW",
+    "formid": "Oblivion.esm:009324",
+    "full": "Weak Potion of the Sea",
+    "modl": "clutter\\RCpotions\\potion01_black.nif"
+  },
+  {
+    "edid": "PotionWaterBreathingS",
+    "formid": "Oblivion.esm:009325",
+    "full": "Strong Potion of the Sea",
+    "modl": "clutter\\RCpotions\\potion01_black.nif"
+  },
+  {
+    "edid": "PotionWaterWalkingW",
+    "formid": "Oblivion.esm:009326",
+    "full": "Weak Potion of Seastride",
+    "modl": "clutter\\RCpotions\\potion01_black.nif"
+  },
+  {
+    "edid": "PotionWaterWalkingS",
+    "formid": "Oblivion.esm:009327",
+    "full": "Strong Potion of Seastride",
+    "modl": "clutter\\RCpotions\\potion01_black.nif"
+  },
+  {
+    "edid": "PotionShockShieldW",
+    "formid": "Oblivion.esm:009AE0",
+    "full": "Weak Potion of Shock Shield",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "PotionShockShield",
+    "formid": "Oblivion.esm:009AE3",
+    "full": "Potion of Shock Shield",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "PotionShockShieldS",
+    "formid": "Oblivion.esm:009AE4",
+    "full": "Strong Potion of Shock Shield",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "PotionCyrodiilicBrandy",
+    "formid": "Oblivion.esm:033569",
+    "full": "Cyrodilic Brandy",
+    "modl": "clutter\\Booze\\brandybottle.nif"
+  },
+  {
+    "edid": "FGD08HistSap01",
+    "formid": "Oblivion.esm:03356A",
+    "full": "Hist Sap",
+    "modl": "clutter\\RCpotions\\potion01_red.nif"
+  },
+  {
+    "edid": "DrinkWine6TamikaBest",
+    "formid": "Oblivion.esm:037F7E",
+    "full": "- Tamika Vintage 399 -",
+    "modl": "clutter\\Booze\\winebottle03.nif"
+  },
+  {
+    "edid": "DrinkWine0Cheap",
+    "formid": "Oblivion.esm:037F7F",
+    "full": "- Cheap Wine -",
+    "modl": "clutter\\Booze\\winebottle01.nif"
+  },
+  {
+    "edid": "DrinkWine1SurilieGood",
+    "formid": "Oblivion.esm:037F80",
+    "full": "- Surilie Brothers Wine -",
+    "modl": "clutter\\Booze\\winebottle02.nif"
+  },
+  {
+    "edid": "DrinkWine2TamikaGood",
+    "formid": "Oblivion.esm:037F81",
+    "full": "- Tamika's West Weald Wine -",
+    "modl": "clutter\\Booze\\winebottle03.nif"
+  },
+  {
+    "edid": "DrinkWine3SurilieBetter",
+    "formid": "Oblivion.esm:037F82",
+    "full": "- Surilie Brothers Vintage 415 -",
+    "modl": "clutter\\Booze\\winebottle02.nif"
+  },
+  {
+    "edid": "DrinkWine4TamikaBetter",
+    "formid": "Oblivion.esm:037F83",
+    "full": "- Tamika Vintage 415 -",
+    "modl": "clutter\\Booze\\winebottle03.nif"
+  },
+  {
+    "edid": "DrinkWine5SurilieBest",
+    "formid": "Oblivion.esm:037F84",
+    "full": "- Surilie Brothers Vintage 399 -",
+    "modl": "clutter\\Booze\\winebottle02.nif"
+  },
+  {
+    "edid": "PotionSkooma",
+    "formid": "Oblivion.esm:04E0A9",
+    "full": "Skooma",
+    "modl": "Clutter\\ingredSkooma.nif"
+  },
+  {
+    "edid": "MS39NirnrootPotionA",
+    "formid": "Oblivion.esm:04E937",
+    "full": "- Elixir of Exploration (Basic) -",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "MS39NirnrootPotionB",
+    "formid": "Oblivion.esm:04E938",
+    "full": "- Elixir of Exploration (Moderate) -",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "MS39NirnrootPotionC",
+    "formid": "Oblivion.esm:04E939",
+    "full": "- Elixir of Exploration (Strong) -",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "MS39NirnrootPotionD",
+    "formid": "Oblivion.esm:04E93A",
+    "full": "- Elixir of Exploration (Superior) -",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "PotionFortifyWillpowerW",
+    "formid": "Oblivion.esm:056E51",
+    "full": "Weak Potion of Willpower",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionRestoreWillpowerW",
+    "formid": "Oblivion.esm:056E52",
+    "full": "Weak Potion of Dedication",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionFortifyWillpower",
+    "formid": "Oblivion.esm:056E53",
+    "full": "Potion of Willpower",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionDrainWillpower",
+    "formid": "Oblivion.esm:056E54",
+    "full": "Poison of Cowardice",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionRestoreWillpower",
+    "formid": "Oblivion.esm:056E55",
+    "full": "Potion of Dedication",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionDrainWillpowerS",
+    "formid": "Oblivion.esm:056E56",
+    "full": "Strong Poison of Cowardice",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionFortifyWillpowerS",
+    "formid": "Oblivion.esm:056E57",
+    "full": "Strong Potion of Willpower",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionRestoreWillpowerS",
+    "formid": "Oblivion.esm:056E58",
+    "full": "Strong Potion of Dedication",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionDrainWillpowerW",
+    "formid": "Oblivion.esm:056E59",
+    "full": "Weak Poison of Cowardice",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "MS37PhilterofFrostward",
+    "formid": "Oblivion.esm:07BCC9",
+    "full": "Philter of Frostward",
+    "modl": "clutter\\RCpotions\\potion01_cyan.nif"
+  },
+  {
+    "edid": "PotionChameleon",
+    "formid": "Oblivion.esm:088B1C",
+    "full": "Potion of Chameleon",
+    "modl": "clutter\\RCpotions\\potion01_white.nif"
+  },
+  {
+    "edid": "PotionChameleonW",
+    "formid": "Oblivion.esm:088B1D",
+    "full": "Weak Potion of Chameleon",
+    "modl": "clutter\\RCpotions\\potion01_white.nif"
+  },
+  {
+    "edid": "PotionChameleonS",
+    "formid": "Oblivion.esm:088B1E",
+    "full": "Strong Potion of Chameleon",
+    "modl": "clutter\\RCpotions\\potion01_white.nif"
+  },
+  {
+    "edid": "PotionDamageAttrAgility",
+    "formid": "Oblivion.esm:08DC58",
+    "full": "Poison of Clumsiness",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrAgilityW",
+    "formid": "Oblivion.esm:08DC59",
+    "full": "Weak Poison of Clumsiness",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrAgilityS",
+    "formid": "Oblivion.esm:08DC5A",
+    "full": "Strong Poison of Clumsiness",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrEnduranceW",
+    "formid": "Oblivion.esm:08DC5B",
+    "full": "Weak Poison of Affliction",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrEndurance",
+    "formid": "Oblivion.esm:08DC5C",
+    "full": "Poison of Affliction",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrEnduranceS",
+    "formid": "Oblivion.esm:08DC5D",
+    "full": "Strong Poison of Affliction",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrIntelligence",
+    "formid": "Oblivion.esm:08DC5E",
+    "full": "Poison of Confusion",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrIntelligenceW",
+    "formid": "Oblivion.esm:08DC5F",
+    "full": "Weak Poison of Confusion",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrIntelligenceS",
+    "formid": "Oblivion.esm:08DC60",
+    "full": "Strong Poison of Confusion",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrLuck",
+    "formid": "Oblivion.esm:08DC61",
+    "full": "Poison of Misfortune",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrLuckW",
+    "formid": "Oblivion.esm:08DC62",
+    "full": "Weak Poison of Misfortune",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrLuckS",
+    "formid": "Oblivion.esm:08DC63",
+    "full": "Strong Poison of Misfortune",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrPersonality",
+    "formid": "Oblivion.esm:08DC64",
+    "full": "Poison of the Fool",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrPersonalityW",
+    "formid": "Oblivion.esm:08DC65",
+    "full": "Weak Poison of the Fool",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrPersonalityS",
+    "formid": "Oblivion.esm:08DC66",
+    "full": "Strong Poison of the Fool",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrSpeed",
+    "formid": "Oblivion.esm:08DC67",
+    "full": "Poison of Slowing",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrSpeedW",
+    "formid": "Oblivion.esm:08DC68",
+    "full": "Weak Poison of Slowing",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrSpeedS",
+    "formid": "Oblivion.esm:08DC69",
+    "full": "Strong Poison of Slowing",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrStrength",
+    "formid": "Oblivion.esm:08DC6A",
+    "full": "Poison of Weakness",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrStrengthW",
+    "formid": "Oblivion.esm:08DC6B",
+    "full": "Weak Poison of Weakness",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrStrengthS",
+    "formid": "Oblivion.esm:08DC6C",
+    "full": "Strong Poison of Weakness",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrWillpower",
+    "formid": "Oblivion.esm:08DC6D",
+    "full": "Poison of Fright",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrWillpowerW",
+    "formid": "Oblivion.esm:08DC6E",
+    "full": "Weak Poison of Fright",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageAttrWillpowerS",
+    "formid": "Oblivion.esm:08DC6F",
+    "full": "Strong Poison of Fright",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageFatigue",
+    "formid": "Oblivion.esm:08DC70",
+    "full": "Poison of Fatigue",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageFatigueW",
+    "formid": "Oblivion.esm:08DC71",
+    "full": "Weak Poison of Fatigue",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageFatigueS",
+    "formid": "Oblivion.esm:08DC72",
+    "full": "Strong Poison of Fatigue",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageHealth",
+    "formid": "Oblivion.esm:08DC73",
+    "full": "Poison of Illness",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageHealthW",
+    "formid": "Oblivion.esm:08DC74",
+    "full": "Weak Poison of Illness",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageHealthS",
+    "formid": "Oblivion.esm:08DC75",
+    "full": "Strong Poison of Illness",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageMagicka",
+    "formid": "Oblivion.esm:08DC76",
+    "full": "Poison of Severing",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageMagickaW",
+    "formid": "Oblivion.esm:08DC77",
+    "full": "Weak Poison of Severing",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDamageMagickaS",
+    "formid": "Oblivion.esm:08DC78",
+    "full": "Strong Poison of Severing",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "MS40VampireCurePotion",
+    "formid": "Oblivion.esm:0977E4",
+    "full": "Cure for Vampirism",
+    "modl": "clutter\\RCpotions\\potion01_black.nif"
+  },
+  {
+    "edid": "HumanBlood",
+    "formid": "Oblivion.esm:098309",
+    "full": "- Human Blood -",
+    "modl": "clutter\\RCpotions\\humanblood.nif"
+  },
+  {
+    "edid": "PotionDrainHealthS",
+    "formid": "Oblivion.esm:098460",
+    "full": "Strong Poison of Sickness",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainIntelligenceW",
+    "formid": "Oblivion.esm:098461",
+    "full": "Weak Poison of Feeblemind",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainIntelligenceS",
+    "formid": "Oblivion.esm:098462",
+    "full": "Strong Poison of Feeblemind",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainLuckW",
+    "formid": "Oblivion.esm:098463",
+    "full": "Weak Poison of Catastrophe",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainLuckS",
+    "formid": "Oblivion.esm:098464",
+    "full": "Strong Poison of Catastrophe",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainMagickaW",
+    "formid": "Oblivion.esm:098465",
+    "full": "Weak Poison of Separation",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainMagickaS",
+    "formid": "Oblivion.esm:098466",
+    "full": "Strong Poison of Separation",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainPersonalityW",
+    "formid": "Oblivion.esm:098467",
+    "full": "Weak Poison of Repulsion",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainPersonalityS",
+    "formid": "Oblivion.esm:098468",
+    "full": "Strong Poison of Repulsion",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainSpeedW",
+    "formid": "Oblivion.esm:098469",
+    "full": "Weak Poison of Apathy",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainSpeedS",
+    "formid": "Oblivion.esm:09846A",
+    "full": "Strong Poison of Apathy",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainStrengthW",
+    "formid": "Oblivion.esm:09846B",
+    "full": "Weak Poison of Frailty",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainStrengthS",
+    "formid": "Oblivion.esm:09846C",
+    "full": "Strong Poison of Frailty",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionFeatherW",
+    "formid": "Oblivion.esm:09846D",
+    "full": "Weak Potion of Feather",
+    "modl": "clutter\\RCpotions\\potion01_black.nif"
+  },
+  {
+    "edid": "PotionFeatherS",
+    "formid": "Oblivion.esm:09846E",
+    "full": "Strong Potion of Feather",
+    "modl": "clutter\\RCpotions\\potion01_black.nif"
+  },
+  {
+    "edid": "PotionFireShieldW",
+    "formid": "Oblivion.esm:09846F",
+    "full": "Weak Potion of Fire Shield",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "PotionFireShieldS",
+    "formid": "Oblivion.esm:098470",
+    "full": "Strong Potion of Fire Shield",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "PotionFortifyAgility",
+    "formid": "Oblivion.esm:098471",
+    "full": "Potion of Agility",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyEndurance",
+    "formid": "Oblivion.esm:098472",
+    "full": "Potion of Endurance",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyFatigue",
+    "formid": "Oblivion.esm:098473",
+    "full": "Potion of Fatigue",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyHealth",
+    "formid": "Oblivion.esm:098474",
+    "full": "Potion of Health",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyIntelligence",
+    "formid": "Oblivion.esm:098475",
+    "full": "Potion of Intelligence",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyLuck",
+    "formid": "Oblivion.esm:098476",
+    "full": "Potion of Luck",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyMagicka",
+    "formid": "Oblivion.esm:098477",
+    "full": "Potion of Magicka",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyPersonality",
+    "formid": "Oblivion.esm:098478",
+    "full": "Potion of Personality",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifySpeed",
+    "formid": "Oblivion.esm:098479",
+    "full": "Potion of Speed",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFortifyStrength",
+    "formid": "Oblivion.esm:09847A",
+    "full": "Potion of Strength",
+    "modl": "clutter\\RCpotions\\potion01_purple.nif"
+  },
+  {
+    "edid": "PotionFrostShieldW",
+    "formid": "Oblivion.esm:09847B",
+    "full": "Weak Potion of Frost Shield",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "PotionFrostShieldS",
+    "formid": "Oblivion.esm:09847C",
+    "full": "Strong Potion of Frost Shield",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "PotionInvisibilityW",
+    "formid": "Oblivion.esm:09847D",
+    "full": "Weak Potion of Invisibility",
+    "modl": "clutter\\RCpotions\\potion01_white.nif"
+  },
+  {
+    "edid": "PotionInvisibilityS",
+    "formid": "Oblivion.esm:09847E",
+    "full": "Strong Potion of Invisibility",
+    "modl": "clutter\\RCpotions\\potion01_white.nif"
+  },
+  {
+    "edid": "PotionLightW",
+    "formid": "Oblivion.esm:09847F",
+    "full": "Weak Potion of Light",
+    "modl": "clutter\\RCpotions\\potion01_white.nif"
+  },
+  {
+    "edid": "PotionLightS",
+    "formid": "Oblivion.esm:098480",
+    "full": "Strong Potion of Light",
+    "modl": "clutter\\RCpotions\\potion01_white.nif"
+  },
+  {
+    "edid": "PotionNighteyeW",
+    "formid": "Oblivion.esm:098481",
+    "full": "Weak Potion of Nighteye",
+    "modl": "clutter\\RCpotions\\potion01_white.nif"
+  },
+  {
+    "edid": "PotionNighteyeS",
+    "formid": "Oblivion.esm:098482",
+    "full": "Strong Potion of Nighteye",
+    "modl": "clutter\\RCpotions\\potion01_white.nif"
+  },
+  {
+    "edid": "PotionParalyzeW",
+    "formid": "Oblivion.esm:098483",
+    "full": "Weak Poison of Paralysis",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionParalyzeS",
+    "formid": "Oblivion.esm:098484",
+    "full": "Strong Poison of Paralysis",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionReflectW",
+    "formid": "Oblivion.esm:098485",
+    "full": "Weak Potion of Reflection",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "PotionReflectS",
+    "formid": "Oblivion.esm:098486",
+    "full": "Strong Potion of Reflection",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "PotionResistDiseaseW",
+    "formid": "Oblivion.esm:098487",
+    "full": "Weak Potion of Resistance",
+    "modl": "clutter\\RCpotions\\potion01_cyan.nif"
+  },
+  {
+    "edid": "PotionResistDiseaseS",
+    "formid": "Oblivion.esm:098488",
+    "full": "Strong Potion of Resistance",
+    "modl": "clutter\\RCpotions\\potion01_cyan.nif"
+  },
+  {
+    "edid": "PotionResistFireS",
+    "formid": "Oblivion.esm:098489",
+    "full": "Strong Potion of Insulation",
+    "modl": "clutter\\RCpotions\\potion01_cyan.nif"
+  },
+  {
+    "edid": "PotionResistFireW",
+    "formid": "Oblivion.esm:09848A",
+    "full": "Weak Potion of Insulation",
+    "modl": "clutter\\RCpotions\\potion01_cyan.nif"
+  },
+  {
+    "edid": "PotionResistFrostW",
+    "formid": "Oblivion.esm:09848B",
+    "full": "Weak Potion of Warmth",
+    "modl": "clutter\\RCpotions\\potion01_cyan.nif"
+  },
+  {
+    "edid": "PotionResistFrostS",
+    "formid": "Oblivion.esm:09848C",
+    "full": "Strong Potion of Warmth",
+    "modl": "clutter\\RCpotions\\potion01_cyan.nif"
+  },
+  {
+    "edid": "PotionResistMagickaW",
+    "formid": "Oblivion.esm:09848D",
+    "full": "Weak Potion of Disbelief",
+    "modl": "clutter\\RCpotions\\potion01_cyan.nif"
+  },
+  {
+    "edid": "PotionResistMagickaS",
+    "formid": "Oblivion.esm:09848E",
+    "full": "Strong Potion of Disbelief",
+    "modl": "clutter\\RCpotions\\potion01_cyan.nif"
+  },
+  {
+    "edid": "PotionResistPoisonW",
+    "formid": "Oblivion.esm:09848F",
+    "full": "Weak Potion of Antivenom",
+    "modl": "clutter\\RCpotions\\potion01_cyan.nif"
+  },
+  {
+    "edid": "PotionResistPoisonS",
+    "formid": "Oblivion.esm:098490",
+    "full": "Strong Potion of Antivenom",
+    "modl": "clutter\\RCpotions\\potion01_cyan.nif"
+  },
+  {
+    "edid": "PotionResistShockW",
+    "formid": "Oblivion.esm:098491",
+    "full": "Weak Potion of Grounding",
+    "modl": "clutter\\RCpotions\\potion01_cyan.nif"
+  },
+  {
+    "edid": "PotionResistShockS",
+    "formid": "Oblivion.esm:098492",
+    "full": "Strong Potion of Grounding",
+    "modl": "clutter\\RCpotions\\potion01_cyan.nif"
+  },
+  {
+    "edid": "PotionRestoreAgility",
+    "formid": "Oblivion.esm:098493",
+    "full": "Potion of Grace",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionRestoreEndurance",
+    "formid": "Oblivion.esm:098494",
+    "full": "Potion of Fortitude",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionRestoreFatigue",
+    "formid": "Oblivion.esm:098495",
+    "full": "Potion of Respite",
+    "modl": "clutter\\RCpotions\\potion01_yellow.nif"
+  },
+  {
+    "edid": "PotionRestoreHealth",
+    "formid": "Oblivion.esm:098496",
+    "full": "Potion of Healing",
+    "modl": "clutter\\RCpotions\\potion01_red.nif"
+  },
+  {
+    "edid": "PotionRestoreIntelligence",
+    "formid": "Oblivion.esm:098497",
+    "full": "Potion of Insight",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionRestoreLuck",
+    "formid": "Oblivion.esm:098498",
+    "full": "Potion of Fortune",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionRestoreMagicka",
+    "formid": "Oblivion.esm:098499",
+    "full": "Potion of Sorcery",
+    "modl": "clutter\\RCpotions\\potion01_blue.nif"
+  },
+  {
+    "edid": "PotionRestorePersonality",
+    "formid": "Oblivion.esm:09849A",
+    "full": "Potion of Charisma",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionRestoreSpeed",
+    "formid": "Oblivion.esm:09849B",
+    "full": "Potion of Alacrity",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionRestoreStrength",
+    "formid": "Oblivion.esm:09849C",
+    "full": "Potion of Might",
+    "modl": "clutter\\RCpotions\\potion01_orange.nif"
+  },
+  {
+    "edid": "PotionSilenceW",
+    "formid": "Oblivion.esm:09849D",
+    "full": "Weak Poison of Silence",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionSilenceS",
+    "formid": "Oblivion.esm:09849E",
+    "full": "Strong Poison of Silence",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionSpellAbsorptionW",
+    "formid": "Oblivion.esm:09849F",
+    "full": "Weak Potion of Absorption",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "PotionSpellAbsorptionS",
+    "formid": "Oblivion.esm:0984A0",
+    "full": "Strong Potion of Absorption",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "PotionWaterBreathing",
+    "formid": "Oblivion.esm:0984A3",
+    "full": "Potion of the Sea",
+    "modl": "clutter\\RCpotions\\potion01_black.nif"
+  },
+  {
+    "edid": "PotionWaterWalking",
+    "formid": "Oblivion.esm:0984A4",
+    "full": "Potion of Seastride",
+    "modl": "clutter\\RCpotions\\potion01_black.nif"
+  },
+  {
+    "edid": "PotionBurden",
+    "formid": "Oblivion.esm:0984A5",
+    "full": "Poison of Burden",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDetectLife",
+    "formid": "Oblivion.esm:0984A6",
+    "full": "Potion of Detect Life",
+    "modl": "clutter\\RCpotions\\potion01_white.nif"
+  },
+  {
+    "edid": "PotionDispelW",
+    "formid": "Oblivion.esm:0984A7",
+    "full": "Weak Potion of Dispel",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "PotionDispelS",
+    "formid": "Oblivion.esm:0984A8",
+    "full": "Strong Potion of Dispel",
+    "modl": "clutter\\RCpotions\\potion01_gray.nif"
+  },
+  {
+    "edid": "PotionDrainAgilityW",
+    "formid": "Oblivion.esm:0984A9",
+    "full": "Weak Poison of Fumbling",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainAgilityS",
+    "formid": "Oblivion.esm:0984AA",
+    "full": "Strong Poison of Fumbling",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainEnduranceW",
+    "formid": "Oblivion.esm:0984AB",
+    "full": "Weak Poison of Debilitation",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainEnduranceS",
+    "formid": "Oblivion.esm:0984AC",
+    "full": "Strong Poison of Debilitation",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainFatigueW",
+    "formid": "Oblivion.esm:0984AD",
+    "full": "Weak Poison of Weariness",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainFatigueS",
+    "formid": "Oblivion.esm:0984AE",
+    "full": "Strong Poison of Weariness",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "PotionDrainHealthW",
+    "formid": "Oblivion.esm:0984AF",
+    "full": "Weak Poison of Sickness",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "DrinkAle",
+    "formid": "Oblivion.esm:0B1200",
+    "full": "- Ale -",
+    "modl": "clutter\\Booze\\alebottle.nif"
+  },
+  {
+    "edid": "DrinkMead",
+    "formid": "Oblivion.esm:0B1201",
+    "full": "- Mead -",
+    "modl": "clutter\\Booze\\meadbottle.nif"
+  },
+  {
+    "edid": "DrinkBeer",
+    "formid": "Oblivion.esm:0B1202",
+    "full": "- Beer -",
+    "modl": "clutter\\Booze\\beerbottle.nif"
+  },
+  {
+    "edid": "FGC03NewheimBeer",
+    "formid": "Oblivion.esm:0B1241",
+    "full": "- Newheim's Special Brew -",
+    "modl": "clutter\\Booze\\beerbottle.nif"
+  },
+  {
+    "edid": "HouseServantMead",
+    "formid": "Oblivion.esm:0B97EA",
+    "full": "- Rosethorn Mead -",
+    "modl": "clutter\\Booze\\beerbottle.nif"
+  },
+  {
+    "edid": "MS14PotionTurpentine04",
+    "formid": "Oblivion.esm:0CD2DB",
+    "full": "Turpentine",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "MS14PotionTurpentine08",
+    "formid": "Oblivion.esm:0CD2DC",
+    "full": "Turpentine",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "MS14PotionTurpentine12",
+    "formid": "Oblivion.esm:0CD2DD",
+    "full": "Turpentine",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "MS14PotionTurpentine16",
+    "formid": "Oblivion.esm:0CD2DE",
+    "full": "Turpentine",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "MS14PotionTurpentine20",
+    "formid": "Oblivion.esm:0CD2DF",
+    "full": "Turpentine",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  },
+  {
+    "edid": "SQ08ShadowbanishWine",
+    "formid": "Oblivion.esm:185DCD",
+    "full": "Shadowbanish Wine",
+    "modl": "clutter\\Booze\\winebottle04.nif"
+  },
+  {
+    "edid": "TestPotionAlteration",
+    "formid": "Oblivion.esm:188872",
+    "full": "Alteration Potion",
+    "modl": "clutter\\RCpotions\\potionalteration.nif"
+  },
+  {
+    "edid": "TestPotionConjuration",
+    "formid": "Oblivion.esm:188875",
+    "full": "Conjuration Potion",
+    "modl": "clutter\\RCpotions\\potionconjuration.nif"
+  },
+  {
+    "edid": "TestPotionDestruction",
+    "formid": "Oblivion.esm:188878",
+    "full": "Potion of Destruction",
+    "modl": "clutter\\RCpotions\\potiondestruction.nif"
+  },
+  {
+    "edid": "TestPotionIllusion",
+    "formid": "Oblivion.esm:18887A",
+    "full": "Illusion Potion",
+    "modl": "clutter\\RCpotions\\potionillusion.nif"
+  },
+  {
+    "edid": "TestPotionMysticism",
+    "formid": "Oblivion.esm:18887C",
+    "full": "Mysticism Potion",
+    "modl": "clutter\\RCpotions\\potionmysticism.nif"
+  },
+  {
+    "edid": "TestPotionRestoration",
+    "formid": "Oblivion.esm:18887E",
+    "full": "Restoration Potion",
+    "modl": "clutter\\RCpotions\\potionrestoration.nif"
+  },
+  {
+    "edid": "MS14PotionTurpentine",
+    "formid": "Oblivion.esm:18BD5A",
+    "full": "Turpentine",
+    "modl": "clutter\\RCpotions\\potionpoison.nif"
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "edid": "zOOOBarastas",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:000D61",
+    "full": "Barastas",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "zOOOBarastas02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:000D63",
+    "full": "Barastas Nelar",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Cehani",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001B2E",
+    "full": "Cehani",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Cehani02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001D36",
+    "full": "Cehani Cadesel",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BravilMages",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00209A",
+    "full": "Dummy Cell",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "AnvilMages",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00209B",
+    "full": "Dummy Cell",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BravilFighters",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00209C",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "AnvilFighters",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00209D",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ChorrolFighters",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00209E",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ChorrolMages",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00209F",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "CheydinhalFighters",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0020A2",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "CheydinhalMages",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0020A3",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "SkingradMages",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0020A4",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "SkingradFighters",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0020A5",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BrumaMages",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0020A6",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BrumaFighters",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0020A7",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "zOOONarind",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002158",
+    "full": "Narind",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "zOOONarid02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002159",
+    "full": "Narind Vadosel",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "LeyawiinFighter",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00258E",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "LeyawiinMages",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00258F",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Yeleri",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002642",
+    "full": "Yeleri",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Yeleri02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0027DB",
+    "full": "Yeleri Verastun",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Yeleri03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0028E2",
+    "full": "Yeleri Verasdel",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "WarehouseAyleidWeapons",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0034C3",
+    "full": "Ayleid Armory",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Rosulas",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003594",
+    "full": "Rosulas",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Rosulas02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003769",
+    "full": "Rosulas Vasgedal",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Varastal",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003C34",
+    "full": "Varastal",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Dostares",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0043BA",
+    "full": "Dostares",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Dostares02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00453A",
+    "full": "Dostares Sevadal",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "OOODummyCell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006157",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "MelusPetiliusBasement",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006D3F",
+    "full": "Melus Petilius' Secret Room",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "zOOOArondar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007065",
+    "full": "Arondar",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "zOOOArondar03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007C0B",
+    "full": "Arondar Arestenia",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "zOOOArondar02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007C0C",
+    "full": "Arondar Arestel",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "LipsandTarn03OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A844",
+    "full": "Lipsand Tarn Sacred Halls",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "DeepCoverCave",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:015C2B",
+    "full": "Deep Cover Cave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "DeepCoverCave02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:015D7D",
+    "full": "Deep Cover Caverns",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "GraveGroundCave",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01630A",
+    "full": "Grave Ground Cave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BloodClotCave",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:016D4A",
+    "full": "Blood Clot Cave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BloodClotCave02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:016E23",
+    "full": "Blood Stain Hollow",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BloodClotCave03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:016ECF",
+    "full": "Blood Wound Deep",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "DrownedHopesCave",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01753F",
+    "full": "Drowned Hopes Cave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "DrownedHopesCave02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:017645",
+    "full": "Silent Lament's Hollow",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "RedGillCaverns",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01948B",
+    "full": "Red Gill Cave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "TestOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC27",
+    "full": null,
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "GloomWayCave",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01E620",
+    "full": "Gloom Way Cave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "GloomWayCave02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01E79C",
+    "full": "Whispering Echoes Grotto",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "OOOWasteCell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AEEE",
+    "full": "OOO's Waste Cell",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "MarshPunk",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02EFE5",
+    "full": "Dummy cell so GetInCell function will work",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BrokenToothCave",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:039749",
+    "full": "Broken Tooth Cave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BrokenToothCave02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0398D0",
+    "full": "Shattered Bone Halls",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ThunderingStepsCave",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:039FAD",
+    "full": "Thundering Steps Cave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ThunderingSteps02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03A070",
+    "full": "Thundering Howl Caverns",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ThunderingSteps03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03A15C",
+    "full": "Depths of the Thunder Fiends",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  }
+]

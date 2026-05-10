@@ -1,0 +1,1706 @@
+[
+  {
+    "edid": "AbBirthsignMankarCamoran",
+    "formid": "Oblivion.esm:00528F",
+    "full": "Mankar Camoran Birthsign",
+    "modl": null
+  },
+  {
+    "edid": "AbZombieDread",
+    "formid": "Oblivion.esm:00855C",
+    "full": "Dread Zombie Abilities",
+    "modl": null
+  },
+  {
+    "edid": "AbDABoethia",
+    "formid": "Oblivion.esm:00A3B3",
+    "full": "Boethia's Chosen One's Blessings",
+    "modl": null
+  },
+  {
+    "edid": "AbUnicornResistances",
+    "formid": "Oblivion.esm:00AA99",
+    "full": "Unicorn Resistances",
+    "modl": null
+  },
+  {
+    "edid": "AbBirthsignVampireMage",
+    "formid": "Oblivion.esm:00B507",
+    "full": "Vampire Mage Birthsign",
+    "modl": null
+  },
+  {
+    "edid": "MannimarcoAbility",
+    "formid": "Oblivion.esm:00C6B3",
+    "full": "Mannimarco Abilities",
+    "modl": null
+  },
+  {
+    "edid": "BSMage",
+    "formid": "Oblivion.esm:022A31",
+    "full": "Mage Birthsign",
+    "modl": null
+  },
+  {
+    "edid": "BSAtronach",
+    "formid": "Oblivion.esm:022A3D",
+    "full": "Atronach Birthsign",
+    "modl": null
+  },
+  {
+    "edid": "BSApprentice",
+    "formid": "Oblivion.esm:022A3E",
+    "full": "Apprentice Birthsign",
+    "modl": null
+  },
+  {
+    "edid": "BSLadyBlessing",
+    "formid": "Oblivion.esm:022A40",
+    "full": "Lady's Blessing",
+    "modl": null
+  },
+  {
+    "edid": "BSLordTrollkin",
+    "formid": "Oblivion.esm:022A42",
+    "full": "Trollkin",
+    "modl": null
+  },
+  {
+    "edid": "BSSerpent",
+    "formid": "Oblivion.esm:022A63",
+    "full": "Serpent Spell",
+    "modl": null
+  },
+  {
+    "edid": "BSSteed",
+    "formid": "Oblivion.esm:022A6A",
+    "full": "Steed Birthsign",
+    "modl": null
+  },
+  {
+    "edid": "BSWarrior",
+    "formid": "Oblivion.esm:022A6E",
+    "full": "Warrior Birthsign",
+    "modl": null
+  },
+  {
+    "edid": "StandardSilence3Journeyman",
+    "formid": "Oblivion.esm:027441",
+    "full": "Hush",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreHealth1Novice",
+    "formid": "Oblivion.esm:027442",
+    "full": "Heal Minor Wounds",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreFatigue1Novice",
+    "formid": "Oblivion.esm:027443",
+    "full": "Minor Respite",
+    "modl": null
+  },
+  {
+    "edid": "AbUndeadBoneResist",
+    "formid": "Oblivion.esm:02B532",
+    "full": "Undead Bone Resistances",
+    "modl": null
+  },
+  {
+    "edid": "AbUndeadFleshResist",
+    "formid": "Oblivion.esm:02B53D",
+    "full": "Undead Flesh Resistances",
+    "modl": null
+  },
+  {
+    "edid": "AbTroll",
+    "formid": "Oblivion.esm:02B545",
+    "full": "Troll Abilities",
+    "modl": null
+  },
+  {
+    "edid": "AbAtronachShockResist",
+    "formid": "Oblivion.esm:02B54D",
+    "full": "Resist Shock 100%",
+    "modl": null
+  },
+  {
+    "edid": "AbWillOWispResistances",
+    "formid": "Oblivion.esm:02B550",
+    "full": "Will O Wisp Resistances",
+    "modl": null
+  },
+  {
+    "edid": "AbSprigganResistances",
+    "formid": "Oblivion.esm:02B551",
+    "full": "Weakness to Fire",
+    "modl": null
+  },
+  {
+    "edid": "AbUndeadEtherealResist",
+    "formid": "Oblivion.esm:02B552",
+    "full": "Undead Ethereal Resistances",
+    "modl": null
+  },
+  {
+    "edid": "AbAnimalResistFrost",
+    "formid": "Oblivion.esm:02B554",
+    "full": "Resist Frost",
+    "modl": null
+  },
+  {
+    "edid": "AbSpiderDaedra",
+    "formid": "Oblivion.esm:03C182",
+    "full": "Frost Weakness",
+    "modl": null
+  },
+  {
+    "edid": "AbMinotaurLordResist",
+    "formid": "Oblivion.esm:03C38F",
+    "full": "Resist Magic",
+    "modl": null
+  },
+  {
+    "edid": "AbClannfear",
+    "formid": "Oblivion.esm:03C394",
+    "full": "Clannfear Armor",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageArea3Journeyman",
+    "formid": "Oblivion.esm:03C3D6",
+    "full": "Hail Storm",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageArea4Expert",
+    "formid": "Oblivion.esm:03C3D7",
+    "full": "Ice Storm",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageArea5Master",
+    "formid": "Oblivion.esm:03C3D8",
+    "full": "Blizzard",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageArea3Journeyman",
+    "formid": "Oblivion.esm:03C3D9",
+    "full": "Shocking Burst",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageArea4Expert",
+    "formid": "Oblivion.esm:03C3DA",
+    "full": "Lightning Ball",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageArea5Master",
+    "formid": "Oblivion.esm:03C3DB",
+    "full": "Lightning Storm",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageMagicka2Apprentice",
+    "formid": "Oblivion.esm:03C3DC",
+    "full": "Sever Magicka",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainAttribAgility1Novice",
+    "formid": "Oblivion.esm:03C3DF",
+    "full": "Drain Attribute: Agility",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainAttribEndurance1Novice",
+    "formid": "Oblivion.esm:03C3E0",
+    "full": "Drain Attribute: Endurance",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainAttribLuck1Novice",
+    "formid": "Oblivion.esm:03C3E1",
+    "full": "Drain Attribute: Luck",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainAttribSpeed2Apprentice",
+    "formid": "Oblivion.esm:03C3E2",
+    "full": "Drain Attribute: Speed",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainAttribWillpower2Apprentice",
+    "formid": "Oblivion.esm:03C3E3",
+    "full": "Drain Attribute: Willpower",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainAttribIntelligence3Journeyman",
+    "formid": "Oblivion.esm:03C3E4",
+    "full": "Drain Attribute: Intelligence",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainSkMarksmanApprentice",
+    "formid": "Oblivion.esm:03C3E6",
+    "full": "Drain Skill: Marksman",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainSkIllusionApprentice",
+    "formid": "Oblivion.esm:03C3E7",
+    "full": "Drain Skill: Illusion",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainSkDestructionJourneyman",
+    "formid": "Oblivion.esm:03C3E8",
+    "full": "Drain Skill: Destruction",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainSkAlterationJourneyman",
+    "formid": "Oblivion.esm:03C3E9",
+    "full": "Drain Skill: Alteration ",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainSkH2HJourneyman",
+    "formid": "Oblivion.esm:03C3EA",
+    "full": "Drain Skill: Hand to Hand",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainSkHeavyArmJourneyman",
+    "formid": "Oblivion.esm:03C3EB",
+    "full": "Drain Skill: Heavy Armor",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainSkBladeExpert",
+    "formid": "Oblivion.esm:03C3EC",
+    "full": "Drain Skill: Blade",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainSkConjurationExpert",
+    "formid": "Oblivion.esm:03C3ED",
+    "full": "Drain Skill: Conjuration",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainSkRestorationExpert",
+    "formid": "Oblivion.esm:03C3EE",
+    "full": "Drain Skill: Restoration",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainFatigue1Novice",
+    "formid": "Oblivion.esm:03C3EF",
+    "full": "Minor Enervation",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainFatigue2Apprentice",
+    "formid": "Oblivion.esm:03C3F0",
+    "full": "Major Enervation",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainFatigue3Journeyman",
+    "formid": "Oblivion.esm:03C3F1",
+    "full": "Dire Enervation",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainMagicka3Journeyman",
+    "formid": "Oblivion.esm:03C3F2",
+    "full": "Greater Magicka Drain ",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainMagicka4Expert",
+    "formid": "Oblivion.esm:03C3F3",
+    "full": "Superior Magicka Drain ",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainMagicka5Master",
+    "formid": "Oblivion.esm:03C3F4",
+    "full": "Legendary Magicka Drain",
+    "modl": null
+  },
+  {
+    "edid": "StandardDispelTarget2Apprentice",
+    "formid": "Oblivion.esm:03C3F5",
+    "full": "Dispel Other",
+    "modl": null
+  },
+  {
+    "edid": "StandardCommandHuman2Apprentice",
+    "formid": "Oblivion.esm:03C3F8",
+    "full": "Command Humanoid",
+    "modl": null
+  },
+  {
+    "edid": "StandardCommandHuman4Expert",
+    "formid": "Oblivion.esm:03C3F9",
+    "full": "Dominate Humanoid",
+    "modl": null
+  },
+  {
+    "edid": "StandardCureDiseaseJourneyman",
+    "formid": "Oblivion.esm:03C3FA",
+    "full": "Cure Disease",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageAttribAgility1Novice",
+    "formid": "Oblivion.esm:03C3FD",
+    "full": "Damage Attribute: Agility",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageAttribEndurance1Novice",
+    "formid": "Oblivion.esm:03C3FE",
+    "full": "Damage Attribute: Endurance",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageAttribIntelligence3Journeyman",
+    "formid": "Oblivion.esm:03C3FF",
+    "full": "Damage Attribute: Intelligence",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageAttribLuck1Novice",
+    "formid": "Oblivion.esm:03C400",
+    "full": "Damage Attribute: Luck",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageAttribSpeed2Apprentice",
+    "formid": "Oblivion.esm:03C401",
+    "full": "Damage Attribute: Speed",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageAttribStrength4Expert",
+    "formid": "Oblivion.esm:03C402",
+    "full": "Damage Attribute: Strength",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageAttribWillpower2Apprentice",
+    "formid": "Oblivion.esm:03C403",
+    "full": "Damage Attribute: Willpower",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyFatigue1Novice",
+    "formid": "Oblivion.esm:03C405",
+    "full": "Fortify Fatigue",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyFatigue2Apprentice",
+    "formid": "Oblivion.esm:03C406",
+    "full": "Greater Fortify Fatigue",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyMagicka3Journeyman",
+    "formid": "Oblivion.esm:03C407",
+    "full": "Fortify Magicka",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyMagicka4Expert",
+    "formid": "Oblivion.esm:03C409",
+    "full": "Greater Fortify Magicka",
+    "modl": null
+  },
+  {
+    "edid": "StandardWeaknessFire2Apprentice",
+    "formid": "Oblivion.esm:03C40D",
+    "full": "Weakness to Fire",
+    "modl": null
+  },
+  {
+    "edid": "StandardWeaknessFrost2Apprentice",
+    "formid": "Oblivion.esm:03C40E",
+    "full": "Weakness to Frost",
+    "modl": null
+  },
+  {
+    "edid": "StandardWeaknessMagicka3Journeyman",
+    "formid": "Oblivion.esm:03C40F",
+    "full": "Weakness to Magicka",
+    "modl": null
+  },
+  {
+    "edid": "StandardWeaknessPoison2Apprentice",
+    "formid": "Oblivion.esm:03C411",
+    "full": "Weakness to Poison",
+    "modl": null
+  },
+  {
+    "edid": "StandardWeaknessShock2Apprentice",
+    "formid": "Oblivion.esm:03C412",
+    "full": "Weakness to Shock",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonDremoraLordMaster",
+    "formid": "Oblivion.esm:03C413",
+    "full": "Summon Dremora Lord",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonZombieHeadlessJourneyman",
+    "formid": "Oblivion.esm:03C414",
+    "full": "Summon Headless Zombie",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonSkeletonGuardianJourneyman",
+    "formid": "Oblivion.esm:03C415",
+    "full": "Summon Skeleton Guardian",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonSkeletonHeroExpert",
+    "formid": "Oblivion.esm:03C416",
+    "full": "Summon Skeleton Hero",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonSkeletonChampionExpert",
+    "formid": "Oblivion.esm:03C417",
+    "full": "Summon Skeleton Champion",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonSpiderDaedraExpert",
+    "formid": "Oblivion.esm:03C418",
+    "full": "Summon Spider Daedra",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonWraithGloomMaster",
+    "formid": "Oblivion.esm:03C419",
+    "full": "Summon Gloom Wraith",
+    "modl": null
+  },
+  {
+    "edid": "AbDremora1CaitlifflResist",
+    "formid": "Oblivion.esm:03E9AD",
+    "full": "Caitiff Resist Magic",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainMagicka2Apprentice",
+    "formid": "Oblivion.esm:04C90F",
+    "full": "Magicka Drain",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainHealth1Novice",
+    "formid": "Oblivion.esm:04C912",
+    "full": "Minor Wound",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainHealth2Apprentice",
+    "formid": "Oblivion.esm:04C913",
+    "full": "Major Wound",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainHealth3Journeyman",
+    "formid": "Oblivion.esm:04C914",
+    "full": "Dire Wound",
+    "modl": null
+  },
+  {
+    "edid": "StandardDrainHealth4Expert",
+    "formid": "Oblivion.esm:04C915",
+    "full": "Superior Wound",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageTouch1Novice",
+    "formid": "Oblivion.esm:04C91E",
+    "full": "Burning Touch",
+    "modl": null
+  },
+  {
+    "edid": "AbGhostNPC",
+    "formid": "Oblivion.esm:04D7D8",
+    "full": "Ghostly powers",
+    "modl": null
+  },
+  {
+    "edid": "DarkInvis",
+    "formid": "Oblivion.esm:06D681",
+    "full": "Deathly Visage",
+    "modl": null
+  },
+  {
+    "edid": "MG18MannimarcoImmobilize",
+    "formid": "Oblivion.esm:070483",
+    "full": "Immobilization",
+    "modl": null
+  },
+  {
+    "edid": "MG18MannimarcoEnthrall",
+    "formid": "Oblivion.esm:070488",
+    "full": "Enthrall",
+    "modl": null
+  },
+  {
+    "edid": "StandardBurdenTarget4Expert",
+    "formid": "Oblivion.esm:07108A",
+    "full": "Weight of the World",
+    "modl": null
+  },
+  {
+    "edid": "StandardShieldTarget1Novice",
+    "formid": "Oblivion.esm:071090",
+    "full": "Protect Other",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreHealth5Master",
+    "formid": "Oblivion.esm:083714",
+    "full": "Heal Legendary Wounds",
+    "modl": null
+  },
+  {
+    "edid": "StandardDispelSelf1Novice",
+    "formid": "Oblivion.esm:08D1E9",
+    "full": "Minor Dispel",
+    "modl": null
+  },
+  {
+    "edid": "StandardResistMagic3Journeyman",
+    "formid": "Oblivion.esm:08D1EA",
+    "full": "Minor Magic Resistance",
+    "modl": null
+  },
+  {
+    "edid": "MG18TravenImmolate",
+    "formid": "Oblivion.esm:094C3E",
+    "full": "Immolation",
+    "modl": null
+  },
+  {
+    "edid": "E3DaedrothBreath",
+    "formid": "Oblivion.esm:098099",
+    "full": "Venomous Vapors",
+    "modl": null
+  },
+  {
+    "edid": "E3DaedrothKillArcher",
+    "formid": "Oblivion.esm:0980AF",
+    "full": "Venomous Vapors",
+    "modl": null
+  },
+  {
+    "edid": "StandardLightTarget1Novice",
+    "formid": "Oblivion.esm:0A319D",
+    "full": "Illuminate",
+    "modl": null
+  },
+  {
+    "edid": "StandardDisintegrateArmor2Apprentice",
+    "formid": "Oblivion.esm:0A97A3",
+    "full": "Corrode Armor",
+    "modl": null
+  },
+  {
+    "edid": "StandardDisintegrateArmor4Expert",
+    "formid": "Oblivion.esm:0A97A4",
+    "full": "Disintegrate Armor",
+    "modl": null
+  },
+  {
+    "edid": "StandardDisintegrateWeapon3Journeyman",
+    "formid": "Oblivion.esm:0A97A5",
+    "full": "Corrode Weapon",
+    "modl": null
+  },
+  {
+    "edid": "StandardDisintegrateWeapon5Master",
+    "formid": "Oblivion.esm:0A97A6",
+    "full": "Disintegrate Weapon",
+    "modl": null
+  },
+  {
+    "edid": "StandardShield1Novice",
+    "formid": "Oblivion.esm:0A97A7",
+    "full": "Protect",
+    "modl": null
+  },
+  {
+    "edid": "StandardShield2Apprentice",
+    "formid": "Oblivion.esm:0A97A8",
+    "full": "Defend",
+    "modl": null
+  },
+  {
+    "edid": "StandardShield3Journeyman",
+    "formid": "Oblivion.esm:0A97A9",
+    "full": "Guard",
+    "modl": null
+  },
+  {
+    "edid": "StandardShield4Expert",
+    "formid": "Oblivion.esm:0A97AA",
+    "full": "Shield",
+    "modl": null
+  },
+  {
+    "edid": "StandardShield5Master",
+    "formid": "Oblivion.esm:0A97AB",
+    "full": "Aegis",
+    "modl": null
+  },
+  {
+    "edid": "StandardCharmTarget1Novice",
+    "formid": "Oblivion.esm:0A97AC",
+    "full": "Alluring Gaze",
+    "modl": null
+  },
+  {
+    "edid": "StandardCharmTarget2Apprentice",
+    "formid": "Oblivion.esm:0A97AD",
+    "full": "Seductive Charm",
+    "modl": null
+  },
+  {
+    "edid": "StandardCharmTouch1Novice",
+    "formid": "Oblivion.esm:0A97AE",
+    "full": "Beguiling Touch",
+    "modl": null
+  },
+  {
+    "edid": "StandardCharmTouch2Apprentice",
+    "formid": "Oblivion.esm:0A97AF",
+    "full": "Mesmerizing Grasp",
+    "modl": null
+  },
+  {
+    "edid": "StandardCharmTarget3Journeyman",
+    "formid": "Oblivion.esm:0A97B0",
+    "full": "Voice of Rapture",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageHealthTarget2Apprentice",
+    "formid": "Oblivion.esm:0A97B1",
+    "full": "Entropic Bolt",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageHealthTarget4Expert",
+    "formid": "Oblivion.esm:0A97B2",
+    "full": "Withering Bolt",
+    "modl": null
+  },
+  {
+    "edid": "StandardInvisibility3Journeyman",
+    "formid": "Oblivion.esm:0A97BE",
+    "full": "Shadow Shape",
+    "modl": null
+  },
+  {
+    "edid": "StandardInvisibility4Expert",
+    "formid": "Oblivion.esm:0A97BF",
+    "full": "Ghostwalk",
+    "modl": null
+  },
+  {
+    "edid": "StandardInvisibility5Master",
+    "formid": "Oblivion.esm:0A97C0",
+    "full": "Spectral Form",
+    "modl": null
+  },
+  {
+    "edid": "StandardBurden1Novice",
+    "formid": "Oblivion.esm:0A97C1",
+    "full": "Burdening Touch",
+    "modl": null
+  },
+  {
+    "edid": "StandardBurden2Apprentice",
+    "formid": "Oblivion.esm:0A97C2",
+    "full": "Hindering Touch",
+    "modl": null
+  },
+  {
+    "edid": "StandardBurden3Journeyman",
+    "formid": "Oblivion.esm:0A97C3",
+    "full": "Encumbering Touch",
+    "modl": null
+  },
+  {
+    "edid": "StandardBurden4Expert",
+    "formid": "Oblivion.esm:0A97C4",
+    "full": "Oppressing Grasp",
+    "modl": null
+  },
+  {
+    "edid": "StandardCalmTarget1Novice",
+    "formid": "Oblivion.esm:0A97C6",
+    "full": "Serenity",
+    "modl": null
+  },
+  {
+    "edid": "StandardCalmTarget2Apprentice",
+    "formid": "Oblivion.esm:0A97C7",
+    "full": "Pacification",
+    "modl": null
+  },
+  {
+    "edid": "StandardCalmTouch1Novice",
+    "formid": "Oblivion.esm:0A97C9",
+    "full": "Soothing Touch",
+    "modl": null
+  },
+  {
+    "edid": "StandardCalmTouch3Journeyman",
+    "formid": "Oblivion.esm:0A97CA",
+    "full": "Calming Touch",
+    "modl": null
+  },
+  {
+    "edid": "StandardChameleon3Journeyman",
+    "formid": "Oblivion.esm:0A97CB",
+    "full": "Chameleon",
+    "modl": null
+  },
+  {
+    "edid": "StandardChameleon4Expert",
+    "formid": "Oblivion.esm:0A97CC",
+    "full": "Shadow",
+    "modl": null
+  },
+  {
+    "edid": "StandardChameleon5Master",
+    "formid": "Oblivion.esm:0A97CD",
+    "full": "Cloak",
+    "modl": null
+  },
+  {
+    "edid": "StandardCommandCreature2Apprentice",
+    "formid": "Oblivion.esm:0A97CE",
+    "full": "Command Creature",
+    "modl": null
+  },
+  {
+    "edid": "StandardCommandCreature4Expert",
+    "formid": "Oblivion.esm:0A97CF",
+    "full": "Dominate Creature",
+    "modl": null
+  },
+  {
+    "edid": "StandardCommandingTouch2Apprentice",
+    "formid": "Oblivion.esm:0A97D0",
+    "full": "Commanding Touch",
+    "modl": null
+  },
+  {
+    "edid": "StandardCommandingTouch3Journeyman",
+    "formid": "Oblivion.esm:0A97D1",
+    "full": "Dominating Touch",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageFatigue1Novice",
+    "formid": "Oblivion.esm:0A97D2",
+    "full": "Curse of Weakness",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageHealthTouch1Novice",
+    "formid": "Oblivion.esm:0A97D3",
+    "full": "Entropic Touch",
+    "modl": null
+  },
+  {
+    "edid": "StandardDamageHealthTouch3Journeyman",
+    "formid": "Oblivion.esm:0A97D4",
+    "full": "Withering Touch",
+    "modl": null
+  },
+  {
+    "edid": "StandardDemoralizeTarget3Journeyman",
+    "formid": "Oblivion.esm:0A97D5",
+    "full": "Voice of Dread",
+    "modl": null
+  },
+  {
+    "edid": "StandardDemoralizeTarget4Expert",
+    "formid": "Oblivion.esm:0A97D6",
+    "full": "Fearful Gaze",
+    "modl": null
+  },
+  {
+    "edid": "StandardDemoralizeTouch2Apprentice",
+    "formid": "Oblivion.esm:0A97D7",
+    "full": "Touch of Fear",
+    "modl": null
+  },
+  {
+    "edid": "StandardDemoralizeTouch4Expert",
+    "formid": "Oblivion.esm:0A97D8",
+    "full": "Grasp of Terror",
+    "modl": null
+  },
+  {
+    "edid": "StandardDemoralizeTarget5Master",
+    "formid": "Oblivion.esm:0A97D9",
+    "full": "Terrifying Presence",
+    "modl": null
+  },
+  {
+    "edid": "StandardDetectLife3Journeyman",
+    "formid": "Oblivion.esm:0A97DA",
+    "full": "Greater Life Detection",
+    "modl": null
+  },
+  {
+    "edid": "StandardDetectLife2Apprentice",
+    "formid": "Oblivion.esm:0A97DB",
+    "full": "Major Life Detection",
+    "modl": null
+  },
+  {
+    "edid": "StandardDetectLife1Novice",
+    "formid": "Oblivion.esm:0A97DC",
+    "full": "Minor Life Detection",
+    "modl": null
+  },
+  {
+    "edid": "StandardDetectLife4Expert",
+    "formid": "Oblivion.esm:0A97DD",
+    "full": "Superior Life Detection",
+    "modl": null
+  },
+  {
+    "edid": "StandardDetectLife5Master",
+    "formid": "Oblivion.esm:0A97DE",
+    "full": "Legendary Life Detection",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageTarget1Novice",
+    "formid": "Oblivion.esm:0A97DF",
+    "full": "Flare",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageTarget2Apprentice",
+    "formid": "Oblivion.esm:0A97E0",
+    "full": "Flash Bolt",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageTarget3Journeyman",
+    "formid": "Oblivion.esm:0A97E1",
+    "full": "Blazing Spear",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageTarget4Expert",
+    "formid": "Oblivion.esm:0A97E2",
+    "full": "Heat Blast",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageTarget5Master",
+    "formid": "Oblivion.esm:0A97E3",
+    "full": "Immolating Blast",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageTouch2Apprentice",
+    "formid": "Oblivion.esm:0A97E4",
+    "full": "Flame Touch",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageTouch3Journeyman",
+    "formid": "Oblivion.esm:0A97E5",
+    "full": "Searing Grasp",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageTouch4Expert",
+    "formid": "Oblivion.esm:0A97E6",
+    "full": "Scorching Blow",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageArea3Journeyman",
+    "formid": "Oblivion.esm:0A97E7",
+    "full": "Fire Ball",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageArea4Expert",
+    "formid": "Oblivion.esm:0A97E8",
+    "full": "Fire Storm",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireDamageArea5Master",
+    "formid": "Oblivion.esm:0A97E9",
+    "full": "Flame Tempest",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageTarget1Novice",
+    "formid": "Oblivion.esm:0A97EA",
+    "full": "Snowball",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageTarget2Apprentice",
+    "formid": "Oblivion.esm:0A97EB",
+    "full": "Hailstone",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageTarget3Journeyman",
+    "formid": "Oblivion.esm:0A97EC",
+    "full": "Frost Bolt",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageTarget4Expert",
+    "formid": "Oblivion.esm:0A97ED",
+    "full": "Ice Bolt",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageTarget5Master",
+    "formid": "Oblivion.esm:0A97EE",
+    "full": "Ice Blast",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageTouch1Novice",
+    "formid": "Oblivion.esm:0A97EF",
+    "full": "Cold Touch",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageTouch2Apprentice",
+    "formid": "Oblivion.esm:0A97F0",
+    "full": "Frost Touch",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageTouch3Journeyman",
+    "formid": "Oblivion.esm:0A97F1",
+    "full": "Winter's Grasp",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostDamageTouch4Expert",
+    "formid": "Oblivion.esm:0A97F2",
+    "full": "Arctic Blow",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageTarget1Novice",
+    "formid": "Oblivion.esm:0A97F3",
+    "full": "Spark",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageTarget2Apprentice",
+    "formid": "Oblivion.esm:0A97F4",
+    "full": "Shock",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageTouch4Expert",
+    "formid": "Oblivion.esm:0A97F6",
+    "full": "Lightning Surge",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageTarget3Journeyman",
+    "formid": "Oblivion.esm:0A97F8",
+    "full": "Lightning Bolt",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageTarget5Master",
+    "formid": "Oblivion.esm:0A97F9",
+    "full": "Electrocution",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageTouch1Novice",
+    "formid": "Oblivion.esm:0A97FA",
+    "full": "Shocking Touch",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageTouch2Apprentice",
+    "formid": "Oblivion.esm:0A97FB",
+    "full": "Electric Touch",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageTouch3Journeyman",
+    "formid": "Oblivion.esm:0A97FC",
+    "full": "Lightning Grasp",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockDamageTarget4Expert",
+    "formid": "Oblivion.esm:0A97FD",
+    "full": "Lightning Blast",
+    "modl": null
+  },
+  {
+    "edid": "StandardCharmArea3Journeyman",
+    "formid": "Oblivion.esm:0A97FF",
+    "full": "Enthralling Presence",
+    "modl": null
+  },
+  {
+    "edid": "StandardFeather2Apprentice",
+    "formid": "Oblivion.esm:0A9800",
+    "full": "Ease Burden",
+    "modl": null
+  },
+  {
+    "edid": "StandardFeather3Journeyman",
+    "formid": "Oblivion.esm:0A9801",
+    "full": "Lighten Load",
+    "modl": null
+  },
+  {
+    "edid": "StandardFeather4Expert",
+    "formid": "Oblivion.esm:0A9802",
+    "full": "Pack Mule",
+    "modl": null
+  },
+  {
+    "edid": "StandardFeather5Master",
+    "formid": "Oblivion.esm:0A9803",
+    "full": "Beast of Burden",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireShield2Apprentice",
+    "formid": "Oblivion.esm:0A9806",
+    "full": "Heat Shell",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireShield3Journeyman",
+    "formid": "Oblivion.esm:0A9807",
+    "full": "Flame Shield",
+    "modl": null
+  },
+  {
+    "edid": "StandardFireShield4Expert",
+    "formid": "Oblivion.esm:0A9808",
+    "full": "Fire Shield",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribAgility3Journeyman",
+    "formid": "Oblivion.esm:0A9809",
+    "full": "Greater Fortify Agility",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribEndurance3Journeyman",
+    "formid": "Oblivion.esm:0A980A",
+    "full": "Greater Fortify Endurance",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribIntelligence3Journeyman",
+    "formid": "Oblivion.esm:0A980B",
+    "full": "Greater Fortify Intelligence",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribLuck3Journeyman",
+    "formid": "Oblivion.esm:0A980C",
+    "full": "Greater Fortify Luck",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribPersonality3Journeyman",
+    "formid": "Oblivion.esm:0A980D",
+    "full": "Greater Fortify Personality",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribSpeed3Journeyman",
+    "formid": "Oblivion.esm:0A980E",
+    "full": "Greater Fortify Speed",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribStrength3Journeyman",
+    "formid": "Oblivion.esm:0A980F",
+    "full": "Greater Fortify Strength",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribWillpower3Journeyman",
+    "formid": "Oblivion.esm:0A9810",
+    "full": "Greater Fortify Willpower",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribAgility2Apprentice",
+    "formid": "Oblivion.esm:0A9811",
+    "full": "Fortify Agility",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribEndurance2Apprentice",
+    "formid": "Oblivion.esm:0A9812",
+    "full": "Fortify Endurance",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribIntelligence2Apprentice",
+    "formid": "Oblivion.esm:0A9813",
+    "full": "Fortify Intelligence",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribLuck2Apprentice",
+    "formid": "Oblivion.esm:0A9814",
+    "full": "Fortify Luck",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribPersonality2Apprentice",
+    "formid": "Oblivion.esm:0A9815",
+    "full": "Fortify Personality",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribSpeed2Apprentice",
+    "formid": "Oblivion.esm:0A9816",
+    "full": "Fortify Speed",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribStrength2Apprentice",
+    "formid": "Oblivion.esm:0A9817",
+    "full": "Fortify Strength",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyAttribWillpower2Apprentice",
+    "formid": "Oblivion.esm:0A9818",
+    "full": "Fortify Willpower",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrenzyTarget1Novice",
+    "formid": "Oblivion.esm:0A9819",
+    "full": "Frenzy",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrenzyTarget2Apprentice",
+    "formid": "Oblivion.esm:0A981A",
+    "full": "Rage",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrenzyTouch1Novice",
+    "formid": "Oblivion.esm:0A981B",
+    "full": "Touch of Frenzy",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrenzyTouch2Apprentice",
+    "formid": "Oblivion.esm:0A981C",
+    "full": "Touch of Rage",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostShield2Apprentice",
+    "formid": "Oblivion.esm:0A981D",
+    "full": "Frost Shell",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostShield3Journeyman",
+    "formid": "Oblivion.esm:0A981E",
+    "full": "Ice Shield",
+    "modl": null
+  },
+  {
+    "edid": "StandardFrostShield4Expert",
+    "formid": "Oblivion.esm:0A981F",
+    "full": "Glacial Wall",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyHealth2Apprentice",
+    "formid": "Oblivion.esm:0A9820",
+    "full": "Fortify Health",
+    "modl": null
+  },
+  {
+    "edid": "StandardFortifyHealth4Expert",
+    "formid": "Oblivion.esm:0A9821",
+    "full": "Greater Fortify Health",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreHealth2Apprentice",
+    "formid": "Oblivion.esm:0A9822",
+    "full": "Heal Major Wounds",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreFatigue2Apprentice",
+    "formid": "Oblivion.esm:0A9823",
+    "full": "Major Respite",
+    "modl": null
+  },
+  {
+    "edid": "StandardLight1Novice",
+    "formid": "Oblivion.esm:0A9825",
+    "full": "Starlight",
+    "modl": null
+  },
+  {
+    "edid": "StandardLight2Apprentice",
+    "formid": "Oblivion.esm:0A9826",
+    "full": "Moonlight",
+    "modl": null
+  },
+  {
+    "edid": "StandardLight3Journeyman",
+    "formid": "Oblivion.esm:0A9827",
+    "full": "Candlelight",
+    "modl": null
+  },
+  {
+    "edid": "StandardLight4Expert",
+    "formid": "Oblivion.esm:0A9828",
+    "full": "Torchlight",
+    "modl": null
+  },
+  {
+    "edid": "StandardLight5Master",
+    "formid": "Oblivion.esm:0A9829",
+    "full": "Daylight",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockShield2Apprentice",
+    "formid": "Oblivion.esm:0A982A",
+    "full": "Electric Shell",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockShield3Journeyman",
+    "formid": "Oblivion.esm:0A982B",
+    "full": "Lightning Shield",
+    "modl": null
+  },
+  {
+    "edid": "StandardShockShield4Expert",
+    "formid": "Oblivion.esm:0A982C",
+    "full": "Lightning Wall",
+    "modl": null
+  },
+  {
+    "edid": "StandardNightEye2Apprentice",
+    "formid": "Oblivion.esm:0A982F",
+    "full": "Eyes of Eventide",
+    "modl": null
+  },
+  {
+    "edid": "StandardNightEye3Journeyman",
+    "formid": "Oblivion.esm:0A9830",
+    "full": "Eyes of Midnight",
+    "modl": null
+  },
+  {
+    "edid": "StandardDispelSelf2Apprentice",
+    "formid": "Oblivion.esm:0A9831",
+    "full": "Major Dispel",
+    "modl": null
+  },
+  {
+    "edid": "StandardDispelSelf3Journeyman",
+    "formid": "Oblivion.esm:0A9832",
+    "full": "Greater Dispel",
+    "modl": null
+  },
+  {
+    "edid": "StandardDispelSelf4Expert",
+    "formid": "Oblivion.esm:0A9833",
+    "full": "Superior Dispel",
+    "modl": null
+  },
+  {
+    "edid": "StandardDispelSelf5Master",
+    "formid": "Oblivion.esm:0A9834",
+    "full": "Legendary Dispel",
+    "modl": null
+  },
+  {
+    "edid": "StandardDispelTarget3Journeyman",
+    "formid": "Oblivion.esm:0A9835",
+    "full": "Greater Dispel Other",
+    "modl": null
+  },
+  {
+    "edid": "StandardParalyze3Journeyman",
+    "formid": "Oblivion.esm:0A9838",
+    "full": "Debilitate",
+    "modl": null
+  },
+  {
+    "edid": "StandardParalyze5Master",
+    "formid": "Oblivion.esm:0A983A",
+    "full": "Paralyze",
+    "modl": null
+  },
+  {
+    "edid": "StandardRally1Novice",
+    "formid": "Oblivion.esm:0AA032",
+    "full": "Inspiration",
+    "modl": null
+  },
+  {
+    "edid": "StandardRallyTouch1Novice",
+    "formid": "Oblivion.esm:0AA033",
+    "full": "Inspiring Touch",
+    "modl": null
+  },
+  {
+    "edid": "StandardRally2Apprentice",
+    "formid": "Oblivion.esm:0AA034",
+    "full": "Heroism",
+    "modl": null
+  },
+  {
+    "edid": "StandardRallyTouch2Apprentice",
+    "formid": "Oblivion.esm:0AA035",
+    "full": "Heroic Touch",
+    "modl": null
+  },
+  {
+    "edid": "StandardReflectSpell4Expert",
+    "formid": "Oblivion.esm:0AA039",
+    "full": "Superior Spell Reflection",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreHealth3Journeyman",
+    "formid": "Oblivion.esm:0AA03A",
+    "full": "Heal Greater Wounds",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreAttribAgility2Apprentice",
+    "formid": "Oblivion.esm:0AA03C",
+    "full": "Restore Agility",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreAttribEndurance2Apprentice",
+    "formid": "Oblivion.esm:0AA03F",
+    "full": "Restore Endurance",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreAttribLuck2Apprentice",
+    "formid": "Oblivion.esm:0AA040",
+    "full": "Restore Luck",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreAttribIntelligence2Apprentice",
+    "formid": "Oblivion.esm:0AA042",
+    "full": "Restore Intelligence",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreAttribPersonality2Apprentice",
+    "formid": "Oblivion.esm:0AA044",
+    "full": "Restore Personality",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreAttribStrength2Apprentice",
+    "formid": "Oblivion.esm:0AA047",
+    "full": "Restore Strength",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreAttribSpeed2Apprentice",
+    "formid": "Oblivion.esm:0AA049",
+    "full": "Restore Speed",
+    "modl": null
+  },
+  {
+    "edid": "StandardRestoreAttribWillpower2Apprentice",
+    "formid": "Oblivion.esm:0AA04A",
+    "full": "Restore Willpower",
+    "modl": null
+  },
+  {
+    "edid": "StandardSilence4Expert",
+    "formid": "Oblivion.esm:0AA04C",
+    "full": "Mute",
+    "modl": null
+  },
+  {
+    "edid": "StandardSilence5Master",
+    "formid": "Oblivion.esm:0AA04D",
+    "full": "Silence",
+    "modl": null
+  },
+  {
+    "edid": "StandardReflectSpell5Master",
+    "formid": "Oblivion.esm:0AA053",
+    "full": "Legendary Spell Reflection",
+    "modl": null
+  },
+  {
+    "edid": "StandardSpellAbsorption4Expert",
+    "formid": "Oblivion.esm:0AA055",
+    "full": "Superior Spell Absorption",
+    "modl": null
+  },
+  {
+    "edid": "StandardSpellAbsorption5Master",
+    "formid": "Oblivion.esm:0AA056",
+    "full": "Legendary Spell Absorption",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonClannfearExpert",
+    "formid": "Oblivion.esm:0AA057",
+    "full": "Summon Clannfear",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonDaedrothExpert",
+    "formid": "Oblivion.esm:0AA058",
+    "full": "Summon Daedroth",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonDremoraJourneyman",
+    "formid": "Oblivion.esm:0AA059",
+    "full": "Summon Dremora",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonAtronachFlameJourneyman",
+    "formid": "Oblivion.esm:0AA05A",
+    "full": "Summon Flame Atronach",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonAtronachFrostExpert",
+    "formid": "Oblivion.esm:0AA05B",
+    "full": "Summon Frost Atronach",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonGhostApprentice",
+    "formid": "Oblivion.esm:0AA05C",
+    "full": "Summon Ghost",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonLichMaster",
+    "formid": "Oblivion.esm:0AA05D",
+    "full": "Summon Lich",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonScampApprentice",
+    "formid": "Oblivion.esm:0AA05E",
+    "full": "Summon Scamp",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonSkeletonApprentice",
+    "formid": "Oblivion.esm:0AA05F",
+    "full": "Summon Skeleton",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonAtronachStormMaster",
+    "formid": "Oblivion.esm:0AA060",
+    "full": "Summon Storm Atronach",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonXivilaiMaster",
+    "formid": "Oblivion.esm:0AA061",
+    "full": "Summon Xivilai",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonWraithFadedExpert",
+    "formid": "Oblivion.esm:0AA062",
+    "full": "Summon Faded Wraith",
+    "modl": null
+  },
+  {
+    "edid": "StandardSummonZombieApprentice",
+    "formid": "Oblivion.esm:0AA063",
+    "full": "Summon Zombie",
+    "modl": null
+  },
+  {
+    "edid": "StandardTurnUndead1Novice",
+    "formid": "Oblivion.esm:0AA068",
+    "full": "Turn Undead",
+    "modl": null
+  },
+  {
+    "edid": "StandardTurnUndead2Apprentice",
+    "formid": "Oblivion.esm:0AA069",
+    "full": "Repulse Undead",
+    "modl": null
+  },
+  {
+    "edid": "StandardTurnUndead3Journeyman",
+    "formid": "Oblivion.esm:0AA06A",
+    "full": "Rebuke Undead",
+    "modl": null
+  },
+  {
+    "edid": "StandardTurnUndead4Expert",
+    "formid": "Oblivion.esm:0AA06B",
+    "full": "Dismiss Undead",
+    "modl": null
+  },
+  {
+    "edid": "AbArenaCombatants",
+    "formid": "Oblivion.esm:0C425A",
+    "full": "Arena Combatants Ability",
+    "modl": null
+  },
+  {
+    "edid": "AbArenaAgronak",
+    "formid": "Oblivion.esm:0C425B",
+    "full": "Arena Agronak's Ability",
+    "modl": null
+  },
+  {
+    "edid": "Mg05FingerSpell01",
+    "formid": "Oblivion.esm:0C48A2",
+    "full": "Finger of the Mountain",
+    "modl": null
+  },
+  {
+    "edid": "Mg05FingerSpell05",
+    "formid": "Oblivion.esm:0C48A3",
+    "full": "Finger of the Mountain",
+    "modl": null
+  },
+  {
+    "edid": "Mg05FingerSpell10",
+    "formid": "Oblivion.esm:0C48A4",
+    "full": "Finger of the Mountain",
+    "modl": null
+  },
+  {
+    "edid": "Mg05FingerSpell15",
+    "formid": "Oblivion.esm:0C48A5",
+    "full": "Finger of the Mountain",
+    "modl": null
+  },
+  {
+    "edid": "Mg05FingerSpell20",
+    "formid": "Oblivion.esm:0C48A6",
+    "full": "Finger of the Mountain",
+    "modl": null
+  },
+  {
+    "edid": "Mg05FingerSpell25",
+    "formid": "Oblivion.esm:0C48A7",
+    "full": "Finger of the Mountain",
+    "modl": null
+  },
+  {
+    "edid": "MG05ShockSpell01",
+    "formid": "Oblivion.esm:0C6982",
+    "full": "Finger of the Mountain",
+    "modl": null
+  },
+  {
+    "edid": "MG05ShockSpell05",
+    "formid": "Oblivion.esm:0C6983",
+    "full": "Finger of the Mountain",
+    "modl": null
+  },
+  {
+    "edid": "MG05ShockSpell10",
+    "formid": "Oblivion.esm:0C6984",
+    "full": "Finger of the Mountain",
+    "modl": null
+  },
+  {
+    "edid": "MG05ShockSpell15",
+    "formid": "Oblivion.esm:0C6985",
+    "full": "Finger of the Mountain",
+    "modl": null
+  },
+  {
+    "edid": "MG05ShockSpell20",
+    "formid": "Oblivion.esm:0C6986",
+    "full": "Finger of the Mountain",
+    "modl": null
+  },
+  {
+    "edid": "AbBirthsignConjurer",
+    "formid": "Oblivion.esm:0C9FC3",
+    "full": "Conjurer Birthsign",
+    "modl": null
+  },
+  {
+    "edid": "AbBirthsignNecromancer",
+    "formid": "Oblivion.esm:0C9FC4",
+    "full": "Necromancer Birthsign",
+    "modl": null
+  },
+  {
+    "edid": "AbTrollHard",
+    "formid": "Oblivion.esm:0CA106",
+    "full": "Troll Abilities",
+    "modl": null
+  },
+  {
+    "edid": "AbLandDreugh",
+    "formid": "Oblivion.esm:189046",
+    "full": "Land Dreugh armor",
+    "modl": null
+  }
+]

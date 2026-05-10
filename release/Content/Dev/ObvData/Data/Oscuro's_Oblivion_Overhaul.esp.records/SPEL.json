@@ -3642,6 +3642,18 @@
     "modl": null
   },
   {
+    "edid": "PwSprigganSummonKodiak",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:017CBA",
+    "full": "Summon Kodiak",
+    "modl": null
+  },
+  {
+    "edid": "PwSprigganSummonGW",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:017CBE",
+    "full": "Summon Kodiak",
+    "modl": null
+  },
+  {
     "edid": "HloforFrost3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01847A",
     "full": "Rock Solid",
@@ -3843,6 +3855,12 @@
     "edid": "ZResistFrostNormal",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C059",
     "full": "Resistance to Frost",
+    "modl": null
+  },
+  {
+    "edid": "SprigganSummonKodiak",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CFF4",
+    "full": "Jephre's Spirit",
     "modl": null
   },
   {

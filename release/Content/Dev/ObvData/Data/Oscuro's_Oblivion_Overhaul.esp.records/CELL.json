@@ -48,6 +48,30 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "Nonungalo",
+    "formid": "Oblivion.esm:0A04E9",
+    "full": "LOC_FN_Nonungalo",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "GreenmeadCave03",
+    "formid": "Oblivion.esm:0A7954",
+    "full": "LOC_FN_GreenmeadCave03",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "GraveGroundCave",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01630A",
+    "full": "Grave Ground Cave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "BrokenToothCave",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:039749",
     "full": "Broken Tooth Cave",
@@ -59,6 +83,14 @@
     "edid": "BrokenToothCave02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0398D0",
     "full": "Shattered Bone Halls",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ThunderingSteps02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03A070",
+    "full": "Thundering Howl Caverns",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0

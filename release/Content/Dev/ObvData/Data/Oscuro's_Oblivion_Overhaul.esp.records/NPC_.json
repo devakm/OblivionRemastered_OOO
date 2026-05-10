@@ -11580,6 +11580,12 @@
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
+    "edid": "AdventurerImperialWarrior01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004776",
+    "full": "Adventurer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
     "edid": "NecromancerPutridBossFemaleBreton2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004911",
     "full": "Putrid Hand Master",
@@ -12510,6 +12516,12 @@
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
+    "edid": "AdventureDeadSpecial02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0136F8",
+    "full": "Order of the Dragonborne's Knight",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
     "edid": "GhostMinionMeleeMale1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:014662",
     "full": "Ghostly Warrior",
@@ -12576,9 +12588,33 @@
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
+    "edid": "AdventurerImperialWarrior01Dead",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01C2DF",
+    "full": "Rinfal Vrethu",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
     "edid": "NecromancerBossLadyApria",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01DA43",
     "full": "Apria Donteius",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ACommoner02DeadAmazonLoveStruck",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:021DE0",
+    "full": "Amel Lentus",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "AdventurerImperialWarrior02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:021FD9",
+    "full": "Adventurer cape green",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "AdventurerImperialWarrior03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0224CA",
+    "full": "Adventurer cape red",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
@@ -12912,9 +12948,69 @@
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
+    "edid": "AdventurerImperialWarrior01Test",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025166",
+    "full": "Test AI Adv Package",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "AdventurerImperialWarrior01Dead2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027DEA",
+    "full": "Adventurer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "AdventurerOrcSpellsword01Dead",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:028D43",
+    "full": "Adventurer",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ACommoner01Dead",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02926B",
+    "full": "Commoner",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "ACommoner02Dead",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02982A",
+    "full": "Commoner",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "AdventureDeadSpecial03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02A6FF",
+    "full": "Order of the Dragonborne's Knight",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "AdventureDeadSpecial04",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02A700",
+    "full": "Order of the Dragonborne's Knight",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "AdventureDeadSpecial05",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02A701",
+    "full": "Order of the Dragonborne's Elite Knight",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "AdventureDeadSpecial01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03A252",
+    "full": "Gherst Baerne",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
     "edid": "NecromancerPutridBossCarla",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03CACB",
     "full": "Carla Du Vrey",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "AdventurerImperialWarrior01Dead3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CFE8",
+    "full": "Adventurer",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
@@ -12939,6 +13035,12 @@
     "edid": "MarauderRaiderBossALady",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04D525",
     "full": "Sheil Hestarius",
+    "modl": "Characters\\_Male\\skeleton.nif"
+  },
+  {
+    "edid": "AdventureDeadSpecialTorne",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05130C",
+    "full": "Orio Torne",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {

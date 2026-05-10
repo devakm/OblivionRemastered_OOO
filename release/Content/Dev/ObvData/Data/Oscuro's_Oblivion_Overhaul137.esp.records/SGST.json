@@ -1,0 +1,92 @@
+[
+  {
+    "edid": "SSFireDmgFireShld1",
+    "formid": "Oblivion.esm:042053",
+    "full": "Descendent Sigil Stone",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSFireDmgFireShld2",
+    "formid": "Oblivion.esm:042054",
+    "full": "Subjacent Sigil Stone",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSFireDmgFireShld3",
+    "formid": "Oblivion.esm:042055",
+    "full": "Latent Sigil Stone",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSFireDmgFireShld4",
+    "formid": "Oblivion.esm:042056",
+    "full": "Ascendent Sigil Stone",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSFireDmgFireShld5",
+    "formid": "Oblivion.esm:042057",
+    "full": "Transcendent Sigil Stone",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSFrostDmgFrostShld1",
+    "formid": "Oblivion.esm:04205F",
+    "full": "Descendent Sigil Stone",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSFrostDmgFrostShld3",
+    "formid": "Oblivion.esm:042060",
+    "full": "Latent Sigil Stone",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSFrostDmgFrostShld2",
+    "formid": "Oblivion.esm:042061",
+    "full": "Subjacent Sigil Stone",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSFrostDmgFrostShld4",
+    "formid": "Oblivion.esm:042062",
+    "full": "Ascendent Sigil Stone",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSFrostDmgFrostShld5",
+    "formid": "Oblivion.esm:042063",
+    "full": "Transcendent Sigil Stone",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSShockDmgShockShld1",
+    "formid": "Oblivion.esm:04207D",
+    "full": "Descendent Sigil Stone",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSShockDmgShockShld2",
+    "formid": "Oblivion.esm:04207E",
+    "full": "Subjacent Sigil Stone",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSShockDmgShockShld3",
+    "formid": "Oblivion.esm:04207F",
+    "full": "Latent Sigil Stone",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSShockDmgShockShld4",
+    "formid": "Oblivion.esm:042080",
+    "full": "Ascendent Sigil Stone",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  },
+  {
+    "edid": "SSShockDmgShockShld5",
+    "formid": "Oblivion.esm:042081",
+    "full": "Transcendent Sigil Stone",
+    "modl": "Oblivion\\Sigil\\SigilStoneCORE01.NIF"
+  }
+]

@@ -1,0 +1,1502 @@
+[
+  {
+    "edid": "LowerPants03",
+    "formid": "Oblivion.esm:000857",
+    "full": "Huntsman Leather Pants",
+    "modl": "Clothes\\LowerClass\\03\\M\\Pants.NIF"
+  },
+  {
+    "edid": "LowerShirt03",
+    "formid": "Oblivion.esm:000883",
+    "full": "Huntsman Vest",
+    "modl": "Clothes\\LowerClass\\03\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "MiddleShirt04",
+    "formid": "Oblivion.esm:000B86",
+    "full": "Burgundy Linen Shirt",
+    "modl": "Clothes\\MiddleClass\\04\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "MiddleShoes04",
+    "formid": "Oblivion.esm:000BEA",
+    "full": "Thick Cowhide Shoes",
+    "modl": "Clothes\\MiddleClass\\04\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "UpperPants04",
+    "formid": "Oblivion.esm:003A93",
+    "full": "Red Velvet Garment",
+    "modl": "Clothes\\UpperClass\\04\\M\\Pants.NIF"
+  },
+  {
+    "edid": "UpperShirt04",
+    "formid": "Oblivion.esm:003A94",
+    "full": "Red Velvet Blouse",
+    "modl": "Clothes\\UpperClass\\04\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "EnchClothingRobeShieldCommon",
+    "formid": "Oblivion.esm:005527",
+    "full": "Robe of Protection",
+    "modl": "Clothes\\RobeLC02\\M\\RobeLC02M.NIF"
+  },
+  {
+    "edid": "EnchClothingPantsFortifyMagicka",
+    "formid": "Oblivion.esm:00552D",
+    "full": "Fortify Magicka Pants",
+    "modl": "Clothes\\MiddleClass\\02\\M\\Pants.NIF"
+  },
+  {
+    "edid": "EnchClothingShirtlShield",
+    "formid": "Oblivion.esm:005530",
+    "full": "Vest of Warding",
+    "modl": "Clothes\\LowerClass\\03\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "EnchClothingShirtResistNormalWeaponsCommon",
+    "formid": "Oblivion.esm:00844C",
+    "full": "Russet Felt Shirt of Blade Turning",
+    "modl": "Clothes\\MiddleClass\\05\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "EnchClothingRobeChameleonCommon",
+    "formid": "Oblivion.esm:00844D",
+    "full": "Chameleon Robe",
+    "modl": "Clothes\\Monk\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "EnchClothingPantsResistCold",
+    "formid": "Oblivion.esm:00844E",
+    "full": "Resist Cold Pants",
+    "modl": "Clothes\\LowerClass\\02\\M\\Pants.NIF"
+  },
+  {
+    "edid": "MQMartinEmperorRobe",
+    "formid": "Oblivion.esm:00BC2D",
+    "full": "Emperor's Robe",
+    "modl": "Clothes\\UpperClass\\Emperor\\Shirt.NIF"
+  },
+  {
+    "edid": "MiddleShirt07",
+    "formid": "Oblivion.esm:00C59E",
+    "full": "Blue Collar Shirt",
+    "modl": "Clothes\\MiddleClass\\MCShirtShopkeeper\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "MiddlePants04",
+    "formid": "Oblivion.esm:01047C",
+    "full": "Burgundy Linens",
+    "modl": "Clothes\\MiddleClass\\04\\M\\Pants.NIF"
+  },
+  {
+    "edid": "LowerShoes03",
+    "formid": "Oblivion.esm:01C82B",
+    "full": "Huntsman Moccasins",
+    "modl": "Clothes\\LowerClass\\03\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "LowerPants04",
+    "formid": "Oblivion.esm:01C82C",
+    "full": "Coarse Linens",
+    "modl": "Clothes\\LowerClass\\04\\M\\Pants.NIF"
+  },
+  {
+    "edid": "LowerShirt04",
+    "formid": "Oblivion.esm:01C82E",
+    "full": "Coarse Linen Shirt",
+    "modl": "Clothes\\LowerClass\\04\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "LowerShoes04",
+    "formid": "Oblivion.esm:01C82F",
+    "full": "Oiled Linen Shoes",
+    "modl": "Clothes\\LowerClass\\04\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "MiddlePants02",
+    "formid": "Oblivion.esm:01C830",
+    "full": "Tan Linens",
+    "modl": "Clothes\\MiddleClass\\02\\M\\Pants.NIF"
+  },
+  {
+    "edid": "MiddleShirt02",
+    "formid": "Oblivion.esm:01C831",
+    "full": "Quilted Doublet",
+    "modl": "Clothes\\MiddleClass\\02\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "MiddleShoes02",
+    "formid": "Oblivion.esm:01C883",
+    "full": "Doeskin Shoes",
+    "modl": "Clothes\\MiddleClass\\02\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "MiddleShirt03",
+    "formid": "Oblivion.esm:01C884",
+    "full": "Blue & Green Outfit",
+    "modl": "Clothes\\MiddleClass\\03\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "MiddleShoes03",
+    "formid": "Oblivion.esm:01C886",
+    "full": "Quilted Shoes",
+    "modl": "Clothes\\MiddleClass\\03\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "UpperShirt02",
+    "formid": "Oblivion.esm:01C887",
+    "full": "Black & Burgundy Outfit",
+    "modl": "Clothes\\UpperClass\\02\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "UpperShoes02",
+    "formid": "Oblivion.esm:01C888",
+    "full": "Gold Trimmed Shoes",
+    "modl": "Clothes\\UpperClass\\02\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "LowerRobe01",
+    "formid": "Oblivion.esm:01E7FF",
+    "full": "Monk Robe",
+    "modl": "Clothes\\Monk\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "LowerShirt01",
+    "formid": "Oblivion.esm:0229A6",
+    "full": "Blacksmith's Apron",
+    "modl": "Clothes\\LowerClass\\01\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "LowerPants01",
+    "formid": "Oblivion.esm:0229A7",
+    "full": "Blacksmith's Pants",
+    "modl": "Clothes\\LowerClass\\01\\M\\Pants.NIF"
+  },
+  {
+    "edid": "LowerShoes01",
+    "formid": "Oblivion.esm:0229A8",
+    "full": "Rough Leather Shoes",
+    "modl": "Clothes\\LowerClass\\01\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "LowerShirt02",
+    "formid": "Oblivion.esm:0229AA",
+    "full": "Dark Green Shirt",
+    "modl": "Clothes\\LowerClass\\02\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "LowerPants02",
+    "formid": "Oblivion.esm:0229AB",
+    "full": "Laced Leather Pants",
+    "modl": "Clothes\\LowerClass\\02\\M\\Pants.NIF"
+  },
+  {
+    "edid": "LowerShoes02",
+    "formid": "Oblivion.esm:0229AC",
+    "full": "Stitched Leather Shoes",
+    "modl": "Clothes\\LowerClass\\02\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "MiddleShirt01",
+    "formid": "Oblivion.esm:0229AD",
+    "full": "Brown Shirt",
+    "modl": "Clothes\\MiddleClass\\01\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "MiddlePants01",
+    "formid": "Oblivion.esm:0229AE",
+    "full": "Light Brown Linens",
+    "modl": "Clothes\\MiddleClass\\01\\M\\Pants.NIF"
+  },
+  {
+    "edid": "MiddleShoes01",
+    "formid": "Oblivion.esm:0229AF",
+    "full": "Pigskin Shoes",
+    "modl": "Clothes\\MiddleClass\\01\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "UpperShirt01",
+    "formid": "Oblivion.esm:0229B0",
+    "full": "Green Brocade Doublet",
+    "modl": "Clothes\\UpperClass\\01\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "UpperPants01",
+    "formid": "Oblivion.esm:0229B1",
+    "full": "Green Silk Garment",
+    "modl": "Clothes\\UpperClass\\01\\M\\Pants.NIF"
+  },
+  {
+    "edid": "UpperShoes01",
+    "formid": "Oblivion.esm:0229B2",
+    "full": "Green Velvet Shoes",
+    "modl": "Clothes\\UpperClass\\01\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "TGGrayFoxCowl",
+    "formid": "Oblivion.esm:022E81",
+    "full": "Gray Cowl of Nocturnal",
+    "modl": "Armor\\CowloftheGrayFox\\Helmet.NIF"
+  },
+  {
+    "edid": "UpperShirt03",
+    "formid": "Oblivion.esm:02319D",
+    "full": "Blue Velvet Outfit",
+    "modl": "Clothes\\UpperClass\\03\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "UpperShoes03",
+    "formid": "Oblivion.esm:02319E",
+    "full": "Blue Suede Shoes",
+    "modl": "Clothes\\UpperClass\\03\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "MQUpperEmperorRobe",
+    "formid": "Oblivion.esm:023D33",
+    "full": "Emperor's Robe",
+    "modl": "Clothes\\UpperClass\\Emperor\\Shirt.NIF"
+  },
+  {
+    "edid": "MQUpperEmperorShoes",
+    "formid": "Oblivion.esm:023D53",
+    "full": "Emperor's Shoes",
+    "modl": "Clothes\\UpperClass\\Emperor\\Shoes.NIF"
+  },
+  {
+    "edid": "LowerShirt05",
+    "formid": "Oblivion.esm:027319",
+    "full": "Sack Cloth Shirt",
+    "modl": "Clothes\\LowerClass\\05\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "LowerPants07",
+    "formid": "Oblivion.esm:028587",
+    "full": "Breeches",
+    "modl": "Clothes\\LowerClass\\07\\M\\Pants.NIF"
+  },
+  {
+    "edid": "LowerShirt07",
+    "formid": "Oblivion.esm:02858B",
+    "full": "Shirt with Suspenders",
+    "modl": "Clothes\\LowerClass\\07\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "LowerShoes07",
+    "formid": "Oblivion.esm:02858E",
+    "full": "Clogs",
+    "modl": "Clothes\\LowerClass\\07\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "LowerPants06",
+    "formid": "Oblivion.esm:028731",
+    "full": "Green Felt Linens",
+    "modl": "Clothes\\LowerClass\\06\\M\\Pants.NIF"
+  },
+  {
+    "edid": "LowerShirt06",
+    "formid": "Oblivion.esm:028732",
+    "full": "Collared Shirt",
+    "modl": "Clothes\\LowerClass\\06\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "LowerShoes06",
+    "formid": "Oblivion.esm:028733",
+    "full": "Buckled Shoes",
+    "modl": "Clothes\\LowerClass\\06\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "LowerPants08",
+    "formid": "Oblivion.esm:02B90B",
+    "full": "Belted Braies",
+    "modl": "Clothes\\LowerClass\\08\\M\\Pants.NIF"
+  },
+  {
+    "edid": "LowerShirt08",
+    "formid": "Oblivion.esm:02B90C",
+    "full": "Belted Vest",
+    "modl": "Clothes\\LowerClass\\08\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "LowerShoes08",
+    "formid": "Oblivion.esm:02B90D",
+    "full": "Braided Leather Sandals",
+    "modl": "Clothes\\LowerClass\\08\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "LowerShirt12",
+    "formid": "Oblivion.esm:02C0F4",
+    "full": "Olive Vest",
+    "modl": "Clothes\\LowerClass\\12\\M\\shirt.NIF"
+  },
+  {
+    "edid": "LowerShirt13",
+    "formid": "Oblivion.esm:02C0F6",
+    "full": "Stitched Green Shirt",
+    "modl": "Clothes\\LowerClass\\13\\M\\shirt.NIF"
+  },
+  {
+    "edid": "LowerShirt14",
+    "formid": "Oblivion.esm:02C0F8",
+    "full": "Burlap Vest",
+    "modl": "Clothes\\LowerClass\\14\\M\\shirt.NIF"
+  },
+  {
+    "edid": "LowerShirt15",
+    "formid": "Oblivion.esm:02C0FA",
+    "full": "Flax Tunic",
+    "modl": "Clothes\\LowerClass\\15\\M\\shirt.NIF"
+  },
+  {
+    "edid": "LowerShirt09",
+    "formid": "Oblivion.esm:02ECAC",
+    "full": "Fishing Waders",
+    "modl": "Clothes\\LowerClass\\09\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "LowerShirt10",
+    "formid": "Oblivion.esm:02ECAD",
+    "full": "Patched Vest",
+    "modl": "Clothes\\LowerClass\\10\\M\\shirt.NIF"
+  },
+  {
+    "edid": "LowerShirt11",
+    "formid": "Oblivion.esm:02ECB0",
+    "full": "Green Wool Shirt",
+    "modl": "Clothes\\LowerClass\\11\\M\\shirt.NIF"
+  },
+  {
+    "edid": "FGD04ShieldRing10",
+    "formid": "Oblivion.esm:02EE74",
+    "full": "Shield Ring",
+    "modl": "Clothes\\Ring\\Novice01.NIF"
+  },
+  {
+    "edid": "DBUpperShirt01",
+    "formid": "Oblivion.esm:03489F",
+    "full": "The Deceiver's Finery",
+    "modl": "Clothes\\UpperClass\\02\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "DBUpperShirt05",
+    "formid": "Oblivion.esm:0348A0",
+    "full": "The Deceiver's Finery",
+    "modl": "Clothes\\UpperClass\\02\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "DBUpperShirt10",
+    "formid": "Oblivion.esm:0348A1",
+    "full": "The Deceiver's Finery",
+    "modl": "Clothes\\UpperClass\\02\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "DBUpperShirt15",
+    "formid": "Oblivion.esm:0348A2",
+    "full": "The Deceiver's Finery",
+    "modl": "Clothes\\UpperClass\\02\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "DBUpperShirt20",
+    "formid": "Oblivion.esm:0348A3",
+    "full": "The Deceiver's Finery",
+    "modl": "Clothes\\UpperClass\\02\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "DBUpperShirt25",
+    "formid": "Oblivion.esm:0348A4",
+    "full": "The Deceiver's Finery",
+    "modl": "Clothes\\UpperClass\\02\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "DBUpperShirt30",
+    "formid": "Oblivion.esm:0348A5",
+    "full": "The Deceiver's Finery",
+    "modl": "Clothes\\UpperClass\\02\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "MiddleShirt05",
+    "formid": "Oblivion.esm:0352BA",
+    "full": "Russet Felt Outfit",
+    "modl": "Clothes\\MiddleClass\\05\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "MiddleShoes05",
+    "formid": "Oblivion.esm:0352BB",
+    "full": "Russet Felt Shoes",
+    "modl": "Clothes\\MiddleClass\\05\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "JewelryRing4Silver3Ruby",
+    "formid": "Oblivion.esm:038014",
+    "full": "Silver Ruby Ring",
+    "modl": "Clothes\\Ring\\RingSilverRuby.NIF"
+  },
+  {
+    "edid": "JewelryRing3Jade2Topaz",
+    "formid": "Oblivion.esm:03801C",
+    "full": "Jade Topaz Ring",
+    "modl": "Clothes\\Ring\\RingJadeTopaz.NIF"
+  },
+  {
+    "edid": "JewelryRing3Jade3Ruby",
+    "formid": "Oblivion.esm:03801D",
+    "full": "Jade Ruby Ring",
+    "modl": "Clothes\\Ring\\RingJadeRuby.NIF"
+  },
+  {
+    "edid": "JewelryRing3Jade4Sapphire",
+    "formid": "Oblivion.esm:03801E",
+    "full": "Jade Sapphire Ring",
+    "modl": "Clothes\\Ring\\RingJadeSapphire.NIF"
+  },
+  {
+    "edid": "JewelryRing4Silver4Sapphire",
+    "formid": "Oblivion.esm:038020",
+    "full": "Silver Sapphire Ring",
+    "modl": "Clothes\\Ring\\RingSilverSapphire.NIF"
+  },
+  {
+    "edid": "JewelryRing4Silver5Emerald",
+    "formid": "Oblivion.esm:038021",
+    "full": "Silver Emerald Ring",
+    "modl": "Clothes\\Ring\\RingSilverEmerald.NIF"
+  },
+  {
+    "edid": "JewelryRing5Gold4Sapphire",
+    "formid": "Oblivion.esm:038022",
+    "full": "Gold Sapphire Ring",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "JewelryRing5Gold5Emerald",
+    "formid": "Oblivion.esm:038023",
+    "full": "Gold Emerald Ring",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "JewelryRing5Gold6Diamond",
+    "formid": "Oblivion.esm:038024",
+    "full": "Gold Diamond Ring",
+    "modl": "Clothes\\Ring\\RingGoldDiamond.NIF"
+  },
+  {
+    "edid": "JewelryRing6Ebony5Emerald",
+    "formid": "Oblivion.esm:038025",
+    "full": "Ebony Emerald Ring",
+    "modl": "Clothes\\Ring\\RingEbonyEmerald.NIF"
+  },
+  {
+    "edid": "JewelryRing6Ebony6Diamond",
+    "formid": "Oblivion.esm:038026",
+    "full": "Ebony Diamond Ring",
+    "modl": "Clothes\\Ring\\RingEbonyDiamond.NIF"
+  },
+  {
+    "edid": "JewelryNecklace1Bronze",
+    "formid": "Oblivion.esm:038027",
+    "full": "Bronze Necklace",
+    "modl": "Clothes\\Amulet\\AmuletBronze.NIF"
+  },
+  {
+    "edid": "JewelryNecklace2Copper",
+    "formid": "Oblivion.esm:038028",
+    "full": "Copper Necklace",
+    "modl": "Clothes\\Amulet\\AmuletCopper.NIF"
+  },
+  {
+    "edid": "JewelryNecklace3Jade",
+    "formid": "Oblivion.esm:038029",
+    "full": "Jade Necklace",
+    "modl": "Clothes\\Amulet\\AmuletJade.NIF"
+  },
+  {
+    "edid": "JewelryNecklace4Silver",
+    "formid": "Oblivion.esm:03802A",
+    "full": "Silver Necklace",
+    "modl": "Clothes\\Amulet\\AmuletSilver.NIF"
+  },
+  {
+    "edid": "JewelryNecklace5Gold",
+    "formid": "Oblivion.esm:03802B",
+    "full": "Gold Necklace",
+    "modl": "Clothes\\Amulet\\AmuletGold.NIF"
+  },
+  {
+    "edid": "JewelryNecklace6Jeweled",
+    "formid": "Oblivion.esm:03802C",
+    "full": "Jeweled Necklace",
+    "modl": "Clothes\\Amulet\\AmuletJeweledNoJewel.NIF"
+  },
+  {
+    "edid": "JewelryAmulet1Bronze",
+    "formid": "Oblivion.esm:03802D",
+    "full": "Bronze Amulet",
+    "modl": "Clothes\\Amulet\\amuletbronzejeweled.NIF"
+  },
+  {
+    "edid": "JewelryAmulet2Copper",
+    "formid": "Oblivion.esm:03802E",
+    "full": "Copper Amulet",
+    "modl": "Clothes\\Amulet\\AmuletCopperJeweled.NIF"
+  },
+  {
+    "edid": "JewelryAmulet3Jade",
+    "formid": "Oblivion.esm:03802F",
+    "full": "Jade Amulet",
+    "modl": "Clothes\\Amulet\\AmuletJadeJeweled.NIF"
+  },
+  {
+    "edid": "JewelryAmulet4Silver",
+    "formid": "Oblivion.esm:038030",
+    "full": "Silver Amulet",
+    "modl": "Clothes\\Amulet\\AmuletSilverJeweled.NIF"
+  },
+  {
+    "edid": "JewelryAmulet5Gold",
+    "formid": "Oblivion.esm:038031",
+    "full": "Gold Amulet",
+    "modl": "Clothes\\Amulet\\AmuletGoldJeweled.NIF"
+  },
+  {
+    "edid": "JewelryAmulet6Jeweled",
+    "formid": "Oblivion.esm:038032",
+    "full": "Jeweled Amulet",
+    "modl": "Clothes\\Amulet\\amuletjeweled.NIF"
+  },
+  {
+    "edid": "EnchClothingShirtGlibTongues",
+    "formid": "Oblivion.esm:0478A5",
+    "full": "Robe of Glib Tongues",
+    "modl": "Clothes\\UpperClass\\02\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "EnchClothingPantsAcrobatics",
+    "formid": "Oblivion.esm:048981",
+    "full": "Acrobatics Pants",
+    "modl": "Clothes\\LowerClass\\02\\M\\Pants.NIF"
+  },
+  {
+    "edid": "EnchClothingShirtlLightArmor",
+    "formid": "Oblivion.esm:048982",
+    "full": "Light Armor Vest",
+    "modl": "Clothes\\LowerClass\\03\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "EnchClothingShirtMarksman",
+    "formid": "Oblivion.esm:048983",
+    "full": "Marksman Quilted Doublet",
+    "modl": "Clothes\\MiddleClass\\02\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "EnchClothingShirtMerchantile",
+    "formid": "Oblivion.esm:048984",
+    "full": "Mercantile Black Outfit",
+    "modl": "Clothes\\UpperClass\\02\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "EnchClothingShirtSecurity",
+    "formid": "Oblivion.esm:048985",
+    "full": "Security Russet Felt Shirt",
+    "modl": "Clothes\\MiddleClass\\05\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "EnchClothingShoesSneak",
+    "formid": "Oblivion.esm:048986",
+    "full": "Sneak Blue Suede Shoes",
+    "modl": "Clothes\\UpperClass\\03\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "EnchClothingShirtSpeechcraft",
+    "formid": "Oblivion.esm:048987",
+    "full": "Speechcraft Green Brocade Doublet",
+    "modl": "Clothes\\UpperClass\\01\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "EnchClothingShirtResistDisease",
+    "formid": "Oblivion.esm:048989",
+    "full": "Resist Disease Burgundy Linen Shirt",
+    "modl": "Clothes\\MiddleClass\\04\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "EnchClothingPantsResistFire",
+    "formid": "Oblivion.esm:04898A",
+    "full": "Resist Fire Burgundy Linens",
+    "modl": "Clothes\\MiddleClass\\04\\M\\Pants.NIF"
+  },
+  {
+    "edid": "EnchClothingShirtResistNormalWeapons",
+    "formid": "Oblivion.esm:04898B",
+    "full": "Resist Normal Weapons Quilted Doublet",
+    "modl": "Clothes\\MiddleClass\\02\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "EnchClothingShirtResistPoison",
+    "formid": "Oblivion.esm:04898C",
+    "full": "Resist Poison Blue & Green Outfit",
+    "modl": "Clothes\\MiddleClass\\03\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "EnchClothingShoesWaterwalking",
+    "formid": "Oblivion.esm:04898F",
+    "full": "Waterwalking Gold Trimmed Shoes",
+    "modl": "Clothes\\UpperClass\\02\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "EnchClothingRobeChameleon",
+    "formid": "Oblivion.esm:048990",
+    "full": "Lesser Chameleon Robe",
+    "modl": "Clothes\\Monk\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "EnchClothingShoesFeather",
+    "formid": "Oblivion.esm:048991",
+    "full": "Feather Shoes",
+    "modl": "Clothes\\LowerClass\\04\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "EnchClothingPantsFortifyFatigue",
+    "formid": "Oblivion.esm:048992",
+    "full": "Fortify Fatigue Pants",
+    "modl": "Clothes\\MiddleClass\\02\\M\\Pants.NIF"
+  },
+  {
+    "edid": "MiddleShirt08",
+    "formid": "Oblivion.esm:064F77",
+    "full": "Shirt with Suspenders",
+    "modl": "Clothes\\MiddleClass\\MCShirtSuspenders\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "MiddleShirt09",
+    "formid": "Oblivion.esm:064F78",
+    "full": "Plaid Shirt",
+    "modl": "Clothes\\MiddleClass\\MCShirtHobbit\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "MiddleShirt10",
+    "formid": "Oblivion.esm:064F79",
+    "full": "Forester's Shirt",
+    "modl": "Clothes\\MiddleClass\\MCShirtForester\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "MiddlePants05",
+    "formid": "Oblivion.esm:064F7A",
+    "full": "Rugged Pants",
+    "modl": "Clothes\\MiddleClass\\MCPantsAdventurer\\M\\Pants.NIF"
+  },
+  {
+    "edid": "MiddlePants06",
+    "formid": "Oblivion.esm:064F7B",
+    "full": "Black Wide Pants",
+    "modl": "Clothes\\MiddleClass\\MCPantsKungfuBlk\\M\\Pants.NIF"
+  },
+  {
+    "edid": "MiddlePants07",
+    "formid": "Oblivion.esm:064F7C",
+    "full": "Short Britches",
+    "modl": "Clothes\\MiddleClass\\MCPantsHobbitBritch\\M\\Pants.NIF"
+  },
+  {
+    "edid": "MiddleShirt06",
+    "formid": "Oblivion.esm:064F7D",
+    "full": "Dark Shirt",
+    "modl": "Clothes\\MiddleClass\\MCShirtSneaky\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "MageRobe",
+    "formid": "Oblivion.esm:064F7F",
+    "full": "Mage's Robe",
+    "modl": "Clothes\\RobeMage\\M\\RobeMage.NIF"
+  },
+  {
+    "edid": "MageHood",
+    "formid": "Oblivion.esm:064FE1",
+    "full": "Mage's Hood",
+    "modl": "Clothes\\RobeMage\\Hood.NIF"
+  },
+  {
+    "edid": "UpperPants06",
+    "formid": "Oblivion.esm:064FE4",
+    "full": "Blue Silks",
+    "modl": "Clothes\\UpperClass\\UCCountCountess\\M\\Pants.NIF"
+  },
+  {
+    "edid": "UpperShirt06",
+    "formid": "Oblivion.esm:064FE5",
+    "full": "Blue Silk Shirt",
+    "modl": "Clothes\\UpperClass\\UCCountCountess\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "UpperShirt07",
+    "formid": "Oblivion.esm:064FE6",
+    "full": "Highwayman's Shirt",
+    "modl": "Clothes\\UpperClass\\UCShirtHighway\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "LowerRobe03",
+    "formid": "Oblivion.esm:071019",
+    "full": "Tan Robe",
+    "modl": "Clothes\\RobeLC01\\M\\RobeLC01M.NIF"
+  },
+  {
+    "edid": "LowerRobe03hood",
+    "formid": "Oblivion.esm:07101A",
+    "full": "Tan Robe Hood",
+    "modl": "Clothes\\RobeLC01\\hood.NIF"
+  },
+  {
+    "edid": "LowerRobe04",
+    "formid": "Oblivion.esm:07101B",
+    "full": "Green Robe",
+    "modl": "Clothes\\RobeLC02\\M\\RobeLC02M.NIF"
+  },
+  {
+    "edid": "LowerRobe04hood",
+    "formid": "Oblivion.esm:07101C",
+    "full": "Green Robe Hood",
+    "modl": "Clothes\\RobeLC02\\hood.NIF"
+  },
+  {
+    "edid": "LowerRobe05",
+    "formid": "Oblivion.esm:07101D",
+    "full": "Tattered Robe",
+    "modl": "Clothes\\RobeLC03\\M\\RobeLC03M.NIF"
+  },
+  {
+    "edid": "LowerRobe05hood",
+    "formid": "Oblivion.esm:07101E",
+    "full": "Tattered Robe Hood",
+    "modl": "Clothes\\RobeLC03\\hood.NIF"
+  },
+  {
+    "edid": "UpperRobe02",
+    "formid": "Oblivion.esm:07101F",
+    "full": "Red Silk Robes",
+    "modl": "Clothes\\RobeUC01\\M\\RobeUC01M.NIF"
+  },
+  {
+    "edid": "UpperRobe02hood",
+    "formid": "Oblivion.esm:071020",
+    "full": "Red Silk Hood",
+    "modl": "Clothes\\RobeUC01\\hood.NIF"
+  },
+  {
+    "edid": "UpperRobe03",
+    "formid": "Oblivion.esm:071021",
+    "full": "Aqua Silk Robes",
+    "modl": "Clothes\\RobeUC02\\M\\RobeUC02M.NIF"
+  },
+  {
+    "edid": "UpperRobe03hood",
+    "formid": "Oblivion.esm:071022",
+    "full": "Aqua Silk Hood",
+    "modl": "Clothes\\RobeUC02\\hood.NIF"
+  },
+  {
+    "edid": "FGD04ShieldRing20",
+    "formid": "Oblivion.esm:07B7A5",
+    "full": "Shield Ring",
+    "modl": "Clothes\\Ring\\Novice01.NIF"
+  },
+  {
+    "edid": "FGD04ShieldRing30",
+    "formid": "Oblivion.esm:07B7A6",
+    "full": "Shield Ring",
+    "modl": "Clothes\\Ring\\Novice01.NIF"
+  },
+  {
+    "edid": "EnchRingChameleonGoldSapphire",
+    "formid": "Oblivion.esm:091AB1",
+    "full": "Ring of Shadows",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingChameleonGoldEmerald",
+    "formid": "Oblivion.esm:091AB2",
+    "full": "Grand Ring of Shadows",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingDetectLifeSilverEmerald",
+    "formid": "Oblivion.esm:091AB6",
+    "full": "Base Ring of Detect Life",
+    "modl": "Clothes\\Ring\\RingSilverEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingDetectLifeGoldEmerald",
+    "formid": "Oblivion.esm:091AB7",
+    "full": "Ring of Detect Life",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingDetectLifeEbonyDiamond",
+    "formid": "Oblivion.esm:091AB8",
+    "full": "Grand Ring of Detect Life",
+    "modl": "Clothes\\Ring\\RingEbonyDiamond.NIF"
+  },
+  {
+    "edid": "EnchRingFeatherBrassTopaz",
+    "formid": "Oblivion.esm:091ABB",
+    "full": "Grand Ring of Feather",
+    "modl": "Clothes\\Ring\\Novice01.NIF"
+  },
+  {
+    "edid": "EnchRingFireShieldBrassTopaz",
+    "formid": "Oblivion.esm:091ABE",
+    "full": "Grand Ring of Fire Shield",
+    "modl": "Clothes\\Ring\\RiingBrassTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAttrStrengthEbonyEmerald",
+    "formid": "Oblivion.esm:091AC0",
+    "full": "Ring of Strength",
+    "modl": "Clothes\\Ring\\RingEbonyEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAttrStrengthEbonyDiamond",
+    "formid": "Oblivion.esm:091AC1",
+    "full": "Grand Ring of Strength",
+    "modl": "Clothes\\Ring\\RingEbonyDiamond.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAttrIntelligenceGoldSapphire",
+    "formid": "Oblivion.esm:091AC3",
+    "full": "Ring of Intelligence",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAttrIntelligenceGoldEmerald",
+    "formid": "Oblivion.esm:091AC4",
+    "full": "Grand Ring of Intelligence",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAttrWillpowerJadeTopaz",
+    "formid": "Oblivion.esm:091AC6",
+    "full": "Ring of Willpower",
+    "modl": "Clothes\\Ring\\RingJadeTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAttrWillpowerJadeRuby",
+    "formid": "Oblivion.esm:091AC7",
+    "full": "Grand Ring of Willpower",
+    "modl": "Clothes\\Ring\\RingJadeRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAttrAgilityCopperTopaz",
+    "formid": "Oblivion.esm:091ACA",
+    "full": "Grand Ring of Agility",
+    "modl": "Clothes\\Ring\\RingCopperTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAttrSpeedSilverRuby",
+    "formid": "Oblivion.esm:091ACC",
+    "full": "Ring of Speed",
+    "modl": "Clothes\\Ring\\RingSilverRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAttrSpeedSilverSapphire",
+    "formid": "Oblivion.esm:091ACD",
+    "full": "Grand Ring of Speed",
+    "modl": "Clothes\\Ring\\RingSilverSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyEnduranceBrassTopaz",
+    "formid": "Oblivion.esm:091AD0",
+    "full": "Grand Ring of Endurance",
+    "modl": "Clothes\\Ring\\RiingBrassTopaz.NIF"
+  },
+  {
+    "edid": "EnchNecklaceFortifyAttrPersonalitySilver",
+    "formid": "Oblivion.esm:091AD1",
+    "full": "Base Necklace of Personality",
+    "modl": "Clothes\\Amulet\\AmuletSilver.NIF"
+  },
+  {
+    "edid": "EnchNecklaceFortifyAttrPersonalityGold",
+    "formid": "Oblivion.esm:091AD2",
+    "full": "Necklace of Personality",
+    "modl": "Clothes\\Amulet\\AmuletGold.NIF"
+  },
+  {
+    "edid": "EnchNecklaceFortifyAttrPersonalityJeweled",
+    "formid": "Oblivion.esm:091AD3",
+    "full": "Grand Necklace of Personality",
+    "modl": "Clothes\\Amulet\\AmuletJeweledNoJewel.NIF"
+  },
+  {
+    "edid": "EnchAmuletFortifyAttrLuckSilver",
+    "formid": "Oblivion.esm:091AD4",
+    "full": "Base Amulet of Luck",
+    "modl": "Clothes\\Amulet\\AmuletSilverJeweled.NIF"
+  },
+  {
+    "edid": "EnchAmuletFortifyAttrLuckGold",
+    "formid": "Oblivion.esm:091AD5",
+    "full": "Amulet of Luck",
+    "modl": "Clothes\\Amulet\\AmuletGoldJeweled.NIF"
+  },
+  {
+    "edid": "EnchAmuletFortifyAttrLuckJeweled",
+    "formid": "Oblivion.esm:091AD6",
+    "full": "Grand Amulet of Luck",
+    "modl": "Clothes\\Amulet\\amuletjeweled.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyFatigueJadeTopaz",
+    "formid": "Oblivion.esm:091AD9",
+    "full": "Grand Ring of Vigor",
+    "modl": "Clothes\\Ring\\RingJadeTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyHealthJadeRuby",
+    "formid": "Oblivion.esm:091C22",
+    "full": "Ring of Health",
+    "modl": "Clothes\\Ring\\RingJadeRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyHealthSilverRuby",
+    "formid": "Oblivion.esm:091C23",
+    "full": "Grand Ring of Health",
+    "modl": "Clothes\\Ring\\RingSilverRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyMagickaEbonyEmerald",
+    "formid": "Oblivion.esm:091C25",
+    "full": "Ring of Magicka",
+    "modl": "Clothes\\Ring\\RingEbonyEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyMagickaEbonyDiamond",
+    "formid": "Oblivion.esm:091C26",
+    "full": "Grand Ring of Magicka",
+    "modl": "Clothes\\Ring\\RingEbonyDiamond.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyArmorerBrassTopaz",
+    "formid": "Oblivion.esm:091C29",
+    "full": "Grand Ring of the Armorer",
+    "modl": "Clothes\\Ring\\RingCopperTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAthleticsSilverRuby",
+    "formid": "Oblivion.esm:091C2B",
+    "full": "Ring of Athletics",
+    "modl": "Clothes\\Ring\\RingSilverRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAthleticsSilverSapphire",
+    "formid": "Oblivion.esm:091C2C",
+    "full": "Grand Ring of Athletics",
+    "modl": "Clothes\\Ring\\RingSilverSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyBladeEbonyEmerald",
+    "formid": "Oblivion.esm:091C2E",
+    "full": "Ring of Blades",
+    "modl": "Clothes\\Ring\\RingEbonyEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyBladeEbonyDiamond",
+    "formid": "Oblivion.esm:091C2F",
+    "full": "Grand Ring of Blades",
+    "modl": "Clothes\\Ring\\RingEbonyDiamond.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyBlockBrassTopaz",
+    "formid": "Oblivion.esm:091C32",
+    "full": "Grand Ring of Block",
+    "modl": "Clothes\\Ring\\RiingBrassTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyBluntEbonyEmerald",
+    "formid": "Oblivion.esm:091C34",
+    "full": "Ring of Blunt Force",
+    "modl": "Clothes\\Ring\\RingEbonyEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyBluntEbonyDiamond",
+    "formid": "Oblivion.esm:091C35",
+    "full": "Grand Ring of Blunt Force",
+    "modl": "Clothes\\Ring\\RingEbonyDiamond.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyHandtoHandEbonyEmerald",
+    "formid": "Oblivion.esm:091C37",
+    "full": "Ring of Brawling",
+    "modl": "Clothes\\Ring\\RingEbonyDiamond.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyHandtoHandEbonyDiamond",
+    "formid": "Oblivion.esm:091C38",
+    "full": "Grand Ring of Brawling",
+    "modl": "Clothes\\Ring\\RingEbonyDiamond.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyHeavyArmorBrassTopaz",
+    "formid": "Oblivion.esm:091C3B",
+    "full": "Grand Ring of Heavy Armor",
+    "modl": "Clothes\\Ring\\RiingBrassTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAcrobaticsSilverRuby",
+    "formid": "Oblivion.esm:091C3D",
+    "full": "Ring of Acrobatics",
+    "modl": "Clothes\\Ring\\RingSilverRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAcrobaticsSilverSapphire",
+    "formid": "Oblivion.esm:091C3E",
+    "full": "Grand Ring of Acrobatics",
+    "modl": "Clothes\\Ring\\RingSilverSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyLightArmorSilverRuby",
+    "formid": "Oblivion.esm:091C40",
+    "full": "Ring of Light Armor",
+    "modl": "Clothes\\Ring\\RingSilverRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyLightArmorSilverSapphire",
+    "formid": "Oblivion.esm:091C41",
+    "full": "Grand Ring of Light Armor",
+    "modl": "Clothes\\Ring\\RingSilverSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyMarksmanCopperTopaz",
+    "formid": "Oblivion.esm:092AAC",
+    "full": "Grand Ring of the Archer",
+    "modl": "Clothes\\Ring\\RingCopperTopaz.NIF"
+  },
+  {
+    "edid": "EnchNecklaceFortifyMercantileSilver",
+    "formid": "Oblivion.esm:092AAD",
+    "full": "Base Necklace of Mercantile",
+    "modl": "Clothes\\Amulet\\AmuletSilver.NIF"
+  },
+  {
+    "edid": "EnchNecklaceFortifyMercantileGold",
+    "formid": "Oblivion.esm:092AAE",
+    "full": "Necklace of Mercantile",
+    "modl": "Clothes\\Amulet\\AmuletGold.NIF"
+  },
+  {
+    "edid": "EnchNecklaceFortifyMercantileJeweled",
+    "formid": "Oblivion.esm:092AAF",
+    "full": "Grand Necklace of Mercantile",
+    "modl": "Clothes\\Amulet\\AmuletJeweledNoJewel.NIF"
+  },
+  {
+    "edid": "EnchRingFortifySecurityCopperTopaz",
+    "formid": "Oblivion.esm:092AB2",
+    "full": "Grand Ring of Security",
+    "modl": "Clothes\\Ring\\RingCopperTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifySneakCopperTopaz",
+    "formid": "Oblivion.esm:092AB5",
+    "full": "Grand Ring of Sneak",
+    "modl": "Clothes\\Ring\\RingCopperTopaz.NIF"
+  },
+  {
+    "edid": "EnchNecklaceFortifySpeechcraftBronze",
+    "formid": "Oblivion.esm:092AB6",
+    "full": "Base Necklace of Speechcraft",
+    "modl": "Clothes\\Amulet\\AmuletBronze.NIF"
+  },
+  {
+    "edid": "EnchNecklaceFortifySpeechcraftCopper",
+    "formid": "Oblivion.esm:092AB7",
+    "full": "Necklace of Speechcraft",
+    "modl": "Clothes\\Amulet\\AmuletCopper.NIF"
+  },
+  {
+    "edid": "EnchNecklaceFortifySpeechcraftJade",
+    "formid": "Oblivion.esm:092AB8",
+    "full": "Grand Necklace of Speechcraft",
+    "modl": "Clothes\\Amulet\\AmuletJade.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAlchemyGoldSapphire",
+    "formid": "Oblivion.esm:092ABA",
+    "full": "Ring of Alchemy",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAlchemyGoldEmerald",
+    "formid": "Oblivion.esm:092ABB",
+    "full": "Grand Ring of Alchemy",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAlterationJadeTopaz",
+    "formid": "Oblivion.esm:092ABD",
+    "full": "Ring of Alteration",
+    "modl": "Clothes\\Ring\\RingJadeTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyAlterationJadeRuby",
+    "formid": "Oblivion.esm:092ABE",
+    "full": "Grand Ring of Alteration",
+    "modl": "Clothes\\Ring\\RingJadeRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyConjurationGoldSapphire",
+    "formid": "Oblivion.esm:092AC0",
+    "full": "Ring of Conjuration",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyConjurationGoldEmerald",
+    "formid": "Oblivion.esm:092AC1",
+    "full": "Grand Ring of Conjuration",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyDestructionJadeTopaz",
+    "formid": "Oblivion.esm:092AC3",
+    "full": "Ring of Destruction",
+    "modl": "Clothes\\Ring\\RingJadeTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyDestructionJadeRuby",
+    "formid": "Oblivion.esm:092AC4",
+    "full": "Grand Ring of Destruction",
+    "modl": "Clothes\\Ring\\RingJadeRuby.NIF"
+  },
+  {
+    "edid": "EnchAmuletFortifyIllusionBronze",
+    "formid": "Oblivion.esm:092AC5",
+    "full": "Base Amulet of Illusion",
+    "modl": "Clothes\\Amulet\\amuletbronzejeweled.NIF"
+  },
+  {
+    "edid": "EnchAmuletFortifyIllusionCopper",
+    "formid": "Oblivion.esm:092AC6",
+    "full": "Amulet of Illusion",
+    "modl": "Clothes\\Amulet\\AmuletCopperJeweled.NIF"
+  },
+  {
+    "edid": "EnchAmuletFortifyIllusionJade",
+    "formid": "Oblivion.esm:092AC7",
+    "full": "Grand Amulet of Illusion",
+    "modl": "Clothes\\Amulet\\AmuletJadeJeweled.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyMysticismGoldSapphire",
+    "formid": "Oblivion.esm:092AC9",
+    "full": "Ring of Mysticism",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyMysticismGoldEmerald",
+    "formid": "Oblivion.esm:092ACA",
+    "full": "Grand Ring of Mysticism",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyRestorationJadeTopaz",
+    "formid": "Oblivion.esm:092ACC",
+    "full": "Ring of Restoration",
+    "modl": "Clothes\\Ring\\RingJadeTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingFortifyRestorationJadeRuby",
+    "formid": "Oblivion.esm:092ACD",
+    "full": "Grand Ring of Restoration",
+    "modl": "Clothes\\Ring\\RingJadeRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFrostShieldSilverRuby",
+    "formid": "Oblivion.esm:0937F0",
+    "full": "Ring of Frost Shield",
+    "modl": "Clothes\\Ring\\RingSilverRuby.NIF"
+  },
+  {
+    "edid": "EnchRingFrostShieldSilverSapphire",
+    "formid": "Oblivion.esm:0937F1",
+    "full": "Grand Ring of Frost Shield",
+    "modl": "Clothes\\Ring\\RingSilverSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingLightCopperTopaz",
+    "formid": "Oblivion.esm:0937F4",
+    "full": "Grand Ring of Light",
+    "modl": "Clothes\\Ring\\RingCopperTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingNighteyeJadeTopaz",
+    "formid": "Oblivion.esm:0937F7",
+    "full": "Grand Ring of Nighteye",
+    "modl": "Clothes\\Ring\\RingJadeTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingReflectDamageGoldSapphire",
+    "formid": "Oblivion.esm:0937F8",
+    "full": "Ring of Retribution",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingReflectDamageGoldEmerald",
+    "formid": "Oblivion.esm:0937F9",
+    "full": "Grand Ring of Retribution",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "EnchAmuletReflectSpellBronze",
+    "formid": "Oblivion.esm:0937FA",
+    "full": "Base Amulet of Reflection",
+    "modl": "Clothes\\Amulet\\amuletbronzejeweled.NIF"
+  },
+  {
+    "edid": "EnchRingResistDiseaseJadeTopaz",
+    "formid": "Oblivion.esm:098417",
+    "full": "Ring of Fortitude",
+    "modl": "Clothes\\Ring\\RingJadeTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingResistDiseaseJadeRuby",
+    "formid": "Oblivion.esm:098418",
+    "full": "Grand Ring of Fortitude",
+    "modl": "Clothes\\Ring\\RingJadeRuby.NIF"
+  },
+  {
+    "edid": "EnchRingResistFireBrassPearl",
+    "formid": "Oblivion.esm:09841A",
+    "full": "Ring of Firewalking",
+    "modl": "Clothes\\Ring\\RingBrassPearl.NIF"
+  },
+  {
+    "edid": "EnchRingResistFireBrassTopaz",
+    "formid": "Oblivion.esm:09841B",
+    "full": "Grand Ring of Firewalking",
+    "modl": "Clothes\\Ring\\RiingBrassTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingResistFrostSilverRuby",
+    "formid": "Oblivion.esm:09841D",
+    "full": "Ring of the North",
+    "modl": "Clothes\\Ring\\RingSilverRuby.NIF"
+  },
+  {
+    "edid": "EnchRingResistFrostSilverSapphire",
+    "formid": "Oblivion.esm:09841E",
+    "full": "Grand Ring of the North",
+    "modl": "Clothes\\Ring\\RingSilverSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingResistMagickaEbonyEmerald",
+    "formid": "Oblivion.esm:098420",
+    "full": "Ring of Nihilism",
+    "modl": "Clothes\\Ring\\RingEbonyEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingResistMagickaEbonyDiamond",
+    "formid": "Oblivion.esm:098421",
+    "full": "Grand Ring of Nihilism",
+    "modl": "Clothes\\Ring\\RingEbonyDiamond.NIF"
+  },
+  {
+    "edid": "EnchRingResistNormalWeaponsGoldSapphire",
+    "formid": "Oblivion.esm:098423",
+    "full": "Ring of Steelskin",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingResistNormalWeaponsGoldEmerald",
+    "formid": "Oblivion.esm:098424",
+    "full": "Grand Ring of Steelskin",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingResistParalysisJadeSapphire",
+    "formid": "Oblivion.esm:098425",
+    "full": "Base Ring of Freedom",
+    "modl": "Clothes\\Ring\\RingJadeSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingResistParalysisSilverSapphire",
+    "formid": "Oblivion.esm:098426",
+    "full": "Ring of Freedom",
+    "modl": "Clothes\\Ring\\RingSilverSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingResistParalysisGoldSapphire",
+    "formid": "Oblivion.esm:098427",
+    "full": "Grand Ring of Freedom",
+    "modl": "Clothes\\Ring\\RingGoldSapphire.NIF"
+  },
+  {
+    "edid": "EnchRingResistPoisonSilverEmerald",
+    "formid": "Oblivion.esm:098428",
+    "full": "Base Ring of the Viper",
+    "modl": "Clothes\\Ring\\RingSilverEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingResistPoisonGoldEmerald",
+    "formid": "Oblivion.esm:098429",
+    "full": "Ring of the Viper",
+    "modl": "Clothes\\Ring\\RingGoldEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingResistPoisonEbonyEmerald",
+    "formid": "Oblivion.esm:09842A",
+    "full": "Grand Ring of the Viper",
+    "modl": "Clothes\\Ring\\RingEbonyEmerald.NIF"
+  },
+  {
+    "edid": "EnchRingResistShockCopperTopaz",
+    "formid": "Oblivion.esm:09842D",
+    "full": "Grand Ring of Storms",
+    "modl": "Clothes\\Ring\\RingCopperTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingShieldCopperTopaz",
+    "formid": "Oblivion.esm:098439",
+    "full": "Grand Ring of Aegis",
+    "modl": "Clothes\\Ring\\RingCopperTopaz.NIF"
+  },
+  {
+    "edid": "EnchRingShockShieldCopperTopaz",
+    "formid": "Oblivion.esm:09843C",
+    "full": "Grand Ring of Shock Shield",
+    "modl": "Clothes\\Ring\\RingCopperTopaz.NIF"
+  },
+  {
+    "edid": "EnchAmuletSpellAbsorptionCopper",
+    "formid": "Oblivion.esm:09843D",
+    "full": "Base Amulet of Absorption",
+    "modl": "Clothes\\Amulet\\AmuletCopperJeweled.NIF"
+  },
+  {
+    "edid": "EnchAmuletSpellAbsorptionSilver",
+    "formid": "Oblivion.esm:09843E",
+    "full": "Amulet of Absorption",
+    "modl": "Clothes\\Amulet\\AmuletSilverJeweled.NIF"
+  },
+  {
+    "edid": "EnchAmuletSpellAbsorptionJeweled",
+    "formid": "Oblivion.esm:09843F",
+    "full": "Grand Amulet of Absorption",
+    "modl": "Clothes\\Amulet\\amuletjeweled.NIF"
+  },
+  {
+    "edid": "EnchNecklaceWaterbreathingCopper",
+    "formid": "Oblivion.esm:098440",
+    "full": "Base Necklace of the Sea",
+    "modl": "Clothes\\Amulet\\AmuletCopper.NIF"
+  },
+  {
+    "edid": "EnchNecklaceWaterbreathingSilver",
+    "formid": "Oblivion.esm:098441",
+    "full": "Grand Necklace of the Sea",
+    "modl": "Clothes\\Amulet\\AmuletSilver.NIF"
+  },
+  {
+    "edid": "EnchNecklaceWaterbreathingJeweled",
+    "formid": "Oblivion.esm:098442",
+    "full": "Necklace of the Sea",
+    "modl": "Clothes\\Amulet\\AmuletJeweledNoJewel.NIF"
+  },
+  {
+    "edid": "EnchNecklaceWaterwalkingBronze",
+    "formid": "Oblivion.esm:098443",
+    "full": "Base Necklace of Seawalking",
+    "modl": "Clothes\\Amulet\\AmuletBronze.NIF"
+  },
+  {
+    "edid": "EnchNecklaceWaterwalkingJade",
+    "formid": "Oblivion.esm:098444",
+    "full": "Necklace of Seawalking",
+    "modl": "Clothes\\Amulet\\AmuletJade.NIF"
+  },
+  {
+    "edid": "EnchNecklaceWaterwalkingGold",
+    "formid": "Oblivion.esm:098445",
+    "full": "Grand Necklace of Seawalking",
+    "modl": "Clothes\\Amulet\\AmuletGold.NIF"
+  },
+  {
+    "edid": "EnchRingMundane",
+    "formid": "Oblivion.esm:09844B",
+    "full": "Mundane Ring",
+    "modl": "Clothes\\Ring\\RingGold.NIF"
+  },
+  {
+    "edid": "EnchNecklaceofSwords",
+    "formid": "Oblivion.esm:098452",
+    "full": "Necklace of Swords",
+    "modl": "Clothes\\Amulet\\AmuletSilver.NIF"
+  },
+  {
+    "edid": "EnchAmuletofAxes",
+    "formid": "Oblivion.esm:098453",
+    "full": "Amulet of Axes",
+    "modl": "Clothes\\Amulet\\AmuletSilver.NIF"
+  },
+  {
+    "edid": "EnchAcrobatsAmulet",
+    "formid": "Oblivion.esm:098457",
+    "full": "Acrobat's Amulet",
+    "modl": "Clothes\\Amulet\\AmuletJadeJeweled.NIF"
+  },
+  {
+    "edid": "EnchAmuletReflectSpellJade",
+    "formid": "Oblivion.esm:09845B",
+    "full": "Amulet of Reflection",
+    "modl": "Clothes\\Amulet\\AmuletJadeJeweled.NIF"
+  },
+  {
+    "edid": "EnchAmuletReflectSpellGold",
+    "formid": "Oblivion.esm:09845C",
+    "full": "Grand Amulet of Reflection",
+    "modl": "Clothes\\Amulet\\AmuletGoldJeweled.NIF"
+  },
+  {
+    "edid": "UpperShirt05",
+    "formid": "Oblivion.esm:0A498E",
+    "full": "Red Velvet Outfit",
+    "modl": "Clothes\\UpperClass\\05\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "UpperRobe01",
+    "formid": "Oblivion.esm:0A498F",
+    "full": "White Mage's Robes",
+    "modl": "Clothes\\Wizard\\Shirt.NIF"
+  },
+  {
+    "edid": "UpperShoes04",
+    "formid": "Oblivion.esm:0A4990",
+    "full": "White Mage's Shoes",
+    "modl": "Clothes\\Wizard\\Shoes.NIF"
+  },
+  {
+    "edid": "LowerRobe02",
+    "formid": "Oblivion.esm:12DD1E",
+    "full": "Grey Robe",
+    "modl": "Clothes\\RobeLCGrey\\M\\RobeLCGreyM.NIF"
+  },
+  {
+    "edid": "LowerRobe02hood",
+    "formid": "Oblivion.esm:12DD1F",
+    "full": "Grey Robe Hood",
+    "modl": "Clothes\\RobeLCGrey\\Hood.NIF"
+  },
+  {
+    "edid": "NecromancerRobe",
+    "formid": "Oblivion.esm:1885C9",
+    "full": "Necromancer's Robe",
+    "modl": "Clothes\\RobeNecromancer\\M\\RobeNecromancerM.NIF"
+  },
+  {
+    "edid": "KingofWormsRobe",
+    "formid": "Oblivion.esm:1885CA",
+    "full": "King of Worms' Robes",
+    "modl": "Clothes\\RobeKingWorm\\M\\RobeKingWormM.NIF"
+  },
+  {
+    "edid": "NecromancerHood",
+    "formid": "Oblivion.esm:1885CB",
+    "full": "Necromancer's Hood",
+    "modl": "Clothes\\RobeNecromancer\\Hood.NIF"
+  }
+]

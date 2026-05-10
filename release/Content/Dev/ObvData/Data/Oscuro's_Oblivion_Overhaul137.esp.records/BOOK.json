@@ -1,0 +1,32 @@
+[
+  {
+    "edid": "DAOghmaInfinium",
+    "formid": "Oblivion.esm:0228F1",
+    "full": "Oghma Infinium",
+    "modl": "Clutter\\Books\\DAOghmaInfinium.NIF"
+  },
+  {
+    "edid": "Book4RareModernHeretics",
+    "formid": "Oblivion.esm:026B1D",
+    "full": "Modern Heretics",
+    "modl": "Clutter\\Books\\Folio04.NIF"
+  },
+  {
+    "edid": "ScrollStandardAbsorbAttribWillpower1Novice",
+    "formid": "Oblivion.esm:0849D7",
+    "full": "Absorb Willpower",
+    "modl": "Clutter\\Books\\Scroll03.NIF"
+  },
+  {
+    "edid": "ScrollStandardSummonSkeletonGuardianJourneyman",
+    "formid": "Oblivion.esm:08AD9A",
+    "full": "Summon Skeleton Archer Guardian",
+    "modl": "Clutter\\Books\\Scroll03.NIF"
+  },
+  {
+    "edid": "XSunChildBook",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00EA4C",
+    "full": "Sun Child",
+    "modl": "Clutter\\Books\\Quarto04.NIF"
+  }
+]

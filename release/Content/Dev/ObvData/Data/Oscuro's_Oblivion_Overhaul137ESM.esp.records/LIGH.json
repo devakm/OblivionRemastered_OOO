@@ -1,0 +1,182 @@
+[
+  {
+    "edid": "CaveFire900Blue",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003107",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "CaveFire384Blue",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003108",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "Torch02light",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00341C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOODEJharvestChestAyleidLight01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D71",
+    "full": null,
+    "modl": "harvest\\containers\\XMS_AyleidCask01Mist.nif"
+  },
+  {
+    "edid": "OOODEJharvestChestAyleidLight02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D72",
+    "full": null,
+    "modl": "harvest\\containers\\XMS_AyleidCask01Mist_HalfScale.nif"
+  },
+  {
+    "edid": "torch04",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003DEB",
+    "full": "Torch",
+    "modl": "Lights\\Torch02.nif"
+  },
+  {
+    "edid": "Torchkeyold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00651E",
+    "full": "Old Torch Key",
+    "modl": "Lights\\Torch02.NIF"
+  },
+  {
+    "edid": "zOOOTinyCandleLightYellow64flicker",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00767E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "zOOOMelusPetiliusArmorLight",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0093B5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ARBlueGreenIntense800B",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01FFF3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ICLightHangIron01OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024C01",
+    "full": null,
+    "modl": "Architecture\\Castle\\CastleLight01.NIF"
+  },
+  {
+    "edid": "zOOOLadyOblivionPropLight",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03494E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "CommonLightRed200",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:044370",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "Candelabra01Orange400",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0483A4",
+    "full": null,
+    "modl": "Lights\\Candelabra01.NIF"
+  },
+  {
+    "edid": "StaffLightBlackOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F5D",
+    "full": "Illuminate Staff, Black Wood",
+    "modl": "armor\\DefensiveStaves\\solidwoodstaffblack.nif"
+  },
+  {
+    "edid": "StaffLightSilverOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F5E",
+    "full": "Illuminate Staff, Silver",
+    "modl": "armor\\DefensiveStaves\\silverstaff.nif"
+  },
+  {
+    "edid": "StaffLightEbonyOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F5F",
+    "full": "Illuminate Staff, Ebony",
+    "modl": "armor\\DefensiveStaves\\ebonystaff.nif"
+  },
+  {
+    "edid": "StaffLightElvenOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F60",
+    "full": "Illuminate Staff, Elven",
+    "modl": "armor\\DefensiveStaves\\elvenstaff.nif"
+  },
+  {
+    "edid": "StaffLightOrcishOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F61",
+    "full": "Illuminate Staff, Orcish",
+    "modl": "armor\\DefensiveStaves\\orcishstaff.nif"
+  },
+  {
+    "edid": "StaffLightSteelOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F62",
+    "full": "Illuminate Staff, Steel",
+    "modl": "armor\\DefensiveStaves\\steelstaff.nif"
+  },
+  {
+    "edid": "StaffLightDwarvenOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F63",
+    "full": "Illuminate Staff, Dwemer",
+    "modl": "armor\\DefensiveStaves\\dwarvenstaff.nif"
+  },
+  {
+    "edid": "StaffLightDaedricOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F64",
+    "full": "Illuminate Staff, Daedric",
+    "modl": "armor\\DefensiveStaves\\daedricstaff.nif"
+  },
+  {
+    "edid": "StaffLightGlassOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F65",
+    "full": "Illuminate Staff, Glass",
+    "modl": "armor\\DefensiveStaves\\glassstaff.nif"
+  },
+  {
+    "edid": "StaffLightAshenOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F66",
+    "full": "Illuminate Staff, Ashenwood",
+    "modl": "armor\\DefensiveStaves\\ashenstaff.nif"
+  },
+  {
+    "edid": "StaffLightOakenOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F67",
+    "full": "Illuminate Staff, Oaken",
+    "modl": "armor\\DefensiveStaves\\oakenstaff.nif"
+  },
+  {
+    "edid": "StaffLightYewOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F68",
+    "full": "Illuminate Staff, Yew",
+    "modl": "armor\\DefensiveStaves\\yewstaff.nif"
+  },
+  {
+    "edid": "StaffLightBrownOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F69",
+    "full": "Illuminate Staff, Brown Wood",
+    "modl": "armor\\DefensiveStaves\\solidwoodstaffbrown.nif"
+  },
+  {
+    "edid": "StaffLightWhiteOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F6A",
+    "full": "Illuminate Staff, White Wood",
+    "modl": "armor\\DefensiveStaves\\solidwoodstaffwhite.nif"
+  },
+  {
+    "edid": "ARLightRedIntense400",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:04EF3E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "Torch03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051331",
+    "full": "Torch",
+    "modl": "Lights\\Torch02.nif"
+  }
+]

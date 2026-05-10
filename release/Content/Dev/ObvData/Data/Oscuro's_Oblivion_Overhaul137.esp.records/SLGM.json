@@ -1,0 +1,164 @@
+[
+  {
+    "edid": "BlackSoulGem",
+    "formid": "Oblivion.esm:000192",
+    "full": "Black Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemBlackEmpty.nif"
+  },
+  {
+    "edid": "AzurasStar",
+    "formid": "Oblivion.esm:000193",
+    "full": "Azura's Star",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemAzura.nif"
+  },
+  {
+    "edid": "Mg17BlackSoulGem",
+    "formid": "Oblivion.esm:015208",
+    "full": "Colossal Black Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemColBlackEmpty.nif"
+  },
+  {
+    "edid": "SoulGemEmpty3Common",
+    "formid": "Oblivion.esm:015B8B",
+    "full": "Common Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemCommonEmpty.nif"
+  },
+  {
+    "edid": "SoulGemEmpty4Greater",
+    "formid": "Oblivion.esm:015B8C",
+    "full": "Greater Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemGreaterEmpty.nif"
+  },
+  {
+    "edid": "SoulGemEmpty5Grand",
+    "formid": "Oblivion.esm:015B8E",
+    "full": "Grand Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemGrandEmpty.nif"
+  },
+  {
+    "edid": "BlackSoulGemGrand",
+    "formid": "Oblivion.esm:01EC14",
+    "full": "Black Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemBlackEmpty.nif"
+  },
+  {
+    "edid": "SoulGemEmpty1Petty",
+    "formid": "Oblivion.esm:023D67",
+    "full": "Petty Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemPettyEmpty.nif"
+  },
+  {
+    "edid": "SoulGemEmpty2Lesser",
+    "formid": "Oblivion.esm:023D69",
+    "full": "Lesser Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemLesserEmpty.nif"
+  },
+  {
+    "edid": "SoulGem1Petty1PettySoul",
+    "formid": "Oblivion.esm:0382D1",
+    "full": "Petty Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemPettyFull.nif"
+  },
+  {
+    "edid": "SoulGem2Lesser1PettySoul",
+    "formid": "Oblivion.esm:0382D2",
+    "full": "Lesser Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemLesserFull.nif"
+  },
+  {
+    "edid": "SoulGem2Lesser2LesserSoul",
+    "formid": "Oblivion.esm:0382D3",
+    "full": "Lesser Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemLesserFull.nif"
+  },
+  {
+    "edid": "SoulGem3Common1PettySoul",
+    "formid": "Oblivion.esm:0382D4",
+    "full": "Common Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemCommonFull.nif"
+  },
+  {
+    "edid": "SoulGem3Common2LesserSoul",
+    "formid": "Oblivion.esm:0382D5",
+    "full": "Common Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemCommonFull.nif"
+  },
+  {
+    "edid": "SoulGem3Common3CommonSoul",
+    "formid": "Oblivion.esm:0382D6",
+    "full": "Common Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemCommonFull.nif"
+  },
+  {
+    "edid": "SoulGem4Greater1PettySoul",
+    "formid": "Oblivion.esm:0382D7",
+    "full": "Greater Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemGreaterFull.nif"
+  },
+  {
+    "edid": "SoulGem4Greater2LesserSoul",
+    "formid": "Oblivion.esm:0382D8",
+    "full": "Greater Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemGreaterFull.nif"
+  },
+  {
+    "edid": "SoulGem4Greater3CommonSoul",
+    "formid": "Oblivion.esm:0382D9",
+    "full": "Greater Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemGreaterFull.nif"
+  },
+  {
+    "edid": "SoulGem4Greater4GreaterSoul",
+    "formid": "Oblivion.esm:0382DA",
+    "full": "Greater Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemGreaterFull.nif"
+  },
+  {
+    "edid": "SoulGem5Grand1PettySoul",
+    "formid": "Oblivion.esm:0382DB",
+    "full": "Grand Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemGrandFull.nif"
+  },
+  {
+    "edid": "SoulGem5Grand2LesserSoul",
+    "formid": "Oblivion.esm:0382DC",
+    "full": "Grand Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemGrandFull.nif"
+  },
+  {
+    "edid": "SoulGem5Grand3CommonSoul",
+    "formid": "Oblivion.esm:0382DD",
+    "full": "Grand Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemGrandFull.nif"
+  },
+  {
+    "edid": "SoulGem5Grand4GreaterSoul",
+    "formid": "Oblivion.esm:0382DE",
+    "full": "Grand Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemGrandFull.nif"
+  },
+  {
+    "edid": "SoulGem5Grand5GrandSoul",
+    "formid": "Oblivion.esm:0382DF",
+    "full": "Grand Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemGrandFull.nif"
+  },
+  {
+    "edid": "BlackSoulGemFilled",
+    "formid": "Oblivion.esm:0382E0",
+    "full": "Black Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemBlackFull.nif"
+  },
+  {
+    "edid": "MG02BlackSoulGem",
+    "formid": "Oblivion.esm:03C7FC",
+    "full": "Falcar's Black Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemBlackEmpty.nif"
+  },
+  {
+    "edid": "Mg17BlackSoulGemFilled",
+    "formid": "Oblivion.esm:0C6988",
+    "full": "Colossal Black Soul Gem",
+    "modl": "clutter\\StarBoiSoulGems\\SoulgemColBlackFull.nif"
+  }
+]

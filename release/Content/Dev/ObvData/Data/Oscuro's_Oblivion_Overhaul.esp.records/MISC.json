@@ -1592,8 +1592,8 @@
   {
     "edid": "LionHide01Snow",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00329C",
-    "full": "",
-    "modl": "clutter\\LionPeltFix\\snowlionhide.nif"
+    "full": "Snow Lion Pelt",
+    "modl": "Clutter\\LionHide.NIF"
   },
   {
     "edid": "BearPelt01a",

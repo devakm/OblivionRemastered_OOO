@@ -1,0 +1,56 @@
+[
+  {
+    "edid": "bgSDStoneFireOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:000800",
+    "full": "Fire Stone",
+    "modl": "Clutter\\GX\\Gems\\RubyFlawless.NIF"
+  },
+  {
+    "edid": "bgSDStoneFrostOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:000801",
+    "full": "Frost Stone",
+    "modl": "Clutter\\GX\\Gems\\SapphireFlawless.NIF"
+  },
+  {
+    "edid": "bgSDStoneShockOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:000802",
+    "full": "Shock Stone",
+    "modl": "Clutter\\GX\\Gems\\TopazFlawless.NIF"
+  },
+  {
+    "edid": "bgSDStoneMagickaOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:000803",
+    "full": "Arcane Stone",
+    "modl": "Clutter\\GX\\Gems\\DiamondFlawless.NIF"
+  },
+  {
+    "edid": "bgSDStoneResistOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:000804",
+    "full": "Negation Stone",
+    "modl": "Clutter\\GX\\Gems\\EmeraldFlawless.NIF"
+  },
+  {
+    "edid": "bgSDStoneResfireOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:000805",
+    "full": "Flameguard Stone",
+    "modl": "Clutter\\GX\\Gems\\RubyFlawed.NIF"
+  },
+  {
+    "edid": "bgSDStoneResfrostOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:000806",
+    "full": "Frostguard Stone",
+    "modl": "Clutter\\GX\\Gems\\SapphireFlawed.NIF"
+  },
+  {
+    "edid": "bgSDStoneResshockOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:000807",
+    "full": "Shockguard Stone",
+    "modl": "Clutter\\GX\\Gems\\TopazFlawed.NIF"
+  },
+  {
+    "edid": "bgSDStoneRainbowOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:000808",
+    "full": "Elemental Stone",
+    "modl": "clutter\\GX\\Gems\\opalflawless.nif"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "edid": "GolemFleshHeart",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002253",
+    "full": "Blood Golem's Heart",
+    "modl": "clutter\\Ingredients\\GolemBloodHeart.nif"
+  },
+  {
+    "edid": "GolemEbonyHeart",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00225A",
+    "full": "Ebony Golem's Heart",
+    "modl": "clutter\\Ingredients\\GolemEbonyheart.nif"
+  },
+  {
+    "edid": "GolemGlassHeart",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00225B",
+    "full": "Glass Golem's Heart",
+    "modl": "clutter\\Ingredients\\GolemGlassHeart.nif"
+  },
+  {
+    "edid": "GolemGoldHeart",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002261",
+    "full": "Gold Golem's Heart",
+    "modl": "clutter\\Ingredients\\GolemGoldHeart.nif"
+  },
+  {
+    "edid": "GolemIronHeart",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002265",
+    "full": "Iron Golem's Heart",
+    "modl": "clutter\\Ingredients\\GolemIronHeart.nif"
+  },
+  {
+    "edid": "GolemMagmaHeart",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002269",
+    "full": "Magma Golem's Heart",
+    "modl": "clutter\\Ingredients\\GolemMagmaHeart.nif"
+  },
+  {
+    "edid": "GolemMithrilHeart",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00226F",
+    "full": "Mithril Golem's Heart",
+    "modl": "clutter\\Ingredients\\GolemMithrilHeart.nif"
+  },
+  {
+    "edid": "GolemMudHeart",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002270",
+    "full": "Mud Golem's Heart",
+    "modl": "clutter\\Ingredients\\GolemMudHeart.nif"
+  },
+  {
+    "edid": "GolemSilverHeart",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002275",
+    "full": "Silver Golem's Heart",
+    "modl": "clutter\\Ingredients\\GolemSilverHeart.nif"
+  },
+  {
+    "edid": "GolemWaterHeart",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002278",
+    "full": "Water Golem's Heart",
+    "modl": "clutter\\Ingredients\\GolemWaterHeart.nif"
+  },
+  {
+    "edid": "Lionmeatsnow",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00329D",
+    "full": "Snow Lion Meat",
+    "modl": "clutter\\LionPeltFix\\ingredpredatorsteak.nif"
+  },
+  {
+    "edid": "Lionmeatleopard",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00329E",
+    "full": "Jaguar Meat",
+    "modl": "clutter\\LionPeltFix\\ingredpredatorsteak.nif"
+  },
+  {
+    "edid": "Lionmeatleopardsnow",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0032A0",
+    "full": "Snow Leopard Meat",
+    "modl": "clutter\\LionPeltFix\\ingredpredatorsteak.nif"
+  },
+  {
+    "edid": "Wolfmeatsnow",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0032A2",
+    "full": "Tundra Wolf Meat",
+    "modl": "Clutter\\IngredVenisonSteak.NIF"
+  },
+  {
+    "edid": "WolfmeatWarg",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D12",
+    "full": "Shadow Wolf Meat",
+    "modl": "Clutter\\IngredVenisonSteak.NIF"
+  },
+  {
+    "edid": "GoldDust",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004D2A",
+    "full": "Gold Dust",
+    "modl": "clutter\\Ingredients\\turgolddust.nif"
+  },
+  {
+    "edid": "GarnetDust",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00615D",
+    "full": "Garnet Dust",
+    "modl": "clutter\\Ingredients\\turemeralddust.nif"
+  },
+  {
+    "edid": "TourmalineDust",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00615E",
+    "full": "Tourmaline Dust",
+    "modl": "clutter\\Ingredients\\turtopazdust.nif"
+  },
+  {
+    "edid": "PearlBlackDust",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006C7B",
+    "full": "Black Pearl Dust",
+    "modl": "clutter\\Ingredients\\turpearlblackdust.nif"
+  },
+  {
+    "edid": "OpalDust",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006C7C",
+    "full": "Opal Dust",
+    "modl": "clutter\\Ingredients\\turopaldust.nif"
+  },
+  {
+    "edid": "AmethystDust",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006C7E",
+    "full": "Amethyst Dust",
+    "modl": "clutter\\Ingredients\\turamethystdust.nif"
+  },
+  {
+    "edid": "CopperDust",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006C8B",
+    "full": "Copper Dust",
+    "modl": "clutter\\Ingredients\\turcopperdust.nif"
+  },
+  {
+    "edid": "PlatinumDust",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006C8C",
+    "full": "Platinum Dust",
+    "modl": "clutter\\Ingredients\\turplatinumdust.nif"
+  },
+  {
+    "edid": "FishFood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00722F",
+    "full": "Fish",
+    "modl": "clutter\\Ingredients\\FishFood.nif"
+  },
+  {
+    "edid": "Wolfmeat",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FCF",
+    "full": "Wolf Meat",
+    "modl": "Clutter\\IngredVenisonSteak.NIF"
+  },
+  {
+    "edid": "Horsemeat",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0084EE",
+    "full": "Horse Meat",
+    "modl": "Clutter\\IngredVenisonSteak.NIF"
+  },
+  {
+    "edid": "Lionmeat",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008502",
+    "full": "Mountain Lion Meat",
+    "modl": "clutter\\LionPeltFix\\ingredpredatorsteak.nif"
+  },
+  {
+    "edid": "MinotaurHornZFrost",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0093A8",
+    "full": "Frost Titan Horn",
+    "modl": "Clutter\\IngredMinotaurHorn.NIF"
+  },
+  {
+    "edid": "SilverDust",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CC87",
+    "full": "Silver Dust",
+    "modl": "clutter\\Ingredients\\tursilverdust.nif"
+  },
+  {
+    "edid": "TopazDust",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CC88",
+    "full": "Topaz Dust",
+    "modl": "clutter\\Ingredients\\turtopazdust.nif"
+  },
+  {
+    "edid": "SapphireDust",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CC8A",
+    "full": "Sapphire Dust",
+    "modl": "clutter\\Ingredients\\tursapphiredust.nif"
+  },
+  {
+    "edid": "EmeraldDust",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CC8C",
+    "full": "Emerald Dust",
+    "modl": "clutter\\Ingredients\\turemeralddust.nif"
+  },
+  {
+    "edid": "DiamondDust",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CC8E",
+    "full": "Diamond Dust",
+    "modl": "clutter\\Ingredients\\turdiamonddust.nif"
+  },
+  {
+    "edid": "RubyDust",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CC90",
+    "full": "Ruby Dust",
+    "modl": "clutter\\Ingredients\\turrubydust.nif"
+  },
+  {
+    "edid": "PearlDust",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CC92",
+    "full": "Pearl Dust",
+    "modl": "clutter\\Ingredients\\turpearldust.nif"
+  },
+  {
+    "edid": "MinotaurHornZ",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024374",
+    "full": "Minotaur Titan Horn",
+    "modl": "Clutter\\IngredMinotaurHorn.NIF"
+  },
+  {
+    "edid": "GuarMeat",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02EAD2",
+    "full": "GuarMeat",
+    "modl": "Clutter\\IngredVenisonSteak.NIF"
+  },
+  {
+    "edid": "HungerSkin",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02EAD3",
+    "full": "Hunger Skin",
+    "modl": "Clutter\\ingredScampSkin.NIF"
+  },
+  {
+    "edid": "ImpGallMystic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02F9F5",
+    "full": "Mystical Imp's Gall",
+    "modl": "Clutter\\ingredbile.nif"
+  },
+  {
+    "edid": "ImpGallCrazed",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02F9F7",
+    "full": "Crazed Imp's Gall",
+    "modl": "Clutter\\ingredbile.nif"
+  },
+  {
+    "edid": "Bearmeat",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03266F",
+    "full": "Bear Meat",
+    "modl": "clutter\\LionPeltFix\\ingredpredatorsteak.nif"
+  },
+  {
+    "edid": "GargoyleHorn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0417DA",
+    "full": "Gargoyle Horn",
+    "modl": "Clutter\\IngredMinotaurHorn.NIF"
+  },
+  {
+    "edid": "HellhoundSkin",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA45",
+    "full": "Hellhound Skin",
+    "modl": "clutter\\ingredscampskin.nif"
+  },
+  {
+    "edid": "MazkenSkin",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA46",
+    "full": "Mazken Skin",
+    "modl": "clutter\\ingredscampskin.nif"
+  },
+  {
+    "edid": "OOODogmeat",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA5A",
+    "full": "Dog Meat",
+    "modl": "Clutter\\IngredVenisonSteak.NIF"
+  }
+]
