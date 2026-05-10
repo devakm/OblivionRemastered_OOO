@@ -8100,6 +8100,12 @@
     "modl": "Armor\\Steel\\Shield.NIF"
   },
   {
+    "edid": "MithrilCuirassVykaOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE44",
+    "full": "LOC_FN_MithrilCuirassVykaOOO",
+    "modl": "Armor\\Mithril\\M\\Cuirass.NIF"
+  },
+  {
     "edid": "LegionCuirassImperialCapeRed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0116F6",
     "full": "LOC_FN_LegionCuirassImperialCapeRed",

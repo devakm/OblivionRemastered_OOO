@@ -8046,6 +8046,16 @@
         "count": 1,
         "level": 18,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:00DE1C"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
       }
     ],
     "formid": "Oblivion.esm:0343E2"
