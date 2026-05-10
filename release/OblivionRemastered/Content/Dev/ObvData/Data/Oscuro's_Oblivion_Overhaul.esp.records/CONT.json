@@ -3219,7 +3219,7 @@
     "edid": "ZOOODungAyleidLow02Magic",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027DAE",
     "full": "LOC_FN_ZOOODungAyleidLow02Magic",
-    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
   },
   {
     "edid": "ZOOODungSackMid02Treasury",
@@ -3291,7 +3291,7 @@
     "edid": "ZOOODungAyleidLow02Armory",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD01",
     "full": "LOC_FN_ZOOODungAyleidLow02Armory",
-    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
   },
   {
     "edid": "ZOOODungAyleidLow01Treasury",
