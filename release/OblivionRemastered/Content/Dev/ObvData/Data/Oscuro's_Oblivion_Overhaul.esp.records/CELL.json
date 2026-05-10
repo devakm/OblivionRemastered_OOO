@@ -8,6 +8,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "BrumaMagesGuildBasement",
+    "formid": "Oblivion.esm:003AAC",
+    "full": "LOC_FN_BrumaMagesGuildBasement",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "CheydinhalMagesGuildBasement",
     "formid": "Oblivion.esm:006917",
     "full": "LOC_FN_CheydinhalMagesGuildBasement",
@@ -32,6 +40,22 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "BravilMagesGuild2ndFloor",
+    "formid": "Oblivion.esm:00A2BC",
+    "full": "LOC_FN_BravilMagesGuild2ndFloor",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "FyrelightCave",
+    "formid": "Oblivion.esm:014987",
+    "full": "LOC_FN_FyrelightCave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "RedwaterSlough",
     "formid": "Oblivion.esm:014990",
     "full": "LOC_FN_RedwaterSlough",
@@ -40,9 +64,33 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "UnmarkedCave01",
+    "formid": "Oblivion.esm:014991",
+    "full": "LOC_FN_UnmarkedCave01",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "EchoCave03",
+    "formid": "Oblivion.esm:014995",
+    "full": "LOC_FN_EchoCave03",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "HornCave",
     "formid": "Oblivion.esm:01499A",
     "full": "LOC_FN_HornCave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "KingscrestCavern",
+    "formid": "Oblivion.esm:01499B",
+    "full": "LOC_FN_KingscrestCavern",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -67,6 +115,14 @@
     "edid": "WindCave",
     "formid": "Oblivion.esm:0149A5",
     "full": "LOC_FN_WindCave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "PotholeCaverns",
+    "formid": "Oblivion.esm:0149AD",
+    "full": "LOC_FN_PotholeCaverns",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -120,6 +176,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "DerelictMine",
+    "formid": "Oblivion.esm:015C33",
+    "full": "LOC_FN_DerelictMine",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "PlunderedMine",
     "formid": "Oblivion.esm:015C37",
     "full": "LOC_FN_PlunderedMine",
@@ -136,6 +200,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "AbandonedMine",
+    "formid": "Oblivion.esm:015C3D",
+    "full": "LOC_FN_AbandonedMine",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "FortHastrel01",
     "formid": "Oblivion.esm:015E1C",
     "full": "LOC_FN_FortHastrel01",
@@ -144,9 +216,33 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "FortMagia",
+    "formid": "Oblivion.esm:015E1D",
+    "full": "LOC_FN_FortMagia",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "FortFacian",
     "formid": "Oblivion.esm:015E1E",
     "full": "LOC_FN_FortFacian",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "FortIstirus",
+    "formid": "Oblivion.esm:015E21",
+    "full": "LOC_FN_FortIstirus",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "FortCuptor",
+    "formid": "Oblivion.esm:015E22",
+    "full": "LOC_FN_FortCuptor",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -184,9 +280,33 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "FortRayles",
+    "formid": "Oblivion.esm:015E31",
+    "full": "LOC_FN_FortRayles",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "FortAlessia",
     "formid": "Oblivion.esm:015E3A",
     "full": "LOC_FN_FortAlessia",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "DasekMoor",
+    "formid": "Oblivion.esm:015E3B",
+    "full": "LOC_FN_DasekMoor",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "FortStrand01",
+    "formid": "Oblivion.esm:015E3C",
+    "full": "LOC_FN_FortStrand01",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -200,9 +320,57 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "PillagedMine",
+    "formid": "Oblivion.esm:015E45",
+    "full": "LOC_FN_PillagedMine",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICImperialLegionHQMessHall",
+    "formid": "Oblivion.esm:015E97",
+    "full": "LOC_FN_ICImperialLegionHQMessHall",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "Veyond04",
     "formid": "Oblivion.esm:015F85",
     "full": "LOC_FN_Veyond04",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Miscarcand02",
+    "formid": "Oblivion.esm:0160A3",
+    "full": "LOC_FN_Miscarcand02",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICImperialLegionWatchTowerSW",
+    "formid": "Oblivion.esm:016327",
+    "full": "LOC_FN_ICImperialLegionWatchTowerSW",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICImperialLegionWatchTowerN",
+    "formid": "Oblivion.esm:016328",
+    "full": "LOC_FN_ICImperialLegionWatchTowerN",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICImperialLegionWatchTowerNW",
+    "formid": "Oblivion.esm:01634B",
+    "full": "LOC_FN_ICImperialLegionWatchTowerNW",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -256,6 +424,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "NenyondTwyll",
+    "formid": "Oblivion.esm:016635",
+    "full": "LOC_FN_NenyondTwyll",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "Fanacasecul",
     "formid": "Oblivion.esm:01663C",
     "full": "LOC_FN_Fanacasecul",
@@ -280,9 +456,57 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "Welke",
+    "formid": "Oblivion.esm:016647",
+    "full": "LOC_FN_Welke",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "MQ14OblivionTowerRight03",
+    "formid": "Oblivion.esm:016651",
+    "full": "LOC_FN_MQ14OblivionTowerRight03",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICImperialLegionWatchTowerS",
+    "formid": "Oblivion.esm:0173AB",
+    "full": "LOC_FN_ICImperialLegionWatchTowerS",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "SerpentsTrail",
+    "formid": "Oblivion.esm:01C17D",
+    "full": "LOC_FN_SerpentsTrail",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "LeyawiinCastlePrivateQuarters",
     "formid": "Oblivion.esm:01C62C",
     "full": "LOC_FN_LeyawiinCastlePrivateQuarters",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ChorrolVilenaDontonsQuarters",
+    "formid": "Oblivion.esm:01C78B",
+    "full": "LOC_FN_ChorrolVilenaDontonsQuarters",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ChorrolMagesGuildLivingQuarters",
+    "formid": "Oblivion.esm:01C92A",
+    "full": "LOC_FN_ChorrolMagesGuildLivingQuarters",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -299,6 +523,14 @@
     "edid": "ICTempleDistrictSeridursHouseBasement",
     "formid": "Oblivion.esm:01DB12",
     "full": "LOC_FN_ICTempleDistrictSeridursHouseBasement",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "CheydinhalCastleLordsQuarters",
+    "formid": "Oblivion.esm:01EC36",
+    "full": "LOC_FN_CheydinhalCastleLordsQuarters",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -328,9 +560,25 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "ChorrolFightersGuild",
+    "formid": "Oblivion.esm:0235DE",
+    "full": "LOC_FN_ChorrolFightersGuild",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "InnIllOmen",
     "formid": "Oblivion.esm:024F81",
     "full": "LOC_FN_InnIllOmen",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "CheydinhalSanctuary",
+    "formid": "Oblivion.esm:025031",
+    "full": "LOC_FN_CheydinhalSanctuary",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -344,9 +592,33 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "SkingradGlarthirsHouse",
+    "formid": "Oblivion.esm:027D48",
+    "full": "LOC_FN_SkingradGlarthirsHouse",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "SkingradUurasTheShepherdsHouse",
     "formid": "Oblivion.esm:027D4C",
     "full": "LOC_FN_SkingradUurasTheShepherdsHouse",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "SkingradMagesGuild",
+    "formid": "Oblivion.esm:027D57",
+    "full": "LOC_FN_SkingradMagesGuild",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "SkingradFightersGuild",
+    "formid": "Oblivion.esm:027D58",
+    "full": "LOC_FN_SkingradFightersGuild",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -384,6 +656,22 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "SkingradCastleLordsManor",
+    "formid": "Oblivion.esm:02A0CF",
+    "full": "LOC_FN_SkingradCastleLordsManor",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "SkingradSummitmistManorLivingQuarters",
+    "formid": "Oblivion.esm:02A414",
+    "full": "LOC_FN_SkingradSummitmistManorLivingQuarters",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "SkingradWestWealdInnUpstairs",
     "formid": "Oblivion.esm:02AD8B",
     "full": "LOC_FN_SkingradWestWealdInnUpstairs",
@@ -395,6 +683,22 @@
     "edid": "ICWaterfrontMarieElenaLowerDeck",
     "formid": "Oblivion.esm:02AE53",
     "full": "LOC_FN_ICWaterfrontMarieElenaLowerDeck",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICTalosPlazaTheTiberSeptimHotel",
+    "formid": "Oblivion.esm:02AEEA",
+    "full": "LOC_FN_ICTalosPlazaTheTiberSeptimHotel",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICTalosPlazaUmbacanoManor",
+    "formid": "Oblivion.esm:02B19D",
+    "full": "LOC_FN_ICTalosPlazaUmbacanoManor",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -416,9 +720,33 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "ICMarketDistrictBlackHorseCourier",
+    "formid": "Oblivion.esm:02C15E",
+    "full": "LOC_FN_ICMarketDistrictBlackHorseCourier",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICMarketDistrictOfficeofImperialCommerce",
+    "formid": "Oblivion.esm:02C15F",
+    "full": "LOC_FN_ICMarketDistrictOfficeofImperialCommerce",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "ICMarketDistrictSlashNSmash",
     "formid": "Oblivion.esm:02C162",
     "full": "LOC_FN_ICMarketDistrictSlashNSmash",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICMarketDistrictMysticEmporium",
+    "formid": "Oblivion.esm:02C163",
+    "full": "LOC_FN_ICMarketDistrictMysticEmporium",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -440,6 +768,38 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "ICMarketDistrictFirstEdition",
+    "formid": "Oblivion.esm:02C16E",
+    "full": "LOC_FN_ICMarketDistrictFirstEdition",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICMarketDistrictAFightingChance",
+    "formid": "Oblivion.esm:02C170",
+    "full": "LOC_FN_ICMarketDistrictAFightingChance",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICMarketDistrictTheMerchantsInn",
+    "formid": "Oblivion.esm:02C171",
+    "full": "LOC_FN_ICMarketDistrictTheMerchantsInn",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICArcaneUniversityImperialWatchtower",
+    "formid": "Oblivion.esm:02C172",
+    "full": "LOC_FN_ICArcaneUniversityImperialWatchtower",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "ICArcaneUniversityMageQuarters",
     "formid": "Oblivion.esm:02C176",
     "full": "LOC_FN_ICArcaneUniversityMageQuarters",
@@ -456,9 +816,41 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "ICImperialLegionHQArmory",
+    "formid": "Oblivion.esm:02C17B",
+    "full": "LOC_FN_ICImperialLegionHQArmory",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICImperialLegionHQBarracks",
+    "formid": "Oblivion.esm:02C17E",
+    "full": "LOC_FN_ICImperialLegionHQBarracks",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICTempleDistrictAmantiusAllectusHouse",
+    "formid": "Oblivion.esm:02C18B",
+    "full": "LOC_FN_ICTempleDistrictAmantiusAllectusHouse",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "ICTempleDistrictGramangroMaradsHouse",
     "formid": "Oblivion.esm:02C194",
     "full": "LOC_FN_ICTempleDistrictGramangroMaradsHouse",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICTempleDistrictGilenNorvalosHouse",
+    "formid": "Oblivion.esm:02C195",
+    "full": "LOC_FN_ICTempleDistrictGilenNorvalosHouse",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -472,9 +864,25 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "ICTalosPlazaSrathadsHouse",
+    "formid": "Oblivion.esm:02C19F",
+    "full": "LOC_FN_ICTalosPlazaSrathadsHouse",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "ICTalosPlazaOntusVaninsHouse",
     "formid": "Oblivion.esm:02C1A8",
     "full": "LOC_FN_ICTalosPlazaOntusVaninsHouse",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICTalosPlazaClaudiusArcadiasHouse",
+    "formid": "Oblivion.esm:02C1A9",
+    "full": "LOC_FN_ICTalosPlazaClaudiusArcadiasHouse",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -488,9 +896,25 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "ICElvenGardensFathisUlesHouse",
+    "formid": "Oblivion.esm:02C1B3",
+    "full": "LOC_FN_ICElvenGardensFathisUlesHouse",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "ICElvenGardensIdaVlinormansHouse",
     "formid": "Oblivion.esm:02C1BC",
     "full": "LOC_FN_ICElvenGardensIdaVlinormansHouse",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICElvenGardensDovynArensHouse",
+    "formid": "Oblivion.esm:02C1BD",
+    "full": "Dovyn Aren's House",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -528,6 +952,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "SkingradFightersGuildUpstairs",
+    "formid": "Oblivion.esm:02CFD7",
+    "full": "Skingrad Fighters Guild Upstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "BravilLonelySuitorLodge",
     "formid": "Oblivion.esm:02D245",
     "full": "LOC_FN_BravilLonelySuitorLodge",
@@ -552,9 +984,57 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "CheydinhalMagesGuild",
+    "formid": "Oblivion.esm:02E545",
+    "full": "LOC_FN_CheydinhalMagesGuild",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "SkingradHammerAndTongsBasement",
+    "formid": "Oblivion.esm:02F9FD",
+    "full": "LOC_FN_SkingradHammerAndTongsBasement",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "CrackedWoodCave",
     "formid": "Oblivion.esm:02FE34",
     "full": "LOC_FN_CrackedWoodCave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BravilUngolimHouse",
+    "formid": "Oblivion.esm:02FF4D",
+    "full": "LOC_FN_BravilUngolimHouse",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BravilFightersGuild",
+    "formid": "Oblivion.esm:02FF4F",
+    "full": "LOC_FN_BravilFightersGuild",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BravilaWarlockluck",
+    "formid": "Oblivion.esm:02FF53",
+    "full": "LOC_FN_BravilaWarlockluck",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BravilSilverHomeonthewater",
+    "formid": "Oblivion.esm:02FF55",
+    "full": "LOC_FN_BravilSilverHomeonthewater",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -576,9 +1056,65 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "BrumaJearlsHouse",
+    "formid": "Oblivion.esm:0302E5",
+    "full": "LOC_FN_BrumaJearlsHouse",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BrumaFightersGuild",
+    "formid": "Oblivion.esm:0302ED",
+    "full": "Bruma Fighters Guild",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BrumaNordWinds",
+    "formid": "Oblivion.esm:0302F1",
+    "full": "LOC_FN_BrumaNordWinds",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "CheydinhalGharzHouse",
     "formid": "Oblivion.esm:03041A",
     "full": "LOC_FN_CheydinhalGharzHouse",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "CheydinhalMagulHouse",
+    "formid": "Oblivion.esm:03041B",
+    "full": "LOC_FN_CheydinhalMagulHouse",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "CheydinhalRiverview",
+    "formid": "Oblivion.esm:03041F",
+    "full": "LOC_FN_CheydinhalRiverview",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "CheydinhalFightersGuild",
+    "formid": "Oblivion.esm:030425",
+    "full": "LOC_FN_CheydinhalFightersGuild",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "CheydinhalMachNasBooks",
+    "formid": "Oblivion.esm:030429",
+    "full": "LOC_FN_CheydinhalMachNasBooks",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -594,7 +1130,15 @@
   {
     "edid": "LeyawiinTheDividingLine",
     "formid": "Oblivion.esm:030538",
-    "full": "The Dividing Line",
+    "full": "LOC_FN_LeyawiinTheDividingLine",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "LeyawiinSouthernBooks",
+    "formid": "Oblivion.esm:030539",
+    "full": "LOC_FN_LeyawiinSouthernBooks",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -608,9 +1152,49 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "AnvilSilgorBradusHouse",
+    "formid": "Oblivion.esm:0308C5",
+    "full": "LOC_FN_AnvilSilgorBradusHouse",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "AnvilHeinrichOakenHallsHouse",
+    "formid": "Oblivion.esm:0308C7",
+    "full": "LOC_FN_AnvilHeinrichOakenHallsHouse",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "AnvilFightersGuild",
     "formid": "Oblivion.esm:0308CB",
     "full": "LOC_FN_AnvilFightersGuild",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "AnvilMorvaynsPeacemakers",
+    "formid": "Oblivion.esm:0308CE",
+    "full": "LOC_FN_AnvilMorvaynsPeacemakers",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "AnvilTheCountsArms",
+    "formid": "Oblivion.esm:0308D1",
+    "full": "LOC_FN_AnvilTheCountsArms",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "AnvilTheFlowingBowl",
+    "formid": "Oblivion.esm:0308D2",
+    "full": "LOC_FN_AnvilTheFlowingBowl",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -658,7 +1242,23 @@
   {
     "edid": "BravilCastlePrivateQuartersNorthWing",
     "formid": "Oblivion.esm:031A50",
-    "full": "Castle Bravil Lord's Manor North Wing",
+    "full": "LOC_FN_BravilCastlePrivateQuartersNorthWing",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "LeafrotCave",
+    "formid": "Oblivion.esm:031B27",
+    "full": "LOC_FN_LeafrotCave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "CheydinhalCastlePrivateQuarters",
+    "formid": "Oblivion.esm:031B56",
+    "full": "LOC_FN_CheydinhalCastlePrivateQuarters",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -696,9 +1296,57 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "CheydinhalKnightsoftheThorn",
+    "formid": "Oblivion.esm:0329F7",
+    "full": "LOC_FN_CheydinhalKnightsoftheThorn",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "WellspringCave",
+    "formid": "Oblivion.esm:0352A9",
+    "full": "LOC_FN_WellspringCave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "GlademistCave",
+    "formid": "Oblivion.esm:035687",
+    "full": "LOC_FN_GlademistCave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BrumaCastleGreatHall",
+    "formid": "Oblivion.esm:035FC5",
+    "full": "LOC_FN_BrumaCastleGreatHall",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICTalosPlazaAstiniaAtiusHouseUpstairs",
+    "formid": "Oblivion.esm:037D08",
+    "full": "LOC_FN_ICTalosPlazaAstiniaAtiusHouseUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "ICTalosPlazaSevariusAtiusHouseUpstairs",
     "formid": "Oblivion.esm:037D0A",
     "full": "LOC_FN_ICTalosPlazaSevariusAtiusHouseUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICTalosPlazaMatthiasDraconisHouseUpstairs",
+    "formid": "Oblivion.esm:037D0B",
+    "full": "LOC_FN_ICTalosPlazaMatthiasDraconisHouseUpstairs",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -712,6 +1360,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "LeyawiinMagesGuildLibrary",
+    "formid": "Oblivion.esm:03ABDE",
+    "full": "LOC_FN_LeyawiinMagesGuildLibrary",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "ICPalaceOcatoChambers",
     "formid": "Oblivion.esm:03ABFC",
     "full": "LOC_FN_ICPalaceOcatoChambers",
@@ -720,9 +1376,33 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "ICTalosPlazaTheFoamingFlaskUpstairs",
+    "formid": "Oblivion.esm:03AD14",
+    "full": "LOC_FN_ICTalosPlazaTheFoamingFlaskUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "ICTalosPlazaTheTiberSeptimHotelTop",
     "formid": "Oblivion.esm:03AD16",
     "full": "LOC_FN_ICTalosPlazaTheTiberSeptimHotelTop",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICTalosPlazaTheTiberSeptimHotelUpstairs",
+    "formid": "Oblivion.esm:03AD17",
+    "full": "LOC_FN_ICTalosPlazaTheTiberSeptimHotelUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICTalosPlazaTheTiberSeptimHotelBasement",
+    "formid": "Oblivion.esm:03C3BF",
+    "full": "LOC_FN_ICTalosPlazaTheTiberSeptimHotelBasement",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -744,6 +1424,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "ICArenaGrandChampion",
+    "formid": "Oblivion.esm:03D61B",
+    "full": "LOC_FN_ICArenaGrandChampion",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "ICTalosPlazaJakbenImbelHouseTop",
     "formid": "Oblivion.esm:03D867",
     "full": "LOC_FN_ICTalosPlazaJakbenImbelHouseTop",
@@ -752,9 +1440,41 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "ICTalosPlazaUlenAthramsHouseUpstairs",
+    "formid": "Oblivion.esm:03D9A3",
+    "full": "LOC_FN_ICTalosPlazaUlenAthramsHouseUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICTalosPlazaRajiradhsHouseUpstairs",
+    "formid": "Oblivion.esm:03D9A4",
+    "full": "LOC_FN_ICTalosPlazaRajiradhsHouseUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "LeyawiinBlackwoodRoom02",
+    "formid": "Oblivion.esm:03DB41",
+    "full": "LOC_FN_LeyawiinBlackwoodRoom02",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "LeyawiinBlackwoodRoom01",
     "formid": "Oblivion.esm:03DB42",
     "full": "LOC_FN_LeyawiinBlackwoodRoom01",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "LeyawiinFightersGuildRoom02",
+    "formid": "Oblivion.esm:03E0E3",
+    "full": "LOC_FN_LeyawiinFightersGuildRoom02",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -784,9 +1504,33 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "UnderpallCave05",
+    "formid": "Oblivion.esm:03E22F",
+    "full": "Underpall Reflecting Chamber",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "DrakeloweFarmBasement",
     "formid": "Oblivion.esm:03E92A",
     "full": "LOC_FN_DrakeloweFarmBasement",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "FortStrand02",
+    "formid": "Oblivion.esm:03EBD3",
+    "full": "LOC_FN_FortStrand02",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICWaterfrontMarieElenaCaptainsCabin",
+    "formid": "Oblivion.esm:03ED42",
+    "full": "Marie Elena Captain's Cabin",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -800,9 +1544,49 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "ICElvenGardensMarinusCatiotusHouseUpstairs",
+    "formid": "Oblivion.esm:03EF2F",
+    "full": "LOC_FN_ICElvenGardensMarinusCatiotusHouseUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICElvenGardensDovynArensHouseUpstairs",
+    "formid": "Oblivion.esm:03FBFF",
+    "full": "LOC_FN_ICElvenGardensDovynArensHouseUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "ICElvenGardensKastusSintavsHouseUpstairs",
     "formid": "Oblivion.esm:03FC08",
     "full": "LOC_FN_ICElvenGardensKastusSintavsHouseUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICElvenGardensKastusSintavsHouseBasement",
+    "formid": "Oblivion.esm:03FC09",
+    "full": "LOC_FN_ICElvenGardensKastusSintavsHouseBasement",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "CloudRulerTempleWestWing",
+    "formid": "Oblivion.esm:03FE50",
+    "full": "LOC_FN_CloudRulerTempleWestWing",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "Wendelbek04",
+    "formid": "Oblivion.esm:0463E9",
+    "full": "LOC_FN_Wendelbek04",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -819,6 +1603,22 @@
     "edid": "ICElvenGardensJastiaSintavsHouseUpstairs",
     "formid": "Oblivion.esm:047C96",
     "full": "LOC_FN_ICElvenGardensJastiaSintavsHouseUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICElvenGardensTheKingandQueenTavernRooms",
+    "formid": "Oblivion.esm:047C97",
+    "full": "The King and Queen Tavern Rooms",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICElvenGardensHerminiaCinnasHouseUpstairs",
+    "formid": "Oblivion.esm:047CA1",
+    "full": "LOC_FN_ICElvenGardensHerminiaCinnasHouseUpstairs",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -848,9 +1648,57 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "ICMarketDistrictEdgarsDiscountSpellsUpstairs",
+    "formid": "Oblivion.esm:049AF1",
+    "full": "LOC_FN_ICMarketDistrictEdgarsDiscountSpellsUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "ICArcaneUniversityArchMagesQuarters",
     "formid": "Oblivion.esm:049CF8",
     "full": "LOC_FN_ICArcaneUniversityArchMagesQuarters",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICArcaneUniversityArchMagesTowerLobby",
+    "formid": "Oblivion.esm:049CF9",
+    "full": "LOC_FN_ICArcaneUniversityArchMagesTowerLobby",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICMarketDistrictStonewallShieldsUpstairs",
+    "formid": "Oblivion.esm:049E2B",
+    "full": "LOC_FN_ICMarketDistrictStonewallShieldsUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICMarketDistrictFirstEditionUpstairs",
+    "formid": "Oblivion.esm:049E2C",
+    "full": "LOC_FN_ICMarketDistrictFirstEditionUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICMarketDistrictTheCopiousCoinpurseBasement",
+    "formid": "Oblivion.esm:049E2F",
+    "full": "LOC_FN_ICMarketDistrictTheCopiousCoinpurseBasement",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICMarketDistrictMysticEmporiumUpstairs",
+    "formid": "Oblivion.esm:04B953",
+    "full": "LOC_FN_ICMarketDistrictMysticEmporiumUpstairs",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -872,6 +1720,30 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "ICMarketDistrictDivineEleganceUpstairs",
+    "formid": "Oblivion.esm:04B956",
+    "full": "LOC_FN_ICMarketDistrictDivineEleganceUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICWaterfrontDarelothsHouseUpstairs",
+    "formid": "Oblivion.esm:04BF33",
+    "full": "LOC_FN_ICWaterfrontDarelothsHouseUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICMarketDistrictOfficeUpstairs",
+    "formid": "Oblivion.esm:04BF92",
+    "full": "LOC_FN_ICMarketDistrictOfficeUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "OblivionRD004CitadelLeft",
     "formid": "Oblivion.esm:04C449",
     "full": "LOC_FN_OblivionRD004CitadelLeft",
@@ -888,9 +1760,25 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "BravilCastlePrivateQuartersEastWing",
+    "formid": "Oblivion.esm:04CB0B",
+    "full": "LOC_FN_BravilCastlePrivateQuartersEastWing",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "UnmarkedCave01c",
     "formid": "Oblivion.esm:04D178",
     "full": "LOC_FN_UnmarkedCave01c",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "UnmarkedCave01b",
+    "formid": "Oblivion.esm:04D183",
+    "full": "LOC_FN_UnmarkedCave01b",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -912,6 +1800,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "ICTempleDistrictGilenNorvalosBasement",
+    "formid": "Oblivion.esm:04D859",
+    "full": "LOC_FN_ICTempleDistrictGilenNorvalosBasement",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "LeyawiinMagesGuildBasement",
     "formid": "Oblivion.esm:04EA5A",
     "full": "LOC_FN_LeyawiinMagesGuildBasement",
@@ -920,9 +1816,25 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "FortLinchal03",
+    "formid": "Oblivion.esm:04EB3C",
+    "full": "LOC_FN_FortLinchal03",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "ICTempleDistrictStantusVarridsHouseUpstairs",
     "formid": "Oblivion.esm:04EBF4",
     "full": "LOC_FN_ICTempleDistrictStantusVarridsHouseUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICTempleDistrictMaranaRiansHouseUpstairs",
+    "formid": "Oblivion.esm:04EBF5",
+    "full": "LOC_FN_ICTempleDistrictMaranaRiansHouseUpstairs",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -952,9 +1864,81 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "ICImperialLegionWatchTowerNWTopGuardQuarters",
+    "formid": "Oblivion.esm:051050",
+    "full": "LOC_FN_ICImperialLegionWatchTowerNWTopGuardQuarters",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "ICImperialLegionWatchTowerNETopGuardQuarters",
     "formid": "Oblivion.esm:051052",
     "full": "LOC_FN_ICImperialLegionWatchTowerNETopGuardQuarters",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICImperialLegionWatchTowerNEGuardQuarters",
+    "formid": "Oblivion.esm:051053",
+    "full": "LOC_FN_ICImperialLegionWatchTowerNEGuardQuarters",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICImperialLegionWatchTowerNTopGuardQuarters",
+    "formid": "Oblivion.esm:051054",
+    "full": "LOC_FN_ICImperialLegionWatchTowerNTopGuardQuarters",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICImperialLegionWatchTowerSEGuardQuarters",
+    "formid": "Oblivion.esm:0512F5",
+    "full": "LOC_FN_ICImperialLegionWatchTowerSEGuardQuarters",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICImperialLegionWatchTowerSWTopGuardQuarters",
+    "formid": "Oblivion.esm:0512F6",
+    "full": "LOC_FN_ICImperialLegionWatchTowerSWTopGuardQuarters",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICImperialLegionWatchTowerSTopGuardQuarters",
+    "formid": "Oblivion.esm:0512F8",
+    "full": "LOC_FN_ICImperialLegionWatchTowerSTopGuardQuarters",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICImperialLegionWatchTowerSGuardQuarters",
+    "formid": "Oblivion.esm:0512F9",
+    "full": "LOC_FN_ICImperialLegionWatchTowerSGuardQuarters",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BravilMagesGuild3rdFloor",
+    "formid": "Oblivion.esm:051B8F",
+    "full": "LOC_FN_BravilMagesGuild3rdFloor",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICImperialLegionWatchTowerSWCaptainsQuarters",
+    "formid": "Oblivion.esm:05397C",
+    "full": "LOC_FN_ICImperialLegionWatchTowerSWCaptainsQuarters",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -971,6 +1955,30 @@
     "edid": "ICImperialLegionWatchTowerNWCaptainsQuarters",
     "formid": "Oblivion.esm:05397F",
     "full": "LOC_FN_ICImperialLegionWatchTowerNWCaptainsQuarters",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICImperialLegionWatchTowerNECaptainsQuarters",
+    "formid": "Oblivion.esm:053980",
+    "full": "LOC_FN_ICImperialLegionWatchTowerNECaptainsQuarters",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ICImperialLegionWatchTowerNCaptainsQuarters",
+    "formid": "Oblivion.esm:053981",
+    "full": "LOC_FN_ICImperialLegionWatchTowerNCaptainsQuarters",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BravilSilverHomeonthewater2ndFloor",
+    "formid": "Oblivion.esm:053A95",
+    "full": "LOC_FN_BravilSilverHomeonthewater2ndFloor",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -1008,9 +2016,25 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "FortDoublecross03",
+    "formid": "Oblivion.esm:058F43",
+    "full": "LOC_FN_FortDoublecross03",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "VeyondCave04",
     "formid": "Oblivion.esm:05B2AA",
     "full": "LOC_FN_VeyondCave04",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "VeyondCave03",
+    "formid": "Oblivion.esm:05B2AB",
+    "full": "LOC_FN_VeyondCave03",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -1040,6 +2064,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "FatbackCave02",
+    "formid": "Oblivion.esm:05E1E5",
+    "full": "LOC_FN_FatbackCave02",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "DasekMoor03",
     "formid": "Oblivion.esm:05F25E",
     "full": "LOC_FN_DasekMoor03",
@@ -1059,6 +2091,22 @@
     "edid": "ShatteredMine02",
     "formid": "Oblivion.esm:05F487",
     "full": "LOC_FN_ShatteredMine02",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "AnvilHeinrichOakenHallsHouseSecondFloor",
+    "formid": "Oblivion.esm:08331E",
+    "full": "LOC_FN_AnvilHeinrichOakenHallsHouseSecondFloor",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "BrumaJerallViewBasement",
+    "formid": "Oblivion.esm:08341D",
+    "full": "LOC_FN_BrumaJerallViewBasement",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -1922,7 +2970,7 @@
   {
     "edid": "zOOONarind",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002158",
-    "full": "Narind",
+    "full": "LOC_FN_Narind",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -1930,7 +2978,7 @@
   {
     "edid": "zOOONarid02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002159",
-    "full": "Narind Vadosel",
+    "full": "LOC_FN_Narind02",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -1970,7 +3018,7 @@
   {
     "edid": "Yeleri03",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0028E2",
-    "full": "Yeleri Verasdel",
+    "full": "LOC_FN_Yeleri03",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -2130,7 +3178,7 @@
   {
     "edid": "DrownedHopesCave02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:017645",
-    "full": "Silent Lament's Hollow",
+    "full": "LOC_FN_DrownedHopesCave02",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -2170,7 +3218,7 @@
   {
     "edid": "OOOWasteCell",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02AEEE",
-    "full": "OOO's Waste Cell",
+    "full": "LOC_FN_OOOWasteCell",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0

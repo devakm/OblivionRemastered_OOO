@@ -738,6 +738,12 @@
     "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
   },
   {
+    "edid": "DarkAntoinettaChest",
+    "formid": "Oblivion.esm:0693D3",
+    "full": "LOC_FN_DarkAntoinettaChest",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
     "edid": "DungTombCoffin01Empty",
     "formid": "Oblivion.esm:06AB40",
     "full": "LOC_FN_DungTombCoffin01Empty",
@@ -1158,6 +1164,12 @@
     "modl": "Clutter\\Sack02.NIF"
   },
   {
+    "edid": "LapBrewer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001BA3",
+    "full": "Still",
+    "modl": "furniture\\barset\\middlebrewer01.nif"
+  },
+  {
     "edid": "ZOOOChestJewelry01NobleT100AlvaUlani",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001F48",
     "full": "LOC_FN_ZOOOChestJewelry01NobleT100AlvaUlani",
@@ -1290,6 +1302,18 @@
     "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
+    "edid": "LapSecretGrapeBarrel",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00208A",
+    "full": "Secret, No Lookie!",
+    "modl": "Clutter\\beef.nif"
+  },
+  {
+    "edid": "LapGrapeSmushingBarrel",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002572",
+    "full": "Grape Barrel",
+    "modl": "Clutter\\middleclass\\middlebarrelopen02.nif"
+  },
+  {
     "edid": "ChestDefStaffAlyeid",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0025A0",
     "full": "Ayleid Reliquary",
@@ -1362,10 +1386,22 @@
     "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
+    "edid": "LapWineMakingMachine",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002A6B",
+    "full": "Apple Press",
+    "modl": "Clutter\\vinyard\\vinyardwinemaker.nif"
+  },
+  {
     "edid": "CupboardClutterMiddleHelviusCecia",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0032EB",
     "full": "LOC_FN_CupboardClutterMiddleHelviusCecia",
     "modl": "Furniture\\UpperClass\\UpperCupboard01.NIF"
+  },
+  {
+    "edid": "LapKeg",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003479",
+    "full": "Keg",
+    "modl": "Clutter\\middleclass\\middlebarrelkeg01.nif"
   },
   {
     "edid": "ZOOOChestJewelry01MiddleInventius",
