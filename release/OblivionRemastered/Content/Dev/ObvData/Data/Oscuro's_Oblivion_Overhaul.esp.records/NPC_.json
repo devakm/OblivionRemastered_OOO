@@ -13908,42 +13908,6 @@
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
-    "edid": "ConjurerXGuardianBossFemaleBreton",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DDF6",
-    "full": "LOC_FN_ConjurerXGuardianBossFemaleBreton",
-    "modl": "Characters\\_Male\\skeleton.nif"
-  },
-  {
-    "edid": "ConjurerXGuardianBossFemaleBreton2",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DDF7",
-    "full": "LOC_FN_ConjurerXGuardianBossFemaleBreton2",
-    "modl": "Characters\\_Male\\skeleton.nif"
-  },
-  {
-    "edid": "ConjurerXGuardianBossFemaleBreton3",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DDF8",
-    "full": "LOC_FN_ConjurerXGuardianBossFemaleBreton3",
-    "modl": "Characters\\_Male\\skeleton.nif"
-  },
-  {
-    "edid": "ConjurerXGuardianBossFemaleHighElf",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DDF9",
-    "full": "LOC_FN_ConjurerXGuardianBossFemaleHighElf",
-    "modl": "Characters\\_Male\\skeleton.nif"
-  },
-  {
-    "edid": "ConjurerXGuardianBossFemaleHighElf2",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DDFA",
-    "full": "LOC_FN_ConjurerXGuardianBossFemaleHighElf2",
-    "modl": "Characters\\_Male\\skeleton.nif"
-  },
-  {
-    "edid": "ConjurerXGuardianBossFemaleHighElf3",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DDFB",
-    "full": "LOC_FN_ConjurerXGuardianBossFemaleHighElf3",
-    "modl": "Characters\\_Male\\skeleton.nif"
-  },
-  {
     "edid": "zOOODragonborneGoblinKillerDerelict1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00F776",
     "full": "LOC_FN_zOOODragonborneGoblinKillerDerelict1",
@@ -16268,103 +16232,103 @@
   {
     "edid": "BanditAmazonWizardFemale4A",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022F99",
-    "full": "Amazon Raging Priestess",
+    "full": "LOC_FN_BanditAmazonWizardFemale4A",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonWizardFemale3A",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022F9A",
-    "full": "Amazon Raging Priestess",
+    "full": "LOC_FN_BanditAmazonWizardFemale3A",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonMissileFemale4B",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022F9B",
-    "full": "Amazon Man-Hunter",
+    "full": "LOC_FN_BanditAmazonMissileFemale4B",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonMissileFemale4A",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022F9C",
-    "full": "Amazon Man-Hunter",
+    "full": "LOC_FN_BanditAmazonMissileFemale4A",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonMissileFemale3B",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022F9D",
-    "full": "Amazon Man-Hunter",
+    "full": "LOC_FN_BanditAmazonMissileFemale3B",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonMissileFemale3A",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022F9E",
-    "full": "Amazon Man-Hunter",
+    "full": "LOC_FN_BanditAmazonMissileFemale3A",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonMissileFemale2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022F9F",
-    "full": "Amazon Man-Hunter",
+    "full": "LOC_FN_BanditAmazonMissileFemale2",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonMeleeFemale4B",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FA0",
-    "full": "Amazon Man-Eater",
+    "full": "LOC_FN_BanditAmazonMeleeFemale4B",
     "modl": "Characters\\_Male\\skeleton.NIF"
   },
   {
     "edid": "BanditAmazonMeleeFemale4A",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FA1",
-    "full": "Amazon Man-Eater",
+    "full": "LOC_FN_BanditAmazonMeleeFemale4A",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "BanditAmazonMeleeFemale3B",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FA2",
-    "full": "Amazon Man-Eater",
+    "full": "LOC_FN_BanditAmazonMeleeFemale3B",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonMeleeFemale3A",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FA3",
-    "full": "Amazon Man-Eater",
+    "full": "LOC_FN_BanditAmazonMeleeFemale3A",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonMeleeFemale2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FA4",
-    "full": "Amazon Man-Eater",
+    "full": "LOC_FN_BanditAmazonMeleeFemale2",
     "modl": "Characters\\_Male\\SkeletonBeast.NIF"
   },
   {
     "edid": "BanditAmazonBossFemale3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FA5",
-    "full": "Amazon Wise Mother",
+    "full": "LOC_FN_BanditAmazonBossFemale3",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonBossFemale2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FA6",
-    "full": "Amazon Wise Mother",
+    "full": "LOC_FN_BanditAmazonBossFemale2",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonBossFemale1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FA7",
-    "full": "Amazon Wise Mother",
+    "full": "LOC_FN_BanditAmazonBossFemale1",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonBigBoss",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FA8",
-    "full": "Voice of Nature",
+    "full": "LOC_FN_BanditAmazonBigBoss",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonWizardFemale5A",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:022FA9",
-    "full": "Amazon Raging Priestess",
+    "full": "LOC_FN_BanditAmazonWizardFemale5A",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
@@ -16640,73 +16604,73 @@
   {
     "edid": "BanditAmazonMeleeFemaleA",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:029C79",
-    "full": "Amazon Man-Eater",
+    "full": "LOC_FN_BanditAmazonMeleeFemaleA",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonMeleeFemaleAb",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:029C7A",
-    "full": "Amazon Man-Eater",
+    "full": "LOC_FN_BanditAmazonMeleeFemaleAb",
     "modl": "characters\\_Male\\skeletonbeast.nif"
   },
   {
     "edid": "BanditAmazonMeleeFemaleAc",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:029C7B",
-    "full": "Amazon Man-Eater",
+    "full": "LOC_FN_BanditAmazonMeleeFemaleAc",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonMeleeFemaleAd",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:029C7C",
-    "full": "Amazon Man-Eater",
+    "full": "LOC_FN_BanditAmazonMeleeFemaleAd",
     "modl": "characters\\_Male\\skeletonbeast.nif"
   },
   {
     "edid": "BanditAmazonMeleeFemaleAe",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:029C7D",
-    "full": "Amazon Man-Eater",
+    "full": "LOC_FN_BanditAmazonMeleeFemaleAe",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonMeleeFemaleAf",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:029C86",
-    "full": "Amazon Man-Eater",
+    "full": "LOC_FN_BanditAmazonMeleeFemaleAf",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonMissileFemaleA",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:029C8A",
-    "full": "Amazon Blood Thorn Hunter",
+    "full": "LOC_FN_BanditAmazonMissileFemaleA",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonMissileFemaleAb",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:029C8B",
-    "full": "Amazon Blood Thorn Hunter",
+    "full": "LOC_FN_BanditAmazonMissileFemaleAb",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonMissileFemaleAc",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:029C8C",
-    "full": "Amazon Blood Thorn Hunter",
+    "full": "LOC_FN_BanditAmazonMissileFemaleAc",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonMissileFemaleAd",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:029C8D",
-    "full": "Amazon Blood Thorn Hunter",
+    "full": "LOC_FN_BanditAmazonMissileFemaleAd",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonMissileFemaleAe",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:029C8E",
-    "full": "Amazon Blood Thorn Hunter",
+    "full": "LOC_FN_BanditAmazonMissileFemaleAe",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonMeleeFemaleAg",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:029C8F",
-    "full": "Amazon Man-Eater",
+    "full": "LOC_FN_BanditAmazonMeleeFemaleAg",
     "modl": "characters\\_Male\\skeletonbeast.nif"
   },
   {
@@ -16868,19 +16832,19 @@
   {
     "edid": "BanditAmazonWizardFemale4C",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03BFE1",
-    "full": "Amazon Raging Priestess",
+    "full": "LOC_FN_BanditAmazonWizardFemale4C",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonWizardFemale3B",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03BFE2",
-    "full": "Amazon Raging Priestess",
+    "full": "LOC_FN_BanditAmazonWizardFemale3B",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
     "edid": "BanditAmazonWizardFemale5B",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03BFE3",
-    "full": "Amazon Raging Priestess",
+    "full": "LOC_FN_BanditAmazonWizardFemale5B",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {
@@ -17078,7 +17042,7 @@
   {
     "edid": "BanditAmazonBossFemale4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03E312",
-    "full": "Amazon Wise Mother",
+    "full": "LOC_FN_BanditAmazonBossFemale4",
     "modl": "Characters\\_Male\\skeleton.nif"
   },
   {

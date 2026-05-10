@@ -1,0 +1,8 @@
+{
+  "Plugin": "Oscuro's_Oblivion_Overhaul.esp",
+  "NewStrings": {
+    "LOC_FN_TandCommonOOO": "Associate's Common Gem",
+    "LOC_FN_TandLesserOOO": "Associate's Lesser Gem",
+    "LOC_FN_TandPettyOOO": "Associate's Petty Gem"
+	}
+}

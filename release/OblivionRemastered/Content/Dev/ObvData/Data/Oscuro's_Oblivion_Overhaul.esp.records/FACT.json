@@ -434,157 +434,157 @@
   {
     "edid": "AmazonFaction",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00491B",
-    "full": "Amazons",
+    "full": "LOC_FN_AmazonFaction",
     "modl": null
   },
   {
     "edid": "ValenBosmer",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004E16",
-    "full": "ValenWood Bosmer",
+    "full": "LOC_FN_ValenBosmer",
     "modl": null
   },
   {
     "edid": "OscuroUOPHackdirtVillagers",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005D78",
-    "full": "UOP-added Hackdirt Villagers (non-Brethren)",
+    "full": "LOC_FN_OscuroUOPHackdirtVillagers",
     "modl": null
   },
   {
     "edid": "SlaveTraderFaction",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007064",
-    "full": "Slave Traders",
+    "full": "LOC_FN_SlaveTraderFaction",
     "modl": null
   },
   {
     "edid": "ArgonianBlackMarshFaction",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00722E",
-    "full": "Black Marsh Smuggler Faction",
+    "full": "LOC_FN_ArgonianBlackMarshFaction",
     "modl": null
   },
   {
     "edid": "ValenBosmerGood",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00779E",
-    "full": "Bosmer Protectors",
+    "full": "LOC_FN_ValenBosmerGood",
     "modl": null
   },
   {
     "edid": "zzOOODragonborneKnights",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00831F",
-    "full": "Knights of the Dragonborne",
+    "full": "LOC_FN_zzOOODragonborneKnights",
     "modl": null
   },
   {
     "edid": "ZOOOBears",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CD9C",
-    "full": "Yogi Faction",
+    "full": "LOC_FN_ZOOOBears",
     "modl": null
   },
   {
     "edid": "ZOOOBoars",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CD9D",
-    "full": "Cochino Faction",
+    "full": "LOC_FN_ZOOOBoars",
     "modl": null
   },
   {
     "edid": "ZOOODeers",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CD9E",
-    "full": "Bambi Faction",
+    "full": "LOC_FN_ZOOODeers",
     "modl": null
   },
   {
     "edid": "ZOOOCougars",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CD9F",
-    "full": "Puma Faction",
+    "full": "LOC_FN_ZOOOCougars",
     "modl": null
   },
   {
     "edid": "ZOOOMinotaurs",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA0",
-    "full": "King Minos Faction",
+    "full": "LOC_FN_ZOOOMinotaurs",
     "modl": null
   },
   {
     "edid": "ZOOOOgres",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA1",
-    "full": "Ann Coulter Faction",
+    "full": "LOC_FN_ZOOOOgres",
     "modl": null
   },
   {
     "edid": "ZOOOSpriggan",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA2",
-    "full": "Eeeeeeeennt Faction",
+    "full": "LOC_FN_ZOOOSpriggan",
     "modl": null
   },
   {
     "edid": "ZOOOSlaughterfish",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA3",
-    "full": "Jaws Faction",
+    "full": "LOC_FN_ZOOOSlaughterfish",
     "modl": null
   },
   {
     "edid": "ZOOORats",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA4",
-    "full": "Micky's Faction",
+    "full": "LOC_FN_ZOOORats",
     "modl": null
   },
   {
     "edid": "ZOOOWillowisps",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA5",
-    "full": "Greater Lightstone Faction",
+    "full": "LOC_FN_ZOOOWillowisps",
     "modl": null
   },
   {
     "edid": "ZOOOSheep",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA6",
-    "full": "Hill-Billies' Consolation Faction",
+    "full": "LOC_FN_ZOOOSheep",
     "modl": null
   },
   {
     "edid": "ZOOOMudcrabs",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA7",
-    "full": "STD Scare Faction",
+    "full": "LOC_FN_ZOOOMudcrabs",
     "modl": null
   },
   {
     "edid": "ZOOOWolves",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA8",
-    "full": "Kevin's Faction",
+    "full": "LOC_FN_ZOOOWolves",
     "modl": null
   },
   {
     "edid": "ZOOOWargs",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA9",
-    "full": "Goblin Love Fest Faction",
+    "full": "LOC_FN_ZOOOWargs",
     "modl": null
   },
   {
     "edid": "ZOOOHorses",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDAA",
-    "full": "\"No Sir!, I don't like it!\" Faction",
+    "full": "LOC_FN_ZOOOHorses",
     "modl": null
   },
   {
     "edid": "ZOOOImps",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDAB",
-    "full": "Little #$@*^!!! Faction",
+    "full": "LOC_FN_ZOOOImps",
     "modl": null
   },
   {
     "edid": "ZOOOTrolls",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDAC",
-    "full": "Dubya Faction",
+    "full": "LOC_FN_ZOOOTrolls",
     "modl": null
   },
   {
     "edid": "ZOOOLandDreughs",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2BD",
-    "full": "Billies Faction",
+    "full": "LOC_FN_ZOOOLandDreughs",
     "modl": null
   },
   {
     "edid": "FathisArenFactionOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00EC30",
-    "full": "OOO Fathis Aren Faction",
+    "full": "LOC_FN_FathisArenFactionOOO",
     "modl": null
   },
   {
@@ -602,7 +602,7 @@
   {
     "edid": "ZOOOGoblinFaction",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0210EE",
-    "full": "Cheney Faction",
+    "full": "LOC_FN_ZOOOGoblinFaction",
     "modl": null
   },
   {
@@ -614,49 +614,49 @@
   {
     "edid": "RohssanGuardian",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:029CB3",
-    "full": "Rohssan's Bitch",
+    "full": "LOC_FN_RohssanGuardian",
     "modl": null
   },
   {
     "edid": "ZOOOGuars",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02EAE0",
-    "full": "Smiley Faction",
+    "full": "LOC_FN_ZOOOGuars",
     "modl": null
   },
   {
     "edid": "UmbacanoGuardians",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03004E",
-    "full": "We Dumb Faction",
+    "full": "LOC_FN_UmbacanoGuardians",
     "modl": null
   },
   {
     "edid": "ZOOOGolemsSummonedGood",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:031CCD",
-    "full": "Da Hunky Dories' Faction",
+    "full": "LOC_FN_ZOOOGolemsSummonedGood",
     "modl": null
   },
   {
     "edid": "OOOSEWispManiaFaction",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036200",
-    "full": "Mania Wisps",
+    "full": "LOC_FN_OOOSEWispManiaFaction",
     "modl": null
   },
   {
     "edid": "OOOSEWispDementiaFaction",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:036201",
-    "full": "Dementia Wisps",
+    "full": "LOC_FN_OOOSEWispDementiaFaction",
     "modl": null
   },
   {
     "edid": "ArgonianPrisonerFaction",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:038D56",
-    "full": "We Are Screwed Faction",
+    "full": "LOC_FN_ArgonianPrisonerFaction",
     "modl": null
   },
   {
     "edid": "GhostWarriors",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03D332",
-    "full": "Spectral Warriors",
+    "full": "LOC_FN_GhostWarriors",
     "modl": null
   },
   {
@@ -782,19 +782,19 @@
   {
     "edid": "ZOOOGargoyles",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0417E6",
-    "full": "Big #$@*^!!! Faction",
+    "full": "LOC_FN_ZOOOGargoyles",
     "modl": null
   },
   {
     "edid": "GenericLikesCreatures",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04A083",
-    "full": "OOO's Faction for NPCs In Progress",
+    "full": "LOC_FN_GenericLikesCreatures",
     "modl": null
   },
   {
     "edid": "ArgonianPrisonerFaction2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04A32F",
-    "full": "We Are SO Fooked Dude Faction",
+    "full": "LOC_FN_ArgonianPrisonerFaction2",
     "modl": null
   },
   {
@@ -806,19 +806,19 @@
   {
     "edid": "OMPRoamingTraderFaction",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:052EB6",
-    "full": "Compatibility Faction for Tamriel's Traverlers",
+    "full": "LOC_FN_OMPRoamingTraderFaction",
     "modl": null
   },
   {
     "edid": "VampireBossHunt",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06E9ED",
-    "full": "Vampire Boss Hunt",
+    "full": "LOC_FN_VampireBossHunt",
     "modl": null
   },
   {
     "edid": "OOOSESheoFaction",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:070D0A",
-    "full": "Everyone loves Sheogorath!",
+    "full": "LOC_FN_OOOSESheoFaction",
     "modl": null
   },
   {
@@ -842,19 +842,19 @@
   {
     "edid": "OOOSEWormDementiaFaction",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0C4E5B",
-    "full": "Dementia Worms",
+    "full": "LOC_FN_OOOSEWormDementiaFaction",
     "modl": null
   },
   {
     "edid": "OOOSEWormManiaFaction",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0C4E5D",
-    "full": "Mania Worms",
+    "full": "LOC_FN_OOOSEWormManiaFaction",
     "modl": null
   },
   {
     "edid": "OOOSENuisanceFaction",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0C4E5E",
-    "full": "SI Nuisance Beasts",
+    "full": "LOC_FN_OOOSENuisanceFaction",
     "modl": null
   }
 ]

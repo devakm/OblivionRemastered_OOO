@@ -74,145 +74,145 @@
   {
     "edid": "ValenWarrior",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00491C",
-    "full": "Sylvan Warsmer",
+    "full": "LOC_FN_ValenWarrior",
     "modl": null
   },
   {
     "edid": "ValenArcher",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00491D",
-    "full": "Sylvan Archermer",
+    "full": "LOC_FN_ValenArcher",
     "modl": null
   },
   {
     "edid": "ValenWizard",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00491E",
-    "full": "Sylvan Sorcerermer",
+    "full": "LOC_FN_ValenWizard",
     "modl": null
   },
   {
     "edid": "OscuroUOPMQ11Allies",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005D77",
-    "full": "MQ11 Allies",
+    "full": "LOC_FN_OscuroUOPMQ11Allies",
     "modl": null
   },
   {
     "edid": "BanditWizardBlunt",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005DFF",
-    "full": "Hedge Wizard",
+    "full": "LOC_FN_BanditWizardBlunt",
     "modl": null
   },
   {
     "edid": "KnightDragonborn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:005E01",
-    "full": "Dragonborn Knight",
+    "full": "LOC_FN_KnightDragonborn",
     "modl": null
   },
   {
     "edid": "SlaveTraderHeavy",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007062",
-    "full": "Slave Trader Thug",
+    "full": "LOC_FN_SlaveTraderHeavy",
     "modl": null
   },
   {
     "edid": "SlaveTraderLight",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007063",
-    "full": "Slave Trader Hunter",
+    "full": "LOC_FN_SlaveTraderLight",
     "modl": null
   },
   {
     "edid": "ArgonianBMSFighter",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00722A",
-    "full": "Black Marsh Fighter",
+    "full": "LOC_FN_ArgonianBMSFighter",
     "modl": null
   },
   {
     "edid": "ArgonianBMSShaman",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00722B",
-    "full": "Black Marsh Shaman",
+    "full": "LOC_FN_ArgonianBMSShaman",
     "modl": null
   },
   {
     "edid": "ArgonianBMSSmuggler",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00722C",
-    "full": "Black Marsh Smuggler",
+    "full": "LOC_FN_ArgonianBMSSmuggler",
     "modl": null
   },
   {
     "edid": "ValenZGoodProtector",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0077AD",
-    "full": "Bosmer Protector",
+    "full": "LOC_FN_ValenZGoodProtector",
     "modl": null
   },
   {
     "edid": "ValenZGoodRanger",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0077AE",
-    "full": "Bosmer Ranger",
+    "full": "LOC_FN_ValenZGoodRanger",
     "modl": null
   },
   {
     "edid": "JanusMageClass",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00EC2F",
-    "full": "Janus Mage Class",
+    "full": "LOC_FN_JanusMageClass",
     "modl": null
   },
   {
     "edid": "SlaveTraderChief",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CA7B",
-    "full": "Slave Trader Chief",
+    "full": "LOC_FN_SlaveTraderChief",
     "modl": null
   },
   {
     "edid": "OOOSE32Fanatic",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:020053",
-    "full": "Fanatic",
+    "full": "LOC_FN_OOOSE32Fanatic",
     "modl": null
   },
   {
     "edid": "AmazonMelee",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0303DD",
-    "full": "Amazon Man-Eater",
+    "full": "LOC_FN_AmazonMelee",
     "modl": null
   },
   {
     "edid": "AmazonMissile",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0303DE",
-    "full": "Amazon Man-Hunter",
+    "full": "LOC_FN_AmazonMissile",
     "modl": null
   },
   {
     "edid": "AmazonPriestess",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0303DF",
-    "full": "Amazon Raging Priestess",
+    "full": "LOC_FN_AmazonPriestess",
     "modl": null
   },
   {
     "edid": "NecromancerPutridHand",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0308C6",
-    "full": "Necromancer Putrid Hand",
+    "full": "LOC_FN_NecromancerPutridHand",
     "modl": null
   },
   {
     "edid": "OOOSEGoldenSaintMageGuard",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0735FD",
-    "full": "Golden Saint",
+    "full": "LOC_FN_OOOSEGoldenSaintMageGuard",
     "modl": null
   },
   {
     "edid": "OOOSEShadowWitch",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0B86A9",
-    "full": "Shadow Witch",
+    "full": "LOC_FN_OOOSEShadowWitch",
     "modl": null
   },
   {
     "edid": "OOOSEMageBoss",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0C4A45",
-    "full": "Mage Boss",
+    "full": "LOC_FN_OOOSEMageBoss",
     "modl": null
   },
   {
     "edid": "OOOSEHereticMeleeNew",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0CBE8A",
-    "full": "Heretic",
+    "full": "LOC_FN_OOOSEHereticMeleeNew",
     "modl": null
   }
 ]

@@ -164,19 +164,19 @@
   {
     "edid": "TandCommonOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048A3E",
-    "full": "",
-    "modl": "clutter\\StarBoiSoulGems\\SoulgemCommonEmpty.nif"
+    "full": "LOC_FN_TandCommonOOO",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
   },
   {
     "edid": "TandLesserOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048A3F",
-    "full": "",
-    "modl": "clutter\\StarBoiSoulGems\\SoulgemLesserEmpty.nif"
+    "full": "LOC_FN_TandLesserOOO",
+    "modl": "Clutter\\SoulGemLesser01.NIF"
   },
   {
     "edid": "TandPettyOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048A40",
-    "full": "",
-    "modl": "clutter\\StarBoiSoulGems\\SoulgemPettyEmpty.nif"
+    "full": "LOC_FN_TandPettyOOO",
+    "modl": "Clutter\\SoulGemPetty01.NIF"
   }
 ]
