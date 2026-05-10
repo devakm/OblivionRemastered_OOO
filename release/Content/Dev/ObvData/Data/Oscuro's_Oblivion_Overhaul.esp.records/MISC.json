@@ -1818,6 +1818,12 @@
     "modl": "Clutter\\BearPelt.NIF"
   },
   {
+    "edid": "OOOTorchHotKey",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:009AFF",
+    "full": "Use Torch",
+    "modl": "Lights\\Torch02.NIF"
+  },
+  {
     "edid": "UpperGoldBowl01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A2B8",
     "full": "Gold Bowl",

@@ -336,6 +336,24 @@
     "modl": null
   },
   {
+    "edid": "lbBashCrimeFreeScriptOOOMergedLap",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004A5E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "lbBashCrimeFreeScriptOOOMergedLapTest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004A5F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "lbBashCrimeFreeScriptOOOMergedLapTest01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004A60",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "3ContJewelTrapNoCrimeNoHiFi01upgNR",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004B2D",
     "full": null,
@@ -812,6 +830,12 @@
   {
     "edid": "3DEJharvestNecroAltarScript",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00B90C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "3LapTrappedChestsandDoorsOOOTest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C5F2",
     "full": null,
     "modl": null
   },

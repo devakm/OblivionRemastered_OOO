@@ -1,7 +1,11 @@
 {
   "esp": "OOO_NewScripts04.esp",
   "record_types": [
-    "SCPT"
+    "ACTI",
+    "CONT",
+    "ENCH",
+    "SCPT",
+    "SPEL"
   ],
   "tes4": {
     "masters": [

@@ -2,4 +2,4 @@
 
 | Release | SHA-256 | Size | Changed | Description | Download |
 |---------|---------|------|---------|-------------|----------|
-| alpha15 | `c30d5c122cb1` | 61.7 KiB (63,173 B) | ★ | [release alpha15](https://github.com/devakm/OblivionRemastered_OOO/releases/tag/alpha15) | [alpha15.7z](https://github.com/devakm/OblivionRemastered_OOO/releases/download/alpha15/alpha15.7z) |
+| alpha16 | `705467876bda` | 62.6 KiB (64,096 B) | ★ | [release alpha16](https://github.com/devakm/OblivionRemastered_OOO/releases/tag/alpha16) | [alpha16.7z](https://github.com/devakm/OblivionRemastered_OOO/releases/download/alpha16/alpha16.7z) |

@@ -8,6 +8,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "RedwaterSlough",
+    "formid": "Oblivion.esm:014990",
+    "full": "LOC_FN_RedwaterSlough",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "SageGlenHollow",
     "formid": "Oblivion.esm:0149B0",
     "full": "LOC_FN_SageGlenHollow",

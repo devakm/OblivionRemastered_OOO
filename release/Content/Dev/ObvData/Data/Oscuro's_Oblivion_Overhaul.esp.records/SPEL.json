@@ -2478,9 +2478,183 @@
     "modl": null
   },
   {
+    "edid": "GeomancyDiamondPerfectSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015CD",
+    "full": "Geomantic Refusal (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyEmeraldPerfectSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015CE",
+    "full": "Geomantic Siphon (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyRubyPerfectSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015D3",
+    "full": "Geomantic Wrath (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancySapphirePerfectSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015D5",
+    "full": "Geomantic Influx (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyTopazPerfectSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015D7",
+    "full": "Geomantic Ward (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyAmethystFlawedSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015D9",
+    "full": "Geomantic Purity (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyAmethystNormalSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015DB",
+    "full": "Geomantic Purity (moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyAmethystFlawlessSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015DD",
+    "full": "Geomantic Purity (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyAmethystPerfectSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015DF",
+    "full": "Geomantic Purity (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyPearlBlackSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001624",
+    "full": "Geomantic Void (unique)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyOpalFlawedSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001628",
+    "full": "Geomantic Shielding (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyOpalFlawlessSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001629",
+    "full": "Geomantic Shielding (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyOpalNormalSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00162B",
+    "full": "Geomantic Shielding (Moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyOpalPerfectSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00162D",
+    "full": "Geomantic Shielding (perfect)",
+    "modl": null
+  },
+  {
     "edid": "ZResistMagicWeak",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:001644",
     "full": "Resistance to Magic",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyPearlFlawedSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0016B5",
+    "full": "Geomantic Illumination (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyGoldSpellNuggetSmall",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E3D",
+    "full": "Geomantic Restoration (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyGoldSpellNuggetLarge",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E3E",
+    "full": "Geomantic Restoration (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyGoldSpellNugget",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E40",
+    "full": "Geomantic Restoration (moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancySilverSpellNuggetLarge",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E42",
+    "full": "Geomantic Healing (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancySilverSpellNuggetSmall",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E44",
+    "full": "Geomantic Healing (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancySilverSpellNugget",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E46",
+    "full": "Geomantic Healing (moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyPlatinumSpellNuggetLarge",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E48",
+    "full": "Geomantic Resilience (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyPlatinumSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E4A",
+    "full": "Geomantic Resilience (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyPlatinumSpellNuggetSmall",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E4C",
+    "full": "Geomantic Resilience (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyPlatinumSpellNugget",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E4E",
+    "full": "Geomantic Resilience (moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyCopperSpellNuggetLarge",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E50",
+    "full": "Geomantic Conduction (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyCopperSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E52",
+    "full": "Geomantic Conduction (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyCopperSpellNuggetSmall",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E54",
+    "full": "Geomantic Conduction (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyCopperSpellNugget",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E56",
+    "full": "Geomantic Conduction (moderate)",
     "modl": null
   },
   {
@@ -2682,6 +2856,66 @@
     "modl": null
   },
   {
+    "edid": "GeomancyPearlFlawlessSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003421",
+    "full": "Geomantic Illumination (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyGoldSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003422",
+    "full": "Geomantic Restoration (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyTopazFlawedSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003426",
+    "full": "Geomantic Ward (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyRubyFlawlessSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003430",
+    "full": "Geomantic Wrath (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancySapphireFlawedSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003431",
+    "full": "Geomantic Influx (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancySapphireNormalSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003434",
+    "full": "Geomantic Influx (moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancySapphireFlawlessSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003436",
+    "full": "Geomantic Influx (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyDiamondFlawedSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003438",
+    "full": "Geomantic Refusal (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyDiamondNormalSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00343A",
+    "full": "Geomantic Refusal (moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyDiamondFlawlessSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00343C",
+    "full": "Geomantic Refusal (greater)",
+    "modl": null
+  },
+  {
     "edid": "AbAnimalResisFireOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0037DB",
     "full": "Resist Fire",
@@ -2757,6 +2991,36 @@
     "edid": "1waterbreatheffect",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004300",
     "full": "Cowl's Limitless Breath",
+    "modl": null
+  },
+  {
+    "edid": "GolemSilverAthragar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00475D",
+    "full": "Call of Silver",
+    "modl": null
+  },
+  {
+    "edid": "GolemGoldAthragar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00475E",
+    "full": "Call of Gold",
+    "modl": null
+  },
+  {
+    "edid": "GolemMithrilAthragar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004760",
+    "full": "Call of Mithril",
+    "modl": null
+  },
+  {
+    "edid": "GolemGlassAthragar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004762",
+    "full": "Call of Glass",
+    "modl": null
+  },
+  {
+    "edid": "GolemWaterAthragar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004764",
+    "full": "Call of Water",
     "modl": null
   },
   {
@@ -3291,6 +3555,36 @@
     "edid": "lbSpell2OOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00C5F4",
     "full": "Bash Noise",
+    "modl": null
+  },
+  {
+    "edid": "OblivionGuardianGolemIron",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DA57",
+    "full": "Call of Iron",
+    "modl": null
+  },
+  {
+    "edid": "OblivionGuardianGolemGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DA58",
+    "full": "Call of Gold",
+    "modl": null
+  },
+  {
+    "edid": "OblivionGuardianGolemMithril",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DA5A",
+    "full": "Call of Mithril",
+    "modl": null
+  },
+  {
+    "edid": "OblivionGuardianGolemGlass",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DA5C",
+    "full": "Call of Glass",
+    "modl": null
+  },
+  {
+    "edid": "OblivionGuardianGolemMagma",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DA5E",
+    "full": "Call of Magma",
     "modl": null
   },
   {
@@ -6114,42 +6408,6 @@
     "modl": null
   },
   {
-    "edid": "LAPBashLockOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:045DED",
-    "full": "BashLockEffect",
-    "modl": null
-  },
-  {
-    "edid": "LAPDetectTrapsSpell1OOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:045DEE",
-    "full": "Minor Detect Traps",
-    "modl": null
-  },
-  {
-    "edid": "LapDetectTrapsSpell2OOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:045DF0",
-    "full": "Detect Traps",
-    "modl": null
-  },
-  {
-    "edid": "LapDetectTrapsSpell3OOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:045DF2",
-    "full": "Extended Detect Traps",
-    "modl": null
-  },
-  {
-    "edid": "LAPDodgedOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:045DF4",
-    "full": "Dodged",
-    "modl": null
-  },
-  {
-    "edid": "LapHtHBashLockOOO",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:045DF8",
-    "full": "Bash Lock",
-    "modl": null
-  },
-  {
     "edid": "OblivionLordFire1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0479C0",
     "full": "Lord Orontes' Eternal Flame",
@@ -6231,6 +6489,60 @@
     "edid": "OOOSEAbHealing",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04DA40",
     "full": "Regeneration",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyEmeraldFlawedSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051324",
+    "full": "Geomantic Siphon (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyEmeraldNormalSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051325",
+    "full": "Geomantic Siphon (moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyEmeraldFlawlessSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051326",
+    "full": "Geomantic Siphon (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyPearlNormalSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051327",
+    "full": "Geomantic Illumination (moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancySilverSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051328",
+    "full": "Geomantic Healing (perfect)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyTopazNormalSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051329",
+    "full": "Geomantic Ward (moderate)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyTopazFlawlessSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05132A",
+    "full": "Geomantic Ward (greater)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyRubyFlawedSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05132B",
+    "full": "Geomantic Wrath (weak)",
+    "modl": null
+  },
+  {
+    "edid": "GeomancyRubyNormalSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05132C",
+    "full": "Geomantic Wrath (moderate)",
     "modl": null
   },
   {

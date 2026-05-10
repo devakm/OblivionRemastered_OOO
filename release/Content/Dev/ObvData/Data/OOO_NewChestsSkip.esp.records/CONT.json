@@ -18,6 +18,12 @@
     "modl": "furniture\\barset\\middlebrewer01.nif"
   },
   {
+    "edid": "ZOOOChestMiddle02UpperArmoryLesserWizT100Glarthir",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F98",
+    "full": "Rune Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
     "edid": "LapSecretGrapeBarrel",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00208A",
     "full": "Secret, No Lookie!",
@@ -66,6 +72,12 @@
     "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
   },
   {
+    "edid": "ZOOOChestUpper01NobleArmoryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0026FB",
+    "full": "Elegant Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
     "edid": "LapWineMakingMachine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002A6B",
     "full": "Apple Press",
@@ -84,10 +96,40 @@
     "modl": "Clutter\\middleclass\\middlebarrelkeg01.nif"
   },
   {
+    "edid": "ZOOOChestMiddle02UpperArmoryLesserWizT100Kizra",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E4A",
+    "full": "Rune Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper02NobleMagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00463A",
+    "full": "Elaborate Runed Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleArmoryTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00463D",
+    "full": "Elegant Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
     "edid": "XuniquerobechestrindirOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006A3F",
     "full": "Chest",
     "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperArmoryLesserWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006D4C",
+    "full": "Rune Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperArmoryLesserWizT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006D4D",
+    "full": "Rune Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "XRareRobeChestchednyhalOOO",
@@ -136,6 +178,204 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00B3EA",
     "full": "Chest",
     "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperArmoryLesserWizT100Letter",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014CBC",
+    "full": "Rune Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidNob02ArmoryT100Umbacano",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:018BB3",
+    "full": "Umbacano's Ayleid Reliquary",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper02NobleMagic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01C24F",
+    "full": "Elaborate Runed Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperArmoryLesserWizT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2B9",
+    "full": "Rune Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperArmoryLesserWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229C6",
+    "full": "Rune Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleMagic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D5",
+    "full": "Elaborate Runed Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleMagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229DE",
+    "full": "Elaborate Runed Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestMid02ArmoryLesserWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02442F",
+    "full": "Rune Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleArmoryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024445",
+    "full": "Elegant Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireMidAlyied02ArmoryWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02444A",
+    "full": "Ayleid Cask",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireNobAlyied02ArmoryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02444B",
+    "full": "Ayleid Reliquary",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireMidAlyied02ArmoryWizT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024450",
+    "full": "Ayleid Cask",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestMid02ArmoryLesserWizT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024454",
+    "full": "Rune Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleArmoryTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024455",
+    "full": "Elegant Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireNobAlyied02Armory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02445A",
+    "full": "Ayleid Cask",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireNobAlyied02ArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02445B",
+    "full": "Ayleid Cask",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleArmory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024EB2",
+    "full": "Elegant Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024EB3",
+    "full": "Elegant Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidMid02ArmoryWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0258F3",
+    "full": "Ayleid Cask",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidNob02Armory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0258FC",
+    "full": "Ayleid Cask",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidNob02ArmoryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0258FD",
+    "full": "Ayleid Reliquary",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidNob02ArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E1B",
+    "full": "Ayleid Cask",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidMid02ArmoryWizT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E1D",
+    "full": "Ayleid Cask",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle01UpperAlchMagT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:028D13",
+    "full": "Rune Studded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle01UpperAlchMag",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:028D14",
+    "full": "Rune Studded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid02ArmoryLesserWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD34",
+    "full": "Rune Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid02ArmoryLesserWizT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA5",
+    "full": "Rune Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid02Magic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAB7",
+    "full": "Rune Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid02MagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAB8",
+    "full": "Rune Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMid02ArmoryLesserWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:041FFA",
+    "full": "Rune Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMid02MagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042003",
+    "full": "Rune Banded Chest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestNobleArmoryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042008",
+    "full": "Elegant Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestNobleArmory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:04200A",
+    "full": "Elegant Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
     "edid": "XRareRobeChestOOO",

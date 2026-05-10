@@ -1,7 +1,8 @@
 {
   "esp": "OOO_NewCells04.esp",
   "record_types": [
-    "CELL"
+    "CELL",
+    "WRLD"
   ],
   "tes4": {
     "masters": [

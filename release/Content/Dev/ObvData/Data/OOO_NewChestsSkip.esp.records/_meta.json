@@ -1,7 +1,9 @@
 {
   "esp": "OOO_NewChestsSkip.esp",
   "record_types": [
-    "CONT"
+    "CONT",
+    "NPC_",
+    "SCPT"
   ],
   "tes4": {
     "masters": [

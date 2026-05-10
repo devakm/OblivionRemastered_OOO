@@ -1,7 +1,9 @@
 {
   "esp": "OOO_NewCreatures03.esp",
   "record_types": [
-    "CREA"
+    "ACTI",
+    "CREA",
+    "PACK"
   ],
   "tes4": {
     "masters": [
