@@ -1,5 +1,11 @@
 [
   {
+    "edid": "Torch02",
+    "formid": "Oblivion.esm:02CF9F",
+    "full": "LOC_FN_Torch02",
+    "modl": "Lights\\Torch02.NIF"
+  },
+  {
     "edid": "CaveFire900Blue",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003107",
     "full": null,

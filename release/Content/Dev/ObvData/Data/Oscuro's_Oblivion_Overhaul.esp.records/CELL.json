@@ -32,6 +32,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "MingoCave",
+    "formid": "Oblivion.esm:0149B7",
+    "full": "LOC_FN_MingoCave",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "PlunderedMine",
     "formid": "Oblivion.esm:015C37",
     "full": "LOC_FN_PlunderedMine",
@@ -243,6 +251,14 @@
     "edid": "CollapsedMine02",
     "formid": "Oblivion.esm:0579E9",
     "full": "LOC_FN_CollapsedMine02",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "FieldhouseCave03",
+    "formid": "Oblivion.esm:05C626",
+    "full": "LOC_FN_FieldhouseCave03",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0

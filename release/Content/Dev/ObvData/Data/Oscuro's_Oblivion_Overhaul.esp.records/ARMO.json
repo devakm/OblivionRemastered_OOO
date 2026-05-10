@@ -5901,19 +5901,19 @@
     "edid": "DreadGauntletsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002652",
     "full": "LOC_FN_DreadGauntletsOOO",
-    "modl": "armor\\Dread Armor\\m\\ooodgauntletsm.nif"
+    "modl": "Armor\\Daedric\\M\\Gauntlets.NIF"
   },
   {
     "edid": "DreadGreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002653",
     "full": "LOC_FN_DreadGreavesOOO",
-    "modl": "armor\\Dread Armor\\m\\ooodgreavesm.nif"
+    "modl": "Armor\\Daedric\\M\\Greaves.NIF"
   },
   {
     "edid": "DreadHelmetOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002654",
     "full": "LOC_FN_DreadHelmetOOO",
-    "modl": "armor\\Dread Armor\\ooodhelmet.nif"
+    "modl": "Armor\\Daedric\\M\\Helmet.NIF"
   },
   {
     "edid": "OrcishBootsUsed",
@@ -6057,13 +6057,13 @@
     "edid": "GriffinArmorCuirassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003C1C",
     "full": "LOC_FN_GriffinArmorCuirassOOO",
-    "modl": "armor\\Griffin\\m\\Cuirass.nif"
+    "modl": "Armor\\Glass\\M\\Cuirass.NIF"
   },
   {
     "edid": "GriffinArmorShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003C1D",
     "full": "LOC_FN_GriffinArmorShieldOOO",
-    "modl": "armor\\Griffin\\Shield.nif"
+    "modl": "Armor\\Glass\\Shield.NIF"
   },
   {
     "edid": "DaedricBootsGhost",
@@ -7028,8 +7028,8 @@
   {
     "edid": "UniqueElvenEldarHelmetOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006FD5",
-    "full": "Clear Sky Helmet",
-    "modl": "armor\\elveneldar\\helmet.nif"
+    "full": "LOC_FN_UniqueElvenEldarHelmetOOO",
+    "modl": "Armor\\Elven\\Helmet.NIF"
   },
   {
     "edid": "EnchElvenEldar2BootsFortSpeedOOO",
@@ -8427,13 +8427,13 @@
     "edid": "KDWhiteRoseHBootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027160",
     "full": "LOC_FN_KDWhiteRoseHBootsOOO",
-    "modl": "Armor\\Mithril\\M\\Boots.NIF"
+    "modl": "Armor\\Chainmail\\M\\Boots.NIF"
   },
   {
     "edid": "KDWhiteRoseHBPOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027161",
     "full": "LOC_FN_KDWhiteRoseHBPOOO",
-    "modl": "Armor\\Mithril\\M\\Cuirass.NIF"
+    "modl": "Armor\\Chainmail\\M\\Cuirass.NIF"
   },
   {
     "edid": "KDWhiteRoseHelmOOO",
@@ -8445,31 +8445,31 @@
     "edid": "KDWhiteRoseHGauntletsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027163",
     "full": "LOC_FN_KDWhiteRoseHGauntletsOOO",
-    "modl": "armor\\KDwhiterose\\whiterosegauntlets.nif"
+    "modl": "Armor\\Chainmail\\M\\Gauntlets.NIF"
   },
   {
     "edid": "KDWhiteRoseHGreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027164",
     "full": "LOC_FN_KDWhiteRoseHGreavesOOO",
-    "modl": "Armor\\Mithril\\M\\Greaves.NIF"
+    "modl": "Armor\\Chainmail\\M\\Greaves.NIF"
   },
   {
     "edid": "KDWhiteRoseHHelmOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027165",
     "full": "LOC_FN_KDWhiteRoseHHelmOOO",
-    "modl": "armor\\KDwhiterose\\whiterosehelm.nif"
+    "modl": "Armor\\Chainmail\\M\\Helmet.NIF"
   },
   {
     "edid": "KDWhiteRoseHShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027166",
     "full": "LOC_FN_KDWhiteRoseHShieldOOO",
-    "modl": "armor\\KDwhiterose\\whiteroseshield.nif"
+    "modl": "Armor\\Chainmail\\Shield.NIF"
   },
   {
     "edid": "CMOrcNobilityOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027167",
     "full": "LOC_FN_CMOrcNobilityOOO",
-    "modl": "Armor\\CMOrcNobility\\CMOrcNobilityShield.nif"
+    "modl": "Armor\\Orcish\\Helmet.NIF"
   },
   {
     "edid": "DaedricBootsVA",
@@ -8553,55 +8553,55 @@
     "edid": "vellaChainBikiniOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0329CD",
     "full": "LOC_FN_vellaChainBikiniOOO",
-    "modl": "armor\\vella\\vellaChainBikini.nif"
+    "modl": "Armor\\Glass\\M\\Cuirass.NIF"
   },
   {
     "edid": "vellaChainGreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0329CE",
     "full": "LOC_FN_vellaChainGreavesOOO",
-    "modl": "armor\\vella\\vellaChainGreaves.nif"
+    "modl": "Armor\\Glass\\M\\Boots.NIF"
   },
   {
     "edid": "vellaGlassBootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0329CF",
     "full": "LOC_FN_vellaGlassBootsOOO",
-    "modl": "armor\\vella\\vellaGlassBoots.nif"
+    "modl": "Armor\\Glass\\M\\Boots.NIF"
   },
   {
     "edid": "vellaGlassCuirassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0329D0",
     "full": "LOC_FN_vellaGlassCuirassOOO",
-    "modl": "armor\\vella\\vellaGlassCuirass.nif"
+    "modl": "Armor\\Glass\\M\\Cuirass.NIF"
   },
   {
     "edid": "vellaGlassGauntletsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0329D1",
     "full": "LOC_FN_vellaGlassGauntletsOOO",
-    "modl": "armor\\vella\\vellaGlassGauntlets.nif"
+    "modl": "Armor\\Glass\\M\\Gauntlets.NIF"
   },
   {
     "edid": "vellaGlassGreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0329D2",
     "full": "LOC_FN_vellaGlassGreavesOOO",
-    "modl": "armor\\vella\\vellaGlassGreaves.nif"
+    "modl": "Armor\\Glass\\M\\Greaves.NIF"
   },
   {
     "edid": "vellaGlassHelmetOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0329D3",
     "full": "LOC_FN_vellaGlassHelmetOOO",
-    "modl": "armor\\vella\\vellaGlassHelmet.nif"
+    "modl": "Armor\\Glass\\Helmet.NIF"
   },
   {
     "edid": "vellaGlassShieldOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0329D4",
     "full": "LOC_FN_vellaGlassShieldOOO",
-    "modl": "armor\\vella\\vellaGlassShield.nif"
+    "modl": "Armor\\Glass\\Shield.NIF"
   },
   {
     "edid": "vellaShadowsCowlOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0329D5",
     "full": "LOC_FN_vellaShadowsCowlOOO",
-    "modl": "armor\\vella\\vellaCowl.nif"
+    "modl": "Clothes\\RobeMCBlack\\Hood.NIF"
   },
   {
     "edid": "DremoraMQ14MarkynazBoots",
@@ -8637,7 +8637,7 @@
     "edid": "vellaGlassBootsOOOz",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:034754",
     "full": "LOC_FN_vellaGlassBootsOOOz",
-    "modl": "armor\\vella\\vellaGlassBoots.nif"
+    "modl": "Armor\\Glass\\M\\Boots.NIF"
   },
   {
     "edid": "DremoraMQ14MarkynazBootsPlayable",
@@ -8679,7 +8679,7 @@
     "edid": "vellaGlassGauntletsOOOz",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:034C3B",
     "full": "LOC_FN_vellaGlassGauntletsOOOz",
-    "modl": "armor\\vella\\vellaGlassGauntlets.nif"
+    "modl": "Armor\\Glass\\M\\Gauntlets.NIF"
   },
   {
     "edid": "javbmbbt01OOO",
@@ -10125,7 +10125,7 @@
     "edid": "DreadGauntletsOOOv2L",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA3E",
     "full": "LOC_FN_DreadGauntletsOOOv2L",
-    "modl": "armor\\Dread Armor\\m\\ooodgauntletsm.nif"
+    "modl": "Armor\\Daedric\\M\\Gauntlets.NIF"
   },
   {
     "edid": "DreadGreavesOOOv2L",
