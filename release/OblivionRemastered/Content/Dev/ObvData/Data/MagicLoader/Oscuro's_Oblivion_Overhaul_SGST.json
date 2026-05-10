@@ -1,0 +1,23 @@
+{
+  "Plugin": "Oscuro's_Oblivion_Overhaul.esp",
+  "NewStrings": {
+    "LOC_FN_bgSDStoneFireOOO": "Fire Stone",
+    "LOC_FN_bgSDStoneFrostOOO": "Frost Stone",
+    "LOC_FN_bgSDStoneShockOOO": "Shock Stone",
+    "LOC_FN_bgSDStoneMagickaOOO": "Arcane Stone",
+    "LOC_FN_bgSDStoneResistOOO": "Negation Stone",
+    "LOC_FN_bgSDStoneResfireOOO": "Flameguard Stone",
+    "LOC_FN_bgSDStoneResfrostOOO": "Frostguard Stone",
+    "LOC_FN_bgSDStoneResshockOOO": "Shockguard Stone",
+    "LOC_FN_bgSDStoneRainbowOOO": "Elemental Stone",
+    "LOC_FN_bgSDStoneFireAncientOOO": "Ancient Fire Stone",
+    "LOC_FN_bgSDStoneFrostAncientOOO": "Ancient Frost Stone",
+    "LOC_FN_bgSDStoneShockAncientOOO": "Ancient Shock Stone",
+    "LOC_FN_bgSDStoneMagickaAncientOOO": "Ancient Arcane Stone",
+    "LOC_FN_bgSDStoneResistAncientOOO": "Ancient Negation Stone",
+    "LOC_FN_bgSDStoneResfireAncientOOO": "Ancient Flameguard Stone",
+    "LOC_FN_bgSDStoneResfrostAncientOOO": "Ancient Frostguard Stone",
+    "LOC_FN_bgSDStoneResshockAncientOOO": "Ancient Shockguard Stone",
+    "LOC_FN_bgSDStoneRainbowAncientOOO": "Ancient Elemental Stone"
+  }
+}

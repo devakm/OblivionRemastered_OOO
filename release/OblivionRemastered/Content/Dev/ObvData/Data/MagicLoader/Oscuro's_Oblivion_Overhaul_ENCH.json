@@ -1,6 +1,16 @@
 {
   "Plugin": "Oscuro's_Oblivion_Overhaul.esp",
   "NewStrings": {
+    "LOC_FN_bgArcaneTheftEnchOOO": "Arcane Theft Shard",
+    "LOC_FN_bgChangeWeatherEnchOOO": "Elemental Shard",
+    "LOC_FN_bgDaedricIngredientsEnchOOO": "Daedric Essence Shard",
+    "LOC_FN_bgFoodIngredientsEnchOOO": "Sustenance Shard",
+    "LOC_FN_bgForcePullAreaEnchOOO": "Magnetic Storm Shard",
+    "LOC_FN_bgForcePullTargetEnchOOO": "Magnetic Stream Shard",
+    "LOC_FN_bgForcePushAreaEnchOOO": "Stormfist Shard",
+    "LOC_FN_bgForcePushTargetEnchOOO": "Windfist",
+    "LOC_FN_bgForcePushPullEnchOOO": "Equidistance",
+    "LOC_FN_bgForcePushTouchEnchOOO": "Gust of Wind",
 	"LOC_FN_ZLightOfDawnSpell1": "Purify Vampire Taint",
 	"LOC_FN_ZLightOfDawnSpell2": "Purify Vampire Taint",
 	"LOC_FN_ZLightOfDawnSpell3": "Purify Vampire Taint",

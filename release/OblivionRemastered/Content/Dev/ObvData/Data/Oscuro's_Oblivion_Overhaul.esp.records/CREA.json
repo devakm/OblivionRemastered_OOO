@@ -4908,6 +4908,36 @@
     "modl": "Creatures\\FrostAtronach\\skeleton.nif"
   },
   {
+    "edid": "CreatureOOOGargoyleAncient",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE15",
+    "full": "LOC_FN_CreatureOOOGargoyleAncient",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOOOGargoyleAncient02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE16",
+    "full": "LOC_FN_CreatureOOOGargoyleAncient02",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOOOGargoyleAncient03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE17",
+    "full": "LOC_FN_CreatureOOOGargoyleAncient03",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOOOGargoyleAncient04",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE18",
+    "full": "LOC_FN_CreatureOOOGargoyleAncient04",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOOOGargoyleAncient05",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE19",
+    "full": "LOC_FN_CreatureOOOGargoyleAncient05",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
     "edid": "CreatureGolemGlass3Summon",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00DF56",
     "full": "LOC_FN_CreatureGolemGlass3Summon",

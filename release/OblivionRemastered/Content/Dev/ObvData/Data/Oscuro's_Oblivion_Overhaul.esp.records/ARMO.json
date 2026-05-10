@@ -8028,6 +8028,78 @@
     "modl": "Armor\\Elven\\M\\Greaves.NIF"
   },
   {
+    "edid": "IronBootsDurable",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE28",
+    "full": "LOC_FN_IronBootsDurable",
+    "modl": "Armor\\Iron\\M\\Boots.NIF"
+  },
+  {
+    "edid": "IronCuirassDurable",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE29",
+    "full": "LOC_FN_IronCuirassDurable",
+    "modl": "Armor\\Iron\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "IronGauntletsDurable",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE2A",
+    "full": "LOC_FN_IronGauntletsDurable",
+    "modl": "Armor\\Iron\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "IronGreavesDurable",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE2B",
+    "full": "LOC_FN_IronGreavesDurable",
+    "modl": "Armor\\Iron\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "IronHelmetDurable",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE2C",
+    "full": "LOC_FN_IronHelmetDurable",
+    "modl": "Armor\\Iron\\M\\Helmet.NIF"
+  },
+  {
+    "edid": "IronShieldDurable",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE2D",
+    "full": "LOC_FN_IronShieldDurable",
+    "modl": "Armor\\Iron\\Shield.NIF"
+  },
+  {
+    "edid": "SteelBootsDurable",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE2E",
+    "full": "LOC_FN_SteelBootsDurable",
+    "modl": "Armor\\Steel\\M\\Boots.NIF"
+  },
+  {
+    "edid": "SteelCuirassDurable",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE2F",
+    "full": "LOC_FN_SteelCuirassDurable",
+    "modl": "Armor\\Steel\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "SteelGauntletsDurable",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE30",
+    "full": "LOC_FN_SteelGauntletsDurable",
+    "modl": "Armor\\Steel\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "SteelGreavesDurable",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE31",
+    "full": "LOC_FN_SteelGreavesDurable",
+    "modl": "Armor\\Steel\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "SteelHelmetDurable",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE32",
+    "full": "LOC_FN_SteelHelmetDurable",
+    "modl": "Armor\\Steel\\M\\Helmet.NIF"
+  },
+  {
+    "edid": "SteelShieldDurable",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE33",
+    "full": "LOC_FN_SteelShieldDurable",
+    "modl": "Armor\\Steel\\Shield.NIF"
+  },
+  {
     "edid": "LegionCuirassImperialCapeRed",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0116F6",
     "full": "LOC_FN_LegionCuirassImperialCapeRed",

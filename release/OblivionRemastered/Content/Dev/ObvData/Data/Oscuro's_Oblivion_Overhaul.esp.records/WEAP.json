@@ -8781,25 +8781,25 @@
     "edid": "WeapLightOfDawnNoFlame",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004E56",
     "full": "LOC_FN_WeapLightOfDawnNoFlame",
-    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
+    "modl": "Weapons\\Silver\\RugDumphsSword.NIF"
   },
   {
     "edid": "WeapLightOfDawnNoFlameA",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004E57",
     "full": "LOC_FN_WeapLightOfDawnNoFlameA",
-    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
+    "modl": "Weapons\\Silver\\RugDumphsSword.NIF"
   },
   {
     "edid": "WeapLightOfDawnNoFlameB",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004E58",
     "full": "LOC_FN_WeapLightOfDawnNoFlameB",
-    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
+    "modl": "Weapons\\Silver\\RugDumphsSword.NIF"
   },
   {
     "edid": "WeapLightOfDawnNoFlameC",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004E59",
     "full": "LOC_FN_WeapLightOfDawnNoFlameC",
-    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
+    "modl": "Weapons\\Silver\\RugDumphsSword.NIF"
   },
   {
     "edid": "ArcticBowOOO",
@@ -8811,19 +8811,19 @@
     "edid": "WeapLightOfDawnFlameA",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006C93",
     "full": "LOC_FN_WeapLightOfDawnFlameA",
-    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
+    "modl": "Weapons\\Silver\\RugDumphsSword.NIF"
   },
   {
     "edid": "WeapLightOfDawnFlameB",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006C94",
     "full": "LOC_FN_WeapLightOfDawnFlameB",
-    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
+    "modl": "Weapons\\Silver\\RugDumphsSword.NIF"
   },
   {
     "edid": "WeapLightOfDawnFlameC",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006C95",
     "full": "LOC_FN_WeapLightOfDawnFlameC",
-    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
+    "modl": "Weapons\\Silver\\RugDumphsSword.NIF"
   },
   {
     "edid": "nobleclaymoreOOO",
@@ -8859,7 +8859,7 @@
     "edid": "WeapHeavenFuryLongsword01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007AE7",
     "full": "LOC_FN_WeapHeavenFuryLongsword01",
-    "modl": "Weapons\\Silver\\LongSword.NIF"
+    "modl": "Weapons\\Silver\\ms13thornblade.NIF"
   },
   {
     "edid": "OOOSEUniqueKnightClaymore",
@@ -9909,7 +9909,7 @@
     "edid": "WeapLightOfDawnFlame",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:013400",
     "full": "LOC_FN_WeapLightOfDawnFlame",
-    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
+    "modl": "Weapons\\Silver\\RugDumphsSword.NIF"
   },
   {
     "edid": "rdTemplarSwordOOO4",
@@ -10245,7 +10245,7 @@
     "edid": "WeapIronZDagger",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01F944",
     "full": "LOC_FN_WeapIronZDagger",
-    "modl": "Weapons\\Iron\\Dagger.NIF"
+    "modl": "Weapons\\Silver\\RugDumphsSword.NIF"
   },
   {
     "edid": "OOOSE32RewardDagger01",

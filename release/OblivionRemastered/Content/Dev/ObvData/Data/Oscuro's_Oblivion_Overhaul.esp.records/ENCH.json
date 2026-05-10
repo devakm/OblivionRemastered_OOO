@@ -2406,6 +2406,42 @@
     "modl": null
   },
   {
+    "edid": "MS13EnWeapThornblade01",
+    "formid": "Oblivion.esm:06B65B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "MS13EnWeapThornblade02",
+    "formid": "Oblivion.esm:06B65C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "MS13EnWeapThornblade03",
+    "formid": "Oblivion.esm:06B65D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "MS13EnWeapThornblade04",
+    "formid": "Oblivion.esm:06B65E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "MS13EnWeapThornblade05",
+    "formid": "Oblivion.esm:06B65F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "MS13EnWeapThornblade06",
+    "formid": "Oblivion.esm:06B660",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "MS23EnAppSunfireRing02",
     "formid": "Oblivion.esm:06B684",
     "full": null,

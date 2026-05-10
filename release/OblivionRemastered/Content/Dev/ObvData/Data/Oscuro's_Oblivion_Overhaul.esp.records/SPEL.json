@@ -3642,6 +3642,12 @@
     "modl": null
   },
   {
+    "edid": "AbGargoyleAncient",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE1A",
+    "full": "LOC_FN_AbGargoyleAncient",
+    "modl": null
+  },
+  {
     "edid": "ValenSummon3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0100F4",
     "full": "LOC_FN_ValenSummon3",
@@ -3966,9 +3972,9 @@
     "modl": null
   },
   {
-    "edid": "AbGhostSpriggan",
+    "edid": "AbStoneGargoyle",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:015558",
-    "full": "LOC_FN_AbGhostSpriggan",
+    "full": "LOC_FN_AbStoneGargoyle",
     "modl": null
   },
   {

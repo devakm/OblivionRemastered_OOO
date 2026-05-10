@@ -2,6 +2,7 @@
 	"Plugin": "Oscuro's_Oblivion_Overhaul.esp",
 	"NewStrings": {
 		"LOC_SC_MyChorrolHouse_OOO": "Arborwatch - My Manor",
+		"LOC_FN_MyChorrolHouse_OOO": "Arborwatch - My Manor",
 		"LOC_SC_BravilPlayerHomeName_01": "My Bravil House",
 		"LOC_SC_7HeavenFuryClaymoreScript_YouHaveSoile_01": " 'You Have Soiled The Honor Of One Dearest To Us. You Are Not Worthy Of Being Our Champion.' ",
 		"LOC_SC_7HeavenFuryClaymoreScript_Upontouching_02": "Upon touching the sword I hear a storm of angry voices in my mind.",
