@@ -5355,7 +5355,7 @@
     "edid": "EnchBGlassGreavesFortAgilityOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00125A",
     "full": "LOC_FN_EnchBGlassGreavesFortAgilityOOO",
-    "modl": "armor\\bglass\\m\\greaves.nif"
+    "modl": "Armor\\Glass\\M\\Greaves.NIF"
   },
   {
     "edid": "BikCuirassOOO",
@@ -9639,7 +9639,7 @@
     "edid": "FurGauntletsBeast",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03BE6C",
     "full": "LOC_FN_FurGauntletsBeast",
-    "modl": "armor\\BeastClaw\\m\\beastclawgauntlets.nif"
+    "modl": "Armor\\Fur\\M\\Gauntlets.NIF"
   },
   {
     "edid": "ArcticFurClawsOOO",

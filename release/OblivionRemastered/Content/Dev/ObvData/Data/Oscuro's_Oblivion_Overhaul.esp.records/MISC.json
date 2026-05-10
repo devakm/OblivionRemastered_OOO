@@ -2475,7 +2475,7 @@
     "edid": "Gem0GoldNuggetSmall",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F7A",
     "full": "LOC_FN_Gem0GoldNuggetSmall",
-    "modl": "clutter\\GX\\Gems\\goldnuggetsmall.nif"
+    "modl": "Clutter\\Gems\\GoldNugget.NIF"
   },
   {
     "edid": "Gem2TopazPerfect",
