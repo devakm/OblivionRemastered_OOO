@@ -1,4 +1,9 @@
--- OOO_REFRFix -- Lua version  (v1.9.0)
+-- ===========================================================================
+-- HARD BLOCK: C:\games\Steam\steamapps\common\ is READ-ONLY.
+-- The ONLY permitted ops on that path are Get-Content / Select-String reads.
+-- NEVER write, edit, copy, move, or patch any file under that path. Ever.
+-- Violations: 2026-03-14 (Copy-Item), 2026-03-22 (Set-Content in-place patch)
+-- ===========================================================================-- OOO_REFRFix -- Lua version  (v2.49.0)
 -- Corrects stale NPC/creature positions in all OOO shifted cells by scanning
 -- for Character/Pawn actors and snapping them to patched ESP target positions.
 --
@@ -102,20 +107,60 @@ local PLAYER_LANDING = {
     ["L_Narid02XXXX"]   = { x =  4036.6, y =  4813.6, z = -1813.0 },
 }
 
--- Idempotency: cache of actor fullname → absolute target {x,y,z}.
--- Set on first move, used on all subsequent scans to move back to same target
--- (handles TES4 engine snap-back) or skip if already there.
--- Reset on each ClientRestart so re-entering a cell starts fresh.
+-- Idempotency: cache of actor fullname → absolute CENTER target {x,y,z}.
+-- Always stores the un-scattered entry target so LVLC assignment matching stays
+-- consistent. Reset on each ClientRestart so re-entering a cell starts fresh.
 local target_cache = {}
+-- v2.33.0: scatter offsets stored separately so target_cache holds the CENTER
+-- coordinate. Applied at move-time only; does NOT affect spawn_claimed matching.
+-- Cleared on ClientRestart alongside target_cache.
+local scatter_offset = {}
 local scan_count = 0
 -- Set to true after the player is first moved to the XTEL landing position.
 -- Cleared on ClientRestart. Prevents subsequent scans from snapping the player
 -- back to the entrance after they have walked away from it.
 local player_landed = false
--- Set of NPC/creature actor fullnames that have already been moved this cell visit.
--- Once moved, we never touch them again (same logic as player_landed).
--- Cleared on ClientRestart.
+-- Global flat set of NPC/creature fullnames moved this session.
+-- npc_landed[fullname] = true.
+-- v2.43.0: Cleared ONLY on ClientRestart (restored from v2.29.0 core).
+-- Re-entry actors have fresh UUIDs (KL 91, confirmed v2.41.0 log: first-visit
+-- _2147467501 vs re-entry _2147456434). Fresh UUIDs bypass npc_landed naturally,
+-- so no per-zone clear is needed. Z < SKY_STASH_Z_MIN remains the primary guard
+-- for already-placed floor-level actors across continuous 500ms scans.
 local npc_landed = {}
+-- Per-zone first-visit coverage. zones_coverage[pattern] = covered_count after first window close.
+-- Kept for logging only; suppression removed in v2.37.0 (KL 92).
+local zones_coverage    = {}
+-- Per-zone spawn-point claim table. spawn_claimed[zone_pattern][locKey] = true.
+-- Phase 1 of findBestSpawnEntry skips claimed entries so each spawn point gets
+-- at most one actor before extras are distributed via Phase 2.
+-- Cleared per-zone on each ZONE_CHANGE; entire table reset on ClientRestart.
+local spawn_claimed = {}
+-- How many actors have been placed at each spawn entry this zone visit.
+-- entry_land_count[pattern][locKey] = n.  Incremented once per unique actor UUID
+-- (inside target_cache miss) so the scatter offset is stable for the lifetime of that
+-- actor instance.  Cleared per-zone on first-visit ZONE_CHANGE; reset on ClientRestart.
+local entry_land_count = {}  -- v2.31.0 (scatter idx; cleared per-zone on ZONE_CHANGE)
+-- Feature flag: set true to re-enable diag-era re-entry scan logging (v2.39.5-diag/diag2).
+-- Confirmed root cause (KL 94 free-fall). Keep flagged-off; flip to true if re-entry
+-- issues regress and we need tick-level ZGUARD/PAWN data again.
+local DIAG_REENTRY_LOG = false
+-- Feature flag: intercept SendSpellCast to trigger diagnostic dump from controller.
+-- Set false when Begone is handling SendSpellCast to avoid duplicate hooks.
+local DIAG_SPELL_CAST_HOOK = true
+-- Feature flag: append to log instead of truncating at boot.
+-- Set true to preserve multi-session detail for cross-session analysis.
+local DIAG_PRESERVE_BOOT_LOG = true
+-- Per-session diagnostic: log first N getDeltaForActor-rejected pawn fullnames.
+local diag_count = 0
+-- placement_pending[fn] = {sp=string, tgt={x,y,z}} -- actors we attempted to place this zone visit.
+-- Populated on K2_SetActorLocation call; verified via DIAG (SendSpellCast) to confirm landing.
+local placement_pending = {}
+-- scan_open_at: os.clock() timestamp of the most recent ZONE_CHANGE.
+-- runScan() is skipped once (os.clock() - scan_open_at) > SCAN_WINDOW_SECS.
+-- Reset on ZONE_CHANGE (re-entry gets its own fresh window) and ClientRestart.
+local SCAN_WINDOW_SECS = 45
+local scan_open_at     = nil  -- nil = no window active yet (before first zone entry)
 
 -- Character pawn scan class names to try.
 -- VTESObjectRefComponent outer-actors are spawn trigger WRAPPERS, not pawns.
@@ -145,26 +190,69 @@ end
 -- How far (UE5 cm) an actor may be from a spawn-point entry and still be matched.
 -- Spawn scatter is typically < 200 UU; set conservatively at 3000 UU to handle
 -- actors that wandered a bit between spawn and our first scan at +2s.
-local SNAP_RADIUS_SQ = 3000 * 3000
+local SNAP_RADIUS_SQ   = 3000 * 3000
+-- v2.25.0: Only actors above this Z are sky-stash stale positions that need moving.
+-- Zone-1 floor max ≈ 942. Zone-2 floor max ≈ 2890. Sky-stash min ≈ 8126.
+-- v2.51.0: raised back to 5000. At 2000, correctly-placed Z2 actors (Z=2385-2890) exceeded the
+-- threshold and were falsely classified FAILED_SKY by VERIFY. 5000 is safely above Z2 floor max
+-- (~2890) and well below sky stash (~7000+), so all three zones classify correctly.
+local SKY_STASH_Z_MIN  = 5000
 
--- Find the SPAWN_DELTAS entry nearest to (cx,cy,cz) within SNAP_RADIUS_SQ.
--- Returns the entry table (with tx/ty/tz patched target) or nil if nothing is close enough.
-local function findBestSpawnEntry(cell_name, cx, cy, cz)
-    local entries = SPAWN_BY_CELL[cell_name]
-    if not entries then return nil end
-    local best_e = nil
-    local best_d = SNAP_RADIUS_SQ + 1
+
+local function spawnKey(e)
+    return string.format("%.0f,%.0f,%.0f", e.ox, e.oy, e.oz)
+end
+-- v2.36.0: claim/count key is the entry's name when available, coordinate string otherwise.
+-- This ensures log sp=, enforcement, and HITloc coverage counts all use the same key.
+local function locKey(e)
+    return e.name or spawnKey(e)
+end
+
+-- Find the best SPAWN_DELTAS entry for (cx,cy,cz) in two phases:
+--   Phase 1: nearest UNCLAIMED entry, NO radius limit — all actors fan out to unique entries.
+--            Returns is_unclaimed=true.  Calling code trusts this result at any distance.
+--   Phase 2: nearest ANY entry within SNAP_RADIUS_SQ (extra actors once all slots claimed).
+--            Returns is_unclaimed=false.
+
+-- v2.41.0 (KL 97): sort key only — nearest entry ignoring claimed state.
+-- Used to pre-rank sky-stash actors so closer-match actors claim entries first.
+local function nearestEntryDist(active_cell, cx, cy, cz)
+    local entries = SPAWN_BY_CELL[active_cell]
+    if not entries then return math.huge end
+    local best_d = math.huge
     for _, e in ipairs(entries) do
-        local ddx = cx - e.ox
-        local ddy = cy - e.oy
-        local ddz = cz - e.oz
-        local d2  = ddx*ddx + ddy*ddy + ddz*ddz
-        if d2 < best_d then
-            best_d = d2
-            best_e = e
+        local d2 = (cx-e.ox)^2 + (cy-e.oy)^2 + (cz-e.oz)^2
+        if d2 < best_d then best_d = d2 end
+    end
+    return best_d
+end
+
+local function findBestSpawnEntry(active_cell, cx, cy, cz)
+    local entries = SPAWN_BY_CELL[active_cell]
+    if not entries then return nil, SNAP_RADIUS_SQ + 1, false end
+    -- Phase 1: nearest entry with room left (count < e.max, default 3).
+    -- Multiple actors from the same LVLC pick-one REFR share a sky-stash cluster
+    -- and should all land at the same spawn entry; count-based claiming allows this.
+    local zone_claimed = spawn_claimed[active_cell] or {}
+    local best_e, best_d = nil, math.huge
+    for _, e in ipairs(entries) do
+        if (zone_claimed[locKey(e)] or 0) < (e.max or 1) then
+            local d2 = (cx-e.ox)^2 + (cy-e.oy)^2 + (cz-e.oz)^2
+            if d2 < best_d then best_d = d2; best_e = e end
         end
     end
-    return best_e, best_d
+    if best_e then return best_e, best_d, true end
+    -- Phase 2 (v2.43.0): nearest entry STILL under max= cap within SNAP_RADIUS_SQ.
+    -- If all in-radius entries are at max → returns nil → caller uses FALLBACK delta.
+    -- Prevents entrance-cluster bloat (e.g. Z1_12=4 actors observed in v2.41.0 log).
+    best_d = SNAP_RADIUS_SQ + 1
+    for _, e in ipairs(entries) do
+        if (zone_claimed[locKey(e)] or 0) < (e.max or 1) then
+            local d2 = (cx-e.ox)^2 + (cy-e.oy)^2 + (cz-e.oz)^2
+            if d2 < best_d then best_d = d2; best_e = e end
+        end
+    end
+    return best_e, best_d, false
 end
 
 local function getActiveCellDelta()
@@ -172,27 +260,69 @@ local function getActiveCellDelta()
     if not world or not world:IsValid() then return nil end
     local ok, levels = pcall(function() return world.StreamingLevels end)
     if not ok or not levels then return nil end
+    -- v2.2.0: build a set of loaded basenames first, then check LEVEL_DELTAS in
+    -- priority order (longest suffix first).  This guarantees L_Arondar02 wins
+    -- over L_Arondar when both are simultaneously resident in StreamingLevels,
+    -- regardless of their array index.  Iterating StreamingLevels first (v2.1.0)
+    -- was non-deterministic and caused zone 2 to be misidentified as zone 1.
+    local loaded = {}
     for i = 1, #levels do
         local ok_l, lvl = pcall(function() return levels[i] end)
         if ok_l and lvl then
             local ok_iv, iv = pcall(function() return lvl:IsValid() end)
             if ok_iv and iv then
-            local ok_p, pkg = pcall(function()
-                return lvl.PackageNameToLoad:ToString()
-            end)
-            if ok_p and pkg then
-                local base = pkg:match("[^/]+$") or pkg
-                -- Match against LEVEL_DELTAS (longer suffixes first)
-                for _, entry in ipairs(LEVEL_DELTAS) do
-                    if base == entry.pattern then
-                        return entry
+                local ok_vis, vis = pcall(function() return lvl.bIsVisible end)
+                if ok_vis and vis then
+                    local ok_p, pkg = pcall(function()
+                        return lvl.PackageNameToLoad:ToString()
+                    end)
+                    if ok_p and pkg then
+                        local base = pkg:match("[^/]+$") or pkg
+                        loaded[base] = true
                     end
                 end
             end
-            end  -- ok_iv
-        end  -- ok_l
+        end
     end
-    return nil
+    local best = nil
+    for _, entry in ipairs(LEVEL_DELTAS) do
+        if loaded[entry.pattern] then best = entry; break end
+    end
+    -- v2.28.0: L_Arondar03 never unloads after zone-3 visit. If player is above Z=-1000
+    -- (zone-3 floor ≈ -3001 UE5; zone-1 floor ≈ 35 UE5), they are not in zone 3 →
+    -- reduce to L_Arondar02 so the existing block below can further reduce to L_Arondar.
+    if best and best.pattern == "L_Arondar03" then
+        local ok_ctrl, pc = pcall(function() return UEHelpers.GetPlayerController() end)
+        if ok_ctrl and pc and pc:IsValid() then
+            local ok_pw, pw = pcall(function() return pc:K2_GetPawn() end)
+            if ok_pw and pw and pw:IsValid() then
+                local ok_l, loc = pcall(function() return pw:K2_GetActorLocation() end)
+                if ok_l and loc and loc.Z > -1000 then
+                    for _, e in ipairs(LEVEL_DELTAS) do
+                        if e.pattern == "L_Arondar02" and loaded[e.pattern] then best = e; break end
+                    end
+                end
+            end
+        end
+    end
+    -- v2.24.0: Z-override moved here so ALL callers (LoopAsync + runScan) agree on zone.
+    -- L_Arondar02 never unloads, so after returning to zone 1 it still wins priority.
+    -- If player is at zone-1 floor height (Z < 1500), return L_Arondar entry instead.
+    if best and best.pattern == "L_Arondar02" then
+        local ok_ctrl, pc = pcall(function() return UEHelpers.GetPlayerController() end)
+        if ok_ctrl and pc and pc:IsValid() then
+            local ok_pw, pw = pcall(function() return pc:K2_GetPawn() end)
+            if ok_pw and pw and pw:IsValid() then
+                local ok_l, loc = pcall(function() return pw:K2_GetActorLocation() end)
+                if ok_l and loc and loc.Z < 1500 then
+                    for _, e in ipairs(LEVEL_DELTAS) do
+                        if e.pattern == "L_Arondar" and loaded[e.pattern] then return e end
+                    end
+                end
+            end
+        end
+    end
+    return best
 end
 
 -- ─── Delta lookup ─────────────────────────────────────────────────────────────
@@ -269,7 +399,7 @@ local function applyDelta(actor, fullname, delta, scan_n, tag)
     end
 end
 
--- ─── Main scan ────────────────────────────────────────────────────────────────
+
 -- v1.9.0: extended to all 8 OOO shifted cells (Arondar/Barastas/BloodClotCave/Narind).
 --         Z guard moved inside fallback branch so snap matches work at any Z (BloodClotCave).
 --         spawn_deltas.lua regenerated with no Z_MIN filter (all floor-level actors included).
@@ -292,6 +422,66 @@ end
 -- v1.5.6: collapsed to ONE print() per scan to prevent log-line jumbling when
 -- other mods (NaturalBodyMorph, etc.) fire many rapid-fire print() calls that
 -- overflow the UE4SS log buffer and corrupt line terminators for all mods.
+-- v2.49.0: Post-scan greedy redistribution — fill vacant entries from surplus clusters.
+-- Donors: placement_pending actors whose assigned entry has spawn_claimed count > 1.
+-- Vacancies: spawn entries with claimed count == 0 (and max > 0).
+-- Greedy: each iteration picks the (donor, vacancy) pair with minimum 2D distance
+-- (donor.from_xy → vacancy origin XY).  Preserves total actor count invariant.
+local function runQCRedistribute(zone_sc, entries)
+    if not entries then return 0 end
+    local vacant = {}
+    for _, e in ipairs(entries) do
+        if (zone_sc[locKey(e)] or 0) == 0 and (e.max or 1) > 0 then
+            vacant[#vacant+1] = e
+        end
+    end
+    if #vacant == 0 then return 0 end
+    local donors = {}
+    for fn, p in pairs(placement_pending) do
+        if p.entry_key and p.pawn_obj and (zone_sc[p.entry_key] or 0) > 1 then
+            donors[#donors+1] = { fn=fn, p=p }
+        end
+    end
+    if #donors == 0 then return 0 end
+    local reassigned = 0
+    while #vacant > 0 and #donors > 0 do
+        local best_sq, bvi, bdi = math.huge, 1, 1
+        for vi, v in ipairs(vacant) do
+            for di, d in ipairs(donors) do
+                local sq = (d.p.from_x - v.ox)^2 + (d.p.from_y - v.oy)^2
+                if sq < best_sq then best_sq=sq; bvi=vi; bdi=di end
+            end
+        end
+        local bv = table.remove(vacant, bvi)
+        local bd = table.remove(donors, bdi)
+        local old_k, new_k = bd.p.entry_key, locKey(bv)
+        zone_sc[old_k] = (zone_sc[old_k] or 1) - 1
+        zone_sc[new_k] = (zone_sc[new_k] or 0) + 1
+        local ok = pcall(function()
+            bd.p.pawn_obj:K2_SetActorLocation({X=bv.tx, Y=bv.ty, Z=bv.tz}, false, {}, true)
+        end)
+        if ok then
+            reassigned = reassigned + 1
+            bd.p.entry_key = new_k; bd.p.sp = new_k
+            bd.p.tgt = { x=bv.tx, y=bv.ty, z=bv.tz }
+            target_cache[bd.fn] = { x=bv.tx, y=bv.ty, z=bv.tz }
+            scatter_offset[bd.fn] = nil
+            log(string.format("  QC_SNAP  %-8s  dist=%.0f  from=(%.0f,%.0f)  tgt=(%.0f,%.0f,%.0f)",
+                new_k, math.sqrt(best_sq), bd.p.from_x, bd.p.from_y, bv.tx, bv.ty, bv.tz))
+            if (zone_sc[old_k] or 0) <= 1 then
+                for i = #donors, 1, -1 do
+                    if donors[i].p.entry_key == old_k then table.remove(donors, i) end
+                end
+            end
+        else
+            zone_sc[old_k] = (zone_sc[old_k] or 0) + 1
+            zone_sc[new_k] = (zone_sc[new_k] or 1) - 1
+            log(string.format("  QC_ERR  %s  K2_SetActorLocation failed", new_k))
+        end
+    end
+    return reassigned
+end
+
 local function runScan()
     scan_count = scan_count + 1
 
@@ -303,18 +493,10 @@ local function runScan()
         return
     end
 
-    log(string.format("SCAN #%d  cell=%s  dx=%.1f dy=%.1f dz=%.1f",
-        scan_count, persistent_delta.pattern,
-        persistent_delta.dx, persistent_delta.dy, persistent_delta.dz))
-
     -- Pass 1: DISABLED (v1.6.3)
-    -- The patched ESP already positions all VTESObjectRefComponent actors (statics, containers,
-    -- etc.) at the correct Moranda geometry positions. Applying the cluster delta on top moved
-    -- them to wrong positions far beneath the dungeon. NPCs/creatures are handled in Pass 2.
     local comps = {}
     local fa1_err = false
     local matched, moved, skipped, errors = 0, 0, 0, 0
-    log(string.format("  REFR  pass1=DISABLED (ESP handles static REFR positions)"))
 
     -- Detect player pawn once before the loop (no teleport here — teleport happens inside
     -- the loop on the already-fetched list to avoid invalidating GUObjectArray state).
@@ -343,93 +525,148 @@ local function runScan()
     -- Pass 2: Character/Pawn actors (NPC/creature meshes + player).
     -- NOTE: GetPlayerCharacter() and GetPlayerPawn() are nil in OBR UE4SS.
     -- FindAllOf is called HERE so the list is fetched before any teleport.
-    local pawn_scanned, pawn_matched, pawn_moved, pawn_skip = 0, 0, 0, 0
+    local pawn_scanned, pawn_matched, pawn_moved, pawn_skip, pawn_landed = 0, 0, 0, 0, 0
+    -- Per-zone idempotency tables; keyed by zone pattern so each zone entry is independent.
+    local zone = persistent_delta.pattern
+    if not spawn_claimed[zone] then spawn_claimed[zone] = {} end
+    local zone_sc  = spawn_claimed[zone]
+    -- v2.41.0 (KL 97): Collect eligible sky-stash pawns, sort by distance to nearest
+    -- spawn entry, then assign in sorted order.  Actors closest to their natural entry
+    -- claim it first — prevents greedy-order theft across spawn clusters (e.g. zone-2).
+    local pawn_list = {}
+    local fn_seen   = {}
     for _, cls in ipairs(CHAR_CLASSES) do
         local ok_fa, pawns = pcall(function() return FindAllOf(cls) end)
         if not ok_fa or not pawns or #pawns == 0 then goto nextcls end
         pawn_scanned = pawn_scanned + #pawns
-
         for _, pawn in ipairs(pawns) do
-            if not pawn or not pawn:IsValid() then goto nextpawn end
-
-            -- Player: handle with XTEL absolute landing target, not cluster delta.
+            if not pawn or not pawn:IsValid() then goto np_c end
+            -- Player: handle inline with XTEL target, then skip from NPC list.
             if player_char and pawn == player_char then
                 if player_landed then
                     plyr_status = "ok_at_tgt"
-                    -- Already placed this cell visit — never move the player again.
                     log("  PLYR  already landed this visit, skip")
-                    goto nextpawn
-                end
-                local landing = PLAYER_LANDING[persistent_delta.pattern]
-                if not landing then
-                    plyr_status = "no_xtel"
-                    log("  PLYR  no XTEL data for this cell, skip")
-                    goto nextpawn
-                end
-                local ok_ploc, ploc = pcall(function() return pawn:K2_GetActorLocation() end)
-                if not ok_ploc or not ploc then plyr_status = "no_loc"; goto nextpawn end
-                local ddx = ploc.X - landing.x
-                local ddy = ploc.Y - landing.y
-                local ddz = ploc.Z - landing.z
-                if (ddx*ddx + ddy*ddy + ddz*ddz) < (200*200) then
-                    player_landed = true
-                    plyr_status = "ok_at_tgt"
-                    log(string.format("  PLYR  at landing (%.0f,%.0f,%.0f)  skip", ploc.X, ploc.Y, ploc.Z))
                 else
-                    local ok_set = pcall(function()
-                        pawn:K2_SetActorLocation({X=landing.x, Y=landing.y, Z=landing.z}, false, {}, true)
-                    end)
-                    if ok_set then
-                        pawn_moved = pawn_moved + 1
-                        player_landed = true
-                        plyr_status = "moved"
-                        log(string.format("  PLYR  moved (%.0f,%.0f,%.0f)->(%.0f,%.0f,%.0f)",
-                            ploc.X, ploc.Y, ploc.Z, landing.x, landing.y, landing.z))
+                    local landing = PLAYER_LANDING[persistent_delta.pattern]
+                    if not landing then
+                        plyr_status = "no_xtel"; log("  PLYR  no XTEL data for this cell, skip")
                     else
-                        errors = errors + 1
-                        plyr_status = "err"
-                        log("  PLYR  K2_SetActorLocation failed")
+                        local ok_ploc, ploc = pcall(function() return pawn:K2_GetActorLocation() end)
+                        if not ok_ploc or not ploc then plyr_status = "no_loc"
+                        else
+                            local ddx=ploc.X-landing.x; local ddy=ploc.Y-landing.y; local ddz=ploc.Z-landing.z
+                            if (ddx*ddx+ddy*ddy+ddz*ddz) < (200*200) then
+                                player_landed=true; plyr_status="ok_at_tgt"
+                                log(string.format("  PLYR  at landing (%.0f,%.0f,%.0f)  skip",ploc.X,ploc.Y,ploc.Z))
+                            else
+                                local ok_set=pcall(function()
+                                    pawn:K2_SetActorLocation({X=landing.x,Y=landing.y,Z=landing.z},false,{},true)
+                                end)
+                                if ok_set then
+                                    pawn_moved=pawn_moved+1; player_landed=true; plyr_status="moved"
+                                    log(string.format("  PLYR  moved (%.0f,%.0f,%.0f)->(%.0f,%.0f,%.0f)",
+                                        ploc.X,ploc.Y,ploc.Z,landing.x,landing.y,landing.z))
+                                else
+                                    errors=errors+1; plyr_status="err"
+                                    log("  PLYR  K2_SetActorLocation failed")
+                                end
+                            end
+                        end
                     end
                 end
-                goto nextpawn
+                goto np_c
             end
-
             local delta2, pawn_fn = getDeltaForActor(pawn, persistent_delta)
-            if not delta2 then goto nextpawn end
-            if pawn_fn and pawn_fn:find("Controller", 1, true) then goto nextpawn end
-
-            -- Skip if already moved this cell visit (prevents TES4 snap-back fight).
-            if npc_landed[pawn_fn] then
+            if not delta2 then
+                if diag_count < 15 then
+                    local has_pd = pawn_fn and (pawn_fn:find("L_PersistentDungeon",1,true) and "PD" or "no_PD") or "nil_fn"
+                    log(string.format("  DIAG  [%s] %s", has_pd, (pawn_fn or "(nil)"):sub(1,100)))
+                    diag_count = diag_count + 1
+                end
+                goto np_c
+            end
+            if pawn_fn and pawn_fn:find("Controller", 1, true) then goto np_c end
+            if npc_landed[pawn_fn] then pawn_landed = pawn_landed + 1; goto np_c end
+            if fn_seen[pawn_fn] then goto np_c end
+            local ok_c0, cur0 = pcall(function() return pawn:K2_GetActorLocation() end)
+            if not ok_c0 or not cur0 then goto np_c end
+            if math.abs(cur0.X)<5 and math.abs(cur0.Y)<5 and math.abs(cur0.Z)<5 then goto np_c end
+            if cur0.Z < SKY_STASH_Z_MIN then
                 pawn_skip = pawn_skip + 1
-                goto nextpawn
+                -- Log first encounter: actor already at floor level, not sky-stashed.
+                local d0 = nearestEntryDist(persistent_delta.pattern, cur0.X, cur0.Y, cur0.Z)
+                local sn0 = (pawn_fn:match("([^%.:%s]+)%s*$") or "?"):sub(1,48)
+                log(string.format("  NPC_FLOOR  %-48s  cur=(%.0f,%.0f,%.0f)  dist_to_nearest=%.0f",
+                    sn0, cur0.X, cur0.Y, cur0.Z, d0 < math.huge and math.sqrt(d0) or -1))
+                npc_landed[pawn_fn] = true  -- suppress re-logging on subsequent scans
+                goto np_c
             end
+            fn_seen[pawn_fn] = true
+            table.insert(pawn_list, {pawn=pawn, fn=pawn_fn, delta2=delta2, cur0=cur0,
+                sort_d = nearestEntryDist(zone, cur0.X, cur0.Y, cur0.Z)})
+            ::np_c::
+        end
+        ::nextcls::
+    end
+    table.sort(pawn_list, function(a, b) return a.sort_d < b.sort_d end)
+    for _, c in ipairs(pawn_list) do
+        local pawn, pawn_fn, delta2, cur0 = c.pawn, c.fn, c.delta2, c.cur0
+        pawn_matched = pawn_matched + 1
 
-            local ok_cur0, cur0 = pcall(function() return pawn:K2_GetActorLocation() end)
-            if not ok_cur0 or not cur0 then goto nextpawn end
-            if math.abs(cur0.X) < 5 and math.abs(cur0.Y) < 5 and math.abs(cur0.Z) < 5 then
-                goto nextpawn
-            end
-
-            pawn_matched = pawn_matched + 1
-
-            -- Find nearest spawn-point entry (no radius limit for metrics).
-            local snap_e, snap_d = findBestSpawnEntry(persistent_delta.pattern, cur0.X, cur0.Y, cur0.Z)
+            -- Find nearest spawn-point entry within the active zone only (v2.9.0).
+            local snap_e, snap_d, snap_unclaimed = findBestSpawnEntry(persistent_delta.pattern, cur0.X, cur0.Y, cur0.Z)
             local snap_dist = snap_e and math.sqrt(snap_d) or -1
 
+
+            -- v2.10.0: XY-only rescue snap for actors displaced to wrong-zone height by a prior
+            -- incorrect assignment (e.g. zone1 actor moved to zone2 geometry Z≈2437–2890).
+            -- 3D SNAP fails because Z offset (~6000) >> SNAP_RADIUS (3000).  XY-only proximity
+            -- finds the correct own-zone entry ignoring the stale Z.
+            -- Threshold: Z in [1200, 4000) — above zone1 max floor (941), below sky-stash (~8000).
+            -- XY rescue also prefers unclaimed entries
+            local xy_rescue = false
+            if not (snap_e and snap_d <= SNAP_RADIUS_SQ) and cur0.Z >= 1200 and cur0.Z < 4000 then
+                local r_entries = SPAWN_BY_CELL[persistent_delta.pattern]
+                if r_entries then
+                    local best_e2, best_d2 = nil, SNAP_RADIUS_SQ + 1
+                    -- Phase 1: entry has room (count < e.max)
+                    for _, e in ipairs(r_entries) do
+                        if (zone_sc[locKey(e)] or 0) < (e.max or 1) then
+                            local d2 = (cur0.X - e.ox)^2 + (cur0.Y - e.oy)^2
+                            if d2 < best_d2 then best_d2 = d2; best_e2 = e end
+                        end
+                    end
+                    -- Phase 2: any
+                    if not best_e2 then
+                        for _, e in ipairs(r_entries) do
+                            local d2 = (cur0.X - e.ox)^2 + (cur0.Y - e.oy)^2
+                            if d2 < best_d2 then best_d2 = d2; best_e2 = e end
+                        end
+                    end
+                    if best_e2 and best_d2 <= SNAP_RADIUS_SQ then
+                        snap_e = best_e2; snap_d = best_d2; xy_rescue = true
+                    end
+                end
+            end
+
             -- Compute absolute target:
-            --   SNAP match  → tgt = (tx, ty, tz) directly (patched ESP pos, CS-verified).
-            --                  Applied regardless of Z — handles floor-level actors (e.g. BloodClotCave).
+            --   SNAP     → tgt = (tx, ty, tz) exactly from nearest own-zone entry (3D match).
+            --   XY_SNAP  → same, from XY-only rescue for actors at wrong-zone geometry height.
             --   No snap + Z >= 3000 → cluster-average fallback (sky-stash: Arondar/Barastas/Narind).
             --   No snap + Z <  3000 → skip (actor already at correct geometry position per ESP).
             local tgt_x, tgt_y, tgt_z
             local match_tag
-            if snap_e and snap_d <= SNAP_RADIUS_SQ then
+            if snap_e and (snap_unclaimed or snap_d <= SNAP_RADIUS_SQ or xy_rescue) then
                 tgt_x = snap_e.tx
                 tgt_y = snap_e.ty
                 tgt_z = snap_e.tz
-                match_tag = string.format("SNAP gap=%.0f", snap_dist)
+                match_tag = xy_rescue
+                    and string.format("XY_SNAP gap=%.0f", math.sqrt(snap_d))
+                    or  (snap_d > SNAP_RADIUS_SQ
+                         and string.format("SNAP_FAR gap=%.0f", snap_dist)
+                         or  string.format("SNAP gap=%.0f", snap_dist))
             else
-                -- No spawn-point entry: guard fallback with Z threshold.
+                -- No snap available.  Guard fallback with Z threshold.
                 -- Actors at geometry floor (Z < 3000) are correctly placed by patched ESP.
                 if cur0.Z < 3000 then
                     pawn_skip = pawn_skip + 1
@@ -449,44 +686,81 @@ local function runScan()
             -- Idempotency via target_cache (absolute target, not cur-relative).
             local key = pawn_fn
             if target_cache[key] == nil then
+                -- v2.31.0: scatter actors sharing a spawn entry — apply once per UUID so
+                -- the offset is fixed for the lifetime of this instance.
+                if snap_e and not xy_rescue then
+                    local sk = locKey(snap_e)
+                    local zone_ec = entry_land_count[zone] or {}
+                    zone_ec[sk] = (zone_ec[sk] or 0) + 1
+                    entry_land_count[zone] = zone_ec
+                    local idx = zone_ec[sk] - 1  -- 0-based; idx=0 → exact target
+                    if idx > 0 then
+                        -- v2.35.0: random ±50 UU, min 40 UU from center to avoid
+                        -- overlapping actor idx=0 (~31 UU capsule radius).
+                        -- center stays in target_cache so LVLC matching is unaffected.
+                        local sc_dx, sc_dy
+                        repeat
+                            sc_dx = math.random(-50, 50)
+                            sc_dy = math.random(-50, 50)
+                        until (sc_dx*sc_dx + sc_dy*sc_dy) >= 1600  -- >=40 UU from center
+                        scatter_offset[key] = { dx = sc_dx, dy = sc_dy }
+                        match_tag = match_tag .. string.format(" sc=(%d,%d)", sc_dx, sc_dy)
+                    end
+                end
                 target_cache[key] = { x = tgt_x, y = tgt_y, z = tgt_z }
             end
+            -- Count-based claim: allows up to e.max actors per entry (default 3).
+            if snap_e then zone_sc[locKey(snap_e)] = (zone_sc[locKey(snap_e)] or 0) + 1 end
             local tgt = target_cache[key]
+            -- v2.33.0: apply scatter offset at move-time (kept separate from target_cache).
+            local _so = scatter_offset[key]
+            local act_x = tgt.x + (_so and _so.dx or 0)
+            local act_y = tgt.y + (_so and _so.dy or 0)
+            -- v2.34.0: show actual placement position only when scattered; center otherwise.
+            local act_str = _so and string.format("  act=(%.0f,%.0f)", act_x, act_y) or ""
 
-            -- Short class name for logging.
-            local short_cls = (pawn_fn:match("BP_([^%._]+)") or pawn_fn:match("([^%.:%s]+)%s*$") or "?"):sub(1, 24)
+            -- v2.26.0: label = "BP_Glarthir_C_42@L_Arondar_LevelInstance_1" — the
+            -- level-instance suffix shows which zone owns the actor so cross-zone
+            -- contamination is immediately visible in the log. "@PD" = PersistentDungeon.
+            local inst_name  = (pawn_fn:match("%.([^%.:%s]+)%s*$") or pawn_fn:match("([^%.:%s]+)%s*$") or "?")
+            local inst_level = pawn_fn:match("(L_[^%.]+_LevelInstance_%d+)") or "PD"
+            local short_cls  = (inst_name .. "@" .. inst_level):sub(1, 56)
             -- Spawn-point origin for logging.
-            local sp_str = snap_e and string.format("(%.0f,%.0f,%.0f)", snap_e.ox, snap_e.oy, snap_e.oz) or "none"
+            local sp_str = snap_e and (snap_e.name or string.format("(%.0f,%.0f,%.0f)", snap_e.ox, snap_e.oy, snap_e.oz)) or "none"
 
-            -- Check idempotency: already at target?
-            local ddx = cur0.X - tgt.x
-            local ddy = cur0.Y - tgt.y
+            -- Check idempotency: already at target (scattered position)?
+            local ddx = cur0.X - act_x
+            local ddy = cur0.Y - act_y
             local ddz = cur0.Z - tgt.z
             local dist_to_tgt = math.sqrt(ddx*ddx + ddy*ddy + ddz*ddz)
 
             if dist_to_tgt < 50 then
                 pawn_skip = pawn_skip + 1
                 npc_landed[pawn_fn] = true
-                log(string.format("  NPC  %-24s  cur=(%.0f,%.0f,%.0f)  sp=%s  %s  tgt=(%.0f,%.0f,%.0f)  dist_to_tgt=%.0f  SKIP",
-                    short_cls, cur0.X, cur0.Y, cur0.Z, sp_str, match_tag, tgt.x, tgt.y, tgt.z, dist_to_tgt))
+                log(string.format("  NPC  %-24s  cur=(%.0f,%.0f,%.0f)  sp=%s  %s  tgt=(%.0f,%.0f,%.0f)%s  dist_to_tgt=%.0f  SKIP",
+                    short_cls, cur0.X, cur0.Y, cur0.Z, sp_str, match_tag, tgt.x, tgt.y, tgt.z, act_str, dist_to_tgt))
                 goto nextpawn
             end
 
             -- Move.
             if MODE == "probe" then
-                log(string.format("  NPC  %-24s  cur=(%.0f,%.0f,%.0f)  sp=%s  %s  tgt=(%.0f,%.0f,%.0f)  dist_to_tgt=%.0f  PROBE",
-                    short_cls, cur0.X, cur0.Y, cur0.Z, sp_str, match_tag, tgt.x, tgt.y, tgt.z, dist_to_tgt))
+                log(string.format("  NPC  %-24s  cur=(%.0f,%.0f,%.0f)  sp=%s  %s  tgt=(%.0f,%.0f,%.0f)%s  dist_to_tgt=%.0f  PROBE",
+                    short_cls, cur0.X, cur0.Y, cur0.Z, sp_str, match_tag, tgt.x, tgt.y, tgt.z, act_str, dist_to_tgt))
                 pawn_moved = pawn_moved + 1
                 npc_landed[pawn_fn] = true
             else
                 local ok_set = pcall(function()
-                    pawn:K2_SetActorLocation({X=tgt.x, Y=tgt.y, Z=tgt.z}, false, {}, true)
+                    pawn:K2_SetActorLocation({X=act_x, Y=act_y, Z=tgt.z}, false, {}, true)
                 end)
                 if ok_set then
                     pawn_moved = pawn_moved + 1
                     npc_landed[pawn_fn] = true
-                    log(string.format("  NPC  %-24s  cur=(%.0f,%.0f,%.0f)  sp=%s  %s  tgt=(%.0f,%.0f,%.0f)  dist_to_tgt=%.0f  MOVED",
-                        short_cls, cur0.X, cur0.Y, cur0.Z, sp_str, match_tag, tgt.x, tgt.y, tgt.z, dist_to_tgt))
+                    placement_pending[pawn_fn] = { sp = sp_str, tgt = { x = tgt.x, y = tgt.y, z = tgt.z },
+                        from_x    = cur0.X, from_y = cur0.Y,
+                        entry_key = snap_e and locKey(snap_e) or nil,
+                        pawn_obj  = pawn }
+                    log(string.format("  NPC  %-24s  cur=(%.0f,%.0f,%.0f)  sp=%s  %s  tgt=(%.0f,%.0f,%.0f)%s  dist_to_tgt=%.0f  MOVED",
+                        short_cls, cur0.X, cur0.Y, cur0.Z, sp_str, match_tag, tgt.x, tgt.y, tgt.z, act_str, dist_to_tgt))
                 else
                     errors = errors + 1
                     log(string.format("  NPC  %-24s  cur=(%.0f,%.0f,%.0f)  %s  ERR K2_SetActorLocation",
@@ -495,61 +769,134 @@ local function runScan()
             end
 
             ::nextpawn::
+    end  -- pawn_list (sorted)
+
+    -- v2.50.0: Displacement recovery — re-snap actors that physics-displaced after initial
+    -- snap (wrong surface loaded before cell collision settled, typically on scan #1 only).
+    -- Two-scan delay: first observation marks eligible; second checks dist and re-snaps once.
+    local disp_n = 0
+    for fn, p in pairs(placement_pending) do
+        if p.resnap_done == nil then
+            p.resnap_done = false   -- first observation: too soon, physics not yet settled
+        elseif p.resnap_done == false then
+            p.resnap_done = true    -- attempt once regardless of outcome
+            if p.pawn_obj and p.pawn_obj:IsValid() then
+                local ok_l, loc = pcall(function() return p.pawn_obj:K2_GetActorLocation() end)
+                if ok_l and loc and loc.Z < SKY_STASH_Z_MIN then
+                    local dist = math.sqrt((loc.X-p.tgt.x)^2+(loc.Y-p.tgt.y)^2+(loc.Z-p.tgt.z)^2)
+                    if dist > 500 then
+                        local ok_set = pcall(function()
+                            p.pawn_obj:K2_SetActorLocation(
+                                {X=p.tgt.x, Y=p.tgt.y, Z=p.tgt.z}, false, {}, true)
+                        end)
+                        local sn = (fn:match("([^%.:%s]+)%s*$") or fn):sub(1,44)
+                        log(string.format("  DISP_RECOV  %-10s  sp=%-8s  dist=%.0f  Z=%.0f  tgt=(%.0f,%.0f,%.0f)  %s",
+                            ok_set and "RESNAP" or "RESNAP_ERR", p.sp, dist, loc.Z,
+                            p.tgt.x, p.tgt.y, p.tgt.z, sn))
+                        disp_n = disp_n + 1
+                        if ok_set then pawn_moved = pawn_moved + 1 end
+                    end
+                end
+            end
         end
-        ::nextcls::
     end
 
-    -- File log: verbose PLYR + PAWN counts
-    log(string.format("  PAWN  scanned=%d  matched=%d  moved=%d  skip=%d",
-        pawn_scanned, pawn_matched, pawn_moved, pawn_skip))
+    -- v2.49.0: QC redistribution — fill vacant entries from surplus clusters.
+    local qc_entries = SPAWN_BY_CELL[persistent_delta.pattern]
+    if qc_entries then
+        local qc_n = runQCRedistribute(zone_sc, qc_entries)
+        if qc_n > 0 then
+            pawn_moved = pawn_moved + qc_n
+            log(string.format("  QC_REDIST  cell=%s  reassigned=%d", persistent_delta.pattern, qc_n))
+        end
+    end
 
-    -- Summary: verbose DONE line to file, single compact line to UE4SS console.
-    local notes = ""
-    if plyr_status ~= "ok_at_tgt" and plyr_status ~= "moved" then notes = notes .. " plyr=" .. plyr_status end
-    if errors > 0 then notes = notes .. string.format(" ERR=%d", errors) end
-    if fa1_err then notes = notes .. " FA1ERR" end
-    local summary = string.format("#%-3d  %-12s  R:n=%d m=%d mv=%d sk=%d  P:n=%d m=%d mv=%d sk=%d%s",
-        scan_count, persistent_delta.pattern,
-        #comps, matched, moved, skipped,
-        pawn_scanned, pawn_matched, pawn_moved, pawn_skip,
-        notes)
-    log("DONE " .. summary)
-    print("\n[REFRFIX] " .. summary)
+    -- Log when something moved. With DIAG_REENTRY_LOG, also log every re-entry tick
+    -- (v2.39.5-diag2 behaviour — exposes pawn_scanned on no-op scans for free-fall diagnosis).
+    local is_reentry_scan = zones_coverage[persistent_delta.pattern] ~= nil
+    if pawn_moved > 0 or (DIAG_REENTRY_LOG and is_reentry_scan) then
+        local reentry_tag = (DIAG_REENTRY_LOG and is_reentry_scan) and "  [REENTRY]" or ""
+        log(string.format("SCAN #%d  cell=%s%s", scan_count, persistent_delta.pattern, reentry_tag))
+        log(string.format("  PAWN  scanned=%d  matched=%d  moved=%d  skip=%d  landed=%d",
+            pawn_scanned, pawn_matched, pawn_moved, pawn_skip, pawn_landed))
+        local notes = ""
+        if plyr_status ~= "ok_at_tgt" and plyr_status ~= "moved" then notes = notes .. " plyr=" .. plyr_status end
+        if errors > 0 then notes = notes .. string.format(" ERR=%d", errors) end
+        local summary = string.format("#%-3d  %-12s  P:n=%d m=%d mv=%d sk=%d ld=%d%s",
+            scan_count, persistent_delta.pattern,
+            pawn_scanned, pawn_matched, pawn_moved, pawn_skip, pawn_landed, notes)
+        log("DONE " .. summary)
+        print("\n[REFRFIX] " .. summary)
+    end
+    return pawn_moved
 end
 
 -- ─── Auto-scan on cell load ────────────────────────────────────────────────────
--- ClientRestart fires when the pawn respawns (= new cell entered).
--- Scan at 5s / 10s / 20s to catch actors that spawn late.
-local restartSeq = 0
+-- v2.17.0: Continuous 500ms probe loop mirroring Begone architecture.
+-- v2.43.0: Continuous 500ms scan loop — no window, no WINDOW_CLOSE.
+-- Fires every 500ms whenever an OOO cell is active. npc_landed dedup prevents
+-- re-moving actors already placed this session (cleared only on ClientRestart).
+-- spawn_claimed + entry_land_count cleared per ZONE_CHANGE for fresh Phase 1.
+-- Late-streamers (distant rooms) are caught automatically as they appear.
+local restartSeq   = 0
+local last_pattern = nil
+
+LoopAsync(500, function()
+    local delta   = getActiveCellDelta()
+    local pattern = delta and delta.pattern or nil
+    if pattern ~= last_pattern then
+        last_pattern = pattern
+        if pattern then
+            -- Clear per-zone state so Phase 1 claims start fresh on each zone entry.
+            -- v2.46.0: npc_landed is NOT cleared here (reverts v2.45.0 change).
+            -- Clearing it caused batch-2 actors (proximity-triggered Z2 spawns seen
+            -- in Z1 context) to bypass dedup and get recycled as Z2 placements,
+            -- producing log HITs that were invisible in-game (wrong physics context).
+            -- npc_landed is cleared only on ClientRestart (global, session-scoped).
+            spawn_claimed[pattern]    = {}
+            entry_land_count[pattern] = {}
+            placement_pending         = {}
+            scan_open_at              = os.clock()
+        end
+        log(string.format("ZONE_CHANGE  new=%s  window=%.0fs", pattern or "nil", SCAN_WINDOW_SECS))
+        print(string.format("\n[REFRFIX] ZONE_CHANGE  new=%s", pattern or "nil"))
+    end
+    if pattern then
+        local elapsed = scan_open_at and (os.clock() - scan_open_at) or 0
+        if elapsed <= SCAN_WINDOW_SECS then
+            runScan()
+        else
+            -- Window closed: suppress scan to prevent re-processing settled actors.
+            -- NPC_FLOOR logging still fires for any truly-new floor arrivals if window re-opens.
+        end
+    end
+    return false
+end)
 
 RegisterHook("/Script/Engine.PlayerController:ClientRestart", function()
     restartSeq = restartSeq + 1
-    local seq = restartSeq
-    -- Reset target cache: new cell load means actors respawn at save positions
-    target_cache = {}
-    player_landed = false
-    npc_landed = {}
-    log(string.format("RESTART #%d cache cleared", seq))
-    print(string.format("\n[REFRFIX] RESTART #%d cache cleared", seq))
-
-    for _, ms in ipairs({2000, 5000, 10000, 20000, 30000}) do
-        LoopAsync(ms, function()
-            if restartSeq == seq then
-                runScan()
-            end
-            return false  -- fire once, don't loop
-        end)
-    end
+    -- Force zone re-detect and cache reset on loading-screen cell entry
+    last_pattern      = nil
+    target_cache      = {}
+    scatter_offset    = {}  -- v2.33.0
+    npc_landed        = {}
+    spawn_claimed     = {}
+    entry_land_count  = {}  -- v2.31.0
+    zones_coverage    = {}
+    player_landed     = false
+    diag_count        = 0
+    placement_pending = {}
+    scan_open_at      = nil
+    log(string.format("RESTART #%d  probe reset", restartSeq))
+    print(string.format("\n[REFRFIX] RESTART #%d probe reset", restartSeq))
 end)
 
--- ─── Diagnostic dump (F8) ────────────────────────────────────────────────────
+-- ─── Diagnostic dump (F8 / SendSpellCast) ──────────────────────────────────
 -- Logs EVERY Character/Pawn actor with: class name, full path, XYZ, and exact
 -- distance to the nearest spawn-point entry (unlimited radius).
--- Use this to find where the actual Arondar marauders are and how far they are
--- from spawn-point entries in SPAWN_DELTAS — without moving anything.
-RegisterKeyBind(Key.F8, function()
-    log("=== F8 DIAG DUMP ===")
-    print("\n[REFRFIX] F8 DIAG DUMP")
+local function runDiagDump()
+    log("=== DIAG DUMP ===")
+    print("\n[REFRFIX] DIAG DUMP")
     local persistent_delta = getActiveCellDelta()
     if not persistent_delta then
         log("  no active Arondar cell, abort")
@@ -586,11 +933,10 @@ RegisterKeyBind(Key.F8, function()
                 goto nextpawn_diag
             end
 
-            -- nearest spawn-point distance (no radius limit)
-            local entries = SPAWN_BY_CELL[cell]
+            -- nearest spawn-point distance (global search, no radius limit)
             local best_d = math.huge
-            if entries then
-                for _, e in ipairs(entries) do
+            for _, cell_entries in pairs(SPAWN_BY_CELL) do
+                for _, e in ipairs(cell_entries) do
                     local ddx = loc.X - e.ox
                     local ddy = loc.Y - e.oy
                     local ddz = loc.Z - e.oz
@@ -608,7 +954,39 @@ RegisterKeyBind(Key.F8, function()
     end
     log(string.format("=== DIAG END  total=%d ===", total))
     print(string.format("\n[REFRFIX] DIAG done, %d actors logged to %s", total, LOG_PATH))
-end)
+    -- Verify actors we attempted to place this zone visit.
+    local np = 0; for _ in pairs(placement_pending) do np=np+1 end
+    log(string.format("=== PLACEMENT VERIFY  n=%d ===", np))
+    local nv,nf,nd,nm = 0,0,0,0
+    for fn, p in pairs(placement_pending) do
+        local loc2 = nil
+        for _, cls2 in ipairs(CHAR_CLASSES) do
+            local ok2,pws2 = pcall(function() return FindAllOf(cls2) end)
+            if ok2 and pws2 then for _, pw2 in ipairs(pws2) do
+                if pw2 and pw2:IsValid() then
+                    local ok3,fn3 = pcall(function() return pw2:GetFullName() end)
+                    if ok3 and fn3==fn then
+                        local ok4,l4 = pcall(function() return pw2:K2_GetActorLocation() end)
+                        if ok4 and l4 then loc2=l4 end; break
+                    end
+                end
+            end end
+            if loc2 then break end
+        end
+        local sn = (fn:match("([^%.:%s]+)%s*$") or fn):sub(1,44)
+        if not loc2 then
+            nm=nm+1; log(string.format("  VERIFY  MISSING     sp=%-8s  %s", p.sp, sn))
+        else
+            local dist = math.sqrt((loc2.X-p.tgt.x)^2+(loc2.Y-p.tgt.y)^2+(loc2.Z-p.tgt.z)^2)
+            local st = dist<200 and "VERIFIED" or (loc2.Z>=SKY_STASH_Z_MIN and "FAILED_SKY" or "DISPLACED")
+            if st=="VERIFIED" then nv=nv+1 elseif st=="FAILED_SKY" then nf=nf+1 else nd=nd+1 end
+            log(string.format("  VERIFY  %-10s  sp=%-8s  dist=%5.0f  Z=%7.0f  tgtZ=%7.0f  %s",
+                st, p.sp, dist, loc2.Z, p.tgt.z, sn))
+        end
+    end
+    log(string.format("=== VERIFY DONE  verified=%d  failed=%d  displaced=%d  missing=%d ===",nv,nf,nd,nm))
+end
+RegisterKeyBind(Key.F8, function() runDiagDump() end)
 
 -- ─── Manual trigger ───────────────────────────────────────────────────────────
 RegisterKeyBind(Key.F9, function()
@@ -617,9 +995,49 @@ RegisterKeyBind(Key.F9, function()
     runScan()
 end)
 
+-- ─── Controller diagnostic trigger (SendSpellCast) ───────────────────────────
+-- Player spell cast fires the diagnostic dump without needing keyboard access.
+-- Set DIAG_SPELL_CAST_HOOK = false when Begone has SEND_SPELL_CAST_ENABLED = true.
+if DIAG_SPELL_CAST_HOOK then
+    RegisterHook("/Script/Altar.VPairedPawn:SendSpellCast", function(self)
+        local ok_fn, fn = pcall(function() return self:get():GetFullName() end)
+        if not (ok_fn and fn and fn:find("BP_OblivionPlayerCharacter_C", 1, true)) then return end
+        runDiagDump()
+    end)
+end
+
 -- ─── Startup ──────────────────────────────────────────────────────────────────
+-- Truncate the log at boot unless DIAG_PRESERVE_BOOT_LOG is set.
+if not DIAG_PRESERVE_BOOT_LOG then
+    local f = io.open(LOG_PATH, "w"); if f then f:close() end
+end
+
+-- ─── Boot-time unit tests (Phase 9-C) ────────────────────────────────────────
+-- Run tests.lua once per version bump; skip silently on subsequent boots.
+local VERSION = "v2.51.0"
+do
+    local last_ver = ""
+    local ok_f, last_f = pcall(function()
+        return io.open("C:\\Temp\\OOO_REFRFix_tests_last.txt", "r")
+    end)
+    if ok_f and last_f then
+        last_ver = last_f:read("*l") or ""
+        last_f:close()
+    end
+    if last_ver ~= VERSION then
+        local ok_t, tests = pcall(function() return require("tests") end)
+        if ok_t and tests and tests.run_tests() then
+            local wf = io.open("C:\\Temp\\OOO_REFRFix_tests_last.txt", "w")
+            if wf then wf:write(VERSION); wf:close() end
+            log("[TESTS PASSED " .. VERSION .. "]")
+        else
+            log("[TESTS FAILED " .. VERSION .. " -- check log for details]")
+        end
+    end
+end
+
 local total_spawn_entries = 0
 for _, v in pairs(SPAWN_BY_CELL) do total_spawn_entries = total_spawn_entries + #v end
-log(string.format("BOOT   v1.9.0  mode=%s  entries=%d  cells=%d  F8=diag  F9=scan",
-    MODE, total_spawn_entries, (function() local n=0; for _ in pairs(SPAWN_BY_CELL) do n=n+1 end; return n end)()))
-print(string.format("\n[REFRFIX] BOOT v1.9.0  mode=%s  F8=diag  F9=scan", MODE))
+log(string.format("BOOT   %s  mode=%s  entries=%d  cells=%d  F8=diag  F9=scan",
+    VERSION, MODE, total_spawn_entries, (function() local n=0; for _ in pairs(SPAWN_BY_CELL) do n=n+1 end; return n end)()))
+print(string.format("\n[REFRFIX] BOOT %s  mode=%s  F8=diag  F9=scan", VERSION, MODE))

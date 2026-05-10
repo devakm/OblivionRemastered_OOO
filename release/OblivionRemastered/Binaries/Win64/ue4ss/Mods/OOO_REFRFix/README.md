@@ -2,7 +2,7 @@
 
 ## What this does
 
-Corrects stale NPC/creature positions in OOO Arondar cells.
+Corrects stale NPC/creature positions for alpha testers in OOO cells such as Arondar. This is NOT needed if you are starting a new save file. It is only needed if playing with a save file that was started using an earlier alpha version.
 
 **Root cause**: Steam save files use UE FArchive chunk format (`0x9E2A83C1`) — permanently
 undecodable offline. The save's `ChangedForm` data caches NPC spawn positions from before the
