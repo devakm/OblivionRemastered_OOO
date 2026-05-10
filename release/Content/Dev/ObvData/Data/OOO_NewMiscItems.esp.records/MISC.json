@@ -112,5 +112,17 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:032670",
     "full": "Boar Pelt",
     "modl": "Clutter\\BearPelt.NIF"
+  },
+  {
+    "edid": "Gold002a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03A587",
+    "full": "Platinum Coin",
+    "modl": "Clutter\\goldCoin01.NIF"
+  },
+  {
+    "edid": "Gold002",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F80",
+    "full": "Platinum Coin",
+    "modl": "Clutter\\goldCoin01.NIF"
   }
 ]

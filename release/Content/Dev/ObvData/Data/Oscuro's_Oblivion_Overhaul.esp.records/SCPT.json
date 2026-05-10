@@ -102,6 +102,102 @@
     "modl": null
   },
   {
+    "edid": "GrindGem6DiamondPerfectS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0015EC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem5EmeraldPerfectS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00161B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem1PearlPerfectS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00161D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem3RubyPerfectS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00161F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem4SapphirePerfectS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001621",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem2TopazPerfectS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001623",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem1PearlBlackS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001627",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem7OpalPerfectS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001634",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem7OpalFlawlessS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001635",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem7OpalFlawedS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001636",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem7OpalS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001637",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem10AmethystFlawedS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001638",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem10AmethystS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001639",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem10AmethystFlawlessS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00163A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem10AmethystPerfectS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00163B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem1PearlFlawedS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0016B6",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "OscuroTombstoneIncludedModsScript",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0016F9",
     "full": null,
@@ -126,6 +222,90 @@
     "modl": null
   },
   {
+    "edid": "GrindGem0GoldNuggetSmallS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E2F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem0GoldNuggetS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E30",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem0GoldNuggetLargeS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E31",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem0SilverNuggetS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E32",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem0SilverNuggetSmallS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E33",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem0SilverNuggetLargeS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E34",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem0PlatinumBarS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E35",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem0PlatinumNuggetS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E36",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem0PlatinumNuggetSmallS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E37",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem0PlatinumNuggetLargeS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E38",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem0CopperNuggetLargeS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E39",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem0CopperNuggetSmallS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E3A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem0CopperNuggetS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E3B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem0CopperBarS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001E3C",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "LapWinePressScript",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002A6C",
     "full": null,
@@ -134,6 +314,30 @@
   {
     "edid": "P1DkeyIntegrationOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002B09",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "9DarkSancSkelFix",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00324D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "9DarkSancSkelCheck",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00324E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "9MiscarcandUndeadCheck",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003255",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "9MiscarcandUndeadFix",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003259",
     "full": null,
     "modl": null
   },
@@ -198,6 +402,12 @@
     "modl": null
   },
   {
+    "edid": "OOOLightOfDawnWeaponSwap",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003EAC",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "CamicasiSelfDestruct",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003F29",
     "full": null,
@@ -248,6 +458,78 @@
   {
     "edid": "1GrayCowlEffects",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0042F5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem3RubyFlawedS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004343",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem3RubyS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004344",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem3RubyFlawlessS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004345",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem4SapphireS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004346",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem4SapphireFlawedS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004347",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem4SapphireFlawlessS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004348",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem5EmeraldS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004349",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem5EmeraldFlawedS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00434A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem5EmeraldFlawlessS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00434B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem6DiamondS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00434C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem6DiamondFlawedS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00434D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem6DiamondFlawlessS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00434E",
     "full": null,
     "modl": null
   },
@@ -354,6 +636,48 @@
     "modl": null
   },
   {
+    "edid": "LightOfDawnNoFlame",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E5D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LightOfDawnNoFlameA",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E5E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LightOfDawnNoFlameB",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E5F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LightOfDawnNoFlameC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E60",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LightOfDawnSpellEffectScript",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E64",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LightOfDawnSpellEffectScriptA",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E65",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LightOfDawnSpellEffectScriptB",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E66",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "1NewCowlScript",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0051C0",
     "full": null,
@@ -396,6 +720,138 @@
     "modl": null
   },
   {
+    "edid": "GhostWeaponIxcthSword",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00607E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindTriggerS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006161",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindMenuS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006162",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindSkelBigBone01S",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006163",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindSkelBoneThinS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006164",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindSkelClavicle01S",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006165",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindSkelPelvis01S",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006166",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindSkelRibcage01S",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006167",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindSkull01S",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006168",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem11PTourmalineFlawedS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006179",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem11PTourmalineFlawlessS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00617A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem11PTourmalinePerfectS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00617B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem11PTourmalineS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00617C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem8GarnetS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00617D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem8GarnetFlawedS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00617E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem8GarnetFlawlessS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00617F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem8GarnetPerfectS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006180",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem9TourmalineS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006181",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem9TourmalineFlawedS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006182",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem9TourmalineFlawlessS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006183",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem9TourmalinePerfectS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006184",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006185",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "OOOEquipmentMonitorQS",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006189",
     "full": null,
@@ -410,6 +866,30 @@
   {
     "edid": "lbBashCrimeFreeScriptOOOMergedLapTest03",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006884",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LightOfDawnVampireSoulAbsorb",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006C8E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LightOfDawnPowerGrowth",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006C92",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LightOfDawnPowerGrowthA",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006C96",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LightOfDawnPowerGrowthB",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006C97",
     "full": null,
     "modl": null
   },
@@ -474,6 +954,12 @@
     "modl": null
   },
   {
+    "edid": "LightOfDawnPowerGrowthC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B0D0",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "2MagicSpawnBoarGood",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00B451",
     "full": null,
@@ -494,6 +980,12 @@
   {
     "edid": "OOOSE32KatanaLyingSCRIPT",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00B87A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OldAureusJephreArmor",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00BE4E",
     "full": null,
     "modl": null
   },
@@ -648,6 +1140,18 @@
     "modl": null
   },
   {
+    "edid": "LightOfDawnBookScript",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00E216",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LightOfDawnQuestScript",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00E217",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "OOOSE30QWeapMadn01",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00E41E",
     "full": null,
@@ -714,6 +1218,54 @@
     "modl": null
   },
   {
+    "edid": "SylvanRangerAnvilWarning",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00FAC3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SylvanRangerAnvilFGNote",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00FAC4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SylvanRangerAnvilCountessNote",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00FAC5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SylvanRangerAnvilFGCountessReport",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00FAC6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SylvanRangerCamp01Note",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00FAC7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SylvanRangerCamp02Note",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00FAC8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SylvanRangerCamp03Note",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00FAC9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SylvanRangerCampAllNote",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00FACC",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "zOOODBKnightPillagedScript",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00FE6C",
     "full": null,
@@ -734,6 +1286,12 @@
   {
     "edid": "arrowRecoverySCR",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0109D3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SylvanRangerLareilNote",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010F12",
     "full": null,
     "modl": null
   },
@@ -816,14 +1374,68 @@
     "modl": null
   },
   {
+    "edid": "SylvanRangerJanValNote",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:013F7E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "RaiderHloforDreadArmorNote",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:013F80",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "RaiderSheilDreadArmorNote",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014545",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "RaiderFaranDreadArmorNote",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014546",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "GhostArmorWeaponScript",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01465A",
     "full": null,
     "modl": null
   },
   {
+    "edid": "GhostEffectScript2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014666",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GhostEffectScript3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014B5D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "AtronachFlameScriptOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:015552",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "GhostWeaponBattleAxe",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:015555",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GhostEffectScriptSpriggan",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:015557",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "3OCreatureDecisionScriptAITest2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:015C28",
     "full": null,
     "modl": null
   },
@@ -948,6 +1560,48 @@
     "modl": null
   },
   {
+    "edid": "PutridHandValethBook",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01936F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "HannibalTravenBook",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:019370",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SkyrimBanditBrumaWarning",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:019378",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SkyrimBanditQuestScript",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:019379",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SkyrimBanditCloudRulerReport",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01937A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SkyrimBanditCRCampNote",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01937B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SkyrimBanditVykaPlans",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01937C",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "9BossBuffScriptMarlek",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01937E",
     "full": null,
@@ -992,6 +1646,12 @@
   {
     "edid": "3OCreatureMinotaurAI",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01A3B0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ValenSummonScriptCommon",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01A96F",
     "full": null,
     "modl": null
   },
@@ -1080,8 +1740,20 @@
     "modl": null
   },
   {
+    "edid": "SlaverSmugglerCheydinhalWarning",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01C753",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "SlaverSmugglerQuestScript",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C754",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SmugglerBossKizra",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CA78",
     "full": null,
     "modl": null
   },
@@ -1094,6 +1766,30 @@
   {
     "edid": "2MagicSpawnWargVamp",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01D518",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SlaverSmugglerBravilWarning",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01D71B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SlaverSmugglerMPCBook",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01ED6A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SlaverSmugglerCMBook",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01ED6C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SlaverSmugglerNCOrders",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F7A8",
     "full": null,
     "modl": null
   },
@@ -1124,6 +1820,24 @@
   {
     "edid": "OOOSE30LuckMatrixBothScript",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02075A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SlaverSmugglerEidkeeBook",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0215CD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SlaverSmugglerKizraMessage",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0215D0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SlaverSmugglerYeshaniBook",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0215D1",
     "full": null,
     "modl": null
   },
@@ -1172,6 +1886,30 @@
   {
     "edid": "OOOSE32DementedFireSCRIPT",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0244C5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SmugglerBossYeshani",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0248FF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SmugglerBossEidkee",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024900",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SlaverBossDerahed",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024901",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SlaverBossLerys",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024902",
     "full": null,
     "modl": null
   },
@@ -1292,6 +2030,12 @@
   {
     "edid": "9BossBuffScriptGolemSilverUmbacano",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02AC0C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SylvanRangerBadSpawnRemove",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AEED",
     "full": null,
     "modl": null
   },
@@ -1436,6 +2180,12 @@
   {
     "edid": "9BossBuffScriptVolmyr",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:030F3F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "Old8AyleidWeaponMagickaRegenFlag",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030F47",
     "full": null,
     "modl": null
   },
@@ -1686,6 +2436,54 @@
     "modl": null
   },
   {
+    "edid": "GrindGem1PearlS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05131C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem1PearlFlawlessS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05131E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem0GoldBarS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05131F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem0SilverBarS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051320",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem2TopazFlawedS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051321",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem2TopazS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051322",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GrindGem2TopazFlawlessS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051323",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "retrievetorch",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05132F",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "OscuroTombstoneBetaAdvisorsScript",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:051332",
     "full": null,
@@ -1872,6 +2670,12 @@
     "modl": null
   },
   {
+    "edid": "LightOfDawnSpellEffectScriptC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06E9EF",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "bgOOOIngredientFoodScript",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA08",
     "full": null,
@@ -1922,6 +2726,42 @@
   {
     "edid": "bgOOOGravityScript",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA10",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GhostWeaponIxcthSwordv2H",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA2F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GhostWeaponIxcthSwordv2L",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA30",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOLightOfDawnSpellEffectScript",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA31",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOLightOfDawnWeaponQuestScr",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA32",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOLightOfDawnPowerGrowth",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA33",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OptLightOfDawnQS",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA52",
     "full": null,
     "modl": null
   },

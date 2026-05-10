@@ -1,8 +1,7 @@
 {
   "esp": "OOO_NewChests03.esp",
   "record_types": [
-    "CONT",
-    "MISC"
+    "CONT"
   ],
   "tes4": {
     "masters": [

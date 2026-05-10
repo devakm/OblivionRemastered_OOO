@@ -1,0 +1,32 @@
+[
+  {
+    "edid": "LowerPants03",
+    "formid": "Oblivion.esm:000857",
+    "full": "Huntsman Leather Pants",
+    "modl": "Clothes\\LowerClass\\03\\M\\Pants.NIF"
+  },
+  {
+    "edid": "LowerShirt03",
+    "formid": "Oblivion.esm:000883",
+    "full": "Huntsman Vest",
+    "modl": "Clothes\\LowerClass\\03\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "LowerShoes03",
+    "formid": "Oblivion.esm:01C82B",
+    "full": "Huntsman Moccasin",
+    "modl": "Clothes\\LowerClass\\03\\M\\Shoes.NIF"
+  },
+  {
+    "edid": "BlackRobe",
+    "formid": "Oblivion.esm:064FE2",
+    "full": "Black Robe",
+    "modl": "Clothes\\RobeMCBlack\\M\\RobeMCBlack.NIF"
+  },
+  {
+    "edid": "BlackHood",
+    "formid": "Oblivion.esm:064FE3",
+    "full": "Black Hood",
+    "modl": "Clothes\\RobeMCBlack\\Hood.NIF"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "esp": "OOO_NewArmor04Amazon.esp",
+  "record_types": [
+    "ARMO",
+    "CLOT"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "Oscuro's_Oblivion_Overhaul.esp"
+    ],
+    "version": 1.0
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "edid": "WeapElvenBow",
+    "formid": "Oblivion.esm:0229BF",
+    "full": "LOC_FN_WeapElvenBow",
+    "modl": "Weapons\\Elven\\Bow.NIF"
+  },
+  {
+    "edid": "WeapSilverBow",
+    "formid": "Oblivion.esm:025227",
+    "full": "LOC_FN_WeapSilverBow",
+    "modl": "Weapons\\Silver\\Bow.NIF"
+  },
+  {
+    "edid": "WeapDwarvenBow",
+    "formid": "Oblivion.esm:035DCE",
+    "full": "LOC_FN_WeapDwarvenBow",
+    "modl": "Weapons\\Dwarven\\Bow.NIF"
+  },
+  {
+    "edid": "WeapGlassBow",
+    "formid": "Oblivion.esm:035E7A",
+    "full": "LOC_FN_WeapGlassBow",
+    "modl": "Weapons\\Glass\\Bow.NIF"
+  },
+  {
+    "edid": "WeapEbonyBow",
+    "formid": "Oblivion.esm:035E7B",
+    "full": "LOC_FN_WeapEbonyBow",
+    "modl": "Weapons\\Ebony\\Bow.NIF"
+  },
+  {
+    "edid": "WeapDaedricBow",
+    "formid": "Oblivion.esm:035E7C",
+    "full": "LOC_FN_WeapDaedricBow",
+    "modl": "Weapons\\Daedric\\Bow.NIF"
+  },
+  {
+    "edid": "drbowOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02716D",
+    "full": "Blood Thorn Bow",
+    "modl": "Weapons\\Silver\\Bow.NIF"
+  }
+]

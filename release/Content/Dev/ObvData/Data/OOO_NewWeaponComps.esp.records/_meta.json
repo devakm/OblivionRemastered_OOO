@@ -6,6 +6,7 @@
   "tes4": {
     "masters": [
       "Oblivion.esm",
+      "DLCThievesDen.esp",
       "Oscuro's_Oblivion_Overhaul.esp"
     ],
     "version": 1.0

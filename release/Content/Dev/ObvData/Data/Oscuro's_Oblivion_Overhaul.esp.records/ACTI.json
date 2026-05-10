@@ -36,6 +36,18 @@
     "modl": "turtopazdust.nif"
   },
   {
+    "edid": "GrindMenuBase",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006155",
+    "full": "(OOO) Shouldn't see me",
+    "modl": "turtopazdust.nif"
+  },
+  {
+    "edid": "GrindTriggerBase",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006156",
+    "full": "(OOO) Shouldn't see me",
+    "modl": "turtopazdust.nif"
+  },
+  {
     "edid": "OOOMelusPetiliusClaymore",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:008E7B",
     "full": "",

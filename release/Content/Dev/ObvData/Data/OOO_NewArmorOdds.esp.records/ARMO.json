@@ -108,6 +108,36 @@
     "modl": "Armor\\CMBattleShields\\CMBattleShield009.nif"
   },
   {
+    "edid": "ArmorDraconicArmorbootsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027156",
+    "full": "Dragonborne Boots",
+    "modl": "Armor\\DraconicArmor\\boots.nif"
+  },
+  {
+    "edid": "ArmorDraconicArmorcuirassOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027157",
+    "full": "Dragonborne Cuirass",
+    "modl": "Armor\\DraconicArmor\\cuirass.nif"
+  },
+  {
+    "edid": "ArmorDraconicArmorgauntletsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027158",
+    "full": "Dragonborne Gauntlets",
+    "modl": "Armor\\DraconicArmor\\gauntlets.nif"
+  },
+  {
+    "edid": "ArmorDraconicArmorgreavesOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027159",
+    "full": "Dragonborne Greaves",
+    "modl": "Armor\\DraconicArmor\\greaves.nif"
+  },
+  {
+    "edid": "ArmorDraconicArmorshieldOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02715A",
+    "full": "Dragonborne Shield",
+    "modl": "Armor\\DraconicArmor\\shield.nif"
+  },
+  {
     "edid": "KDWhiteRoseBootsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02715B",
     "full": "White Rose Boots",

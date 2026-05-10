@@ -1,0 +1,318 @@
+[
+  {
+    "edid": "OOODarkSancSkelFix",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00324C",
+    "full": null,
+    "stage_indices": []
+  },
+  {
+    "edid": "OOOMiscarcandUndeadFix",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00324F",
+    "full": null,
+    "stage_indices": []
+  },
+  {
+    "edid": "1GrayCowl",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004303",
+    "full": null,
+    "stage_indices": []
+  },
+  {
+    "edid": "addtorchkeyagain",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E49",
+    "full": "Add Hotkey Torch Again",
+    "stage_indices": []
+  },
+  {
+    "edid": "OOOSpellMerchantQuest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005DE6",
+    "full": null,
+    "stage_indices": []
+  },
+  {
+    "edid": "OptGrind",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00615F",
+    "full": null,
+    "stage_indices": []
+  },
+  {
+    "edid": "OOOSylvanArmorQuest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006187",
+    "full": null,
+    "stage_indices": []
+  },
+  {
+    "edid": "OOOEquipmentMonitor",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00618A",
+    "full": null,
+    "stage_indices": []
+  },
+  {
+    "edid": "GeomancyMonitorSpells",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00618B",
+    "full": null,
+    "stage_indices": []
+  },
+  {
+    "edid": "GeomancyVersionControl",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00618D",
+    "full": null,
+    "stage_indices": []
+  },
+  {
+    "edid": "OOOVersionControl",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00618F",
+    "full": null,
+    "stage_indices": [
+      0
+    ]
+  },
+  {
+    "edid": "OOOCoblEatQ",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0061C4",
+    "full": "OOO Cobl Eat Quest",
+    "stage_indices": []
+  },
+  {
+    "edid": "addtorchkey",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00651F",
+    "full": "Add Hotkey Torch",
+    "stage_indices": []
+  },
+  {
+    "edid": "OOOHeavenFuryClaymoreQuest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007AF4",
+    "full": "A Path of Iron",
+    "stage_indices": [
+      1,
+      10,
+      20,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      40,
+      100
+    ]
+  },
+  {
+    "edid": "zOOOKnightFollow",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007B52",
+    "full": "Knight of the Dragonborne Following Player",
+    "stage_indices": []
+  },
+  {
+    "edid": "OOOLightOfDawnQuest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00E215",
+    "full": "Light Through the Darkness",
+    "stage_indices": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80
+    ]
+  },
+  {
+    "edid": "OOODreadArmorQuest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00FAC0",
+    "full": "Artifacts of the Netherworld",
+    "stage_indices": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90,
+      100
+    ]
+  },
+  {
+    "edid": "OOOSylvanRangerQuest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00FAC2",
+    "full": "Shadows in a Struggle for Power",
+    "stage_indices": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90,
+      100,
+      110,
+      120,
+      130,
+      140,
+      150,
+      160,
+      170,
+      180,
+      190,
+      200
+    ]
+  },
+  {
+    "edid": "zOOODragonborneEnd",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00FE58",
+    "full": null,
+    "stage_indices": []
+  },
+  {
+    "edid": "OOOBrumaBanditTrouble",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:019377",
+    "full": "The Skyrim Bandit Clans",
+    "stage_indices": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70
+    ]
+  },
+  {
+    "edid": "OOOSlaversAndSmugglers",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01C22D",
+    "full": "Slavers and Smugglers",
+    "stage_indices": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90,
+      100,
+      110,
+      120,
+      130,
+      140,
+      150,
+      160,
+      170,
+      180,
+      190,
+      200,
+      210,
+      220,
+      230,
+      240,
+      241,
+      242
+    ]
+  },
+  {
+    "edid": "OOOGuarMountQuest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02EFDE",
+    "full": null,
+    "stage_indices": []
+  },
+  {
+    "edid": "OOOAyleidMagickaRegen",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030F4B",
+    "full": null,
+    "stage_indices": []
+  },
+  {
+    "edid": "OOODispositionToPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:034950",
+    "full": null,
+    "stage_indices": [
+      10
+    ]
+  },
+  {
+    "edid": "OOOMapMarkers",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06478A",
+    "full": null,
+    "stage_indices": []
+  },
+  {
+    "edid": "OOOCheckOBSE",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06E9F4",
+    "full": null,
+    "stage_indices": [
+      0,
+      1
+    ]
+  },
+  {
+    "edid": "zOOODragonborne",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA02",
+    "full": "Knights of the Dragonborne",
+    "stage_indices": [
+      10,
+      15,
+      20,
+      25,
+      30,
+      31,
+      35,
+      36,
+      40,
+      45,
+      50,
+      52,
+      55,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      70
+    ]
+  },
+  {
+    "edid": "OOOLightOfDawnWeaponQuest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA44",
+    "full": "Light of Dawn Activity Handler",
+    "stage_indices": [
+      0
+    ]
+  },
+  {
+    "edid": "OOOOptions",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA54",
+    "full": null,
+    "stage_indices": []
+  },
+  {
+    "edid": "OptFish",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA55",
+    "full": null,
+    "stage_indices": []
+  },
+  {
+    "edid": "OptContainers",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA56",
+    "full": null,
+    "stage_indices": []
+  },
+  {
+    "edid": "OptGeomancy",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA57",
+    "full": null,
+    "stage_indices": []
+  },
+  {
+    "edid": "OptLightOfDawn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06EA58",
+    "full": null,
+    "stage_indices": []
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "edid": "WeapElvenLongSword",
+    "formid": "Oblivion.esm:0229B3",
+    "full": "LOC_FN_WeapElvenLongSword",
+    "modl": "Weapons\\Elven\\LongSword.NIF"
+  },
+  {
+    "edid": "WeapElvenBow",
+    "formid": "Oblivion.esm:0229BF",
+    "full": "LOC_FN_WeapElvenBow",
+    "modl": "Weapons\\Elven\\Bow.NIF"
+  },
+  {
+    "edid": "WeapElvenDagger",
+    "formid": "Oblivion.esm:035E63",
+    "full": "LOC_FN_WeapElvenDagger",
+    "modl": "Weapons\\Elven\\Dagger.NIF"
+  },
+  {
+    "edid": "WeapElvenShortsword",
+    "formid": "Oblivion.esm:035E64",
+    "full": "LOC_FN_WeapElvenShortsword",
+    "modl": "Weapons\\Elven\\ShortSword.NIF"
+  },
+  {
+    "edid": "WeapElvenWarAxe",
+    "formid": "Oblivion.esm:035E65",
+    "full": "LOC_FN_WeapElvenWarAxe",
+    "modl": "Weapons\\Elven\\Waraxe.NIF"
+  },
+  {
+    "edid": "WeapElvenMace",
+    "formid": "Oblivion.esm:035E66",
+    "full": "LOC_FN_WeapElvenMace",
+    "modl": "Weapons\\Elven\\Mace.NIF"
+  },
+  {
+    "edid": "WeapElvenBattleAxe",
+    "formid": "Oblivion.esm:035E67",
+    "full": "LOC_FN_WeapElvenBattleAxe",
+    "modl": "Weapons\\Elven\\Battleaxe.NIF"
+  },
+  {
+    "edid": "WeapElvenClaymore",
+    "formid": "Oblivion.esm:035E68",
+    "full": "LOC_FN_WeapElvenClaymore",
+    "modl": "Weapons\\Elven\\Claymore.NIF"
+  },
+  {
+    "edid": "WeapElvenWarHammer",
+    "formid": "Oblivion.esm:035E69",
+    "full": "LOC_FN_WeapElvenWarHammer",
+    "modl": "Weapons\\Elven\\Warhammer.NIF"
+  },
+  {
+    "edid": "WeapEbonyDagger",
+    "formid": "Oblivion.esm:035E6A",
+    "full": "LOC_FN_WeapEbonyDagger",
+    "modl": "Weapons\\Ebony\\Dagger.NIF"
+  },
+  {
+    "edid": "WeapEbonyShortsword",
+    "formid": "Oblivion.esm:035E6B",
+    "full": "LOC_FN_WeapEbonyShortsword",
+    "modl": "Weapons\\Ebony\\ShortSword.NIF"
+  },
+  {
+    "edid": "WeapEbonyWarAxe",
+    "formid": "Oblivion.esm:035E6C",
+    "full": "LOC_FN_WeapEbonyWarAxe",
+    "modl": "Weapons\\Ebony\\WarAxe.NIF"
+  },
+  {
+    "edid": "WeapEbonyMace",
+    "formid": "Oblivion.esm:035E6D",
+    "full": "LOC_FN_WeapEbonyMace",
+    "modl": "Weapons\\Ebony\\Mace.NIF"
+  },
+  {
+    "edid": "WeapEbonyLongsword",
+    "formid": "Oblivion.esm:035E6E",
+    "full": "LOC_FN_WeapEbonyLongsword",
+    "modl": "Weapons\\Ebony\\LongSword.NIF"
+  },
+  {
+    "edid": "WeapEbonyBattleAxe",
+    "formid": "Oblivion.esm:035E6F",
+    "full": "LOC_FN_WeapEbonyBattleAxe",
+    "modl": "Weapons\\Ebony\\Battleaxe.NIF"
+  },
+  {
+    "edid": "WeapEbonyClaymore",
+    "formid": "Oblivion.esm:035E70",
+    "full": "LOC_FN_WeapEbonyClaymore",
+    "modl": "Weapons\\Ebony\\Claymore.NIF"
+  },
+  {
+    "edid": "WeapEbonyWarHammer",
+    "formid": "Oblivion.esm:035E71",
+    "full": "LOC_FN_WeapEbonyWarHammer",
+    "modl": "Weapons\\Ebony\\Warhammer.NIF"
+  },
+  {
+    "edid": "WeapEbonyBow",
+    "formid": "Oblivion.esm:035E7B",
+    "full": "LOC_FN_WeapEbonyBow",
+    "modl": "Weapons\\Ebony\\Bow.NIF"
+  }
+]

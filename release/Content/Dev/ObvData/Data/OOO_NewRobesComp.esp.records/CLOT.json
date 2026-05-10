@@ -108,6 +108,18 @@
     "modl": "Clothes\\SEZealot\\Hood.NIF"
   },
   {
+    "edid": "BlackRobe",
+    "formid": "Oblivion.esm:064FE2",
+    "full": "Black Robe",
+    "modl": "Clothes\\RobeMCBlack\\M\\RobeMCBlack.NIF"
+  },
+  {
+    "edid": "BlackHood",
+    "formid": "Oblivion.esm:064FE3",
+    "full": "Black Hood",
+    "modl": "Clothes\\RobeMCBlack\\Hood.NIF"
+  },
+  {
     "edid": "UpperPants06",
     "formid": "Oblivion.esm:064FE4",
     "full": "LOC_FN_UpperPants06",

@@ -1,0 +1,74 @@
+[
+  {
+    "edid": "SEDarkSeducerArmor2Leather",
+    "formid": "Oblivion.esm:0414E9",
+    "full": "LOC_FN_SEDarkSeducerArmor2Leather",
+    "modl": "Armor\\DarkSeducer\\M\\Armor.NIF"
+  },
+  {
+    "edid": "SEDarkSeducerArmor5Elven",
+    "formid": "Oblivion.esm:0414F2",
+    "full": "LOC_FN_SEDarkSeducerArmor5Elven",
+    "modl": "Armor\\DarkSeducer\\M\\Armor.NIF"
+  },
+  {
+    "edid": "BikCuirassOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00126C",
+    "full": "Amazon Light Cuirass",
+    "modl": "Armor\\Fur\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "BikGreavesOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00126E",
+    "full": "Amazon Light Greaves",
+    "modl": "Armor\\Fur\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "drbootsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02714E",
+    "full": "Blood Thorn Boots",
+    "modl": "armor\\darkrose\\drboots.nif"
+  },
+  {
+    "edid": "drbreastOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02714F",
+    "full": "Blood Thorn Cuirass",
+    "modl": "Clothes\\LowerClass\\03\\M\\Shirt.NIF"
+  },
+  {
+    "edid": "drgauntOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027150",
+    "full": "Blood Thorn Gauntlets",
+    "modl": "armor\\darkrose\\drgaunt.nif"
+  },
+  {
+    "edid": "drgreavesOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027151",
+    "full": "Blood Thorn Greaves",
+    "modl": "Clothes\\LowerClass\\03\\M\\Pants.NIF"
+  },
+  {
+    "edid": "drhelmOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027152",
+    "full": "Blood Thorn Helm",
+    "modl": "armor\\darkrose\\drhelmet.nif"
+  },
+  {
+    "edid": "drhoodOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027153",
+    "full": "Blood Thorn Hood",
+    "modl": "Clothes\\RobeMCBlack\\Hood.NIF"
+  },
+  {
+    "edid": "drshieldOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027154",
+    "full": "Dark Thorn Shield",
+    "modl": "armor\\darkrose\\drshield.nif"
+  },
+  {
+    "edid": "drshield2OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027155",
+    "full": "Blood Thorn Shield",
+    "modl": "armor\\darkrose\\drshield2.nif"
+  }
+]

@@ -8265,19 +8265,19 @@
     "edid": "WeapSilverCutlassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0017BA",
     "full": "Silver Cutlass",
-    "modl": "Weapons\\ALCutlass\\GrayCutlass.nif"
+    "modl": "Weapons\\Cutlass\\Cutlass.NIF"
   },
   {
     "edid": "WeapIronCutlassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0017BB",
     "full": "Iron Cutlass",
-    "modl": "Weapons\\ALCutlass\\BlackCutlass.nif"
+    "modl": "Weapons\\Cutlass\\Cutlass.NIF"
   },
   {
     "edid": "WeapFineSteelCutlassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0017BC",
     "full": "Fine Steel Cutlass",
-    "modl": "Weapons\\ALCutlass\\GrayCutlass.nif"
+    "modl": "Weapons\\Cutlass\\Cutlass.NIF"
   },
   {
     "edid": "WeapElvenCutlassOOO",
@@ -8289,7 +8289,7 @@
     "edid": "WeapEbonyCutlassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0017BE",
     "full": "Ebony Cutlass",
-    "modl": "Weapons\\ALCutlass\\EbonyCutlass.nif"
+    "modl": "Weapons\\Cutlass\\Cutlass.NIF"
   },
   {
     "edid": "WeapCommonShortbow02OOO",
@@ -8480,7 +8480,7 @@
   {
     "edid": "WeapEbonyClaymoreVolmyrep",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002156",
-    "full": "Ebony Claymore",
+    "full": "Fine Ebony Claymore",
     "modl": "Weapons\\Ebony\\Claymore.NIF"
   },
   {
@@ -8721,43 +8721,43 @@
     "edid": "AyleidStaff",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003A75",
     "full": "Ayleid Staff (base)",
-    "modl": "weapons\\Meteoric\\metstaff.nif"
+    "modl": "Staffs\\TestStaff.NIF"
   },
   {
     "edid": "AyleidStaffEnchFireblast",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003A8D",
     "full": "Molagste Andavar",
-    "modl": "weapons\\Meteoric\\metstaff.nif"
+    "modl": "Staffs\\TestStaff.NIF"
   },
   {
     "edid": "AyleidStaffEnchFrostblast",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003A8E",
     "full": "Mafreste Andavar",
-    "modl": "weapons\\Meteoric\\metstaff.nif"
+    "modl": "Staffs\\TestStaff.NIF"
   },
   {
     "edid": "AyleidStaffEnchShockblast",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003A8F",
     "full": "Arceste Andavar",
-    "modl": "weapons\\Meteoric\\metstaff.nif"
+    "modl": "Staffs\\TestStaff.NIF"
   },
   {
     "edid": "AyleidStaffEnchExhaustion",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003A90",
     "full": "Rucina Andavar",
-    "modl": "weapons\\Meteoric\\metstaff.nif"
+    "modl": "Staffs\\TestStaff.NIF"
   },
   {
     "edid": "AyleidStaffEnchParalyze",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003A91",
     "full": "Paras Andavar",
-    "modl": "weapons\\Meteoric\\metstaff.nif"
+    "modl": "Staffs\\TestStaff.NIF"
   },
   {
     "edid": "AyleidStaffEnchElectrocute",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:003A92",
     "full": "Loce Andavar",
-    "modl": "weapons\\Meteoric\\metstaff.nif"
+    "modl": "Staffs\\TestStaff.NIF"
   },
   {
     "edid": "rdTemplarSwordOOO3",
@@ -8775,31 +8775,31 @@
     "edid": "AyleidStaffEnchMindFrak",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004E55",
     "full": "Psyches Andavar",
-    "modl": "weapons\\Meteoric\\metstaff.nif"
+    "modl": "Staffs\\TestStaff.NIF"
   },
   {
     "edid": "WeapLightOfDawnNoFlame",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004E56",
     "full": "Light of Dawn",
-    "modl": "va\\weapons\\LoD_2h_taint05_noflame.nif"
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
     "edid": "WeapLightOfDawnNoFlameA",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004E57",
     "full": "Light of Dawn",
-    "modl": "va\\weapons\\LoD_2h_taint04_noflame.nif"
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
     "edid": "WeapLightOfDawnNoFlameB",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004E58",
     "full": "Light of Dawn",
-    "modl": "va\\weapons\\LoD_2h_taint03_noflame.nif"
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
     "edid": "WeapLightOfDawnNoFlameC",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004E59",
     "full": "Light of Dawn",
-    "modl": "va\\weapons\\LoD_2h_noflame.nif"
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
     "edid": "ArcticBowOOO",
@@ -8811,43 +8811,43 @@
     "edid": "WeapLightOfDawnFlameA",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006C93",
     "full": "Light of Dawn",
-    "modl": "va\\weapons\\LoD_2h_taint04_noflame.nif"
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
     "edid": "WeapLightOfDawnFlameB",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006C94",
     "full": "Light of Dawn",
-    "modl": "va\\weapons\\LoD_2h_taint03_noflame.nif"
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
     "edid": "WeapLightOfDawnFlameC",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:006C95",
     "full": "Light of Dawn",
-    "modl": "va\\weapons\\LoD_2h_noflame.nif"
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
     "edid": "nobleclaymoreOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0072F5",
     "full": "Noble Claymore",
-    "modl": "weapons\\Noble Plate\\nobleclaymore.nif"
+    "modl": "Weapons\\Ebony\\Claymore.NIF"
   },
   {
     "edid": "NobleLongswordOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0072F6",
     "full": "Noble Longsword",
-    "modl": "weapons\\Noble Plate\\noblelongsword.nif"
+    "modl": "Weapons\\Ebony\\LongSword.NIF"
   },
   {
     "edid": "NoblemaceOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0072F7",
     "full": "Noble Mace",
-    "modl": "weapons\\Noble Plate\\Noblemace.nif"
+    "modl": "Weapons\\Ebony\\Mace.NIF"
   },
   {
     "edid": "NobleWaraxeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0072F8",
     "full": "Noble Waraxe",
-    "modl": "weapons\\Noble Plate\\noblewaraxe.nif"
+    "modl": "Weapons\\Ebony\\WarAxe.NIF"
   },
   {
     "edid": "WeapHeavenFuryClaymore01",
@@ -9627,37 +9627,37 @@
     "edid": "AyleidStaffEnchMagiDrain",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00BB59",
     "full": "Leryar Andavar",
-    "modl": "weapons\\Meteoric\\metstaff.nif"
+    "modl": "Staffs\\TestStaff.NIF"
   },
   {
     "edid": "AyleidStaffEnchDisintegrate",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00BB5C",
     "full": "R\u9195ina Andavar",
-    "modl": "weapons\\Meteoric\\metstaff.nif"
+    "modl": "Staffs\\TestStaff.NIF"
   },
   {
     "edid": "WeapDaedricScimitarOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00BFFA",
     "full": "Daedric Scimitar",
-    "modl": "weapons\\Scimitar\\DaedricScimitar.nif"
+    "modl": "Weapons\\Daedric\\LongSword.NIF"
   },
   {
     "edid": "WeapDwarvenScimitarOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00BFFB",
     "full": "Dwemer Scimitar",
-    "modl": "weapons\\Scimitar\\DwarvenScimitar.nif"
+    "modl": "Weapons\\Dwarven\\LongSword.NIF"
   },
   {
     "edid": "WeapEbonyScimitarOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00BFFC",
     "full": "Ebony Scimitar",
-    "modl": "weapons\\Scimitar\\EbonyScimitar.nif"
+    "modl": "Weapons\\Ebony\\LongSword.NIF"
   },
   {
     "edid": "WeapElvenScimitarOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00BFFD",
     "full": "Elven Scimitar",
-    "modl": "weapons\\Scimitar\\ElvenScimitar.nif"
+    "modl": "Weapons\\Elven\\LongSword.NIF"
   },
   {
     "edid": "WeapGlassScimitarOOO",
@@ -9909,7 +9909,7 @@
     "edid": "WeapLightOfDawnFlame",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:013400",
     "full": "Light of Dawn",
-    "modl": "va\\weapons\\LoD_2h_taint05_noflame.nif"
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
     "edid": "rdTemplarSwordOOO4",
@@ -10359,85 +10359,85 @@
     "edid": "pegasus2haxeOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:026C5C",
     "full": "Winged Grand Axe",
-    "modl": "Weapons\\Pegasus\\p2haxe.nif"
+    "modl": "Weapons\\Elven\\Battleaxe.NIF"
   },
   {
     "edid": "pegasus2HswordOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:026C5D",
     "full": "Winged Claymore",
-    "modl": "weapons\\pegasus\\p2hsword.nif"
+    "modl": "Weapons\\Elven\\Claymore.NIF"
   },
   {
     "edid": "pegasushammerOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:026C5E",
     "full": "Winged Hammer",
-    "modl": "weapons\\pegasus\\phammer.nif"
+    "modl": "Weapons\\Elven\\Mace.NIF"
   },
   {
     "edid": "pegasuspbowOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:026C5F",
     "full": "Winged Bow",
-    "modl": "weapons\\pegasus\\pbow.nif"
+    "modl": "Weapons\\Elven\\Bow.NIF"
   },
   {
     "edid": "pegasuspdaggerOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:026C60",
     "full": "Winged Dagger",
-    "modl": "weapons\\pegasus\\pdagger.nif"
+    "modl": "Weapons\\Elven\\Dagger.NIF"
   },
   {
     "edid": "pegasusstaffOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:026C61",
     "full": "Winged Staff",
-    "modl": "weapons\\pegasus\\pstaff.nif"
+    "modl": "Staffs\\TestStaff02.NIF"
   },
   {
     "edid": "pegasuswordOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:026C62",
     "full": "Winged Longsword",
-    "modl": "weapons\\pegasus\\p1hsword.nif"
+    "modl": "Weapons\\Elven\\LongSword.NIF"
   },
   {
     "edid": "drcutlassOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:027169",
     "full": "Blood Thorn Cutlass",
-    "modl": "weapons\\drblades\\drcutlass.nif"
+    "modl": "Weapons\\Cutlass\\Cutlass.NIF"
   },
   {
     "edid": "drdaggerOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02716A",
     "full": "Blood Thorn Dagger",
-    "modl": "weapons\\drblades\\drdagger.nif"
+    "modl": "Weapons\\Silver\\Dagger.NIF"
   },
   {
     "edid": "drlongswordOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02716B",
     "full": "Blood Thorn Longsword",
-    "modl": "weapons\\drblades\\drlongsword.nif"
+    "modl": "Weapons\\Silver\\LongSword.NIF"
   },
   {
     "edid": "drshortswordOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02716C",
     "full": "Blood Thorn Shortsword",
-    "modl": "weapons\\drblades\\drshortsword.nif"
+    "modl": "Weapons\\Silver\\ShortSword.NIF"
   },
   {
     "edid": "drbowOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02716D",
     "full": "Blood Thorn Bow",
-    "modl": "weapons\\drbow\\drbow.nif"
+    "modl": "Weapons\\Silver\\Bow.NIF"
   },
   {
     "edid": "drdaikatanaOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02716E",
     "full": "Blood Thorn Daikatana",
-    "modl": "weapons\\drkatana\\darkrosedaikatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
     "edid": "drkatanaOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02716F",
     "full": "Blood Thorn Katana",
-    "modl": "weapons\\drkatana\\darkrosekatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
   },
   {
     "edid": "AAAGleveDaedraOOO",
@@ -10947,7 +10947,7 @@
     "edid": "WeapSeverianDaedricKatana",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033EF4",
     "full": "Daedric Katana",
-    "modl": "Weapons\\SeverianKatana\\daedrickatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
   },
   {
     "edid": "WeapSeverianDwarvenDaikatana",
@@ -10959,7 +10959,7 @@
     "edid": "WeapSeverianDwarvenKatana",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033EF6",
     "full": "Dwemer Katana",
-    "modl": "Weapons\\SeverianKatana\\dwarvenkatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
   },
   {
     "edid": "WeapSeverianEbonyDaikatana",
@@ -10971,7 +10971,7 @@
     "edid": "WeapSeverianEbonyKatana",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033EF8",
     "full": "Ebony Katana",
-    "modl": "Weapons\\SeverianKatana\\ebonykatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
   },
   {
     "edid": "WeapSeverianElvenDaikatana",
@@ -10983,7 +10983,7 @@
     "edid": "WeapSeverianElvenKatana",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033EFA",
     "full": "Elven Katana",
-    "modl": "Weapons\\SeverianKatana\\elvenkatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
   },
   {
     "edid": "WeapSeverianGlassDaikatana",
@@ -10995,7 +10995,7 @@
     "edid": "WeapSeverianGlassKatana",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033EFC",
     "full": "Glass Katana",
-    "modl": "Weapons\\SeverianKatana\\glasskatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
   },
   {
     "edid": "WeapSeverianIronDaikatana",
@@ -11007,7 +11007,7 @@
     "edid": "WeapSeverianIronKatana",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033EFE",
     "full": "Iron Katana",
-    "modl": "Weapons\\SeverianKatana\\ironkatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
   },
   {
     "edid": "WeapSeverianSilverDaikatana",
@@ -11019,7 +11019,7 @@
     "edid": "WeapSeverianSilverKatana",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033F00",
     "full": "Silver Katana",
-    "modl": "Weapons\\SeverianKatana\\silverkatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
   },
   {
     "edid": "WeapSeverianSteelDaikatana",
@@ -11031,7 +11031,7 @@
     "edid": "WeapSeverianSteelKatana",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033F02",
     "full": "Steel Katana",
-    "modl": "Weapons\\SeverianKatana\\steelkatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
   },
   {
     "edid": "OOOBladeOfVirtue",
@@ -12194,13 +12194,13 @@
   {
     "edid": "TandAkaviriDaiKatOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048A3C",
-    "full": "Akaviri Dai-Katana",
+    "full": "LOC_FN_WeapAkaviriLongSword2H",
     "modl": "Weapons\\Akaviri weapon\\Claymore.NIF"
   },
   {
     "edid": "TandAkaviriLongSwordOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048A3D",
-    "full": "Akaviri Katana",
+    "full": "LOC_FN_WeapAkaviriLongSword",
     "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
   },
   {
@@ -12231,7 +12231,7 @@
     "edid": "WeapSeverianSilverKatanaSpecial",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:04D52D",
     "full": "Sheil's Silver Katana",
-    "modl": "Weapons\\SeverianKatana\\silverkatana.nif"
+    "modl": "Weapons\\Akaviri weapon\\LongSword.NIF"
   },
   {
     "edid": "WeapAyleidShortswordEnchFrostburn",
@@ -12357,19 +12357,19 @@
     "edid": "AyleidStaffEnchShock",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:051366",
     "full": "Arce Andavar",
-    "modl": "weapons\\Meteoric\\metstaff.nif"
+    "modl": "Staffs\\TestStaff.NIF"
   },
   {
     "edid": "AyleidStaffEnchFire",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:051367",
     "full": "Molag Andavar",
-    "modl": "weapons\\Meteoric\\metstaff.nif"
+    "modl": "Staffs\\TestStaff.NIF"
   },
   {
     "edid": "AyleidStaffEnchFrost",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:051368",
     "full": "Mafre Andavar",
-    "modl": "weapons\\Meteoric\\metstaff.nif"
+    "modl": "Staffs\\TestStaff.NIF"
   },
   {
     "edid": "WeapAyleidMace",

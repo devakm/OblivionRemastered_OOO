@@ -4692,9 +4692,21 @@
     "modl": "Creatures\\Minotaur\\Skeleton.NIF"
   },
   {
+    "edid": "CreatureLeopardSummon",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025BC2",
+    "full": "Jephre's Jungle Guardian",
+    "modl": "Creatures\\MountainLion\\Skeleton.NIF"
+  },
+  {
     "edid": "CreatureMountainLionSummon",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:025BC3",
     "full": "Jephre's Fangs",
+    "modl": "Creatures\\MountainLion\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureLeopardSnowSummon",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025BC4",
+    "full": "Jephre's White Shadow",
     "modl": "Creatures\\MountainLion\\Skeleton.NIF"
   },
   {
@@ -5048,7 +5060,7 @@
   {
     "edid": "CreatureWraith2GloomNornalBoss",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD6A",
-    "full": "LOC_FN_CreatureWraith2Gloom",
+    "full": "Gloom Wraith Lord",
     "modl": "Creatures\\Wraith\\Skeleton_Lord.nif"
   },
   {

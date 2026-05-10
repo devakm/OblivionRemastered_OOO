@@ -56,9 +56,41 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "Nornalhorst02",
+    "formid": "Oblivion.esm:0A3DFB",
+    "full": "Nornalhorst Sel Gandrevla",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "LipsandTarn02",
+    "formid": "Oblivion.esm:0A3DFC",
+    "full": "LOC_FN_LipsandTarn02",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "ShadowsRestCavern02",
+    "formid": "Oblivion.esm:0A7949",
+    "full": "LOC_FN_ShadowsRestCavern02",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "GreenmeadCave03",
     "formid": "Oblivion.esm:0A7954",
     "full": "LOC_FN_GreenmeadCave03",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "OOODummyCell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006157",
+    "full": null,
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0

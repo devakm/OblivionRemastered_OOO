@@ -1,0 +1,13 @@
+{
+  "esp": "OOO_NewSigilStones04.esp",
+  "record_types": [
+    "SGST"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "Oscuro's_Oblivion_Overhaul.esp"
+    ],
+    "version": 1.0
+  }
+}

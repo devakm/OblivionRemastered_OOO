@@ -1,0 +1,13 @@
+{
+  "esp": "OOO_NewGear04Sylvan.esp",
+  "record_types": [
+    "LVLI"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "Oscuro's_Oblivion_Overhaul.esp"
+    ],
+    "version": 1.0
+  }
+}

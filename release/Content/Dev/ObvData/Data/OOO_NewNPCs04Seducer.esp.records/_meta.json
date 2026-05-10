@@ -1,0 +1,14 @@
+{
+  "esp": "OOO_NewNPCs04Seducer.esp",
+  "record_types": [
+    "NPC_",
+    "RACE"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "Oscuro's_Oblivion_Overhaul.esp"
+    ],
+    "version": 1.0
+  }
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "edid": "OOOBosmerGoodShield50",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0077A8"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0077A8"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0429E1"
+      }
+    ],
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0077A0"
+  },
+  {
+    "edid": "OOOBosmerGoodRobe100",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0077A1"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0077A1"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0077A5"
+      }
+    ],
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0077A6"
+  },
+  {
+    "edid": "OOOBosmerGoodHood70",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0077A2"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0077A4"
+      }
+    ],
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0077A7"
+  },
+  {
+    "edid": "OOOBosmerGoodShieldRanger30",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:001254"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0025CD"
+      }
+    ],
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0077A9"
+  },
+  {
+    "edid": "OOOBosmerGoodGauntlets70",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0429DE"
+      }
+    ],
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0077AA"
+  },
+  {
+    "edid": "OOOBosmerGoodBoots70",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0429DC"
+      }
+    ],
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0077AB"
+  },
+  {
+    "edid": "OOOBosmerGoodHelmet30",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0429E0"
+      }
+    ],
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0077AC"
+  },
+  {
+    "edid": "OOOBosmerGoodRangerHelmet30",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0025CC"
+      }
+    ],
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007F86"
+  },
+  {
+    "edid": "OOOBosmerGoodCloak30",
+    "entries": [
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:048FB4"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:048FBC"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:048FCA"
+      },
+      {
+        "count": 1,
+        "level": 1,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:048FD4"
+      }
+    ],
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0186B7"
+  }
+]

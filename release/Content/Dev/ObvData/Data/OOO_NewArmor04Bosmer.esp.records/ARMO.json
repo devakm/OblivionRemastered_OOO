@@ -1,0 +1,44 @@
+[
+  {
+    "edid": "GMithrilHelmetOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0025CC",
+    "full": "Jephre's Aureus Helmet",
+    "modl": "Armor\\Mithril\\M\\Helmet.NIF"
+  },
+  {
+    "edid": "BMithrilBootsOOOz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0429DC",
+    "full": "Jephre's Bronze Boots",
+    "modl": "Armor\\Mithril\\M\\Boots.NIF"
+  },
+  {
+    "edid": "BMithrilCuirassOOOz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0429DD",
+    "full": "Jephre's Bronze Cuirass",
+    "modl": "Armor\\Mithril\\M\\Cuirass.NIF"
+  },
+  {
+    "edid": "BMithrilGauntletsOOOz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0429DE",
+    "full": "Jephre's Bronze Gauntlets",
+    "modl": "Armor\\Mithril\\M\\Gauntlets.NIF"
+  },
+  {
+    "edid": "BMithrilGreavesOOOz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0429DF",
+    "full": "Jephre's Bronze Greaves",
+    "modl": "Armor\\Mithril\\M\\Greaves.NIF"
+  },
+  {
+    "edid": "BMithrilHelmetOOOz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0429E0",
+    "full": "Jephre's Bronze Helmet",
+    "modl": "Armor\\Mithril\\M\\Helmet.NIF"
+  },
+  {
+    "edid": "BMithrilShieldOOOz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0429E1",
+    "full": "Jephre's Bronze Shield",
+    "modl": "Armor\\Mithril\\Shield.NIF"
+  }
+]
