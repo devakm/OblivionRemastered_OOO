@@ -2,4 +2,4 @@
 
 | Release | SHA-256 | Size | Changed | Description | Download |
 |---------|---------|------|---------|-------------|----------|
-| alpha74 | `609f546acc5c` | 1.6 MiB (1,686,684 B) | ★ | [release alpha74](https://github.com/devakm/OblivionRemastered_OOO/releases/tag/alpha74) | [alpha74.7z](https://github.com/devakm/OblivionRemastered_OOO/releases/download/alpha74/alpha74.7z) |
+| alpha75 | `609f546acc5c` | 1.6 MiB (1,686,684 B) | ★ | [release alpha75](https://github.com/devakm/OblivionRemastered_OOO/releases/tag/alpha75) | [alpha75.7z](https://github.com/devakm/OblivionRemastered_OOO/releases/download/alpha75/alpha75.7z) |

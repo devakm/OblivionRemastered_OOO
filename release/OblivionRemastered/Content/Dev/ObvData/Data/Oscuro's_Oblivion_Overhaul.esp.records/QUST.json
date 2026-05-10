@@ -654,6 +654,12 @@
     "stage_indices": []
   },
   {
+    "edid": "OOOWarningNoteMonitor",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE89",
+    "full": null,
+    "stage_indices": []
+  },
+  {
     "edid": "OOOLightOfDawnQuest",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00E215",
     "full": "LOC_FN_OOOLightOfDawnQuest",
