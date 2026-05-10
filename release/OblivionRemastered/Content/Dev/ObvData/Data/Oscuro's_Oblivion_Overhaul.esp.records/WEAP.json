@@ -8469,13 +8469,13 @@
     "edid": "WeapMaulerFineWoodOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002082",
     "full": "LOC_FN_WeapMaulerFineWoodOOO",
-    "modl": "Weapons\\templar\\club\\TheMaulerFineWood.nif"
+    "modl": "Weapons\\Club\\Club.NIF"
   },
   {
     "edid": "WeapMaulerCopperOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002084",
     "full": "LOC_FN_WeapMaulerCopperOOO",
-    "modl": "Weapons\\templar\\club\\TheMaulerCopper.nif"
+    "modl": "Weapons\\Dwarven\\Mace.NIF"
   },
   {
     "edid": "WeapEbonyClaymoreVolmyrep",
@@ -8487,7 +8487,7 @@
     "edid": "WeapMaulerSteelOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00256C",
     "full": "LOC_FN_WeapMaulerSteelOOO",
-    "modl": "Weapons\\templar\\club\\TheMaulerSteel.nif"
+    "modl": "Weapons\\Steel\\MaceFine.NIF"
   },
   {
     "edid": "WeapAyleidGreatmaceEnchFire",
@@ -8547,13 +8547,13 @@
     "edid": "WeapMaulerSteel2HOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002A55",
     "full": "LOC_FN_WeapMaulerSteel2HOOO",
-    "modl": "Weapons\\templar\\club\\TheMaulerFineSteelCap2H.nif"
+    "modl": "Weapons\\Steel\\WarhammerFine.NIF"
   },
   {
     "edid": "WeapMaulerWood2HOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002A57",
     "full": "LOC_FN_WeapMaulerWood2HOOO",
-    "modl": "Weapons\\templar\\club\\TheMaulerWood2H.nif"
+    "modl": "Weapons\\Iron\\Warhammer.NIF"
   },
   {
     "edid": "WeapAyleidWarAxeEnchFireburn",
@@ -8565,7 +8565,7 @@
     "edid": "WeapMaulerMarble2HOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:002F3F",
     "full": "LOC_FN_WeapMaulerMarble2HOOO",
-    "modl": "Weapons\\templar\\club\\TheMaulerMarble.nif"
+    "modl": "Weapons\\Ebony\\Warhammer.NIF"
   },
   {
     "edid": "OOOSEAmberWarAxeA",
@@ -12201,7 +12201,7 @@
     "edid": "WeapMaulerOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F70",
     "full": "LOC_FN_WeapMaulerOOO",
-    "modl": "Weapons\\templar\\club\\TheMaulerWood.nif"
+    "modl": "Weapons\\Club\\Club.NIF"
   },
   {
     "edid": "OOOSETheOneObelisk",

@@ -224,6 +224,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "Silorn03",
+    "formid": "Oblivion.esm:01662D",
+    "full": "LOC_FN_Silorn03",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "Varondo",
     "formid": "Oblivion.esm:016632",
     "full": "LOC_FN_Varondo",
@@ -704,6 +712,14 @@
     "temp_ref_count": 0
   },
   {
+    "edid": "ICTalosPlazaDoriansHouseBasement",
+    "formid": "Oblivion.esm:03C8B9",
+    "full": "LOC_FN_ICTalosPlazaDoriansHouseBasement",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
     "edid": "FortFacian02",
     "formid": "Oblivion.esm:03CD75",
     "full": "LOC_FN_FortFacian02",
@@ -835,6 +851,14 @@
     "edid": "ICMarketDistrictTheMainIngredientUpstairs",
     "formid": "Oblivion.esm:04B955",
     "full": "LOC_FN_ICMarketDistrictTheMainIngredientUpstairs",
+    "is_interior": true,
+    "persistent_ref_count": 0,
+    "temp_ref_count": 0
+  },
+  {
+    "edid": "OblivionRD004CitadelLeft",
+    "formid": "Oblivion.esm:04C449",
+    "full": "LOC_FN_OblivionRD004CitadelLeft",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0

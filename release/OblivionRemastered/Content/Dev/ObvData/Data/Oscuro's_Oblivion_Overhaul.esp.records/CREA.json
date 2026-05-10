@@ -3986,13 +3986,13 @@
   {
     "edid": "CreatureOgre1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0089EC",
-    "full": "LOC_FN_CreatureOgre",
+    "full": "LOC_FN_CreatureOgre1",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
     "edid": "CreatureOgre2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0089ED",
-    "full": "LOC_FN_CreatureOgre",
+    "full": "LOC_FN_CreatureOgre2",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
@@ -4832,13 +4832,13 @@
   {
     "edid": "CreatureOgre7",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00BE0D",
-    "full": "LOC_FN_CreatureOgre",
+    "full": "LOC_FN_CreatureOgre7",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
     "edid": "CreatureOgre8",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00BE0E",
-    "full": "LOC_FN_CreatureOgre",
+    "full": "LOC_FN_CreatureOgre8",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
@@ -5120,25 +5120,25 @@
   {
     "edid": "CreatureOgreZShadows1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01647E",
-    "full": "Ogre",
+    "full": "LOC_FN_CreatureOgreZShadows1",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
     "edid": "CreatureOgreZShadows5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01647F",
-    "full": "Ogre",
+    "full": "LOC_FN_CreatureOgreZShadows5",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
     "edid": "CreatureOgreZShadows3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:016480",
-    "full": "Ogre",
+    "full": "LOC_FN_CreatureOgreZShadows3",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
     "edid": "CreatureOgreZShadows6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:016481",
-    "full": "Ogre",
+    "full": "LOC_FN_CreatureOgreZShadows6",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
@@ -5264,13 +5264,13 @@
   {
     "edid": "CreatureOgre3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CD13",
-    "full": "LOC_FN_CreatureOgre",
+    "full": "LOC_FN_CreatureOgre3",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
     "edid": "CreatureOgre5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CD14",
-    "full": "LOC_FN_CreatureOgre",
+    "full": "LOC_FN_CreatureOgre5",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
@@ -5294,7 +5294,7 @@
   {
     "edid": "CreatureOgre4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CD18",
-    "full": "LOC_FN_CreatureOgre",
+    "full": "LOC_FN_CreatureOgre4",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
@@ -5306,7 +5306,7 @@
   {
     "edid": "CreatureOgre6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CD1A",
-    "full": "LOC_FN_CreatureOgre",
+    "full": "LOC_FN_CreatureOgre6",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
@@ -6170,25 +6170,25 @@
   {
     "edid": "CreatureOgreZBrokenTooth1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0399C2",
-    "full": "Ogre",
+    "full": "LOC_FN_CreatureOgreZBrokenTooth1",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
     "edid": "CreatureOgreZBrokenTooth2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0399C4",
-    "full": "Ogre",
+    "full": "LOC_FN_CreatureOgreZBrokenTooth2",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
     "edid": "CreatureOgreZBrokenTooth3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0399C5",
-    "full": "Ogre",
+    "full": "LOC_FN_CreatureOgreZBrokenTooth3",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
     "edid": "CreatureOgreZBrokenTooth4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0399C6",
-    "full": "Ogre",
+    "full": "LOC_FN_CreatureOgreZBrokenTooth4",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
@@ -6224,25 +6224,25 @@
   {
     "edid": "CreatureOgreZThunder1",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03A25C",
-    "full": "Ogre",
+    "full": "LOC_FN_CreatureOgreZThunder1",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
     "edid": "CreatureOgreZThunder2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03A25D",
-    "full": "Ogre",
+    "full": "LOC_FN_CreatureOgreZThunder2",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
     "edid": "CreatureOgreZThunder3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03A25E",
-    "full": "Ogre",
+    "full": "LOC_FN_CreatureOgreZThunder3",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
     "edid": "CreatureOgreZThunder4",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03A25F",
-    "full": "Ogre",
+    "full": "LOC_FN_CreatureOgreZThunder4",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
@@ -6404,25 +6404,25 @@
   {
     "edid": "CreatureOgreZThunder5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0438AF",
-    "full": "Ogre",
+    "full": "LOC_FN_CreatureOgreZThunder5",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
     "edid": "CreatureOgreZThunder6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0438B0",
-    "full": "Ogre",
+    "full": "LOC_FN_CreatureOgreZThunder6",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
     "edid": "CreatureOgreZBrokenTooth5",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0438B1",
-    "full": "Ogre",
+    "full": "LOC_FN_CreatureOgreZBrokenTooth5",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
     "edid": "CreatureOgreZBrokenTooth6",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0438B2",
-    "full": "Ogre",
+    "full": "LOC_FN_CreatureOgreZBrokenTooth6",
     "modl": "Creatures\\Ogre\\Skeleton.NIF"
   },
   {
