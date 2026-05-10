@@ -9,6 +9,28 @@ work/
 *.7z
 *.zip
 
+# Binary content from release source folders. Per the v2 design,
+# release/ ships only TEXT files in git; binaries live in dist/<tag>.7z
+# (uploaded as GitHub Release assets) and are tracked via the per-binary
+# *.md co-files alongside.
+*.pak
+*.ucas
+*.utoc
+*.dll
+*.exe
+*.dds
+*.tga
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.uasset
+*.uexp
+*.umap
+*.bsa
+*.esp
+*.esm
+
 # Python.
 __pycache__/
 *.pyc
