@@ -234,8 +234,440 @@
     "modl": null
   },
   {
+    "edid": "OOOWanderInterior",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002FB9",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "OOOSE08AllyCommanderGreetPlayer2",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00A362",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZYogiFactionHuntSlaughter1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDAD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZYogiFactionHuntSlaughter2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDAE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZYogiFactionHuntFish1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDAF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZYogiFactionHuntFish2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDB0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZYogiFactionGraze1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDB1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZYogiFactionGraze2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDB2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZCochinoFactionGraze1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDB3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZCochinoFactionMudBath1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDB4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZZCreatureExterior1500",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDB5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZZCreatureInterior512",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDB6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZZCreatureExteriorSwims1500",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDB7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZZCreatureInteriorSwims512",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDB8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZBambiFactionGraze1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDB9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZBambiFactionMudBath1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDBA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZKevinsFactionGraze1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDBB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZKevinsFactionGraze2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDBC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZKevinsFactionHuntBoar1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDBD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZKevinsFactionHuntBoar2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDBE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZKevinsFactionHuntDeer1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDBF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZKevinsFactionHuntDeer2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDC0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZNoSirIDontLikeItFactionGraze1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2B7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZNoSirIDontLikeItFactionMudBath1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2B8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZLittleBuggerFactionHuntHorse1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2B9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZLittleBuggerFactionHuntSheep1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2BA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZLittleBuggerFactionMudBath1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2BB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZZCreatureInterior512AllowFalls",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2BC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZBilliesFactionHuntBoar2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2BE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZBilliesFactionHuntRat1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2BF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZBilliesFactionHuntSheep1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2C0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZBilliesFactionHuntHorses2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2C1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZBilliesFactionMudBath1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2C2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZBilliesFactionGraze1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2C3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZKingMinosFactionGraze1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2C4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZKingMinosFactionGraze2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2C5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZKingMinosFactionHuntRats1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2C6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZKingMinosFactionHuntCrabs2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2C7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZKingMinosFactionHuntCougars1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2C8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZKingMinosFactionHuntWolves2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2C9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZPumaFactionGraze1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2CA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZPumaFactionHuntBoar1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2CB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZPumaFactionHuntRat2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2CC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZPumaFactionHuntDeer2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2CD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZPumaFactionHuntSheep1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2CE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZPumaFactionGraze2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2CF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZSTDScareFactionGraze1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2D0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZSTDScareFactionGraze2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2D1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZSTDScareFactionMudBath1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2D2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZAnnCoulterFactionHuntBoar1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2D3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZAnnCoulterFactionHuntDeer2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2D4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZAnnCoulterFactionHuntMinotaur2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2D5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZAnnCoulterFactionHuntSheep1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2D6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZAnnCoulterFactionHuntPeople",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2D7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZAnnCoulterFactionMudBath1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2D8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZMickysFactionGraze1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2D9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZMickysFactionGraze2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2DA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZMickysFactionMudBath1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2DB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZJawsFactionHuntMudcrab1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D7CD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZJawsFactionHuntFish2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D7CE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZJawsFactionHuntMudcrab2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D7CF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZJawsFactionHuntFish1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D7D0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZJawsFactionMate1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D7D1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZEeeeeeentFactionGraze1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D7D2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZEeeeeeentFactionMudBath1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D7D3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZDubyaFactionHuntPeople",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D7D4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZDubyaFactionHuntDeer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D7D5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZDubyaFactionHuntSheep1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D7D6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZDubyaFactionHuntRats1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D7D7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZDubyaFactionMudBath1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D7D8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZZCreatureExterior1500AllowFalls",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D7D9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZGreaterLightstoneFactionHuntOgres",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D7DA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZGreaterLightstoneFactionHuntTrolls",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D7DB",
     "full": null,
     "modl": null
   },
@@ -270,8 +702,32 @@
     "modl": null
   },
   {
+    "edid": "OOOZSTDScareFactionHuntFish2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00F570",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZSTDScareFactionHuntFish1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00F571",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "OOOSESylDefaultSit",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:011AB7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOZArgonianGruntWander",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01703A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOWander21x2Vamp",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024E7D",
     "full": null,
     "modl": null
   },
@@ -290,6 +746,18 @@
   {
     "edid": "OOOSE32GuardPatrolBeginPatrolSkipFallout",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03929E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOWander11x2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F8D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOWander21x3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F92",
     "full": null,
     "modl": null
   },

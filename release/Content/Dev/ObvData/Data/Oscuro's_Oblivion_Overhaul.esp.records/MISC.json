@@ -2084,7 +2084,7 @@
   {
     "edid": "ClothBolt05Fine",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01C255",
-    "full": "",
+    "full": "Fine Cloth",
     "modl": "Clutter\\ClothBolt05.NIF"
   },
   {
@@ -2210,8 +2210,8 @@
   {
     "edid": "Gold002a",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03A587",
-    "full": "",
-    "modl": "Clutter\\ayleidcoin.nif"
+    "full": "Platinum Coin",
+    "modl": "Clutter\\goldCoin01.NIF"
   },
   {
     "edid": "LeopardPeltOOOab",
@@ -2222,8 +2222,8 @@
   {
     "edid": "Gold002",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:048F80",
-    "full": "",
-    "modl": "Clutter\\ayleidcoin.nif"
+    "full": "Platinum Coin",
+    "modl": "Clutter\\goldCoin01.NIF"
   },
   {
     "edid": "OOOSheepWool",
