@@ -346,7 +346,7 @@
   {
     "edid": "zOOOBarastas02",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:000D63",
-    "full": "Barastas Nelar",
+    "full": "LOC_FN_zOOOBarastas02",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -699,14 +699,6 @@
     "edid": "OOOWasteCell",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02AEEE",
     "full": "OOO's Waste Cell",
-    "is_interior": true,
-    "persistent_ref_count": 0,
-    "temp_ref_count": 0
-  },
-  {
-    "edid": "MarshPunk",
-    "formid": "Oscuro's_Oblivion_Overhaul.esp:02EFE5",
-    "full": "LOC_FN_MarshPunk",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0

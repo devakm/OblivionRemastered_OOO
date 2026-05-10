@@ -1,5 +1,0 @@
-# OOO_NewSIClothing05.esp
-
-| Release | SHA-256 | Size | Changed | Description | Download |
-|---------|---------|------|---------|-------------|----------|
-| alpha25 | `10d578ba6d5b` | 8.6 KiB (8,799 B) | ★ | [release alpha25](https://github.com/devakm/OblivionRemastered_OOO/releases/tag/alpha25) | [alpha25.7z](https://github.com/devakm/OblivionRemastered_OOO/releases/download/alpha25/alpha25.7z) |

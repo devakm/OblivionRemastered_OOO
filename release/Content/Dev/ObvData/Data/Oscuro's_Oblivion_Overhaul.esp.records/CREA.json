@@ -4952,20 +4952,20 @@
   {
     "edid": "OOOSEVCWispMidi150",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:00FB97",
-    "full": "Vatte-lys",
-    "modl": "OOOSE\\Creatures\\VCVatteLys\\skeleton150.nif"
+    "full": "LOC_FN_OOOSEVCWispMidi150",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "OOOSEVCWispVari000",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:010946",
-    "full": "Vafurlogi",
-    "modl": "OOOSE\\Creatures\\VCVafurlogi\\skeleton000m000.nif"
+    "full": "LOC_FN_OOOSEVCWispVari000",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "OOOSEVCWispVari180",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01096E",
-    "full": "Vafurlogi",
-    "modl": "OOOSE\\Creatures\\VCVafurlogi\\skeleton180m000.nif"
+    "full": "LOC_FN_OOOSEVCWispVari180",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "CreatureGoblin5WarlordabHestariusCombat",
@@ -5510,8 +5510,8 @@
   {
     "edid": "OOOSEVCWispHiggs000",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:021A58",
-    "full": "Higgs",
-    "modl": "OOOSE\\Creatures\\VCHiggs\\skeletonm000s000.nif"
+    "full": "LOC_FN_OOOSEVCWispHiggs000",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "CreatureMinotaurTitan",
@@ -5534,8 +5534,8 @@
   {
     "edid": "OOOSEVCWispBloodCloud",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02512C",
-    "full": "Blood Cloud",
-    "modl": "OOOSE\\Creatures\\VCBloodCloud\\skeleton.nif"
+    "full": "LOC_FN_OOOSEVCWispBloodCloud",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "CreatureWolfSummonPlayer",
@@ -5834,14 +5834,14 @@
   {
     "edid": "OOOSEVCWispEidolon000",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0280FC",
-    "full": "Eidolon",
-    "modl": "OOOSE\\Creatures\\VCEidolon\\skeleton000p000.nif"
+    "full": "LOC_FN_OOOSEVCWispEidolon000",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "OOOSEVCWispSGod000",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:028103",
-    "full": "Small God",
-    "modl": "OOOSE\\Creatures\\VCSmallGod\\skeleton000a000.nif"
+    "full": "LOC_FN_OOOSEVCWispSGod000",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "CreatureBoarZDead7",
@@ -5978,14 +5978,14 @@
   {
     "edid": "OOOSEVCWispHiggs144",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02BF39",
-    "full": "Higgs",
-    "modl": "OOOSE\\Creatures\\VCHiggs\\skeletonm144s000.nif"
+    "full": "LOC_FN_OOOSEVCWispHiggs144",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "OOOSEVCWispHiggs288",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02BFD9",
-    "full": "Higgs",
-    "modl": "OOOSE\\Creatures\\VCHiggs\\skeletonm288s000.nif"
+    "full": "LOC_FN_OOOSEVCWispHiggs288",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "CreatureDeerDoe4",
@@ -5996,14 +5996,14 @@
   {
     "edid": "OOOSEVCWispEidolon144",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02DC15",
-    "full": "Eidolon",
-    "modl": "OOOSE\\Creatures\\VCEidolon\\skeleton144p000.nif"
+    "full": "LOC_FN_OOOSEVCWispEidolon144",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "OOOSEVCWispEidolon288",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02DCB5",
-    "full": "Eidolon",
-    "modl": "OOOSE\\Creatures\\VCEidolon\\skeleton288p000.nif"
+    "full": "LOC_FN_OOOSEVCWispEidolon288",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "CreatureWolfSpectralBawn",
@@ -6026,14 +6026,14 @@
   {
     "edid": "OOOSEVCWispSGod144",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02F21D",
-    "full": "Small God",
-    "modl": "OOOSE\\Creatures\\VCSmallGod\\skeleton144a000.nif"
+    "full": "LOC_FN_OOOSEVCWispSGod144",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "OOOSEVCWispSGod288",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02F2BD",
-    "full": "Small God",
-    "modl": "OOOSE\\Creatures\\VCSmallGod\\skeleton288a000.nif"
+    "full": "LOC_FN_OOOSEVCWispSGod288",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "CreatureBearBlackStarved",
@@ -6080,8 +6080,8 @@
   {
     "edid": "OOOSEVCWispVari270",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0300DB",
-    "full": "Vafurlogi",
-    "modl": "OOOSE\\Creatures\\VCVafurlogi\\skeleton270m000.nif"
+    "full": "LOC_FN_OOOSEVCWispVari270",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "CreatureGuardianGolemEbony3Ocato",
@@ -6116,8 +6116,8 @@
   {
     "edid": "OOOSEVCWispBale",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:033902",
-    "full": "Baleful Spirit",
-    "modl": "OOOSE\\Creatures\\VCChiindi\\skeleton.nif"
+    "full": "LOC_FN_OOOSEVCWispBale",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "CreatureMinotaur2WeaponOOOAyleid",
@@ -6536,20 +6536,20 @@
   {
     "edid": "OOOSEVCWispEidolonTemplate",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0915D5",
-    "full": "Eidolon",
-    "modl": "OOOSE\\Creatures\\VCEidolon\\skeleton000p000.nif"
+    "full": "LOC_FN_OOOSEVCWispEidolonTemplate",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "OOOSEVCWispReg144",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:091D66",
-    "full": "Will-o-the-Wisp",
-    "modl": "Creatures\\willothewisp\\OOOSEskelm144g000.nif"
+    "full": "LOC_FN_OOOSEVCWispReg144",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "OOOSEVCWispReg288",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:091D70",
-    "full": "Will-o-the-Wisp",
-    "modl": "Creatures\\willothewisp\\OOOSEskelm288g000.nif"
+    "full": "LOC_FN_OOOSEVCWispReg288",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "OOOSEOrderedPasswallCitizenHuman1",
@@ -6584,8 +6584,8 @@
   {
     "edid": "OOOSEVCWispMidi000",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:095DE7",
-    "full": "Vatte-lys",
-    "modl": "OOOSE\\Creatures\\VCVatteLys\\skeleton000.nif"
+    "full": "LOC_FN_OOOSEVCWispMidi000",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "OOOSEAtronachFlame",
@@ -6602,14 +6602,14 @@
   {
     "edid": "OOOSEVCWispMidi300",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:09E758",
-    "full": "Vatte-lys",
-    "modl": "OOOSE\\Creatures\\VCVatteLys\\skeleton300.nif"
+    "full": "LOC_FN_OOOSEVCWispMidi300",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "OOOSEVCWispReg000",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0C4E55",
-    "full": "Will-o-the-Wisp",
-    "modl": "Creatures\\willothewisp\\OOOSEskelm000g000.nif"
+    "full": "LOC_FN_OOOSEVCWispReg000",
+    "modl": "Creatures\\WillOTheWisp\\skeleton.nif"
   },
   {
     "edid": "OOOSECreatureOoze",
