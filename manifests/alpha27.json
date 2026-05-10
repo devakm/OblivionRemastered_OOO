@@ -1,0 +1,82 @@
+{
+  "OOOInstallerFloydian1.jpg": {
+    "sha256": "77f509a4b0070ce478fb1829096ad64fd0b6aed02f071c3d7e182772c0f83a7a",
+    "size": 187736
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_ACTI.json": {
+    "sha256": "e3238e3ac66b2bb9ccb1ac8ee79c6da952ebc401f6670795c2eaac53cde9575f",
+    "size": 1483
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_ALCH.json": {
+    "sha256": "212518ae1dd7cce8a67ecdf6b02b90ca2988649ded3886f37bd84a48ca4181be",
+    "size": 2776
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_AMMO.json": {
+    "sha256": "5818f87cfe554744fa958f49b109f98a6d815d3283233f605945f187ac293998",
+    "size": 2232
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_ARMO.json": {
+    "sha256": "db1282f28419c95699d085c802417a205f0622a59b77f40f83d84a7edfb3c87f",
+    "size": 67247
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_BOOK.json": {
+    "sha256": "e569d98069fb8b503254295bf7842b4700ead03e1385705b408ae7e8f8cc6024",
+    "size": 932872
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CELL.json": {
+    "sha256": "61a01ec74882e44551fcb2fa8ef71aba4132ec52d431222751d3e0a3c9124608",
+    "size": 3795
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CLOT.json": {
+    "sha256": "0484d81ac9af218003482d35cc106f900c23793fb3106eab4ac2e40f16791d3c",
+    "size": 5734
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CONT.json": {
+    "sha256": "7509a1455ddd6ec053953f8043066b657b789584ade4883ca7e8f7cde8ac5738",
+    "size": 28166
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CREA.json": {
+    "sha256": "ca11ef39ed2a5a0b57275efa4d2748424a42c8e99a0f01871d2f928866b60a6f",
+    "size": 20058
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_DIAL.json": {
+    "sha256": "7bdbf2d2c601d57c3c4be048573640b9125bb7e9bbc25522c9f065dec61177ba",
+    "size": 35895
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_INGR.json": {
+    "sha256": "08101f61da39bb3f960fc9f9a72e2b399a670da96307db3625d0264b4cae72ef",
+    "size": 3143
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_MISC.json": {
+    "sha256": "ee47f0610b44713124056c7f396e37acd51b4920b5dc0523b11d8a1d120be197",
+    "size": 9682
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_NPC_.json": {
+    "sha256": "ff7275ae60e737a070687436145d71cc2440c6fe5aa866365f0c4de0a756fbb0",
+    "size": 52567
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_QUST.json": {
+    "sha256": "ae120e19cc723daca7e634f7a47d13c63b1d1a702e903e530b7ab55894c5ffff",
+    "size": 153890
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_SPELL.json": {
+    "sha256": "097e1bcb4bf714c7846ecba7060edb49865aded2483bb629a9ad8a9d2f3131e9",
+    "size": 46815
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_WEAP.json": {
+    "sha256": "13a660d8f123bdc796b54a0a36f16f9d29e7cbf968c1a8f5e76947efdee776f4",
+    "size": 54804
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/Oscuro's_Oblivion_Overhaul.esp": {
+    "sha256": "8ab2dee530005e3bbd6a8ab426064fbc177b84b8cfe9a261e4f7048f61a54d35",
+    "size": 10891652
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/SyncMap/Oscuro's_Oblivion_Overhaul.ini": {
+    "sha256": "5ec30e7efa7de2eab43ffe02c69f16a178ca615d07ec35b0c3c698562fd19830",
+    "size": 525261
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/SyncMap/archive/Oscuro's_Oblivion_Overhaul_alpha26.ini": {
+    "sha256": "3add6824521d926b955051942bc5e5fa74e700b42def368619e71c40ebf26e24",
+    "size": 476959
+  }
+}

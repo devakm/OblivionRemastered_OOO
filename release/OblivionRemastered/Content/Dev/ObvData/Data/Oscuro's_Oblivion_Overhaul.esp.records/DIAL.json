@@ -1,0 +1,114 @@
+[
+  {
+    "edid": "zOOOFollow",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007B53",
+    "full": "LOC_FN_zOOOFollow",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "zOOOCrackedWood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00833D",
+    "full": "LOC_FN_zOOOCrackedWood",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "zOOOFatback",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00833F",
+    "full": "LOC_FN_zOOOFatback",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "zOOOYes",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008341",
+    "full": "LOC_FN_zOOOYes",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "zOOONo",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008342",
+    "full": "LOC_FN_zOOONo",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "zOOOJim",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008345",
+    "full": "LOC_FN_zOOOJim",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "zOOODBRingElite",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0097CD",
+    "full": "LOC_FN_zOOODBRingElite",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "zOOODBRing",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0097CE",
+    "full": "LOC_FN_zOOODBRing",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "zOOOGoblinJim",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C0C6",
+    "full": "LOC_FN_zOOOGoblinJim",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "zOOOKnight",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C0C8",
+    "full": "LOC_FN_zOOOKnight",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "zOOOQuestStill",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C0CD",
+    "full": "LOC_FN_zOOOQuestStill",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "zOOOQuestDone",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00C0CE",
+    "full": "LOC_FN_zOOOQuestDone",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "zOOOShields",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0119D9",
+    "full": "LOC_FN_zOOOShields",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "zOOOTotem",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0120AD",
+    "full": "LOC_FN_zOOOTotem",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "GuarMountTopic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02EFE3",
+    "full": "LOC_FN_GuarMountTopic",
+    "info_count": 0,
+    "info_edids": []
+  },
+  {
+    "edid": "zOOORandomGoblins",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06E9FF",
+    "full": "LOC_FN_zOOORandomGoblins",
+    "info_count": 0,
+    "info_edids": []
+  }
+]

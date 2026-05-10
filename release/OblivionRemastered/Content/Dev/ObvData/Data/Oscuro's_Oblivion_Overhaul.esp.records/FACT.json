@@ -1,0 +1,860 @@
+[
+  {
+    "edid": "CreatureFaction",
+    "formid": "Oblivion.esm:000013",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "CheydinhalGuardFaction",
+    "formid": "Oblivion.esm:0034B9",
+    "full": "LOC_FN_CheydinhalGuardFaction",
+    "modl": null
+  },
+  {
+    "edid": "CheydinhalFaction",
+    "formid": "Oblivion.esm:0034BA",
+    "full": "LOC_FN_CheydinhalFaction",
+    "modl": null
+  },
+  {
+    "edid": "VeyondCaveBandits",
+    "formid": "Oblivion.esm:00555F",
+    "full": "LOC_FN_VeyondCaveBandits",
+    "modl": null
+  },
+  {
+    "edid": "AnvilFaction",
+    "formid": "Oblivion.esm:009274",
+    "full": "LOC_FN_AnvilFaction",
+    "modl": null
+  },
+  {
+    "edid": "ICFaction",
+    "formid": "Oblivion.esm:009275",
+    "full": "LOC_FN_ICFaction",
+    "modl": null
+  },
+  {
+    "edid": "BravilGuards",
+    "formid": "Oblivion.esm:00A070",
+    "full": "LOC_FN_BravilGuards",
+    "modl": null
+  },
+  {
+    "edid": "AnvilGuards",
+    "formid": "Oblivion.esm:00A270",
+    "full": "LOC_FN_AnvilGuards",
+    "modl": null
+  },
+  {
+    "edid": "WormAnchoriteFaction",
+    "formid": "Oblivion.esm:00A951",
+    "full": "LOC_FN_WormAnchoriteFaction",
+    "modl": null
+  },
+  {
+    "edid": "NecromancerFaction",
+    "formid": "Oblivion.esm:00C0F2",
+    "full": "LOC_FN_NecromancerFaction",
+    "modl": null
+  },
+  {
+    "edid": "SEDarkSeducerFaction",
+    "formid": "Oblivion.esm:012090",
+    "full": "LOC_FN_SEDarkSeducerFaction",
+    "modl": null
+  },
+  {
+    "edid": "SEOrderFaction",
+    "formid": "Oblivion.esm:0134D4",
+    "full": "LOC_FN_SEOrderFaction",
+    "modl": null
+  },
+  {
+    "edid": "SENewSheothCrucible",
+    "formid": "Oblivion.esm:015580",
+    "full": "LOC_FN_SENewSheothCrucible",
+    "modl": null
+  },
+  {
+    "edid": "SE11CiirtaFaction",
+    "formid": "Oblivion.esm:016B69",
+    "full": "LOC_FN_SE11CiirtaFaction",
+    "modl": null
+  },
+  {
+    "edid": "BanditFaction",
+    "formid": "Oblivion.esm:0177E3",
+    "full": "LOC_FN_BanditFaction",
+    "modl": null
+  },
+  {
+    "edid": "SEManiaFaction",
+    "formid": "Oblivion.esm:01AD45",
+    "full": "LOC_FN_SEManiaFaction",
+    "modl": null
+  },
+  {
+    "edid": "AdventurerFaction",
+    "formid": "Oblivion.esm:01F1A6",
+    "full": "LOC_FN_AdventurerFaction",
+    "modl": null
+  },
+  {
+    "edid": "MagesGuild",
+    "formid": "Oblivion.esm:022296",
+    "full": "LOC_FN_MagesGuild",
+    "modl": null
+  },
+  {
+    "edid": "NineDivines",
+    "formid": "Oblivion.esm:0223BC",
+    "full": "LOC_FN_NineDivines",
+    "modl": null
+  },
+  {
+    "edid": "KvatchGuards",
+    "formid": "Oblivion.esm:0224D7",
+    "full": "LOC_FN_KvatchGuards",
+    "modl": null
+  },
+  {
+    "edid": "HackdirtBrethren",
+    "formid": "Oblivion.esm:0280B5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ChorrolFaction",
+    "formid": "Oblivion.esm:028D98",
+    "full": "LOC_FN_ChorrolFaction",
+    "modl": null
+  },
+  {
+    "edid": "SkingradFaction",
+    "formid": "Oblivion.esm:028E77",
+    "full": "LOC_FN_SkingradFaction",
+    "modl": null
+  },
+  {
+    "edid": "ChorrolGuardFaction",
+    "formid": "Oblivion.esm:029F80",
+    "full": "LOC_FN_ChorrolGuardFaction",
+    "modl": null
+  },
+  {
+    "edid": "SkingradGuardFaction",
+    "formid": "Oblivion.esm:02A819",
+    "full": "LOC_FN_SkingradGuardFaction",
+    "modl": null
+  },
+  {
+    "edid": "UmbacanoFaction",
+    "formid": "Oblivion.esm:02AB4D",
+    "full": "LOC_FN_UmbacanoFaction",
+    "modl": null
+  },
+  {
+    "edid": "BravilFaction",
+    "formid": "Oblivion.esm:02CA32",
+    "full": "LOC_FN_BravilFaction",
+    "modl": null
+  },
+  {
+    "edid": "GoblinTribeA",
+    "formid": "Oblivion.esm:02D595",
+    "full": "LOC_FN_GoblinTribeA",
+    "modl": null
+  },
+  {
+    "edid": "GoblinTribeB",
+    "formid": "Oblivion.esm:02D596",
+    "full": "LOC_FN_GoblinTribeB",
+    "modl": null
+  },
+  {
+    "edid": "GoblinTribeC",
+    "formid": "Oblivion.esm:02FE36",
+    "full": "LOC_FN_GoblinTribeC",
+    "modl": null
+  },
+  {
+    "edid": "GoblinTribeD",
+    "formid": "Oblivion.esm:031315",
+    "full": "LOC_FN_GoblinTribeD",
+    "modl": null
+  },
+  {
+    "edid": "LeyawiinFaction",
+    "formid": "Oblivion.esm:0338EC",
+    "full": "LOC_FN_LeyawiinFaction",
+    "modl": null
+  },
+  {
+    "edid": "VampireFaction",
+    "formid": "Oblivion.esm:033F53",
+    "full": "LOC_FN_VampireFaction",
+    "modl": null
+  },
+  {
+    "edid": "LeyawiinGuards",
+    "formid": "Oblivion.esm:034E70",
+    "full": "LOC_FN_LeyawiinGuards",
+    "modl": null
+  },
+  {
+    "edid": "BrumaFaction",
+    "formid": "Oblivion.esm:035EA9",
+    "full": "LOC_FN_BrumaFaction",
+    "modl": null
+  },
+  {
+    "edid": "BrumaGuardFaction",
+    "formid": "Oblivion.esm:035EBD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "MarauderFaction",
+    "formid": "Oblivion.esm:035FD1",
+    "full": "LOC_FN_MarauderFaction",
+    "modl": null
+  },
+  {
+    "edid": "ICWaterfrontResident",
+    "formid": "Oblivion.esm:03AB39",
+    "full": "LOC_FN_ICWaterfrontResident",
+    "modl": null
+  },
+  {
+    "edid": "KvatchFaction",
+    "formid": "Oblivion.esm:03B3F6",
+    "full": "LOC_FN_KvatchFaction",
+    "modl": null
+  },
+  {
+    "edid": "DremoraFaction",
+    "formid": "Oblivion.esm:03E9A6",
+    "full": "LOC_FN_DremoraFaction",
+    "modl": null
+  },
+  {
+    "edid": "SEZealot",
+    "formid": "Oblivion.esm:04117B",
+    "full": "LOC_FN_SEZealot",
+    "modl": null
+  },
+  {
+    "edid": "SEHeretic",
+    "formid": "Oblivion.esm:04117C",
+    "full": "LOC_FN_SEHeretic",
+    "modl": null
+  },
+  {
+    "edid": "SEGnarlFaction",
+    "formid": "Oblivion.esm:0452FE",
+    "full": "LOC_FN_SEGnarlFaction",
+    "modl": null
+  },
+  {
+    "edid": "SEBaliwogFaction",
+    "formid": "Oblivion.esm:0452FF",
+    "full": "LOC_FN_SEBaliwogFaction",
+    "modl": null
+  },
+  {
+    "edid": "SEElytraFaction",
+    "formid": "Oblivion.esm:045301",
+    "full": "LOC_FN_SEElytraFaction",
+    "modl": null
+  },
+  {
+    "edid": "SEGrummiteFaction",
+    "formid": "Oblivion.esm:045302",
+    "full": "LOC_FN_SEGrummiteFaction",
+    "modl": null
+  },
+  {
+    "edid": "SEHungerFaction",
+    "formid": "Oblivion.esm:045303",
+    "full": "LOC_FN_SEHungerFaction",
+    "modl": null
+  },
+  {
+    "edid": "SEScalonFaction",
+    "formid": "Oblivion.esm:045304",
+    "full": "LOC_FN_SEScalonFaction",
+    "modl": null
+  },
+  {
+    "edid": "RohssansFamily",
+    "formid": "Oblivion.esm:04A98C",
+    "full": "LOC_FN_RohssansFamily",
+    "modl": null
+  },
+  {
+    "edid": "ConjurerFaction",
+    "formid": "Oblivion.esm:04B90B",
+    "full": "LOC_FN_ConjurerFaction",
+    "modl": null
+  },
+  {
+    "edid": "NecromancerDungeon",
+    "formid": "Oblivion.esm:04B90C",
+    "full": "LOC_FN_NecromancerDungeon",
+    "modl": null
+  },
+  {
+    "edid": "WeynonPrioryFaction",
+    "formid": "Oblivion.esm:04E883",
+    "full": "LOC_FN_WeynonPrioryFaction",
+    "modl": null
+  },
+  {
+    "edid": "GenericOwner",
+    "formid": "Oblivion.esm:0534F2",
+    "full": "LOC_FN_GenericOwner",
+    "modl": null
+  },
+  {
+    "edid": "DaedraFaction",
+    "formid": "Oblivion.esm:053FED",
+    "full": "LOC_FN_DaedraFaction",
+    "modl": null
+  },
+  {
+    "edid": "Prey",
+    "formid": "Oblivion.esm:05D556",
+    "full": "LOC_FN_Prey",
+    "modl": null
+  },
+  {
+    "edid": "LichFaction",
+    "formid": "Oblivion.esm:05D557",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "SECourtofMadnessFaction",
+    "formid": "Oblivion.esm:06A7FC",
+    "full": "LOC_FN_SECourtofMadnessFaction",
+    "modl": null
+  },
+  {
+    "edid": "MG13VampireHunters",
+    "formid": "Oblivion.esm:06C270",
+    "full": "LOC_FN_MG13VampireHunters",
+    "modl": null
+  },
+  {
+    "edid": "DarkShadowmereFaction",
+    "formid": "Oblivion.esm:073A6E",
+    "full": "LOC_FN_DarkShadowmereFaction",
+    "modl": null
+  },
+  {
+    "edid": "MS12Deadite",
+    "formid": "Oblivion.esm:07C3AB",
+    "full": "LOC_FN_MS12Deadite",
+    "modl": null
+  },
+  {
+    "edid": "MogensWindshifterFaction",
+    "formid": "Oblivion.esm:085956",
+    "full": "LOC_FN_MogensWindshifterFaction",
+    "modl": null
+  },
+  {
+    "edid": "BlackBowFaction",
+    "formid": "Oblivion.esm:08595C",
+    "full": "LOC_FN_BlackBowFaction",
+    "modl": null
+  },
+  {
+    "edid": "FGD08Goblins",
+    "formid": "Oblivion.esm:098171",
+    "full": "LOC_FN_FGD08Goblins",
+    "modl": null
+  },
+  {
+    "edid": "UndeadFaction",
+    "formid": "Oblivion.esm:09DB1F",
+    "full": "LOC_FN_UndeadFaction",
+    "modl": null
+  },
+  {
+    "edid": "GoblinTribeE",
+    "formid": "Oblivion.esm:0AA61E",
+    "full": "LOC_FN_GoblinTribeE",
+    "modl": null
+  },
+  {
+    "edid": "GoblinTribeF",
+    "formid": "Oblivion.esm:0AA61F",
+    "full": "LOC_FN_GoblinTribeF",
+    "modl": null
+  },
+  {
+    "edid": "GoblinTribeG",
+    "formid": "Oblivion.esm:0AA620",
+    "full": "LOC_FN_GoblinTribeG",
+    "modl": null
+  },
+  {
+    "edid": "ImperialLegionOutside",
+    "formid": "Oblivion.esm:0C4A00",
+    "full": "LOC_FN_ImperialLegionOutside",
+    "modl": null
+  },
+  {
+    "edid": "MS47CreatureFaction",
+    "formid": "Oblivion.esm:0C6C76",
+    "full": "LOC_FN_MS47CreatureFaction",
+    "modl": null
+  },
+  {
+    "edid": "ImperialLegion",
+    "formid": "Oblivion.esm:18B117",
+    "full": "LOC_FN_ImperialLegion",
+    "modl": null
+  },
+  {
+    "edid": "AColorFish",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003A0C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ASlaughterFish",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003A0D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "AmazonFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00491B",
+    "full": "Amazons",
+    "modl": null
+  },
+  {
+    "edid": "ValenBosmer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E16",
+    "full": "ValenWood Bosmer",
+    "modl": null
+  },
+  {
+    "edid": "OscuroUOPHackdirtVillagers",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005D78",
+    "full": "UOP-added Hackdirt Villagers (non-Brethren)",
+    "modl": null
+  },
+  {
+    "edid": "SlaveTraderFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007064",
+    "full": "Slave Traders",
+    "modl": null
+  },
+  {
+    "edid": "ArgonianBlackMarshFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00722E",
+    "full": "Black Marsh Smuggler Faction",
+    "modl": null
+  },
+  {
+    "edid": "ValenBosmerGood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00779E",
+    "full": "Bosmer Protectors",
+    "modl": null
+  },
+  {
+    "edid": "zzOOODragonborneKnights",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00831F",
+    "full": "Knights of the Dragonborne",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOBears",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CD9C",
+    "full": "Yogi Faction",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOBoars",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CD9D",
+    "full": "Cochino Faction",
+    "modl": null
+  },
+  {
+    "edid": "ZOOODeers",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CD9E",
+    "full": "Bambi Faction",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOCougars",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CD9F",
+    "full": "Puma Faction",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOMinotaurs",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA0",
+    "full": "King Minos Faction",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOOgres",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA1",
+    "full": "Ann Coulter Faction",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOSpriggan",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA2",
+    "full": "Eeeeeeeennt Faction",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOSlaughterfish",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA3",
+    "full": "Jaws Faction",
+    "modl": null
+  },
+  {
+    "edid": "ZOOORats",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA4",
+    "full": "Micky's Faction",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOWillowisps",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA5",
+    "full": "Greater Lightstone Faction",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOSheep",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA6",
+    "full": "Hill-Billies' Consolation Faction",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOMudcrabs",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA7",
+    "full": "STD Scare Faction",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOWolves",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA8",
+    "full": "Kevin's Faction",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOWargs",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDA9",
+    "full": "Goblin Love Fest Faction",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOHorses",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDAA",
+    "full": "\"No Sir!, I don't like it!\" Faction",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOImps",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDAB",
+    "full": "Little #$@*^!!! Faction",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOTrolls",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CDAC",
+    "full": "Dubya Faction",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOLandDreughs",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D2BD",
+    "full": "Billies Faction",
+    "modl": null
+  },
+  {
+    "edid": "FathisArenFactionOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00EC30",
+    "full": "OOO Fathis Aren Faction",
+    "modl": null
+  },
+  {
+    "edid": "AColorFishPrey",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00F572",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEOrderHostage",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0128BC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOGoblinFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0210EE",
+    "full": "Cheney Faction",
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32MerchantFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0254CC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "RohssanGuardian",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:029CB3",
+    "full": "Rohssan's Bitch",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOGuars",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02EAE0",
+    "full": "Smiley Faction",
+    "modl": null
+  },
+  {
+    "edid": "UmbacanoGuardians",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03004E",
+    "full": "We Dumb Faction",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOGolemsSummonedGood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:031CCD",
+    "full": "Da Hunky Dories' Faction",
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWispManiaFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:036200",
+    "full": "Mania Wisps",
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWispDementiaFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:036201",
+    "full": "Dementia Wisps",
+    "modl": null
+  },
+  {
+    "edid": "ArgonianPrisonerFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:038D56",
+    "full": "We Are Screwed Faction",
+    "modl": null
+  },
+  {
+    "edid": "GhostWarriors",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03D332",
+    "full": "Spectral Warriors",
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZDaedricTarget1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03D6FD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZDaedricTarget2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03D6FE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZDaedricTarget3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03D6FF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZDaedricTarget4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03D700",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZDreadTarget1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03D701",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZDreadTarget2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03D702",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZDreadTarget3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03D703",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZDreadTarget4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03D704",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZHeavensTarget1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03D705",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZHeavensTarget2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03D706",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZHeavensTarget3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03D707",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZHeavensTarget4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03D708",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZShadowTarget1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03D709",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZShadowTarget2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03D70A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZShadowTarget3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03D70B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZShadowTarget4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03D70C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZLawTarget1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03F9BD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZLawTarget2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03F9BF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZLawTarget3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03F9C0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOZLawTarget4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03F9C1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ZOOOGargoyles",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0417E6",
+    "full": "Big #$@*^!!! Faction",
+    "modl": null
+  },
+  {
+    "edid": "GenericLikesCreatures",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:04A083",
+    "full": "OOO's Faction for NPCs In Progress",
+    "modl": null
+  },
+  {
+    "edid": "ArgonianPrisonerFaction2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:04A32F",
+    "full": "We Are SO Fooked Dude Faction",
+    "modl": null
+  },
+  {
+    "edid": "OOOSECrucibleRatsFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:04FD8B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OMPRoamingTraderFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:052EB6",
+    "full": "Compatibility Faction for Tamriel's Traverlers",
+    "modl": null
+  },
+  {
+    "edid": "VampireBossHunt",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06E9ED",
+    "full": "Vampire Boss Hunt",
+    "modl": null
+  },
+  {
+    "edid": "OOOSESheoFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:070D0A",
+    "full": "Everyone loves Sheogorath!",
+    "modl": null
+  },
+  {
+    "edid": "OOOSEGSHouseManiaFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:07F008",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEUnaArminaFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:08D668",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEHateEvil",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:09E60C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWormDementiaFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0C4E5B",
+    "full": "Dementia Worms",
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWormManiaFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0C4E5D",
+    "full": "Mania Worms",
+    "modl": null
+  },
+  {
+    "edid": "OOOSENuisanceFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0C4E5E",
+    "full": "SI Nuisance Beasts",
+    "modl": null
+  }
+]

@@ -1,0 +1,3842 @@
+[
+  {
+    "edid": "BlackRockChest02",
+    "formid": "Oblivion.esm:014D3F",
+    "full": "LOC_FN_BlackRockChest02",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "SEMadnessRockDeposit",
+    "formid": "Oblivion.esm:01A354",
+    "full": "LOC_FN_SEMadnessRockDeposit",
+    "modl": "Clutter\\MadnessRocks\\MadnessRockV3.NIF"
+  },
+  {
+    "edid": "SEAmberColumn01",
+    "formid": "Oblivion.esm:01B6A7",
+    "full": "LOC_FN_SEAmberColumn01",
+    "modl": "Dungeons\\Root\\Interior\\misc\\AmberColumn01.NIF"
+  },
+  {
+    "edid": "SEAmberColumn02",
+    "formid": "Oblivion.esm:01B6A8",
+    "full": "LOC_FN_SEAmberColumn02",
+    "modl": "Dungeons\\Root\\Interior\\misc\\AmberColumn02.NIF"
+  },
+  {
+    "edid": "SEAmberRootHanging01",
+    "formid": "Oblivion.esm:01B6A9",
+    "full": "LOC_FN_SEAmberRootHanging01",
+    "modl": "Dungeons\\Root\\Interior\\misc\\AmberRootHanging01.NIF"
+  },
+  {
+    "edid": "SEAmberRootHanging02",
+    "formid": "Oblivion.esm:01B6AA",
+    "full": "LOC_FN_SEAmberRootHanging02",
+    "modl": "Dungeons\\Root\\Interior\\misc\\AmberRootHanging02.NIF"
+  },
+  {
+    "edid": "SEAmberTrunk01",
+    "formid": "Oblivion.esm:01B6AB",
+    "full": "LOC_FN_SEAmberTrunk01",
+    "modl": "Dungeons\\Root\\Interior\\misc\\AmberTrunk01.NIF"
+  },
+  {
+    "edid": "SEAmberTrunk02",
+    "formid": "Oblivion.esm:01B6AC",
+    "full": "LOC_FN_SEAmberTrunk02",
+    "modl": "Dungeons\\Root\\Interior\\misc\\AmberTrunk02.NIF"
+  },
+  {
+    "edid": "ChestClutterMiddleSame02",
+    "formid": "Oblivion.esm:024456",
+    "full": "LOC_FN_ChestClutterMiddleSame02",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "DeskClutterMiddle02",
+    "formid": "Oblivion.esm:024458",
+    "full": "LOC_FN_DeskClutterMiddle02",
+    "modl": "Furniture\\MiddleClass\\MiddleDesk01.NIF"
+  },
+  {
+    "edid": "DeskClutterUpper01",
+    "formid": "Oblivion.esm:024466",
+    "full": "LOC_FN_DeskClutterUpper01",
+    "modl": "Furniture\\UpperClass\\UpperDesk01.NIF"
+  },
+  {
+    "edid": "DeskClutterUpper02",
+    "formid": "Oblivion.esm:024467",
+    "full": "LOC_FN_DeskClutterUpper02",
+    "modl": "Furniture\\UpperClass\\UpperDesk01.NIF"
+  },
+  {
+    "edid": "ChestVendorAlchemyPotionsLowI01",
+    "formid": "Oblivion.esm:024497",
+    "full": "LOC_FN_ChestVendorAlchemyPotionsLowI01",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ChestVendorAlchemyPotionsMedG01",
+    "formid": "Oblivion.esm:024498",
+    "full": "LOC_FN_ChestVendorAlchemyPotionsMedG01",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ChestVendorAlchemyPotionsHighI01",
+    "formid": "Oblivion.esm:024499",
+    "full": "LOC_FN_ChestVendorAlchemyPotionsHighI01",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ChestVendorAlchemyPotionsMedI01",
+    "formid": "Oblivion.esm:02449B",
+    "full": "LOC_FN_ChestVendorAlchemyPotionsMedI01",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ChestVendorAlchemyPotionsLowG01",
+    "formid": "Oblivion.esm:02449F",
+    "full": "LOC_FN_ChestVendorAlchemyPotionsLowG01",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ChestVendorAlchemyPotionsHighG01",
+    "formid": "Oblivion.esm:0244A0",
+    "full": "LOC_FN_ChestVendorAlchemyPotionsHighG01",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ChestVendorPawnbrokerLow01",
+    "formid": "Oblivion.esm:0244B1",
+    "full": "LOC_FN_ChestVendorPawnbrokerLow01",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ChestVendorPawnbrokerLow02",
+    "formid": "Oblivion.esm:0244B2",
+    "full": "LOC_FN_ChestVendorPawnbrokerLow02",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ChestVendorTraderMed01",
+    "formid": "Oblivion.esm:0244CA",
+    "full": "LOC_FN_ChestVendorTraderMed01",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "DeskExecClutter01",
+    "formid": "Oblivion.esm:024951",
+    "full": "LOC_FN_DeskExecClutter01",
+    "modl": "Furniture\\UpperClass\\UpperExecDesk01.NIF"
+  },
+  {
+    "edid": "ChestClutterUpperSame02",
+    "formid": "Oblivion.esm:024A78",
+    "full": "LOC_FN_ChestClutterUpperSame02",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "MG03ArenimDesk",
+    "formid": "Oblivion.esm:02C678",
+    "full": "LOC_FN_MG03ArenimDesk",
+    "modl": "Clutter\\MiddleClass\\MiddleDesk01.NIF"
+  },
+  {
+    "edid": "DungOblivionBagOfBones",
+    "formid": "Oblivion.esm:03372B",
+    "full": "LOC_FN_DungOblivionBagOfBones",
+    "modl": "Oblivion\\Clutter\\Containers\\GroundFleshContainer01.NIF"
+  },
+  {
+    "edid": "DUN0Crate03",
+    "formid": "Oblivion.esm:033D65",
+    "full": "LOC_FN_DUN0Crate03",
+    "modl": "Dungeons\\Misc\\DUNCrate03.NIF"
+  },
+  {
+    "edid": "DungBanditChest01",
+    "formid": "Oblivion.esm:03752A",
+    "full": "LOC_FN_DungBanditChest01",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "DungBanditChest02",
+    "formid": "Oblivion.esm:03752B",
+    "full": "LOC_FN_DungBanditChest02",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "DungBanditChest03",
+    "formid": "Oblivion.esm:03752C",
+    "full": "LOC_FN_DungBanditChest03",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "DungBanditBossChest01",
+    "formid": "Oblivion.esm:03752E",
+    "full": "LOC_FN_DungBanditBossChest01",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "DungBanditBossChest02",
+    "formid": "Oblivion.esm:03752F",
+    "full": "LOC_FN_DungBanditBossChest02",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "DungMarauderChest01",
+    "formid": "Oblivion.esm:037533",
+    "full": "LOC_FN_DungMarauderChest01",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "DungMarauderChest02",
+    "formid": "Oblivion.esm:037534",
+    "full": "LOC_FN_DungMarauderChest02",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "DungMarauderChest03",
+    "formid": "Oblivion.esm:037535",
+    "full": "LOC_FN_DungMarauderChest03",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "DungMarauderBossChestFort",
+    "formid": "Oblivion.esm:037537",
+    "full": "LOC_FN_DungMarauderBossChestFort",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "DungMarauderBossChestAlyied01",
+    "formid": "Oblivion.esm:037538",
+    "full": "LOC_FN_DungMarauderBossChestAlyied01",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "DungMarauderBossChestAlyied02",
+    "formid": "Oblivion.esm:037539",
+    "full": "LOC_FN_DungMarauderBossChestAlyied02",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "DungMarauderChestAlyied01",
+    "formid": "Oblivion.esm:03753A",
+    "full": "LOC_FN_DungMarauderChestAlyied01",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "DungNecroChest01",
+    "formid": "Oblivion.esm:03753B",
+    "full": "LOC_FN_DungNecroChest01",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "DungNecroChest02",
+    "formid": "Oblivion.esm:03753C",
+    "full": "LOC_FN_DungNecroChest02",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "DungNecroChest03",
+    "formid": "Oblivion.esm:03753D",
+    "full": "LOC_FN_DungNecroChest03",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "DungNecroBossChestAlyied01",
+    "formid": "Oblivion.esm:03753F",
+    "full": "LOC_FN_DungNecroBossChestAlyied01",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "DungNecroBossChestAlyied02",
+    "formid": "Oblivion.esm:037540",
+    "full": "LOC_FN_DungNecroBossChestAlyied02",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "DungNecroChestAlyied01",
+    "formid": "Oblivion.esm:037541",
+    "full": "LOC_FN_DungNecroChestAlyied01",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "DungNecroBossChestFort",
+    "formid": "Oblivion.esm:037542",
+    "full": "LOC_FN_DungNecroBossChestFort",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "DungConjurerChestAlyied01",
+    "formid": "Oblivion.esm:037547",
+    "full": "LOC_FN_DungConjurerChestAlyied01",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "DungConjurerChestAlyied02",
+    "formid": "Oblivion.esm:037548",
+    "full": "LOC_FN_DungConjurerChestAlyied02",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "DungConjurerBossChestAlyied01",
+    "formid": "Oblivion.esm:037549",
+    "full": "LOC_FN_DungConjurerBossChestAlyied01",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "DungNecroBossCoffin",
+    "formid": "Oblivion.esm:03754D",
+    "full": "LOC_FN_DungNecroBossCoffin",
+    "modl": "Dungeons\\Misc\\CoffinClosed03.NIF"
+  },
+  {
+    "edid": "DungVampireBossCoffin",
+    "formid": "Oblivion.esm:037550",
+    "full": "LOC_FN_DungVampireBossCoffin",
+    "modl": "Dungeons\\Misc\\CoffinClosed03.NIF"
+  },
+  {
+    "edid": "DungVampireChest01",
+    "formid": "Oblivion.esm:037551",
+    "full": "LOC_FN_DungVampireChest01",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "DungVampireChest02",
+    "formid": "Oblivion.esm:037552",
+    "full": "LOC_FN_DungVampireChest02",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "DungVampireChest03",
+    "formid": "Oblivion.esm:037553",
+    "full": "LOC_FN_DungVampireChest03",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "DungVampireChest04Healing",
+    "formid": "Oblivion.esm:037554",
+    "full": "LOC_FN_DungVampireChest04Healing",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "DungVampireBossChestAlyied01",
+    "formid": "Oblivion.esm:037555",
+    "full": "LOC_FN_DungVampireBossChestAlyied01",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "DungVampireBossChestAlyied02",
+    "formid": "Oblivion.esm:037556",
+    "full": "LOC_FN_DungVampireBossChestAlyied02",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "DungVampireChestAlyied01",
+    "formid": "Oblivion.esm:037557",
+    "full": "LOC_FN_DungVampireChestAlyied01",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "DungVampireBossChestFort",
+    "formid": "Oblivion.esm:037558",
+    "full": "LOC_FN_DungVampireBossChestFort",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "DungMythEnemyBossChestAlyied01",
+    "formid": "Oblivion.esm:037671",
+    "full": "LOC_FN_DungMythEnemyBossChestAlyied01",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "DungMythEnemyBossChestAlyied02",
+    "formid": "Oblivion.esm:037672",
+    "full": "LOC_FN_DungMythEnemyBossChestAlyied02",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "DungMythEnemyChestAlyied01",
+    "formid": "Oblivion.esm:037673",
+    "full": "LOC_FN_DungMythEnemyChestAlyied01",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "DungTombBossCoffin",
+    "formid": "Oblivion.esm:037677",
+    "full": "LOC_FN_DungTombBossCoffin",
+    "modl": "Dungeons\\Misc\\CoffinClosed03.NIF"
+  },
+  {
+    "edid": "DungTombChest01",
+    "formid": "Oblivion.esm:037678",
+    "full": "LOC_FN_DungTombChest01",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "DungTombChest02",
+    "formid": "Oblivion.esm:037679",
+    "full": "LOC_FN_DungTombChest02",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "DungTombChest03",
+    "formid": "Oblivion.esm:03767A",
+    "full": "LOC_FN_DungTombChest03",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "DungTombChest04Healing",
+    "formid": "Oblivion.esm:03767B",
+    "full": "LOC_FN_DungTombChest04Healing",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "DungTombBossChestAlyied01",
+    "formid": "Oblivion.esm:03767C",
+    "full": "LOC_FN_DungTombBossChestAlyied01",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "DungTombBossChestAlyied02",
+    "formid": "Oblivion.esm:03767D",
+    "full": "LOC_FN_DungTombBossChestAlyied02",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "DungTombChestAlyied01",
+    "formid": "Oblivion.esm:03767E",
+    "full": "LOC_FN_DungTombChestAlyied01",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "DungTombBossChestFort",
+    "formid": "Oblivion.esm:03767F",
+    "full": "LOC_FN_DungTombBossChestFort",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "DungOblivionBossSack01",
+    "formid": "Oblivion.esm:037680",
+    "full": "LOC_FN_DungOblivionBossSack01",
+    "modl": "Oblivion\\Clutter\\Containers\\GroundFleshContainer02.NIF"
+  },
+  {
+    "edid": "DungOblivionBossSack02",
+    "formid": "Oblivion.esm:037681",
+    "full": "LOC_FN_DungOblivionBossSack02",
+    "modl": "Oblivion\\Clutter\\Containers\\HangingFleshContainer02.NIF"
+  },
+  {
+    "edid": "DungConjurerBossChestAlyied02",
+    "formid": "Oblivion.esm:03768E",
+    "full": "LOC_FN_DungConjurerBossChestAlyied02",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "DungMarauderChestAlyied02",
+    "formid": "Oblivion.esm:03768F",
+    "full": "LOC_FN_DungMarauderChestAlyied02",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "DungMythEnemyChestAlyied02",
+    "formid": "Oblivion.esm:037690",
+    "full": "LOC_FN_DungMythEnemyChestAlyied02",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "DungNecroChestAlyied02",
+    "formid": "Oblivion.esm:037691",
+    "full": "LOC_FN_DungNecroChestAlyied02",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "DungTombChestAlyied02",
+    "formid": "Oblivion.esm:037692",
+    "full": "LOC_FN_DungTombChestAlyied02",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "DungVampireChestAlyied02",
+    "formid": "Oblivion.esm:037693",
+    "full": "LOC_FN_DungVampireChestAlyied02",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "SEDungZealotBossChestRoot",
+    "formid": "Oblivion.esm:040F8F",
+    "full": "LOC_FN_SEDungZealotBossChestRoot",
+    "modl": "Dungeons\\Root\\Interior\\misc\\TreasureStump.NIF"
+  },
+  {
+    "edid": "SEDungZealotChestRoot",
+    "formid": "Oblivion.esm:040F91",
+    "full": "LOC_FN_SEDungZealotChestRoot",
+    "modl": "Dungeons\\Root\\Interior\\misc\\TreasureStump.NIF"
+  },
+  {
+    "edid": "SEDungHereticBossChestRoot",
+    "formid": "Oblivion.esm:040F95",
+    "full": "LOC_FN_SEDungHereticBossChestRoot",
+    "modl": "Dungeons\\Root\\Interior\\misc\\TreasureStump.NIF"
+  },
+  {
+    "edid": "SEDungHereticChestRoot",
+    "formid": "Oblivion.esm:040F97",
+    "full": "LOC_FN_SEDungHereticChestRoot",
+    "modl": "Dungeons\\Root\\Interior\\misc\\TreasureStump.NIF"
+  },
+  {
+    "edid": "SEDungNaturalBossChestRoot",
+    "formid": "Oblivion.esm:040F9A",
+    "full": "LOC_FN_SEDungNaturalBossChestRoot",
+    "modl": "Dungeons\\Root\\Interior\\misc\\TreasureStump.NIF"
+  },
+  {
+    "edid": "SEDungNaturalChestRoot",
+    "formid": "Oblivion.esm:040F9C",
+    "full": "LOC_FN_SEDungNaturalChestRoot",
+    "modl": "Dungeons\\Root\\Interior\\misc\\TreasureStump.NIF"
+  },
+  {
+    "edid": "SEDungGrummiteBossChestRoot",
+    "formid": "Oblivion.esm:040FA1",
+    "full": "LOC_FN_SEDungGrummiteBossChestRoot",
+    "modl": "Dungeons\\Root\\Interior\\misc\\TreasureStump.NIF"
+  },
+  {
+    "edid": "SEDungGrummiteChestRoot",
+    "formid": "Oblivion.esm:040FA3",
+    "full": "LOC_FN_SEDungGrummiteChestRoot",
+    "modl": "Dungeons\\Root\\Interior\\misc\\TreasureStump.NIF"
+  },
+  {
+    "edid": "SEDungUndeadBossChest01",
+    "formid": "Oblivion.esm:040FA7",
+    "full": "LOC_FN_SEDungUndeadBossChest01",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
+  },
+  {
+    "edid": "SEDungUndeadChest01",
+    "formid": "Oblivion.esm:040FAA",
+    "full": "LOC_FN_SEDungUndeadChest01",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
+  },
+  {
+    "edid": "SEDungUndeadCoffin01",
+    "formid": "Oblivion.esm:040FAE",
+    "full": "LOC_FN_SEDungUndeadCoffin01",
+    "modl": "Dungeons\\Misc\\CoffinClosed01.NIF"
+  },
+  {
+    "edid": "SEDungUndeadCoffin01Empty",
+    "formid": "Oblivion.esm:040FAF",
+    "full": "LOC_FN_SEDungUndeadCoffin01Empty",
+    "modl": "Dungeons\\Misc\\CoffinClosed01.NIF"
+  },
+  {
+    "edid": "SEDungNaturalBossChestRuin01",
+    "formid": "Oblivion.esm:040FB2",
+    "full": "LOC_FN_SEDungNaturalBossChestRuin01",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
+  },
+  {
+    "edid": "SEDungNaturalChestRuin01",
+    "formid": "Oblivion.esm:040FB4",
+    "full": "LOC_FN_SEDungNaturalChestRuin01",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
+  },
+  {
+    "edid": "SEDungGrummiteBossChestRuin01",
+    "formid": "Oblivion.esm:040FB8",
+    "full": "LOC_FN_SEDungGrummiteBossChestRuin01",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
+  },
+  {
+    "edid": "SEDungGrummiteChestRuin01",
+    "formid": "Oblivion.esm:040FBA",
+    "full": "LOC_FN_SEDungGrummiteChestRuin01",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
+  },
+  {
+    "edid": "SEDungHereticBossChestRuin01",
+    "formid": "Oblivion.esm:040FBE",
+    "full": "LOC_FN_SEDungHereticBossChestRuin01",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
+  },
+  {
+    "edid": "SEDungHereticChestRuin01",
+    "formid": "Oblivion.esm:040FC0",
+    "full": "LOC_FN_SEDungHereticChestRuin01",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
+  },
+  {
+    "edid": "SEDungZealotBossChestRuin01",
+    "formid": "Oblivion.esm:040FC4",
+    "full": "LOC_FN_SEDungZealotBossChestRuin01",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
+  },
+  {
+    "edid": "SEDungZealotChestRuin01",
+    "formid": "Oblivion.esm:040FC6",
+    "full": "LOC_FN_SEDungZealotChestRuin01",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
+  },
+  {
+    "edid": "DungRestorationAlyied",
+    "formid": "Oblivion.esm:04B77C",
+    "full": "LOC_FN_DungRestorationAlyied",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "SEDungUndeadUrn01",
+    "formid": "Oblivion.esm:04EF52",
+    "full": "LOC_FN_SEDungUndeadUrn01",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "DarkSellChest",
+    "formid": "Oblivion.esm:04F944",
+    "full": "LOC_FN_DarkSellChest",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "CGChestSword01",
+    "formid": "Oblivion.esm:051D74",
+    "full": "LOC_FN_CGChestSword01",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "SEDungGrummiteBossChestRuin02",
+    "formid": "Oblivion.esm:052977",
+    "full": "LOC_FN_SEDungGrummiteBossChestRuin02",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "SEDungGrummiteChestRuin02",
+    "formid": "Oblivion.esm:052978",
+    "full": "LOC_FN_SEDungGrummiteChestRuin02",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "SEDungHereticBossChestRuin02",
+    "formid": "Oblivion.esm:05297A",
+    "full": "LOC_FN_SEDungHereticBossChestRuin02",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "SEDungHereticChestRuin02",
+    "formid": "Oblivion.esm:05297B",
+    "full": "LOC_FN_SEDungHereticChestRuin02",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "SEDungNaturalBossChestRuin02",
+    "formid": "Oblivion.esm:05297D",
+    "full": "LOC_FN_SEDungNaturalBossChestRuin02",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "SEDungNaturalChestRuin02",
+    "formid": "Oblivion.esm:05297E",
+    "full": "LOC_FN_SEDungNaturalChestRuin02",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "SEDungUndeadBossChest02",
+    "formid": "Oblivion.esm:052980",
+    "full": "LOC_FN_SEDungUndeadBossChest02",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "SEDungUndeadChest02",
+    "formid": "Oblivion.esm:052981",
+    "full": "LOC_FN_SEDungUndeadChest02",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "SEDungZealotBossChestRuin02",
+    "formid": "Oblivion.esm:052983",
+    "full": "LOC_FN_SEDungZealotBossChestRuin02",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "SEDungZealotChestRuin02",
+    "formid": "Oblivion.esm:052984",
+    "full": "LOC_FN_SEDungZealotChestRuin02",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "SEDungWildernessChestRoot",
+    "formid": "Oblivion.esm:052F8A",
+    "full": "LOC_FN_SEDungWildernessChestRoot",
+    "modl": "Dungeons\\Root\\Interior\\misc\\TreasureStump.NIF"
+  },
+  {
+    "edid": "SEDungWildernessChestRuin01",
+    "formid": "Oblivion.esm:052F8B",
+    "full": "LOC_FN_SEDungWildernessChestRuin01",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
+  },
+  {
+    "edid": "SEDungWildernessChestRuin02",
+    "formid": "Oblivion.esm:052F8C",
+    "full": "LOC_FN_SEDungWildernessChestRuin02",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "XPGardens03ChestRuin01",
+    "formid": "Oblivion.esm:059D42",
+    "full": "LOC_FN_XPGardens03ChestRuin01",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
+  },
+  {
+    "edid": "XPEbroccaKeyChest",
+    "formid": "Oblivion.esm:05A7B4",
+    "full": "LOC_FN_XPEbroccaKeyChest",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
+  },
+  {
+    "edid": "MQ02JauffreChest",
+    "formid": "Oblivion.esm:05D2C1",
+    "full": "LOC_FN_MQ02JauffreChest",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "SECupboardDementiaClothing",
+    "formid": "Oblivion.esm:05E359",
+    "full": "LOC_FN_SECupboardDementiaClothing",
+    "modl": "Clutter\\SEfurniture\\SECupboard01.NIF"
+  },
+  {
+    "edid": "ChestJewelryUpper01",
+    "formid": "Oblivion.esm:064F54",
+    "full": "LOC_FN_ChestJewelryUpper01",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ChestJewelryNoble01",
+    "formid": "Oblivion.esm:064F55",
+    "full": "LOC_FN_ChestJewelryNoble01",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "WildernessChestTorches",
+    "formid": "Oblivion.esm:066E3F",
+    "full": "LOC_FN_WildernessChestTorches",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "SE34DungGrummiteChestRuin01",
+    "formid": "Oblivion.esm:066F19",
+    "full": "LOC_FN_SE34DungGrummiteChestRuin01",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
+  },
+  {
+    "edid": "DungTombCoffin01Empty",
+    "formid": "Oblivion.esm:06AB40",
+    "full": "LOC_FN_DungTombCoffin01Empty",
+    "modl": "Dungeons\\Misc\\CoffinClosed01.NIF"
+  },
+  {
+    "edid": "DarkGogronChest",
+    "formid": "Oblivion.esm:06C676",
+    "full": "LOC_FN_DarkGogronChest",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "MG06DeskUpper01",
+    "formid": "Oblivion.esm:06DDA2",
+    "full": "LOC_FN_MG06DeskUpper01",
+    "modl": "Furniture\\UpperClass\\UpperDesk01.NIF"
+  },
+  {
+    "edid": "ChestJewelryUndercroft",
+    "formid": "Oblivion.esm:070912",
+    "full": "LOC_FN_ChestJewelryUndercroft",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ChestClarabellaCaptain",
+    "formid": "Oblivion.esm:0738D9",
+    "full": "LOC_FN_ChestClarabellaCaptain",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "WildernessChest02",
+    "formid": "Oblivion.esm:073A6C",
+    "full": "LOC_FN_WildernessChest02",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "WildernessChest01",
+    "formid": "Oblivion.esm:073A6D",
+    "full": "LOC_FN_WildernessChest01",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "SEChestVendorTilse",
+    "formid": "Oblivion.esm:079218",
+    "full": "LOC_FN_SEChestVendorTilse",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "MG06Desk01",
+    "formid": "Oblivion.esm:07B737",
+    "full": "LOC_FN_MG06Desk01",
+    "modl": "Furniture\\UpperClass\\UpperExecDesk01.NIF"
+  },
+  {
+    "edid": "Dark02CaptainChest",
+    "formid": "Oblivion.esm:07B744",
+    "full": "LOC_FN_Dark02CaptainChest",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "SEChestVendorCutter",
+    "formid": "Oblivion.esm:07CFE9",
+    "full": "LOC_FN_SEChestVendorCutter",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "SEChestVendorDumag",
+    "formid": "Oblivion.esm:07CFEB",
+    "full": "LOC_FN_SEChestVendorDumag",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "SEOrderedChest",
+    "formid": "Oblivion.esm:07DEC2",
+    "full": "LOC_FN_SEOrderedChest",
+    "modl": "Clutter\\OrderedChest\\orderedchest.NIF"
+  },
+  {
+    "edid": "SE03ARecoveryChest",
+    "formid": "Oblivion.esm:07F3CD",
+    "full": "LOC_FN_SE03ARecoveryChest",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
+  },
+  {
+    "edid": "SE12DungNaturalChestRoot1",
+    "formid": "Oblivion.esm:07F463",
+    "full": "LOC_FN_SE12DungNaturalChestRoot1",
+    "modl": "Dungeons\\Root\\Interior\\misc\\TreasureStump.NIF"
+  },
+  {
+    "edid": "XPEbroccaCrematoryRetort",
+    "formid": "Oblivion.esm:08054E",
+    "full": "LOC_FN_XPEbroccaCrematoryRetort",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
+  },
+  {
+    "edid": "SE38DinUrn",
+    "formid": "Oblivion.esm:080579",
+    "full": "LOC_FN_SE38DinUrn",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "XPEbroccaCremationUrn",
+    "formid": "Oblivion.esm:08057A",
+    "full": "LOC_FN_XPEbroccaCremationUrn",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "SE05MazaddhaCupboard",
+    "formid": "Oblivion.esm:081364",
+    "full": "LOC_FN_SE05MazaddhaCupboard",
+    "modl": "Clutter\\SEfurniture\\SECupboard01.NIF"
+  },
+  {
+    "edid": "SECupboardManiaClothing",
+    "formid": "Oblivion.esm:08272F",
+    "full": "LOC_FN_SECupboardManiaClothing",
+    "modl": "Clutter\\SEfurniture\\SECupboard01.NIF"
+  },
+  {
+    "edid": "MS38GlarthirCupboard01",
+    "formid": "Oblivion.esm:0831BA",
+    "full": "LOC_FN_MS38GlarthirCupboard01",
+    "modl": "harvest\\containers\\XMSharvestMiddleCupboard01HiFi.nif"
+  },
+  {
+    "edid": "Dark08NevilleChest",
+    "formid": "Oblivion.esm:0852DA",
+    "full": "LOC_FN_Dark08NevilleChest",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "SEDredhwenVendorChest",
+    "formid": "Oblivion.esm:08DCBC",
+    "full": "LOC_FN_SEDredhwenVendorChest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "Dark18ChestLarge2",
+    "formid": "Oblivion.esm:090C11",
+    "full": "LOC_FN_Dark18ChestLarge2",
+    "modl": "Dungeons\\FortRuins\\Dungeon\\Clutter\\RFDchestLargeLidded.NIF"
+  },
+  {
+    "edid": "DungOblivionBossClawInt01",
+    "formid": "Oblivion.esm:0937E3",
+    "full": "LOC_FN_DungOblivionBossClawInt01",
+    "modl": "Oblivion\\Clutter\\Containers\\ClawStandContainer.NIF"
+  },
+  {
+    "edid": "DungOblivionBossClawExt02",
+    "formid": "Oblivion.esm:0937E4",
+    "full": "LOC_FN_DungOblivionBossClawExt02",
+    "modl": "Oblivion\\Clutter\\Containers\\ClawfleshContainer.NIF"
+  },
+  {
+    "edid": "SE12DungNaturalChestRoot2",
+    "formid": "Oblivion.esm:09721D",
+    "full": "LOC_FN_SE12DungNaturalChestRoot2",
+    "modl": "Dungeons\\Root\\Interior\\misc\\TreasureStump.NIF"
+  },
+  {
+    "edid": "SE12DungNaturalChestRoot3",
+    "formid": "Oblivion.esm:09721F",
+    "full": "LOC_FN_SE12DungNaturalChestRoot3",
+    "modl": "Dungeons\\Root\\Interior\\misc\\TreasureStump.NIF"
+  },
+  {
+    "edid": "DarkSellChestUnderling",
+    "formid": "Oblivion.esm:09E658",
+    "full": "LOC_FN_DarkSellChestUnderling",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "DungBanditChestCampLoot",
+    "formid": "Oblivion.esm:09F8BB",
+    "full": "LOC_FN_DungBanditChestCampLoot",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "HackdirtCrate",
+    "formid": "Oblivion.esm:0A2E54",
+    "full": "LOC_FN_HackdirtCrate",
+    "modl": "Dungeons\\Misc\\DUNCrate03.NIF"
+  },
+  {
+    "edid": "ChestHouseTreasuryLower01",
+    "formid": "Oblivion.esm:0A496A",
+    "full": "LOC_FN_ChestHouseTreasuryLower01",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "ChestHouseTreasuryLower02",
+    "formid": "Oblivion.esm:0A496B",
+    "full": "LOC_FN_ChestHouseTreasuryLower02",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "ChestHouseTreasuryMiddle01",
+    "formid": "Oblivion.esm:0A496C",
+    "full": "LOC_FN_ChestHouseTreasuryMiddle01",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ChestHouseTreasuryMiddle02",
+    "formid": "Oblivion.esm:0A496D",
+    "full": "LOC_FN_ChestHouseTreasuryMiddle02",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ChestHouseTreasuryUpper01",
+    "formid": "Oblivion.esm:0A496E",
+    "full": "LOC_FN_ChestHouseTreasuryUpper01",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ChestHouseTreasuryUpper02",
+    "formid": "Oblivion.esm:0A496F",
+    "full": "LOC_FN_ChestHouseTreasuryUpper02",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ChestHouseArmoryLower01",
+    "formid": "Oblivion.esm:0A4973",
+    "full": "LOC_FN_ChestHouseArmoryLower01",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "ChestHouseArmoryLower02",
+    "formid": "Oblivion.esm:0A4974",
+    "full": "LOC_FN_ChestHouseArmoryLower02",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "ChestHouseArmoryMiddle01",
+    "formid": "Oblivion.esm:0A4975",
+    "full": "LOC_FN_ChestHouseArmoryMiddle01",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ChestHouseArmoryMiddle02",
+    "formid": "Oblivion.esm:0A4976",
+    "full": "LOC_FN_ChestHouseArmoryMiddle02",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ChestHouseArmoryUpper01",
+    "formid": "Oblivion.esm:0A4977",
+    "full": "LOC_FN_ChestHouseArmoryUpper01",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ChestHouseArmoryUpper02",
+    "formid": "Oblivion.esm:0A4978",
+    "full": "LOC_FN_ChestHouseArmoryUpper02",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "MS27HerminiaCinnaDesk",
+    "formid": "Oblivion.esm:0A6571",
+    "full": "LOC_FN_MS27HerminiaCinnaDesk",
+    "modl": "Furniture\\UpperClass\\UpperDesk01.NIF"
+  },
+  {
+    "edid": "SackGold",
+    "formid": "Oblivion.esm:0C540C",
+    "full": "LOC_FN_SackGold",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "DeskClutterUpperEmpty",
+    "formid": "Oblivion.esm:0C5531",
+    "full": "LOC_FN_DeskClutterUpperEmpty",
+    "modl": "Furniture\\UpperClass\\UpperDesk01.NIF"
+  },
+  {
+    "edid": "WildernessChestFortColdcornEEgg02",
+    "formid": "Oblivion.esm:0C599E",
+    "full": "LOC_FN_WildernessChestFortColdcornEEgg02",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "WildernessChestFortColdcornEEgg01",
+    "formid": "Oblivion.esm:0C59A0",
+    "full": "LOC_FN_WildernessChestFortColdcornEEgg01",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "WildernessChestFortGoldThroatEEgg01",
+    "formid": "Oblivion.esm:0C6537",
+    "full": "LOC_FN_WildernessChestFortGoldThroatEEgg01",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "WildernessChestFortFacianEEgg01",
+    "formid": "Oblivion.esm:0C6539",
+    "full": "LOC_FN_WildernessChestFortFacianEEgg01",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "WildernessChestFortVareilaEEgg01",
+    "formid": "Oblivion.esm:0C653C",
+    "full": "LOC_FN_WildernessChestFortVareilaEEgg01",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "WildernessChestFortIronyEEgg01",
+    "formid": "Oblivion.esm:0C654B",
+    "full": "LOC_FN_WildernessChestFortIronyEEgg01",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "WildernessConjurerChest02",
+    "formid": "Oblivion.esm:0C75D6",
+    "full": "LOC_FN_WildernessConjurerChest02",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "WildernessMarauderChest01",
+    "formid": "Oblivion.esm:0C75DB",
+    "full": "LOC_FN_WildernessMarauderChest01",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "WildernessNecroChest02",
+    "formid": "Oblivion.esm:0C75DE",
+    "full": "LOC_FN_WildernessNecroChest02",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "WildernessMarauderChest02",
+    "formid": "Oblivion.esm:0C75E1",
+    "full": "LOC_FN_WildernessMarauderChest02",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "WildernessVampireChest01",
+    "formid": "Oblivion.esm:0C75E3",
+    "full": "LOC_FN_WildernessVampireChest01",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "WildernessGoblinChest03",
+    "formid": "Oblivion.esm:0C75E5",
+    "full": "LOC_FN_WildernessGoblinChest03",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "WildernessMarauderChest04Healing",
+    "formid": "Oblivion.esm:0C75E6",
+    "full": "LOC_FN_WildernessMarauderChest04Healing",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "WildernessVampireChest02",
+    "formid": "Oblivion.esm:0C75E7",
+    "full": "LOC_FN_WildernessVampireChest02",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "WildernessVampireChest03",
+    "formid": "Oblivion.esm:0C75E8",
+    "full": "LOC_FN_WildernessVampireChest03",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "MG07CoffinManduin",
+    "formid": "Oblivion.esm:0C80DD",
+    "full": "LOC_FN_MG07CoffinManduin",
+    "modl": "Dungeons\\Misc\\CoffinClosed03.NIF"
+  },
+  {
+    "edid": "VilverinNecroSack",
+    "formid": "Oblivion.esm:0C810B",
+    "full": "LOC_FN_VilverinNecroSack",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "BlackRockChest01",
+    "formid": "Oblivion.esm:0CA18C",
+    "full": "LOC_FN_BlackRockChest01",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "BrindleHomeChest",
+    "formid": "Oblivion.esm:181CC9",
+    "full": "LOC_FN_BrindleHomeChest",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "ChestHouseHealingUpper02",
+    "formid": "Oblivion.esm:181D1C",
+    "full": "LOC_FN_ChestHouseHealingUpper02",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ChestHouseHealingUpper01",
+    "formid": "Oblivion.esm:181D1D",
+    "full": "LOC_FN_ChestHouseHealingUpper01",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ChestJewelryMiddle01",
+    "formid": "Oblivion.esm:18B72C",
+    "full": "LOC_FN_ChestJewelryMiddle01",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "1grayfoxarmorychest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0011D7",
+    "full": "LOC_FN_1grayfoxarmorychest",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOODungSackMid02TreasuryRGC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00164A",
+    "full": "LOC_FN_ZOOODungSackMid02TreasuryRGC",
+    "modl": "Clutter\\Sack02.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01NobleT100AlvaUlani",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F48",
+    "full": "LOC_FN_ZOOOChestJewelry01NobleT100AlvaUlani",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleTreasuryLesserT100AmAl",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F4A",
+    "full": "LOC_FN_ZOOOChestUpper01NobleTreasuryLesserT100AmAl",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestClutterMiddleSame01AsAt",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F56",
+    "full": "LOC_FN_ZOOOChestClutterMiddleSame01AsAt",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestClutterMiddleSame02AsAt",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F57",
+    "full": "LOC_FN_ZOOOChestClutterMiddleSame02AsAt",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestClutterUpper02AsAt",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F58",
+    "full": "LOC_FN_ZOOOChestClutterUpper02AsAt",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01UpperT100Baer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F59",
+    "full": "LOC_FN_ZOOOChestJewelry01UpperT100Baer",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperArmoryPatneim",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F7F",
+    "full": "LOC_FN_ZOOOChestMiddle02UpperArmoryPatneim",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01MiddleCarandial",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F80",
+    "full": "LOC_FN_ZOOOChestJewelry01MiddleCarandial",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01UpperT100DovynAren",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F89",
+    "full": "LOC_FN_ZOOOChestJewelry01UpperT100DovynAren",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01MiddleT100Droshanji",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F8B",
+    "full": "LOC_FN_ZOOOChestJewelry01MiddleT100Droshanji",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperArmoryDynariAmnis",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F8D",
+    "full": "LOC_FN_ZOOOChestMiddle02UpperArmoryDynariAmnis",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper02NobleClutterDynariAmnis",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F8F",
+    "full": "LOC_FN_ZOOOChestUpper02NobleClutterDynariAmnis",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleAlchemyT100EidKee",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F90",
+    "full": "LOC_FN_ZOOOChestUpper01NobleAlchemyT100EidKee",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleArmoryT100EidKee",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F92",
+    "full": "LOC_FN_ZOOOChestUpper01NobleArmoryT100EidKee",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleTreasuryT100EidKee",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F93",
+    "full": "LOC_FN_ZOOOChestUpper01NobleTreasuryT100EidKee",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperArmoryLesserWizT100Glarthir",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F98",
+    "full": "LOC_FN_ZOOOChestMiddle02UpperArmoryLesserWizT100Glarthir",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle01UpperTreasuryT100Glarthir",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F99",
+    "full": "LOC_FN_ZOOOChestMiddle01UpperTreasuryT100Glarthir",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleTreasuryLesserT100Glarthir",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F9A",
+    "full": "LOC_FN_ZOOOChestUpper01NobleTreasuryLesserT100Glarthir",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper02NobleClutterT100Glarthir",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F9B",
+    "full": "LOC_FN_ZOOOChestUpper02NobleClutterT100Glarthir",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01MiddleGreyThroat",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001F9F",
+    "full": "LOC_FN_ZOOOChestJewelry01MiddleGreyThroat",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01UpperHafidhollowleg",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001FA1",
+    "full": "LOC_FN_ZOOOChestJewelry01UpperHafidhollowleg",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01UpperT100HalLiurz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001FA3",
+    "full": "LOC_FN_ZOOOChestJewelry01UpperT100HalLiurz",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01NobleTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0026F7",
+    "full": "LOC_FN_ZOOOChestJewelry01NobleTop",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01UpperTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0026F8",
+    "full": "LOC_FN_ZOOOChestJewelry01UpperTop",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper02NobleMagicTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0026F9",
+    "full": "LOC_FN_ZOOOChestUpper02NobleMagicTop",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleArmoryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0026FB",
+    "full": "LOC_FN_ZOOOChestUpper01NobleArmoryTop",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleArmory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002700",
+    "full": "LOC_FN_ZOOOChestUpper01NobleArmory",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper02NobleClutterTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:002713",
+    "full": "LOC_FN_ZOOOChestUpper02NobleClutterTop",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "CupboardClutterMiddleHelviusCecia",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0032EB",
+    "full": "LOC_FN_CupboardClutterMiddleHelviusCecia",
+    "modl": "Furniture\\UpperClass\\UpperCupboard01.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01MiddleInventius",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E3F",
+    "full": "LOC_FN_ZOOOChestJewelry01MiddleInventius",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01UpperT100Janus",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E41",
+    "full": "LOC_FN_ZOOOChestJewelry01UpperT100Janus",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01UpperT100JesanSextius",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E43",
+    "full": "LOC_FN_ZOOOChestJewelry01UpperT100JesanSextius",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperArmoryLesserKastusSintav",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E45",
+    "full": "LOC_FN_ZOOOChestMiddle02UpperArmoryLesserKastusSintav",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle01UpperTreasuryT100Kizra",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E47",
+    "full": "LOC_FN_ZOOOChestMiddle01UpperTreasuryT100Kizra",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperArmoryLesserT100Kizra",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E49",
+    "full": "LOC_FN_ZOOOChestMiddle02UpperArmoryLesserT100Kizra",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperArmoryLesserWizT100Kizra",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E4A",
+    "full": "LOC_FN_ZOOOChestMiddle02UpperArmoryLesserWizT100Kizra",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01MiddleMarinusC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E4B",
+    "full": "LOC_FN_ZOOOChestJewelry01MiddleMarinusC",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01NobleT100Numeen",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E4F",
+    "full": "LOC_FN_ZOOOChestJewelry01NobleT100Numeen",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01NobleT100PrimoAntonius",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E52",
+    "full": "LOC_FN_ZOOOChestJewelry01NobleT100PrimoAntonius",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01MiddleRajhans",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E54",
+    "full": "LOC_FN_ZOOOChestJewelry01MiddleRajhans",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01UpperT100Srathad",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E56",
+    "full": "LOC_FN_ZOOOChestJewelry01UpperT100Srathad",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01UpperT100SorisAnerim",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E58",
+    "full": "LOC_FN_ZOOOChestJewelry01UpperT100SorisAnerim",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01UpperT100StantusVarrid",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E5B",
+    "full": "LOC_FN_ZOOOChestJewelry01UpperT100StantusVarrid",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01MiddleSuriusAfranius",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E5D",
+    "full": "LOC_FN_ZOOOChestJewelry01MiddleSuriusAfranius",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01UpperT100Talasma",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E5F",
+    "full": "LOC_FN_ZOOOChestJewelry01UpperT100Talasma",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01NobleT100ToutiusSextius",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E62",
+    "full": "LOC_FN_ZOOOChestJewelry01NobleT100ToutiusSextius",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01UpperT100ToutiusSextius",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E64",
+    "full": "LOC_FN_ZOOOChestJewelry01UpperT100ToutiusSextius",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleArmoryT100UlrichLeland",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E66",
+    "full": "LOC_FN_ZOOOChestUpper01NobleArmoryT100UlrichLeland",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper02NobleMagicTopT100Umbacano",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E68",
+    "full": "LOC_FN_ZOOOChestUpper02NobleMagicTopT100Umbacano",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleArmoryLesserDonton",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E6A",
+    "full": "LOC_FN_ZOOOChestUpper01NobleArmoryLesserDonton",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01NobleT100VilenaDonton",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E6C",
+    "full": "LOC_FN_ZOOOChestJewelry01NobleT100VilenaDonton",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01UpperT100Wumeek",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003E6E",
+    "full": "LOC_FN_ZOOOChestJewelry01UpperT100Wumeek",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper02NobleClutter",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00405A",
+    "full": "LOC_FN_ZOOOChestUpper02NobleClutter",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper02NobleClutterT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004440",
+    "full": "LOC_FN_ZOOOChestUpper02NobleClutterT100",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle01UpperT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004441",
+    "full": "LOC_FN_ZOOOChestMiddle01UpperT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle01UpperTreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004442",
+    "full": "LOC_FN_ZOOOChestMiddle01UpperTreasuryT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle01UpperTreasuryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004443",
+    "full": "LOC_FN_ZOOOChestMiddle01UpperTreasuryLesserT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004444",
+    "full": "LOC_FN_ZOOOChestMiddle02UpperArmoryT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperArmoryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004445",
+    "full": "LOC_FN_ZOOOChestMiddle02UpperArmoryLesserT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperClothingT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004446",
+    "full": "LOC_FN_ZOOOChestMiddle02UpperClothingT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperClutterT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004447",
+    "full": "LOC_FN_ZOOOChestMiddle02UpperClutterT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper02NobleTreasuryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004638",
+    "full": "LOC_FN_ZOOOChestUpper02NobleTreasuryLesserT100",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper02NobleMagicTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004639",
+    "full": "LOC_FN_ZOOOChestUpper02NobleMagicTopT100",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper02NobleMagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00463A",
+    "full": "LOC_FN_ZOOOChestUpper02NobleMagicT100",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper02NobleClutterTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00463B",
+    "full": "LOC_FN_ZOOOChestUpper02NobleClutterTopT100",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleTreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00463C",
+    "full": "LOC_FN_ZOOOChestUpper01NobleTreasuryT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleArmoryTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00463D",
+    "full": "LOC_FN_ZOOOChestUpper01NobleArmoryTopT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00463E",
+    "full": "LOC_FN_ZOOOChestUpper01NobleArmoryT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleAlchemyTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00463F",
+    "full": "LOC_FN_ZOOOChestUpper01NobleAlchemyTopT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleAlchemyLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004640",
+    "full": "LOC_FN_ZOOOChestUpper01NobleAlchemyLesserT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleAlchemyLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004641",
+    "full": "LOC_FN_ZOOOChestUpper01NobleAlchemyLesser",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01NobleTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004642",
+    "full": "LOC_FN_ZOOOChestJewelry01NobleTopT100",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01NobleT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004643",
+    "full": "LOC_FN_ZOOOChestJewelry01NobleT100",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01UpperTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004644",
+    "full": "LOC_FN_ZOOOChestJewelry01UpperTopT100",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01UpperT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004645",
+    "full": "LOC_FN_ZOOOChestJewelry01UpperT100",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleArmoryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004994",
+    "full": "LOC_FN_ZOOOChestUpper01NobleArmoryLesser",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleArmoryFighter",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004EBB",
+    "full": "LOC_FN_ZOOOChestUpper01NobleArmoryFighter",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleTreasuryFighter",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004EBC",
+    "full": "LOC_FN_ZOOOChestUpper01NobleTreasuryFighter",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestMelusPetilius",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00528A",
+    "full": "LOC_FN_ZOOOChestMelusPetilius",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOOCupboardNoble01ClothingRespawn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005DEE",
+    "full": "LOC_FN_ZOOOCupboardNoble01ClothingRespawn",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleTreasuryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005DEF",
+    "full": "LOC_FN_ZOOOChestUpper01NobleTreasuryLesser",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleTreasuryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005DF0",
+    "full": "LOC_FN_ZOOOChestUpper01NobleTreasuryLesserT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODrawerNoble01ClutterWares",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005DF4",
+    "full": "LOC_FN_ZOOODrawerNoble01ClutterWares",
+    "modl": "Furniture\\UpperClass\\UpperDrawer01.NIF"
+  },
+  {
+    "edid": "ZOOODrawerNoble01ClutterWaresLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005DF5",
+    "full": "LOC_FN_ZOOODrawerNoble01ClutterWaresLesser",
+    "modl": "Furniture\\UpperClass\\UpperDrawer01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleTreasuryGuildMaster",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005DF8",
+    "full": "LOC_FN_ZOOOChestUpper01NobleTreasuryGuildMaster",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestArcticFur",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0062E9",
+    "full": "LOC_FN_ZOOOChestArcticFur",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperArmoryLesserArchery",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0062ED",
+    "full": "LOC_FN_ZOOOChestMiddle02UpperArmoryLesserArchery",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleArmoryFighterT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0062F0",
+    "full": "LOC_FN_ZOOOChestUpper01NobleArmoryFighterT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "XuniquerobechestrindirOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006A3F",
+    "full": "LOC_FN_XuniquerobechestrindirOOO",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "MQCloudRulerArmoryChestSpecial",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006D3B",
+    "full": "LOC_FN_MQCloudRulerArmoryChestSpecial",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODrawerNoble02ClutterWizTraven",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006D45",
+    "full": "LOC_FN_ZOOODrawerNoble02ClutterWizTraven",
+    "modl": "Furniture\\UpperClass\\UpperDrawer02.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperArmoryLesserWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006D4C",
+    "full": "LOC_FN_ZOOOChestMiddle02UpperArmoryLesserWiz",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperArmoryLesserWizT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006D4D",
+    "full": "LOC_FN_ZOOOChestMiddle02UpperArmoryLesserWizT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "XSunChildBookChest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006F70",
+    "full": "LOC_FN_XSunChildBookChest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleArmoryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00743D",
+    "full": "LOC_FN_ZOOOChestUpper01NobleArmoryLesserT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01MiddleMelusPetilius",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00752E",
+    "full": "LOC_FN_ZOOOChestJewelry01MiddleMelusPetilius",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01Middle",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007952",
+    "full": "LOC_FN_ZOOOChestJewelry01Middle",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01MiddleT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007953",
+    "full": "LOC_FN_ZOOOChestJewelry01MiddleT100",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleAlchemyTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007CE6",
+    "full": "LOC_FN_ZOOOChestUpper01NobleAlchemyTop",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleAlchemy",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007D02",
+    "full": "LOC_FN_ZOOOChestUpper01NobleAlchemy",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02LowerArmory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008140",
+    "full": "LOC_FN_ZOOOChestMiddle02LowerArmory",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOCupboardNoble01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00824D",
+    "full": "LOC_FN_ZOOOCupboardNoble01",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOCupboardNoble02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00824E",
+    "full": "LOC_FN_ZOOOCupboardNoble02",
+    "modl": "Furniture\\UpperClass\\UpperCubboard02.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02LegionArmory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008677",
+    "full": "LOC_FN_ZOOOChestMiddle02LegionArmory",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOCupboardNoble02CeramicTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00876D",
+    "full": "LOC_FN_ZOOOCupboardNoble02CeramicTop",
+    "modl": "Furniture\\UpperClass\\UpperCubboard02.NIF"
+  },
+  {
+    "edid": "ZOOOCupboardNoble02Ceramic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00876E",
+    "full": "LOC_FN_ZOOOCupboardNoble02Ceramic",
+    "modl": "Furniture\\UpperClass\\UpperCubboard02.NIF"
+  },
+  {
+    "edid": "ZOOOCupboardNoble02SilverTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008779",
+    "full": "LOC_FN_ZOOOCupboardNoble02SilverTop",
+    "modl": "Furniture\\UpperClass\\UpperCubboard02.NIF"
+  },
+  {
+    "edid": "ZOOOCupboardNoble02Silver",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00877A",
+    "full": "LOC_FN_ZOOOCupboardNoble02Silver",
+    "modl": "Furniture\\UpperClass\\UpperCubboard02.NIF"
+  },
+  {
+    "edid": "ZOOODrawerNoble01ClothingTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008784",
+    "full": "LOC_FN_ZOOODrawerNoble01ClothingTop",
+    "modl": "Furniture\\UpperClass\\UpperDrawer01.NIF"
+  },
+  {
+    "edid": "ZOOODrawerNoble02Clothing",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008785",
+    "full": "LOC_FN_ZOOODrawerNoble02Clothing",
+    "modl": "Furniture\\UpperClass\\UpperDrawer02.NIF"
+  },
+  {
+    "edid": "ZOOOCupboardNoble01SilverTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008786",
+    "full": "LOC_FN_ZOOOCupboardNoble01SilverTop",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOCupboardNoble01Silver",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008787",
+    "full": "LOC_FN_ZOOOCupboardNoble01Silver",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOCupboardNoble01FoodTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008788",
+    "full": "LOC_FN_ZOOOCupboardNoble01FoodTop",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOCupboardNoble01Food",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008789",
+    "full": "LOC_FN_ZOOOCupboardNoble01Food",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01NobleTopSpecial",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00925D",
+    "full": "LOC_FN_ZOOOChestJewelry01NobleTopSpecial",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOCupboardNoble01ClothingTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00925E",
+    "full": "LOC_FN_ZOOOCupboardNoble01ClothingTop",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODrawerNoble01Clothing",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00925F",
+    "full": "LOC_FN_ZOOODrawerNoble01Clothing",
+    "modl": "Furniture\\UpperClass\\UpperDrawer01.NIF"
+  },
+  {
+    "edid": "ZOOODrawerNoble01ClothingLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:009261",
+    "full": "LOC_FN_ZOOODrawerNoble01ClothingLesser",
+    "modl": "Furniture\\UpperClass\\UpperDrawer01.NIF"
+  },
+  {
+    "edid": "ZOOOCupboardNoble01ClothingLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:009262",
+    "full": "LOC_FN_ZOOOCupboardNoble01ClothingLesser",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01PalaceLegionArmory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0096B0",
+    "full": "LOC_FN_ZOOOChestUpper01PalaceLegionArmory",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleTreasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:009C7D",
+    "full": "LOC_FN_ZOOOChestUpper01NobleTreasury",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODeskUpper02NobleRespawn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A177",
+    "full": "LOC_FN_ZOOODeskUpper02NobleRespawn",
+    "modl": "Furniture\\UpperClass\\UpperDesk01.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperArmory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A178",
+    "full": "LOC_FN_ZOOOChestMiddle02UpperArmory",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOCupboardNoble01FoodRespawn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A179",
+    "full": "LOC_FN_ZOOOCupboardNoble01FoodRespawn",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperClutter",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A181",
+    "full": "LOC_FN_ZOOOChestMiddle02UpperClutter",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle01UpperTreasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A183",
+    "full": "LOC_FN_ZOOOChestMiddle01UpperTreasury",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOODrawerNoble01Clothingweak",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A184",
+    "full": "LOC_FN_ZOOODrawerNoble01Clothingweak",
+    "modl": "Furniture\\UpperClass\\UpperDrawer01.NIF"
+  },
+  {
+    "edid": "ZOOODrawerMiddle01Clutter",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A66D",
+    "full": "LOC_FN_ZOOODrawerMiddle01Clutter",
+    "modl": "Furniture\\MiddleClass\\MiddleDrawers01.NIF"
+  },
+  {
+    "edid": "ZOOODrawerNoble02ClutterWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A66E",
+    "full": "LOC_FN_ZOOODrawerNoble02ClutterWiz",
+    "modl": "Furniture\\UpperClass\\UpperDrawer02.NIF"
+  },
+  {
+    "edid": "ZOOODrawerMiddle01Clothing",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A671",
+    "full": "LOC_FN_ZOOODrawerMiddle01Clothing",
+    "modl": "Furniture\\MiddleClass\\MiddleDrawers01.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperArmoryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00A676",
+    "full": "LOC_FN_ZOOOChestMiddle02UpperArmoryLesser",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "XRareRobeChestchednyhalOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA0A",
+    "full": "LOC_FN_XRareRobeChestchednyhalOOO",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "XuniquerobechestchedynhalOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AA0C",
+    "full": "LOC_FN_XuniquerobechestchedynhalOOO",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "XRareRobeChestAnvilOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AEFA",
+    "full": "LOC_FN_XRareRobeChestAnvilOOO",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "XuniquerobechestskingradOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AEFB",
+    "full": "LOC_FN_XuniquerobechestskingradOOO",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "XuniquerobechestsanvilOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AEFD",
+    "full": "LOC_FN_XuniquerobechestsanvilOOO",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "XuniquerobechestbravilOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AF00",
+    "full": "LOC_FN_XuniquerobechestbravilOOO",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "XRareRobeChestbravilOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AF02",
+    "full": "LOC_FN_XRareRobeChestbravilOOO",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01UpperTopT100Seridur",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00AFE1",
+    "full": "LOC_FN_ZOOOChestJewelry01UpperTopT100Seridur",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper02NobleTreasuryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B057",
+    "full": "LOC_FN_ZOOOChestUpper02NobleTreasuryLesser",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperClothing",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B05A",
+    "full": "LOC_FN_ZOOOChestMiddle02UpperClothing",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle01UpperTreasuryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B05E",
+    "full": "LOC_FN_ZOOOChestMiddle01UpperTreasuryLesser",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleAlchemyLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B05F",
+    "full": "LOC_FN_ZOOOChestUpper01NobleAlchemyLesser",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "XRareRobeleyawinnOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B3EA",
+    "full": "LOC_FN_XRareRobeleyawinnOOO",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "ChestVendorPortWeapons",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00D470",
+    "full": "LOC_FN_ChestVendorPortWeapons",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "zOOODragonborneChest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0120B1",
+    "full": "LOC_FN_zOOODragonborneChest",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "BarrelFoodArctic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:012DAD",
+    "full": "LOC_FN_BarrelFoodArctic",
+    "modl": "Clutter\\MiddleClass\\MiddleBarrelTopped01.NIF"
+  },
+  {
+    "edid": "DungZBBBlootz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:012F18",
+    "full": "LOC_FN_DungZBBBlootz",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleOrcishShield",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0141E6",
+    "full": "LOC_FN_ZOOOChestUpper01NobleOrcishShield",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleDragonClaymore",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0141EC",
+    "full": "LOC_FN_ZOOOChestUpper01NobleDragonClaymore",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleRareBook",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0141FE",
+    "full": "LOC_FN_ZOOOChestUpper01NobleRareBook",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01NobleArmoryFighterT100Thorn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014266",
+    "full": "LOC_FN_ZOOOChestUpper01NobleArmoryFighterT100Thorn",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZChestStorageFG",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014313",
+    "full": "LOC_FN_ZChestStorageFG",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZChestStorageMG",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014316",
+    "full": "LOC_FN_ZChestStorageMG",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZChestStorage3Band",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01431A",
+    "full": "LOC_FN_ZChestStorage3Band",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidNob02MagicTopMorahame",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0147B3",
+    "full": "LOC_FN_ZOOODungAyleidNob02MagicTopMorahame",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02UpperArmoryLesserWizT100Letter",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014CBC",
+    "full": "LOC_FN_ZOOOChestMiddle02UpperArmoryLesserWizT100Letter",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleArmoryPegasusSword",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:016488",
+    "full": "LOC_FN_ZOOODungChestNobleArmoryPegasusSword",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ChestVendorTraderMed01Argonian",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01701F",
+    "full": "LOC_FN_ChestVendorTraderMed01Argonian",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ChestVendorTraderTop01Argonian",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01702A",
+    "full": "LOC_FN_ChestVendorTraderTop01Argonian",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ChestAlawen",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0186AF",
+    "full": "LOC_FN_ChestAlawen",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidNob02ArmoryT100Umbacano",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:018BB3",
+    "full": "LOC_FN_ZOOODungAyleidNob02ArmoryT100Umbacano",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperArmoryGood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01AA9D",
+    "full": "LOC_FN_ZOOODungChestMiddle02UpperArmoryGood",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper01Noble",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01C247",
+    "full": "LOC_FN_ZOOOChestUpper01Noble",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01Noble",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01C248",
+    "full": "LOC_FN_ZOOOChestJewelry01Noble",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01Common",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01C249",
+    "full": "LOC_FN_ZOOOChestJewelry01Common",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01Upper",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01C24A",
+    "full": "LOC_FN_ZOOOChestJewelry01Upper",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle01Upper",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01C24B",
+    "full": "LOC_FN_ZOOOChestMiddle01Upper",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle02Upper",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01C24C",
+    "full": "LOC_FN_ZOOOChestMiddle02Upper",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestLower02Common",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01C24D",
+    "full": "LOC_FN_ZOOOChestLower02Common",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestLower01Common",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01C24E",
+    "full": "LOC_FN_ZOOOChestLower01Common",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "ZOOOChestUpper02NobleMagic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01C24F",
+    "full": "LOC_FN_ZOOOChestUpper02NobleMagic",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODeskExecClutter01Noble",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01C259",
+    "full": "LOC_FN_ZOOODeskExecClutter01Noble",
+    "modl": "Furniture\\UpperClass\\UpperExecDesk01.NIF"
+  },
+  {
+    "edid": "ChestVendorTraderTop01Slaver",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CA81",
+    "full": "LOC_FN_ChestVendorTraderTop01Slaver",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ChestVendorTraderMed01Slaver",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CA82",
+    "full": "LOC_FN_ChestVendorTraderMed01Slaver",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODrawerUpper01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC31",
+    "full": "LOC_FN_ZOOODrawerUpper01",
+    "modl": "Furniture\\UpperClass\\UpperDrawer01.NIF"
+  },
+  {
+    "edid": "ZOOODrawerUpper02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC32",
+    "full": "LOC_FN_ZOOODrawerUpper02",
+    "modl": "Furniture\\UpperClass\\UpperDrawer02.NIF"
+  },
+  {
+    "edid": "ZOOODrawerUpper03",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC33",
+    "full": "LOC_FN_ZOOODrawerUpper03",
+    "modl": "Furniture\\UpperClass\\UpperDrawer03.NIF"
+  },
+  {
+    "edid": "ZOOODrawerMiddle01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC34",
+    "full": "LOC_FN_ZOOODrawerMiddle01",
+    "modl": "Furniture\\MiddleClass\\MiddleDrawers01.NIF"
+  },
+  {
+    "edid": "ZOOODrawerMiddle02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC35",
+    "full": "LOC_FN_ZOOODrawerMiddle02",
+    "modl": "Furniture\\MiddleClass\\MiddleDrawers02.NIF"
+  },
+  {
+    "edid": "ZOOODrawerLower02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC36",
+    "full": "LOC_FN_ZOOODrawerLower02",
+    "modl": "Clutter\\LowerClass\\LowerClassDrawers01.NIF"
+  },
+  {
+    "edid": "ZOOODrawerLower01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC37",
+    "full": "LOC_FN_ZOOODrawerLower01",
+    "modl": "Clutter\\LowerClass\\LowerClassDrawers01.NIF"
+  },
+  {
+    "edid": "ZOOODeskUpper02Noble",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC38",
+    "full": "LOC_FN_ZOOODeskUpper02Noble",
+    "modl": "Furniture\\UpperClass\\UpperDesk01.NIF"
+  },
+  {
+    "edid": "ZOOODeskCommon01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC39",
+    "full": "LOC_FN_ZOOODeskCommon01",
+    "modl": "Furniture\\MiddleClass\\MiddleDesk01.NIF"
+  },
+  {
+    "edid": "DungBanditBossChest02OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC3F",
+    "full": "LOC_FN_DungBanditBossChest02OOO",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "DungConjurerBossChestAlyied01OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC40",
+    "full": "LOC_FN_DungConjurerBossChestAlyied01OOO",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "DungConjurerBossChestAlyied02OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC41",
+    "full": "LOC_FN_DungConjurerBossChestAlyied02OOO",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "DungMarauderBossChestAlyied02OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC42",
+    "full": "LOC_FN_DungMarauderBossChestAlyied02OOO",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "DungMarauderChestAlyied01OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC43",
+    "full": "LOC_FN_DungMarauderChestAlyied01OOO",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "DungMarauderChestAlyied02OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC44",
+    "full": "LOC_FN_DungMarauderChestAlyied02OOO",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "DungMythEnemyBossChestAlyied01OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC45",
+    "full": "LOC_FN_DungMythEnemyBossChestAlyied01OOO",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "DungMythEnemyBossChestAlyied02OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC46",
+    "full": "LOC_FN_DungMythEnemyBossChestAlyied02OOO",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "DungNecroBossChestFortOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC47",
+    "full": "LOC_FN_DungNecroBossChestFortOOO",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "DungNecroBossCoffinOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC48",
+    "full": "LOC_FN_DungNecroBossCoffinOOO",
+    "modl": "Dungeons\\Misc\\CoffinClosed03.NIF"
+  },
+  {
+    "edid": "DungOblivionBossClawExt02OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC49",
+    "full": "LOC_FN_DungOblivionBossClawExt02OOO",
+    "modl": "Oblivion\\Clutter\\Containers\\ClawfleshContainer.NIF"
+  },
+  {
+    "edid": "DungOblivionBossClawInt01OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC4A",
+    "full": "LOC_FN_DungOblivionBossClawInt01OOO",
+    "modl": "Oblivion\\Clutter\\Containers\\ClawStandContainer.NIF"
+  },
+  {
+    "edid": "DungOblivionBossSack01OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC4B",
+    "full": "LOC_FN_DungOblivionBossSack01OOO",
+    "modl": "Oblivion\\Clutter\\Containers\\GroundFleshContainer02.NIF"
+  },
+  {
+    "edid": "DungTombBossCoffinOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC4C",
+    "full": "LOC_FN_DungTombBossCoffinOOO",
+    "modl": "Dungeons\\Misc\\CoffinClosed03.NIF"
+  },
+  {
+    "edid": "FieldhouseCave03ChestOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC4D",
+    "full": "LOC_FN_FieldhouseCave03ChestOOO",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "SQ04DungMythEnemyChest02OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC4E",
+    "full": "LOC_FN_SQ04DungMythEnemyChest02OOO",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "TG09FathisArenChestOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC4F",
+    "full": "LOC_FN_TG09FathisArenChestOOO",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "TG09FathisArenChest1OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC50",
+    "full": "LOC_FN_TG09FathisArenChest1OOO",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "Dark18ChestLarge1OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC51",
+    "full": "LOC_FN_Dark18ChestLarge1OOO",
+    "modl": "Dungeons\\FortRuins\\Dungeon\\Clutter\\RFDchestLargeLidded.NIF"
+  },
+  {
+    "edid": "Dark13VampireChest01OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC52",
+    "full": "LOC_FN_Dark13VampireChest01OOO",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "Dark02CaptainChestOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC53",
+    "full": "LOC_FN_Dark02CaptainChestOOO",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ChestJewelryUpper01OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC54",
+    "full": "LOC_FN_ChestJewelryUpper01OOO",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ChestJewelryNoble01OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC55",
+    "full": "LOC_FN_ChestJewelryNoble01OOO",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ChestClarabellaCaptainOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC56",
+    "full": "LOC_FN_ChestClarabellaCaptainOOO",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "BlackRockChest02OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC57",
+    "full": "LOC_FN_BlackRockChest02OOO",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungJewelry01Common",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2AD",
+    "full": "LOC_FN_ZOOODungJewelry01Common",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle01UpperT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2B4",
+    "full": "LOC_FN_ZOOODungChestMiddle01UpperT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle01UpperTreasuryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2B5",
+    "full": "LOC_FN_ZOOODungChestMiddle01UpperTreasuryLesserT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle01UpperTreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2B6",
+    "full": "LOC_FN_ZOOODungChestMiddle01UpperTreasuryT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02LowerArmory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2B7",
+    "full": "LOC_FN_ZOOODungChestMiddle02LowerArmory",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperArmoryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2B8",
+    "full": "LOC_FN_ZOOODungChestMiddle02UpperArmoryLesserT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperArmoryLesserWizT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2B9",
+    "full": "LOC_FN_ZOOODungChestMiddle02UpperArmoryLesserWizT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2BA",
+    "full": "LOC_FN_ZOOODungChestMiddle02UpperArmoryT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperClothingT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2BB",
+    "full": "LOC_FN_ZOOODungChestMiddle02UpperClothingT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperClutterT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2BC",
+    "full": "LOC_FN_ZOOODungChestMiddle02UpperClutterT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODUNGChestClutterArgonianSmuggler",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F80C",
+    "full": "LOC_FN_ZOOODUNGChestClutterArgonianSmuggler",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle01UpperTreasuryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229C3",
+    "full": "LOC_FN_ZOOODungChestMiddle01UpperTreasuryLesser",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle01UpperTreasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229C4",
+    "full": "LOC_FN_ZOOODungChestMiddle01UpperTreasury",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperArmoryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229C5",
+    "full": "LOC_FN_ZOOODungChestMiddle02UpperArmoryLesser",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperArmoryLesserWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229C6",
+    "full": "LOC_FN_ZOOODungChestMiddle02UpperArmoryLesserWiz",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperArmory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229C7",
+    "full": "LOC_FN_ZOOODungChestMiddle02UpperArmory",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperClothing",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229C8",
+    "full": "LOC_FN_ZOOODungChestMiddle02UpperClothing",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperClutter",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229C9",
+    "full": "LOC_FN_ZOOODungChestMiddle02UpperClutter",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNoble02Alchemy",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229CA",
+    "full": "LOC_FN_ZOOODungChestNoble02Alchemy",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleAlchemyLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229CB",
+    "full": "LOC_FN_ZOOODungChestNobleAlchemyLesser",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleAlchemyTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229CC",
+    "full": "LOC_FN_ZOOODungChestNobleAlchemyTopT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleArmory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229CD",
+    "full": "LOC_FN_ZOOODungChestNobleArmory",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleArmoryFighter",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229CE",
+    "full": "LOC_FN_ZOOODungChestNobleArmoryFighter",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleArmoryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229CF",
+    "full": "LOC_FN_ZOOODungChestNobleArmoryLesser",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleArmoryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D0",
+    "full": "LOC_FN_ZOOODungChestNobleArmoryTop",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleTreasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D1",
+    "full": "LOC_FN_ZOOODungChestNobleTreasury",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleTreasuryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D2",
+    "full": "LOC_FN_ZOOODungChestNobleTreasuryLesser",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleClutter",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D3",
+    "full": "LOC_FN_ZOOODungChestNobleClutter",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleClutterTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D4",
+    "full": "LOC_FN_ZOOODungChestNobleClutterTop",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleMagic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D5",
+    "full": "LOC_FN_ZOOODungChestNobleMagic",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleMagicTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D6",
+    "full": "LOC_FN_ZOOODungChestNobleMagicTop",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNoble02AlchemyT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D7",
+    "full": "LOC_FN_ZOOODungChestNoble02AlchemyT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D8",
+    "full": "LOC_FN_ZOOODungChestNobleArmoryT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleArmoryFighterT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D9",
+    "full": "LOC_FN_ZOOODungChestNobleArmoryFighterT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleArmoryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229DA",
+    "full": "LOC_FN_ZOOODungChestNobleArmoryLesserT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleArmoryTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229DB",
+    "full": "LOC_FN_ZOOODungChestNobleArmoryTopT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleClutterT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229DC",
+    "full": "LOC_FN_ZOOODungChestNobleClutterT100",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleClutterTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229DD",
+    "full": "LOC_FN_ZOOODungChestNobleClutterTopT100",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleMagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229DE",
+    "full": "LOC_FN_ZOOODungChestNobleMagicT100",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleMagicTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229DF",
+    "full": "LOC_FN_ZOOODungChestNobleMagicTopT100",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleTreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E0",
+    "full": "LOC_FN_ZOOODungChestNobleTreasuryT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleTreasuryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E1",
+    "full": "LOC_FN_ZOOODungChestNobleTreasuryLesserT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungJewelry01Middle",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E2",
+    "full": "LOC_FN_ZOOODungJewelry01Middle",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungJewelry01Noble",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E3",
+    "full": "LOC_FN_ZOOODungJewelry01Noble",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungJewelry01NobleTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E4",
+    "full": "LOC_FN_ZOOODungJewelry01NobleTop",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungJewelry01NobleTopSpecial",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E5",
+    "full": "LOC_FN_ZOOODungJewelry01NobleTopSpecial",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungJewelry01Upper",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E6",
+    "full": "LOC_FN_ZOOODungJewelry01Upper",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungJewelry01UpperTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E7",
+    "full": "LOC_FN_ZOOODungJewelry01UpperTop",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungJewelry01UpperTopT100Vamp",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E8",
+    "full": "LOC_FN_ZOOODungJewelry01UpperTopT100Vamp",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireCoffin02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E9",
+    "full": "LOC_FN_ZOOODungVampireCoffin02",
+    "modl": "Dungeons\\Misc\\CoffinClosed01.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireCoffin01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229EA",
+    "full": "LOC_FN_ZOOODungVampireCoffin01",
+    "modl": "Dungeons\\Misc\\CoffinClosed01.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestAlyied01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229EB",
+    "full": "LOC_FN_ZOOODungVampireChestAlyied01",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestAlyied02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229EC",
+    "full": "LOC_FN_ZOOODungVampireChestAlyied02",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireBossChestAlyied02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229ED",
+    "full": "LOC_FN_ZOOODungVampireBossChestAlyied02",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungJewelry01MiddleT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229EE",
+    "full": "LOC_FN_ZOOODungJewelry01MiddleT100",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungJewelry01NobleT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229EF",
+    "full": "LOC_FN_ZOOODungJewelry01NobleT100",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungJewelry01NobleTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229F0",
+    "full": "LOC_FN_ZOOODungJewelry01NobleTopT100",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungJewelry01UpperT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229F1",
+    "full": "LOC_FN_ZOOODungJewelry01UpperT100",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungJewelry01UpperTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229F2",
+    "full": "LOC_FN_ZOOODungJewelry01UpperTopT100",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungChestNobleAlchemyLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229F3",
+    "full": "LOC_FN_ZOOODungChestNobleAlchemyLesserT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry01UpperTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022A03",
+    "full": "LOC_FN_ZOOODungDarkJewelry01UpperTop",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry01Upper",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022A04",
+    "full": "LOC_FN_ZOOODungDarkJewelry01Upper",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry01NobleTopSpecial",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022A07",
+    "full": "LOC_FN_ZOOODungDarkJewelry01NobleTopSpecial",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022A08",
+    "full": "LOC_FN_ZOOODungDarkJewelry01",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry0",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022A09",
+    "full": "LOC_FN_ZOOODungDarkJewelry0",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry01Middle",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022A0A",
+    "full": "LOC_FN_ZOOODungDarkJewelry01Middle",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry01NobleTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022A0F",
+    "full": "LOC_FN_ZOOODungDarkJewelry01NobleTop",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry01Noble",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022A10",
+    "full": "LOC_FN_ZOOODungDarkJewelry01Noble",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ChestVendorzOOOCapes",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022F5F",
+    "full": "LOC_FN_ChestVendorzOOOCapes",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "OOOSE32PCUrn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:023629",
+    "full": "LOC_FN_OOOSE32PCUrn",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "OOOSE32PCChest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02362A",
+    "full": "LOC_FN_OOOSE32PCChest",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestMid01Treasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024427",
+    "full": "LOC_FN_ZOOODungVampireChestMid01Treasury",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestMid02ArmoryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02442C",
+    "full": "LOC_FN_ZOOODungVampireChestMid02ArmoryLesser",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestMid02ArmoryLesserWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02442F",
+    "full": "LOC_FN_ZOOODungVampireChestMid02ArmoryLesserWiz",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleAlchemyTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024437",
+    "full": "LOC_FN_ZOOODungVampireChestNobleAlchemyTopT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleArmoryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024445",
+    "full": "LOC_FN_ZOOODungVampireChestNobleArmoryTop",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleMagicTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024448",
+    "full": "LOC_FN_ZOOODungVampireChestNobleMagicTopT100",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleTreasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024449",
+    "full": "LOC_FN_ZOOODungVampireChestNobleTreasury",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireMidAlyied02ArmoryWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02444A",
+    "full": "LOC_FN_ZOOODungVampireMidAlyied02ArmoryWiz",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireNobAlyied02ArmoryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02444B",
+    "full": "LOC_FN_ZOOODungVampireNobAlyied02ArmoryTop",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireNobAlyied02MagicTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02444C",
+    "full": "LOC_FN_ZOOODungVampireNobAlyied02MagicTop",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireMidAlyied01Treasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02444D",
+    "full": "LOC_FN_ZOOODungVampireMidAlyied01Treasury",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireNobAlyied01Treasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02444E",
+    "full": "LOC_FN_ZOOODungVampireNobAlyied01Treasury",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireNobAlyied01TreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02444F",
+    "full": "LOC_FN_ZOOODungVampireNobAlyied01TreasuryT100",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireMidAlyied02ArmoryWizT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024450",
+    "full": "LOC_FN_ZOOODungVampireMidAlyied02ArmoryWizT100",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireMidAlyied01TreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024451",
+    "full": "LOC_FN_ZOOODungVampireMidAlyied01TreasuryT100",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestMid01TreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024452",
+    "full": "LOC_FN_ZOOODungVampireChestMid01TreasuryT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestMid02ArmoryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024453",
+    "full": "LOC_FN_ZOOODungVampireChestMid02ArmoryLesserT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestMid02ArmoryLesserWizT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024454",
+    "full": "LOC_FN_ZOOODungVampireChestMid02ArmoryLesserWizT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleArmoryTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024455",
+    "full": "LOC_FN_ZOOODungVampireChestNobleArmoryTopT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleTreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024456",
+    "full": "LOC_FN_ZOOODungVampireChestNobleTreasuryT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireNobAlyied02Magic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024459",
+    "full": "LOC_FN_ZOOODungVampireNobAlyied02Magic",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireNobAlyied02Armory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02445A",
+    "full": "LOC_FN_ZOOODungVampireNobAlyied02Armory",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireNobAlyied02ArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02445B",
+    "full": "LOC_FN_ZOOODungVampireNobAlyied02ArmoryT100",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireNobAlyied02MagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02445C",
+    "full": "LOC_FN_ZOOODungVampireNobAlyied02MagicT100",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01UpperTopT100DwemerRod",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0246CD",
+    "full": "LOC_FN_ZOOOChestJewelry01UpperTopT100DwemerRod",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireCoffin01Top",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02497F",
+    "full": "LOC_FN_ZOOODungVampireCoffin01Top",
+    "modl": "Dungeons\\Misc\\CoffinClosed01.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleMagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024E6D",
+    "full": "LOC_FN_ZOOODungVampireChestNobleMagicT100",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireCoffinBoss",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024E89",
+    "full": "LOC_FN_ZOOODungVampireCoffinBoss",
+    "modl": "Dungeons\\Misc\\CoffinClosed01.NIF"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry01UpperT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024EAE",
+    "full": "LOC_FN_ZOOODungDarkJewelry01UpperT100",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleArmory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024EB2",
+    "full": "LOC_FN_ZOOODungVampireChestNobleArmory",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024EB3",
+    "full": "LOC_FN_ZOOODungVampireChestNobleArmoryT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry01NobleT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024ED0",
+    "full": "LOC_FN_ZOOODungDarkJewelry01NobleT100",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "OOOSE32VendorThief",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0254B2",
+    "full": "LOC_FN_OOOSE32VendorThief",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "OOOSE32VendorSmith",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0254B3",
+    "full": "LOC_FN_OOOSE32VendorSmith",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "OOOSE32VendorMage",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0254B5",
+    "full": "LOC_FN_OOOSE32VendorMage",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidMid01Treasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0258D1",
+    "full": "LOC_FN_ZOOODungAyleidMid01Treasury",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungAlyeidNob01TreasuryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0258D5",
+    "full": "LOC_FN_ZOOODungAlyeidNob01TreasuryTop",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidMid01TreasuryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0258D6",
+    "full": "LOC_FN_ZOOODungAyleidMid01TreasuryLesser",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidNob01Treasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0258D8",
+    "full": "LOC_FN_ZOOODungAyleidNob01Treasury",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidMid02ArmoryWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0258F3",
+    "full": "LOC_FN_ZOOODungAyleidMid02ArmoryWiz",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidNob02Armory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0258FC",
+    "full": "LOC_FN_ZOOODungAyleidNob02Armory",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidNob02ArmoryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0258FD",
+    "full": "LOC_FN_ZOOODungAyleidNob02ArmoryTop",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidNob02MagicTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025901",
+    "full": "LOC_FN_ZOOODungAyleidNob02MagicTop",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidNob02Magic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025903",
+    "full": "LOC_FN_ZOOODungAyleidNob02Magic",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidMid02Armory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025904",
+    "full": "LOC_FN_ZOOODungAyleidMid02Armory",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidNob01TreasuryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025905",
+    "full": "LOC_FN_ZOOODungAyleidNob01TreasuryTop",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidMid02Magic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025906",
+    "full": "LOC_FN_ZOOODungAyleidMid02Magic",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidNob01TreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E19",
+    "full": "LOC_FN_ZOOODungAyleidNob01TreasuryT100",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidMid02MagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E1A",
+    "full": "LOC_FN_ZOOODungAyleidMid02MagicT100",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidNob02ArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E1B",
+    "full": "LOC_FN_ZOOODungAyleidNob02ArmoryT100",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidNob02MagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E1C",
+    "full": "LOC_FN_ZOOODungAyleidNob02MagicT100",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidMid02ArmoryWizT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E1D",
+    "full": "LOC_FN_ZOOODungAyleidMid02ArmoryWizT100",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidMid02ArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E1E",
+    "full": "LOC_FN_ZOOODungAyleidMid02ArmoryT100",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidMid01TreasuryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E1F",
+    "full": "LOC_FN_ZOOODungAyleidMid01TreasuryLesserT100",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidMid01TreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E20",
+    "full": "LOC_FN_ZOOODungAyleidMid01TreasuryT100",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidMid02MagicLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02638E",
+    "full": "LOC_FN_ZOOODungAyleidMid02MagicLesserT100",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01NobleTopT100Traven",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:026735",
+    "full": "LOC_FN_ZOOOChestJewelry01NobleTopT100Traven",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidLow02Magic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027DAE",
+    "full": "LOC_FN_ZOOODungAyleidLow02Magic",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungSackMid02Treasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027DC2",
+    "full": "LOC_FN_ZOOODungSackMid02Treasury",
+    "modl": "Clutter\\Sack02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle01UpperAlchMagT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:028D13",
+    "full": "LOC_FN_ZOOODungChestMiddle01UpperAlchMagT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle01UpperAlchMag",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:028D14",
+    "full": "LOC_FN_ZOOODungChestMiddle01UpperAlchMag",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZWildernessAmazonChest2a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:029716",
+    "full": "LOC_FN_ZWildernessAmazonChest2a",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZWildernessAmazonChest1c",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:029719",
+    "full": "LOC_FN_ZWildernessAmazonChest1c",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZWildernessAmazonChest1a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:029C15",
+    "full": "LOC_FN_ZWildernessAmazonChest1a",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZWildernessAmazonChest1b",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:029C1F",
+    "full": "LOC_FN_ZWildernessAmazonChest1b",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZWildernessAmazonChest2b",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02A60A",
+    "full": "LOC_FN_ZWildernessAmazonChest2b",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZWildernessAmazonChest2c",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02A60C",
+    "full": "LOC_FN_ZWildernessAmazonChest2c",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidEmpty02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02A7FD",
+    "full": "LOC_FN_ZOOODungAyleidEmpty02",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidEmpty01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02A7FE",
+    "full": "LOC_FN_ZOOODungAyleidEmpty01",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidLow02Armory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD01",
+    "full": "LOC_FN_ZOOODungAyleidLow02Armory",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidLow01Treasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD03",
+    "full": "LOC_FN_ZOOODungAyleidLow01Treasury",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid02ArmoryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD13",
+    "full": "LOC_FN_ZOOODungNecroChestMid02ArmoryLesser",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungNecromancerNobAlyied02MagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD22",
+    "full": "LOC_FN_ZOOODungNecromancerNobAlyied02MagicT100",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestLow01ArmoryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD29",
+    "full": "LOC_FN_ZOOODungNecroChestLow01ArmoryLesser",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungNecromancerNobAlyied02MagicLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD30",
+    "full": "LOC_FN_ZOOODungNecromancerNobAlyied02MagicLesserT100",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestMidAlchemyT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD32",
+    "full": "LOC_FN_ZOOODungNecroChestMidAlchemyT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid02ArmoryLesserWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD34",
+    "full": "LOC_FN_ZOOODungNecroChestMid02ArmoryLesserWiz",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungTombMidAyleid02Armory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD41",
+    "full": "LOC_FN_ZOOODungTombMidAyleid02Armory",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungTombMidAyleid02ArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD43",
+    "full": "LOC_FN_ZOOODungTombMidAyleid02ArmoryT100",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01NobleTopT100Umbacano",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02E2B1",
+    "full": "LOC_FN_ZOOOChestJewelry01NobleTopT100Umbacano",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZWildernessWeapChest2a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:032658",
+    "full": "LOC_FN_ZWildernessWeapChest2a",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZWildernessWeapChest2b",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:032667",
+    "full": "LOC_FN_ZWildernessWeapChest2b",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ChestVendorzOOOCapesLow",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03426C",
+    "full": "LOC_FN_ChestVendorzOOOCapesLow",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungOblivionBossClawInt01Mq10",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:034940",
+    "full": "LOC_FN_ZOOODungOblivionBossClawInt01Mq10",
+    "modl": "Oblivion\\Clutter\\Containers\\ClawStandContainer.NIF"
+  },
+  {
+    "edid": "DungRestorationAlyiedVilverinLockpick",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:035EC0",
+    "full": "LOC_FN_DungRestorationAlyiedVilverinLockpick",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "ChestVendorSam2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03A594",
+    "full": "LOC_FN_ChestVendorSam2",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestNobleTreasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CA9D",
+    "full": "LOC_FN_ZOOODungConjChestNobleTreasury",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestNobleMagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CA9E",
+    "full": "LOC_FN_ZOOODungNecroChestNobleMagicT100",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestNobleArmoryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CA9F",
+    "full": "LOC_FN_ZOOODungNecroChestNobleArmoryTop",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestNobleArmory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA0",
+    "full": "LOC_FN_ZOOODungNecroChestNobleArmory",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid01Treasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA1",
+    "full": "LOC_FN_ZOOODungNecroChestMid01Treasury",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestNobleTreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA2",
+    "full": "LOC_FN_ZOOODungNecroChestNobleTreasuryT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestNobleMagic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA3",
+    "full": "LOC_FN_ZOOODungNecroChestNobleMagic",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestMidAlchemy",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA4",
+    "full": "LOC_FN_ZOOODungNecroChestMidAlchemy",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid02ArmoryLesserWizT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA5",
+    "full": "LOC_FN_ZOOODungNecroChestMid02ArmoryLesserWizT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid02ArmoryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA6",
+    "full": "LOC_FN_ZOOODungNecroChestMid02ArmoryLesserT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid01TreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA7",
+    "full": "LOC_FN_ZOOODungNecroChestMid01TreasuryT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestNobleAlchemyT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA8",
+    "full": "LOC_FN_ZOOODungNecroChestNobleAlchemyT100",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestNobleAlchemy",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA9",
+    "full": "LOC_FN_ZOOODungNecroChestNobleAlchemy",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestLowAlchemy",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAAD",
+    "full": "LOC_FN_ZOOODungNecroChestLowAlchemy",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestNobleArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAB2",
+    "full": "LOC_FN_ZOOODungNecroChestNobleArmoryT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid02Magic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAB7",
+    "full": "LOC_FN_ZOOODungNecroChestMid02Magic",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid02MagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAB8",
+    "full": "LOC_FN_ZOOODungNecroChestMid02MagicT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "OOOSE32PCCupboard",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03D3F9",
+    "full": "LOC_FN_OOOSE32PCCupboard",
+    "modl": "Clutter\\SEfurniture\\SECupboard01.NIF"
+  },
+  {
+    "edid": "ZOOODungJewelry01MiddleT100Cuptor",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0415A9",
+    "full": "LOC_FN_ZOOODungJewelry01MiddleT100Cuptor",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidMid02MagicLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0415CD",
+    "full": "LOC_FN_ZOOODungAyleidMid02MagicLesser",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestNobleTreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:041FF8",
+    "full": "LOC_FN_ZOOODungConjChestNobleTreasuryT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestLow01ArmoryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:041FF9",
+    "full": "LOC_FN_ZOOODungConjChestLow01ArmoryLesser",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMid02ArmoryLesserWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:041FFA",
+    "full": "LOC_FN_ZOOODungConjChestMid02ArmoryLesserWiz",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMid02ArmoryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:041FFB",
+    "full": "LOC_FN_ZOOODungConjChestMid02ArmoryLesserT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMid02ArmoryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:041FFC",
+    "full": "LOC_FN_ZOOODungConjChestMid02ArmoryLesser",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMid01TreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:041FFD",
+    "full": "LOC_FN_ZOOODungConjChestMid01TreasuryT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMid01Treasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:041FFE",
+    "full": "LOC_FN_ZOOODungConjChestMid01Treasury",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestLowAlchemy",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:041FFF",
+    "full": "LOC_FN_ZOOODungConjChestLowAlchemy",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestNobleAlchemy",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042000",
+    "full": "LOC_FN_ZOOODungConjChestNobleAlchemy",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMidAlchemyT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042001",
+    "full": "LOC_FN_ZOOODungConjChestMidAlchemyT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMidAlchemy",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042002",
+    "full": "LOC_FN_ZOOODungConjChestMidAlchemy",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMid02MagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042003",
+    "full": "LOC_FN_ZOOODungConjChestMid02MagicT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMid02Magic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042004",
+    "full": "LOC_FN_ZOOODungConjChestMid02Magic",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMid02ArmoryLesserWizT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042005",
+    "full": "LOC_FN_ZOOODungConjChestMid02ArmoryLesserWizT100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestNobleMagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042006",
+    "full": "LOC_FN_ZOOODungConjChestNobleMagicT100",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestNobleMagic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042007",
+    "full": "LOC_FN_ZOOODungConjChestNobleMagic",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestNobleArmoryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042008",
+    "full": "LOC_FN_ZOOODungConjChestNobleArmoryTop",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestNobleArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042009",
+    "full": "LOC_FN_ZOOODungConjChestNobleArmoryT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestNobleArmory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:04200A",
+    "full": "LOC_FN_ZOOODungConjChestNobleArmory",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestNobleAlchemyT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:04200B",
+    "full": "LOC_FN_ZOOODungConjChestNobleAlchemyT100",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "OOOSE32PCCupboardEmpty",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042298",
+    "full": "LOC_FN_OOOSE32PCCupboardEmpty",
+    "modl": "Clutter\\SEfurniture\\SECupboard01.NIF"
+  },
+  {
+    "edid": "ZOOOChestJewelry01UpperT100Amantius",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042BDD",
+    "full": "LOC_FN_ZOOOChestJewelry01UpperT100Amantius",
+    "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
+  },
+  {
+    "edid": "ZOOOChestMiddle01UpperTreasuryT100MarieElena",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0480E7",
+    "full": "LOC_FN_ZOOOChestMiddle01UpperTreasuryT100MarieElena",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "TandArenaOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048A2A",
+    "full": "LOC_FN_TandArenaOOO",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "TandBladesChestOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048A2B",
+    "full": "LOC_FN_TandBladesChestOOO",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "TandBrotherhoodChestOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048A2C",
+    "full": "LOC_FN_TandBrotherhoodChestOOO",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "TandeFighterChestOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048A2D",
+    "full": "LOC_FN_TandeFighterChestOOO",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "TandMageChestOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048A2E",
+    "full": "LOC_FN_TandMageChestOOO",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "TandSafeBarrelOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048A2F",
+    "full": "LOC_FN_BarrelClutterMiddle06",
+    "modl": "Clutter\\MiddleClass\\MiddleBarrelTopped06.NIF"
+  },
+  {
+    "edid": "TandSafeBarrellOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048A30",
+    "full": "LOC_FN_BarrelClutterMiddle01",
+    "modl": "Clutter\\MiddleClass\\MiddleBarrelTopped01.NIF"
+  },
+  {
+    "edid": "TandSafeChestOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048A31",
+    "full": "LOC_FN_TandSafeChestOOO",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "TandSafeChest2OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048A32",
+    "full": "LOC_FN_TandSafeChest2OOO",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "TandSafeCupboard1OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048A33",
+    "full": "LOC_FN_TandSafeCupboard1OOO",
+    "modl": "Furniture\\MiddleClass\\MiddleCupboard01.NIF"
+  },
+  {
+    "edid": "TandSafeDeskOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048A34",
+    "full": "LOC_FN_DeskClutterUpperEmpty",
+    "modl": "Furniture\\UpperClass\\UpperDesk01.NIF"
+  },
+  {
+    "edid": "TandSafeDrawerOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048A35",
+    "full": "LOC_FN_TandSafeDrawerOOO",
+    "modl": "Clutter\\LowerClass\\LowerClassDrawers01.NIF"
+  },
+  {
+    "edid": "XRareRobeChestOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048F76",
+    "full": "LOC_FN_XRareRobeChestOOO",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungNecromancerNobAlyied02MagicLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:04F4AE",
+    "full": "LOC_FN_ZOOODungNecromancerNobAlyied02MagicLesser",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleAlchemyT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051276",
+    "full": "LOC_FN_ZOOODungVampireChestNobleAlchemyT100",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "AyleidArrowBox",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05134E",
+    "full": "LOC_FN_AyleidArrowBox",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "AyleidBowBox",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05134F",
+    "full": "LOC_FN_AyleidBowBox",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "UngarionWeaponChest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051350",
+    "full": "LOC_FN_UngarionWeaponChest",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ChestVendorUngarionAyleidWeapons",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051351",
+    "full": "LOC_FN_ChestVendorUngarionAyleidWeapons",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOODeskClutterMiddle01Amantus",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05F8EE",
+    "full": "LOC_FN_ZOOODeskClutterMiddle01Amantus",
+    "modl": "Furniture\\MiddleClass\\MiddleDesk01.NIF"
+  },
+  {
+    "edid": "OOOSE44AhjazdaChest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:064028",
+    "full": "LOC_FN_OOOSE44AhjazdaChest",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "OOOSEGSUrn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:07352A",
+    "full": "LOC_FN_OOOSEGSUrn",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "OOOSEDSUrn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:076376",
+    "full": "LOC_FN_OOOSEDSUrn",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsUrn02.NIF"
+  },
+  {
+    "edid": "OOOSEPykeChest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:090750",
+    "full": "LOC_FN_OOOSEPykeChest",
+    "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "OOOSEMinionCrystalsChest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:09AE1F",
+    "full": "LOC_FN_OOOSEMinionCrystalsChest",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "OOOSETestContIngredients",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:09D0F7",
+    "full": "LOC_FN_OOOSETestContIngredients",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "OOOSEDungZealotChestRuinHigh",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0D4EA1",
+    "full": "LOC_FN_OOOSEDungZealotChestRuinHigh",
+    "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
+  },
+  {
+    "edid": "OOOSESackFoodNonRespawnable",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:12067E",
+    "full": "LOC_FN_OOOSESackFoodNonRespawnable",
+    "modl": "Clutter\\Sack01.NIF"
+  },
+  {
+    "edid": "OOOSECrateClutterMiddle05NonRespawnable",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:12067F",
+    "full": "LOC_FN_OOOSECrateClutterMiddle05NonRespawnable",
+    "modl": "Clutter\\MiddleClass\\MiddleCrate05.NIF"
+  },
+  {
+    "edid": "OOOSEBarrelClutterMiddle06NonRespawnable",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:120680",
+    "full": "LOC_FN_OOOSEBarrelClutterMiddle06NonRespawnable",
+    "modl": "Clutter\\MiddleClass\\MiddleBarrelTopped06.NIF"
+  },
+  {
+    "edid": "OOOSECrateClutterMiddle04NonRespawnable",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:120681",
+    "full": "LOC_FN_OOOSECrateClutterMiddle04NonRespawnable",
+    "modl": "Clutter\\MiddleClass\\MiddleCrate04.NIF"
+  },
+  {
+    "edid": "OOOSECrateClutterMiddleSame03NonRespawnable",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:120682",
+    "full": "LOC_FN_OOOSECrateClutterMiddleSame03NonRespawnable",
+    "modl": "Clutter\\MiddleClass\\MiddleCrate03.NIF"
+  },
+  {
+    "edid": "OOOSE32PCCupboardRegalia",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:12A797",
+    "full": "LOC_FN_OOOSE32PCCupboardRegalia",
+    "modl": "Clutter\\SEfurniture\\SECupboard01.NIF"
+  },
+  {
+    "edid": "OOOSETestContWeapons",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:12BC8F",
+    "full": "LOC_FN_OOOSETestContWeapons",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "OOOSETestContArmor",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:12BC91",
+    "full": "LOC_FN_OOOSETestContArmor",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "OOOSETestContOther",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:12BC93",
+    "full": "LOC_FN_OOOSETestContOther",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "OOOSEVendorEarilPotions",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:1309C6",
+    "full": "LOC_FN_OOOSEVendorEarilPotions",
+    "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "OOOSEVendorChestRepairHealing",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:1310C2",
+    "full": "LOC_FN_OOOSEVendorChestRepairHealing",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  }
+]

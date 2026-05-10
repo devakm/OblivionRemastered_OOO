@@ -1,0 +1,344 @@
+[
+  {
+    "edid": "SheogorathAnguish",
+    "formid": "Oblivion.esm:014CFF",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\Cower.kf"
+  },
+  {
+    "edid": "DopplegangerArrive",
+    "formid": "Oblivion.esm:016EC8",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_WrithingInPain01.kf"
+  },
+  {
+    "edid": "SE12PriestRitualIdle",
+    "formid": "Oblivion.esm:0171D5",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_PriestActivate00.kf"
+  },
+  {
+    "edid": "SheogorathPower",
+    "formid": "Oblivion.esm:01742D",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\Speech_HandsInAir.kf"
+  },
+  {
+    "edid": "RakheranLetsGo",
+    "formid": "Oblivion.esm:01A7B4",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\FollowMe.kf"
+  },
+  {
+    "edid": "RakheranGiveDaggers",
+    "formid": "Oblivion.esm:01A7B5",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\Activate.kf"
+  },
+  {
+    "edid": "TraitorTakeDagger",
+    "formid": "Oblivion.esm:01A7B6",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\Activate.kf"
+  },
+  {
+    "edid": "SEMiriliUlven1",
+    "formid": "Oblivion.esm:0410A5",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\CheckCorpse.kf"
+  },
+  {
+    "edid": "SEMiriliUlven2",
+    "formid": "Oblivion.esm:0410A6",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\PickLock.kf"
+  },
+  {
+    "edid": "SEMiriliUlven3",
+    "formid": "Oblivion.esm:0410A7",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\PickUpGround.kf"
+  },
+  {
+    "edid": "SEMiriliUlven4",
+    "formid": "Oblivion.esm:0410A8",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SentryLookOut.kf"
+  },
+  {
+    "edid": "SEThaedilJuggleIdle",
+    "formid": "Oblivion.esm:041216",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_JUGGLING2.kf"
+  },
+  {
+    "edid": "SE09VictimCowerAnim",
+    "formid": "Oblivion.esm:044C8A",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\Cower.kf"
+  },
+  {
+    "edid": "SE14EntertainerBow",
+    "formid": "Oblivion.esm:04560D",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\Genuflect.kf"
+  },
+  {
+    "edid": "SE09PainAnim",
+    "formid": "Oblivion.esm:045663",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_WrithingInPain02.kf"
+  },
+  {
+    "edid": "SE09RelmynaWorship",
+    "formid": "Oblivion.esm:046F3F",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\Genuflect.kf"
+  },
+  {
+    "edid": "SE09CeremonyIdlePoint",
+    "formid": "Oblivion.esm:04FC6E",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\PointForward.kf"
+  },
+  {
+    "edid": "SE09CeremonyIdleArmsUp",
+    "formid": "Oblivion.esm:04FC6F",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\Speech_HandsInAir.kf"
+  },
+  {
+    "edid": "SE01SfaraIdle",
+    "formid": "Oblivion.esm:05F1BB",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_SwattingFlys.kf"
+  },
+  {
+    "edid": "SE36CowerIdle",
+    "formid": "Oblivion.esm:061C53",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\Cower.kf"
+  },
+  {
+    "edid": "SE36GetPlayersAttentionIdle",
+    "formid": "Oblivion.esm:061C54",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\HoldUp.kf"
+  },
+  {
+    "edid": "SE02CryIdle",
+    "formid": "Oblivion.esm:068BCC",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_CryingIntoHankerchief.kf"
+  },
+  {
+    "edid": "SE05TortureIdle",
+    "formid": "Oblivion.esm:07FF28",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_WrithingInPain02.kf"
+  },
+  {
+    "edid": "SE39CindanweMessFreakout",
+    "formid": "Oblivion.esm:0807FA",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_CrouchedMadnessLoop.kf"
+  },
+  {
+    "edid": "SE06SuicideDarkSeducer",
+    "formid": "Oblivion.esm:080D1F",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_RitualSuicide.kf"
+  },
+  {
+    "edid": "SE06SuicideGoldenSaint",
+    "formid": "Oblivion.esm:080D20",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_RitualSuicide.kf"
+  },
+  {
+    "edid": "SE06AcivateButton",
+    "formid": "Oblivion.esm:080D21",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\Activate.kf"
+  },
+  {
+    "edid": "SE06Kneeling",
+    "formid": "Oblivion.esm:080D22",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\Praying.kf"
+  },
+  {
+    "edid": "SEDredhwenSleepStanding",
+    "formid": "Oblivion.esm:080D24",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SESleepStand.kf"
+  },
+  {
+    "edid": "SE06Pray",
+    "formid": "Oblivion.esm:080D93",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\Praying.kf"
+  },
+  {
+    "edid": "SE02CryTurnAwayIdle",
+    "formid": "Oblivion.esm:081C16",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_CryingIdle_Back off.kf"
+  },
+  {
+    "edid": "SE09WriteBook",
+    "formid": "Oblivion.esm:081D5F",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SETakeNotes.kf"
+  },
+  {
+    "edid": "SE08PasswallDarkSeducerHurt02",
+    "formid": "Oblivion.esm:081E3C",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_WoundedStage02.kf"
+  },
+  {
+    "edid": "SE08PasswallDarkSeducerHurt03",
+    "formid": "Oblivion.esm:081E3D",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_WoundedStage02.kf"
+  },
+  {
+    "edid": "SE08PasswallDarkSeducerHurt04",
+    "formid": "Oblivion.esm:081E3E",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_WoundedStage01.kf"
+  },
+  {
+    "edid": "SE08PasswallGoldenSaintHurt01",
+    "formid": "Oblivion.esm:081E3F",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_WoundedStage01.kf"
+  },
+  {
+    "edid": "SE08PasswallGoldenSaintHurt02",
+    "formid": "Oblivion.esm:081E40",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_WoundedStage02.kf"
+  },
+  {
+    "edid": "SE08PasswallGoldenSaintHurt03",
+    "formid": "Oblivion.esm:081E41",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_WoundedStage01.kf"
+  },
+  {
+    "edid": "SE08PasswallGoldenSaintHurt04",
+    "formid": "Oblivion.esm:081E42",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_WoundedStage02.kf"
+  },
+  {
+    "edid": "SE07ThadonSpeech03",
+    "formid": "Oblivion.esm:0826D0",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_WoundedStage02.kf"
+  },
+  {
+    "edid": "SE07ThadonSpeech02",
+    "formid": "Oblivion.esm:0826D1",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_WoundedStage01.kf"
+  },
+  {
+    "edid": "SE07ThadonSpeech01",
+    "formid": "Oblivion.esm:0826D2",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\Speech_HandsInAir.kf"
+  },
+  {
+    "edid": "SE07ThadonSpeech04Heart",
+    "formid": "Oblivion.esm:0826D3",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_HeartAttack01.kf"
+  },
+  {
+    "edid": "SEAtrahbiManiaReadIdle",
+    "formid": "Oblivion.esm:0895AC",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\ReadBook.kf"
+  },
+  {
+    "edid": "SESweep",
+    "formid": "Oblivion.esm:08D32D",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SESweep.kf"
+  },
+  {
+    "edid": "SE06OpenGate",
+    "formid": "Oblivion.esm:08E67C",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\Activate.kf"
+  },
+  {
+    "edid": "SE09TakeNotes",
+    "formid": "Oblivion.esm:08EF24",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SETakeNotes.kf"
+  },
+  {
+    "edid": "SE10GoldenSaintPray",
+    "formid": "Oblivion.esm:08F58D",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\Praying.kf"
+  },
+  {
+    "edid": "SE10DarkSeducerPray",
+    "formid": "Oblivion.esm:08F58F",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\Praying.kf"
+  },
+  {
+    "edid": "SEThadonDance",
+    "formid": "Oblivion.esm:092A74",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SEDance.kf"
+  },
+  {
+    "edid": "SE05SylActivateButton",
+    "formid": "Oblivion.esm:09356E",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\Activate.kf"
+  },
+  {
+    "edid": "SEHaleHalionPoetWriting",
+    "formid": "Oblivion.esm:0935CD",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SETakeNotes.kf"
+  },
+  {
+    "edid": "SE05TortureIdle2",
+    "formid": "Oblivion.esm:0948E0",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_WrithingInPain01.kf"
+  },
+  {
+    "edid": "SE07bGundlarCheer",
+    "formid": "Oblivion.esm:096627",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\Cheer03.kf"
+  },
+  {
+    "edid": "SE07bWideEyeWail",
+    "formid": "Oblivion.esm:096628",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_Crying2.kf"
+  },
+  {
+    "edid": "SEBruscusDannusCrazy",
+    "formid": "Oblivion.esm:09761D",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_SwattingFlys.kf"
+  },
+  {
+    "edid": "SE05TortureIdleSITTING",
+    "formid": "Oblivion.esm:097639",
+    "full": null,
+    "modl": "Characters\\_Male\\IdleAnims\\SE_SpecialIdle_WrithingInPain01.kf"
+  }
+]

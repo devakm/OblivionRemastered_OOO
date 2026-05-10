@@ -1,0 +1,452 @@
+[
+  {
+    "edid": "GeomancyHasReadIntro",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0012EC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "torchretrieve",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003903",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DreadSet",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003907",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "DreadSetInt",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003DEE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "CowlEquipped",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0042ED",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LAPPercentTrapped",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0042F6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LapTRAPDifficulty",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0042F7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LapMinLock",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0042F8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LapDetectTrapsSpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0047E2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOLightOfDawnUseFlame",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E5A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LapLockLevelDeterminesTrapChance",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005695",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LapBashLockDifficulty",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005696",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LapAllLocksOpenable",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005B7E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LapNoCombatLock",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005B7F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOODebugMsg",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005D70",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LAPInGuildOrInn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006066",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "torchisequipped",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006521",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOLightOfDawn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006C90",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOVampDeadCount",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:006C91",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOLightOfDawnFlameOn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089C1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOLightOfDawnFlameOnA",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089C2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOLightOfDawnFlameOnB",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089C3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOLightOfDawnFlameOnC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089C4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOJephreAureus",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00BE4F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "lbBashMeOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00CAE5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOJephreFaction",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DCDA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE30Detect",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01089B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE30HasSpell1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010F8C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE30HasSpell2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:010F91",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE30DetectEQ",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014D46",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOFishSpawn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01702D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOPrisonSeran",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01C579",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOPrisonUnder",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01C57A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSlaverVendor",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CA77",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOAyleidRegen",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:030F48",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32CurrentPlace",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03B00E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOJephreFirstQuestDia",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0433B4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "LapDrunkLevel",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:048FAD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOHCPlayerHouse",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:04C3BA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE43Unlocker",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:04DA41",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOBeastLord",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:04E023",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOHC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:04FC1B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "GeomancyEnabled",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051319",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "AddCowlDetectLife",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0513C3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "AddCowlNightEye",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0513C4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "AddCowlWaterBreath",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0513C5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOHCSacks",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0529CF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE43Dismiss",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:056E06",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOHCBarrelsAndCrates",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:057DD5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOVampDeadMsg",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:06E9EC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE12ThadonSpellCasted",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:09FB0F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE14GhostState",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0A645B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE06DespairGatesOpened",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0BE164",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSE06RaptureGatesOpened",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0BE165",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSETestDisableQuestScripts",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:11F18A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEGrummiteResMsg",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:123078",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEMS43CheckForMartin",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:127DAA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEUseVanillaRegalia",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:12A794",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEGotRegalia",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:12A795",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEAmount",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:1302CA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWEPONMatrixAmberAxe",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:133AA7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWEPONMatrixAmberBattleAxe",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:133AA8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWEPONMatrixAmberClaymore",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:133AA9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWEPONMatrixAmberDagger",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:133AAA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWEPONMatrixAmberScimitar",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:133AAB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWEPONMatrixAmberShortsword",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:133AAC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWEPONMatrixMadnessBattleAxe",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:133AAD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWEPONMatrixMadnessDagger",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:133AAE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWEPONMatrixMadnessHammer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:133AAF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWEPONMatrixMadnessMace",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:133AB0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWEPONMatrixMadnessShortsword",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:133AB1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEWEPONInstalled",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:133AB2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEUseBridge",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:1387AB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEOddityChance",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:1387AC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "OOOSEUseOddityNotification",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:1387AD",
+    "full": null,
+    "modl": null
+  }
+]
