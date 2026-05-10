@@ -4,7 +4,10 @@ End-to-end release command for the v2 architecture.
 
 For one tag this script does, in order:
 
-  0. Regenerate the two SyncMap variants from the OOO_SyncGen source-of-truth.
+  0. Check SyncMap drift via `sync_syncmap.py diff-check`. If drift is
+     detected, abort with a helpful message unless --syncmap-fix-approved
+     was passed (in which case `sync_syncmap.py diff-fix` is invoked to
+     regenerate both files from the OOO_SyncGen source-of-truth).
   1. Validate the working tree (no unrelated WIP).
   2. Hash everything in release/ (text + binaries; skipping co-files and
      records bundles) → write manifests/<tag>.json.
@@ -141,18 +144,47 @@ def iter_release_esps(root: Path):
 # Step implementations
 # --------------------------------------------------------------------------- #
 
-def step_regenerate_syncmaps(dry: bool) -> None:
-    """Step 0 — invoke sync_syncmap.py against release/ to regenerate both
-    SyncMap variants from the OOO_SyncGen source-of-truth."""
-    cmd = [sys.executable, str(REPO_ROOT / "scripts" / "sync_syncmap.py"),
-           "--target", str(RELEASE_DIR)]
-    print(f"[release] step 0: regenerate SyncMap variants", flush=True)
-    if dry:
-        print(f"  DRY: {' '.join(cmd)}", flush=True)
+def step_check_syncmaps(syncmap_fix_approved: bool, dry: bool) -> None:
+    """Step 0 — verify SyncMap drift via `sync_syncmap.py diff-check`.
+
+    If drift is detected:
+      - Without --syncmap-fix-approved: abort, telling the user to review
+        with `sync_syncmap.py diff-show` and then re-run with the approval
+        flag.
+      - With --syncmap-fix-approved: invoke `sync_syncmap.py diff-fix` to
+        regenerate both files from the OOO_SyncGen source.
+    """
+    print(f"[release] step 0: check SyncMap drift", flush=True)
+    # The check is read-only — always run it, even in dry-run.
+    check_cmd = [sys.executable, str(REPO_ROOT / "scripts" / "sync_syncmap.py"),
+                 "diff-check", "--target", str(RELEASE_DIR)]
+    rc = subprocess.run(check_cmd, cwd=REPO_ROOT).returncode
+    if rc == 0:
         return
-    r = subprocess.run(cmd, cwd=REPO_ROOT)
-    if r.returncode != 0:
-        raise SystemExit(f"sync_syncmap failed (rc={r.returncode})")
+    # Drift detected.
+    if not syncmap_fix_approved:
+        print("", file=sys.stderr, flush=True)
+        print("[release] STOP: SyncMap drift detected.", file=sys.stderr, flush=True)
+        print("  1. Review the diff:    py -3 scripts/sync_syncmap.py diff-show",
+              file=sys.stderr, flush=True)
+        print("  2. If the proposed regeneration looks right, re-run release.py",
+              file=sys.stderr, flush=True)
+        print("     with the --syncmap-fix-approved flag to apply the fix and",
+              file=sys.stderr, flush=True)
+        print("     continue with the release.", file=sys.stderr, flush=True)
+        raise SystemExit(2)
+    # User has reviewed and approved — apply the fix (skipped in dry-run).
+    if dry:
+        fix_cmd_pretty = (f"{sys.executable} {REPO_ROOT / 'scripts' / 'sync_syncmap.py'} "
+                          f"diff-fix --target {RELEASE_DIR}")
+        print(f"  DRY: {fix_cmd_pretty}", flush=True)
+        return
+    print("[release] step 0: --syncmap-fix-approved → applying diff-fix", flush=True)
+    fix_cmd = [sys.executable, str(REPO_ROOT / "scripts" / "sync_syncmap.py"),
+               "diff-fix", "--target", str(RELEASE_DIR)]
+    fix_rc = subprocess.run(fix_cmd, cwd=REPO_ROOT).returncode
+    if fix_rc != 0:
+        raise SystemExit(f"sync_syncmap diff-fix failed (rc={fix_rc})")
 
 
 def step_validate_tree(tag: str, force: bool, dry: bool) -> None:
@@ -421,7 +453,11 @@ def main() -> int:
     ap.add_argument("--force", action="store_true",
                     help="overwrite an existing tag")
     ap.add_argument("--skip-syncmap", action="store_true",
-                    help="skip sync_syncmap regeneration")
+                    help="skip the SyncMap drift check entirely (use only if you're sure)")
+    ap.add_argument("--syncmap-fix-approved", action="store_true",
+                    help="if drift is detected, apply the regeneration without aborting "
+                         "(you should have already inspected via "
+                         "`sync_syncmap.py diff-show`)")
     ap.add_argument("--skip-records", action="store_true",
                     help="skip ESP inventory generation")
     args = ap.parse_args()
@@ -434,7 +470,7 @@ def main() -> int:
         print("    (dry-run mode: no changes will be made)", flush=True)
 
     if not args.skip_syncmap:
-        step_regenerate_syncmaps(args.dry_run)
+        step_check_syncmaps(args.syncmap_fix_approved, args.dry_run)
 
     step_validate_tree(args.tag, args.force, args.dry_run)
 

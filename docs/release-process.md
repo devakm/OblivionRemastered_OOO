@@ -32,7 +32,7 @@ When you run `py -3 scripts/release.py alphaNN --latest --for-real`, in order:
 
 | # | Step | Output |
 |---|------|--------|
-| 0 | Regenerate the two SyncMap variants by invoking `sync_syncmap.py --target release/`. Reads from `X:\mod-tools\OOO_SyncGen\SyncGen\Overrides\Oscuro's_Oblivion_Overhaul_Overrides.ini`. | Updates `release/OblivionRemastered/Content/Dev/ObvData/Data/SyncMap/...` and `release/OblivionRemastered/Content/Dev/ObvData/Data/OptionalPatches/SyncMap - DeluxeEdition/...`. |
+| 0 | **Check SyncMap drift** via `sync_syncmap.py diff-check`. Reads OOO_SyncGen source, compares to `release/`'s two SyncMap files. If drift detected: aborts with "review with `diff-show`, then re-run with `--syncmap-fix-approved`." If `--syncmap-fix-approved` is set: invokes `sync_syncmap.py diff-fix` to regenerate. | Drift report on stderr; possibly updates `release/OblivionRemastered/Content/Dev/ObvData/Data/SyncMap/...` and `.../OptionalPatches/SyncMap - DeluxeEdition/...`. |
 | 1 | Validate working tree — no uncommitted changes outside `release/`, `manifests/`, `docs/per-release/`. Aborts if the tag already exists (unless `--force`). | (no output if clean) |
 | 2 | Hash every file in `release/` (text + gitignored binaries; skips `*.md` co-files and `*.records/` directories). | `manifests/alphaNN.json` |
 | 3 | Parse every ESP/ESM in `release/` via Wrye Bash. | `<esp>.records/_meta.json` + `<esp>.records/<TYPE>.json` for each record type. |
@@ -120,7 +120,8 @@ git checkout main
 
 | Flag | When to use |
 |------|-------------|
-| `--skip-syncmap` | You've already manually edited the two SyncMap files in `release/` and don't want them regenerated from OOO_SyncGen. Rare. |
+| `--skip-syncmap` | Skip the SyncMap drift check entirely. Use only when you're sure (e.g. you've manually managed both files and don't want any check). Most of the time you don't want this — the drift check is read-only and harmless. |
+| `--syncmap-fix-approved` | If the drift check reports drift, apply `sync_syncmap.py diff-fix` and continue (instead of aborting). You should have inspected the drift via `sync_syncmap.py diff-show` first. Without this flag, drift halts the release. |
 | `--skip-records` | You want to skip parsing ESPs entirely (e.g. the Wrye Bash checkout is broken and you want to ship anyway). The release will lack the per-ESP content diff in its notes; everything else still runs. |
 
 ---
