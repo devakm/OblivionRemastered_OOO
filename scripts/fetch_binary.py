@@ -30,6 +30,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import io
 import re
 import shutil
 import subprocess
@@ -231,7 +232,7 @@ def main() -> int:
     # Force UTF-8 on stdout/stderr so docstrings with unicode arrows render
     # correctly when the Windows console default is cp1252.
     for stream in (sys.stdout, sys.stderr):
-        if hasattr(stream, "reconfigure"):
+        if isinstance(stream, io.TextIOWrapper):
             stream.reconfigure(encoding="utf-8")
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--tag", required=True, help="release tag to fetch from")

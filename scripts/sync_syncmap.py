@@ -62,6 +62,7 @@ All modes default --target to the repo's `release/` directory.
 from __future__ import annotations
 
 import argparse
+import io
 import re
 import sys
 from dataclasses import dataclass
@@ -402,10 +403,9 @@ def cmd_diff_show(source: Path, target_root: Path) -> int:
 # --------------------------------------------------------------------------- #
 
 def main() -> int:
-    if hasattr(sys.stdout, "reconfigure"):
-        sys.stdout.reconfigure(encoding="utf-8")
-    if hasattr(sys.stderr, "reconfigure"):
-        sys.stderr.reconfigure(encoding="utf-8")
+    for stream in (sys.stdout, sys.stderr):
+        if isinstance(stream, io.TextIOWrapper):
+            stream.reconfigure(encoding="utf-8")
 
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)

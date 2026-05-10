@@ -24,6 +24,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import io
 import json
 import sys
 from pathlib import Path
@@ -365,7 +366,7 @@ def render_diff(prev_dir: Path | None, curr_dir: Path,
 
 def main() -> int:
     # Force UTF-8 stdout so the unicode arrows etc. render on Windows consoles.
-    if hasattr(sys.stdout, "reconfigure"):
+    if isinstance(sys.stdout, io.TextIOWrapper):
         sys.stdout.reconfigure(encoding="utf-8")
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--no-prev", action="store_true", help="initial-release mode")

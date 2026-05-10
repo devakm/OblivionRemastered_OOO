@@ -38,6 +38,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import io
 import json
 import re
 import shutil
@@ -353,7 +354,7 @@ def main() -> int:
     # Force UTF-8 stdout so unicode arrows in our log messages render
     # correctly when the Windows console default is cp1252.
     for stream in (sys.stdout, sys.stderr):
-        if hasattr(stream, "reconfigure"):
+        if isinstance(stream, io.TextIOWrapper):
             stream.reconfigure(encoding="utf-8")
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--dry-run", action="store_true", help="print plan, no changes")
