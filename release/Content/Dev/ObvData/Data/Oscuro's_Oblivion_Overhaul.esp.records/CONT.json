@@ -714,6 +714,12 @@
     "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
   },
   {
+    "edid": "DungTombCoffin01Empty",
+    "formid": "Oblivion.esm:06AB40",
+    "full": "LOC_FN_DungTombCoffin01Empty",
+    "modl": "Dungeons\\Misc\\CoffinClosed01.NIF"
+  },
+  {
     "edid": "DarkGogronChest",
     "formid": "Oblivion.esm:06C676",
     "full": "LOC_FN_DarkGogronChest",
@@ -1092,6 +1098,12 @@
     "modl": "Clutter\\MiddleClass\\MiddleChestJewelry.NIF"
   },
   {
+    "edid": "ZOOODungSackMid02TreasuryRGC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00164A",
+    "full": "Sack",
+    "modl": "Clutter\\Sack02.NIF"
+  },
+  {
     "edid": "ZOOOChestUpper01NobleAlchemyLesserT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004640",
     "full": "Elegant Chest",
@@ -1128,6 +1140,594 @@
     "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
+    "edid": "ZOOODungAyleidNob02MagicTopMorahame",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0147B3",
+    "full": "Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleArmoryPegasusSword",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:016488",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidNob02ArmoryT100Umbacano",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:018BB3",
+    "full": "Umbacano's Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperArmoryGood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01AA9D",
+    "full": "Fine Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "DungBanditBossChest02OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC3F",
+    "full": "Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "DungConjurerBossChestAlyied01OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC40",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "DungConjurerBossChestAlyied02OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC41",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "DungMarauderBossChestAlyied02OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC42",
+    "full": "Ayleid Reliquary",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "DungMarauderChestAlyied01OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC43",
+    "full": "Ayleid Cask",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "DungMarauderChestAlyied02OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC44",
+    "full": "Ayleid Cask",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "DungMythEnemyBossChestAlyied01OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC45",
+    "full": "Ayleid Coffer",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "DungMythEnemyBossChestAlyied02OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC46",
+    "full": "Ayleid Reliquary",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "DungNecroBossChestFortOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC47",
+    "full": "Chest",
+    "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
+  },
+  {
+    "edid": "DungNecroBossCoffinOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC48",
+    "full": "Coffin",
+    "modl": "Dungeons\\Misc\\CoffinClosed03.NIF"
+  },
+  {
+    "edid": "DungOblivionBossClawExt02OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC49",
+    "full": "Fleshy Pod",
+    "modl": "harvest\\containers\\XMSClawFleshContainer01.nif"
+  },
+  {
+    "edid": "DungOblivionBossClawInt01OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC4A",
+    "full": "The Punished",
+    "modl": "Oblivion\\Clutter\\Containers\\ClawStandContainer.NIF"
+  },
+  {
+    "edid": "DungOblivionBossSack01OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC4B",
+    "full": "Fleshy Pod",
+    "modl": "harvest\\containers\\XMSGroundFleshContainer02.nif"
+  },
+  {
+    "edid": "DungTombBossCoffinOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC4C",
+    "full": "Coffin",
+    "modl": "Dungeons\\Misc\\CoffinClosed03.NIF"
+  },
+  {
+    "edid": "FieldhouseCave03ChestOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC4D",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "SQ04DungMythEnemyChest02OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC4E",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest02LoFi.nif"
+  },
+  {
+    "edid": "TG09FathisArenChestOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC4F",
+    "full": "Fathis Aren's Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "TG09FathisArenChest1OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC50",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "Dark18ChestLarge1OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC51",
+    "full": "Large Chest",
+    "modl": "Dungeons\\FortRuins\\Dungeon\\Clutter\\RFDchestLargeLidded.NIF"
+  },
+  {
+    "edid": "Dark13VampireChest01OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC52",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestLowerChest01LoFi.nif"
+  },
+  {
+    "edid": "Dark02CaptainChestOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC53",
+    "full": "Captain's Tussaud's Booty",
+    "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ChestJewelryUpper01OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC54",
+    "full": "Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ChestJewelryNoble01OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC55",
+    "full": "Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ChestClarabellaCaptainOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC56",
+    "full": "Captain Patneim's Chest",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "BlackRockChest02OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC57",
+    "full": "Chest",
+    "modl": "Clutter\\LowerClass\\LowerClassChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungJewelry01Common",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2AD",
+    "full": "Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestMiddle01UpperT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2B4",
+    "full": "Studded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestMiddle01UpperTreasuryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2B5",
+    "full": "Studded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestMiddle01UpperTreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2B6",
+    "full": "Studded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02LowerArmory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2B7",
+    "full": "Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperArmoryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2B8",
+    "full": "Fine Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperArmoryLesserWizT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2B9",
+    "full": "Rune Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2BA",
+    "full": "Fine Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperClothingT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2BB",
+    "full": "Fine Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperClutterT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F2BC",
+    "full": "Fine Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODUNGChestClutterArgonianSmuggler",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01F80C",
+    "full": "Rusted Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestMiddle01UpperTreasuryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229C3",
+    "full": "Studded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestMiddle01UpperTreasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229C4",
+    "full": "Studded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperArmoryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229C5",
+    "full": "Fine Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperArmoryLesserWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229C6",
+    "full": "Rune Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperArmory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229C7",
+    "full": "Fine Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperClothing",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229C8",
+    "full": "Fine Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestMiddle02UpperClutter",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229C9",
+    "full": "Fine Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNoble02Alchemy",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229CA",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleAlchemyLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229CB",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleAlchemyTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229CC",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleArmory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229CD",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleArmoryFighter",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229CE",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleArmoryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229CF",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleArmoryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D0",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleTreasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D1",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleTreasuryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D2",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleClutter",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D3",
+    "full": "Elaborate Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleClutterTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D4",
+    "full": "Elaborate Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleMagic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D5",
+    "full": "Elaborate Runed Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleMagicTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D6",
+    "full": "Ornate Runed Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNoble02AlchemyT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D7",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D8",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleArmoryFighterT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229D9",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleArmoryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229DA",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleArmoryTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229DB",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleClutterT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229DC",
+    "full": "Elaborate Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleClutterTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229DD",
+    "full": "Elaborate Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleMagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229DE",
+    "full": "Elaborate Runed Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleMagicTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229DF",
+    "full": "Ornate Runed Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleTreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E0",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleTreasuryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E1",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungJewelry01Middle",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E2",
+    "full": "Common Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungJewelry01Noble",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E3",
+    "full": "Exquisite Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungJewelry01NobleTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E4",
+    "full": "Exquisite Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungJewelry01NobleTopSpecial",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E5",
+    "full": "Exquisite Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungJewelry01Upper",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E6",
+    "full": "Fine Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungJewelry01UpperTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E7",
+    "full": "Fine Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungJewelry01UpperTopT100Vamp",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E8",
+    "full": "Blood Stained Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungVampireCoffin02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229E9",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin02Open01.nif"
+  },
+  {
+    "edid": "ZOOODungVampireCoffin01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229EA",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin01Open01.nif"
+  },
+  {
+    "edid": "ZOOODungVampireChestAlyied01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229EB",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "ZOOODungVampireChestAlyied02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229EC",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungVampireBossChestAlyied02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229ED",
+    "full": "Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungJewelry01MiddleT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229EE",
+    "full": "Common Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungJewelry01NobleT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229EF",
+    "full": "Exquisite Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungJewelry01NobleTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229F0",
+    "full": "Exquisite Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungJewelry01UpperT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229F1",
+    "full": "Fine Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungJewelry01UpperTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229F2",
+    "full": "Fine Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestNobleAlchemyLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0229F3",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry01UpperTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022A03",
+    "full": "Fine Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry01Upper",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022A04",
+    "full": "Fine Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry01NobleTopSpecial",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022A07",
+    "full": "Exquisite Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022A08",
+    "full": "Exquisite Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry0",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022A09",
+    "full": "Exquisite Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry01Middle",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022A0A",
+    "full": "Common Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry01NobleTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022A0F",
+    "full": "Exquisite Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry01Noble",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022A10",
+    "full": "Exquisite Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ChestVendorzOOOCapes",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:022F5F",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
     "edid": "OOOSE32PCUrn",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:023629",
     "full": "Urn",
@@ -1138,6 +1738,198 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:02362A",
     "full": "Chest",
     "modl": "Dungeons\\RuinInteriors\\DecorationsAndStatues\\RuinsChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungVampireChestMid01Treasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024427",
+    "full": "Studded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungVampireChestMid02ArmoryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02442C",
+    "full": "Fine Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungVampireChestMid02ArmoryLesserWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02442F",
+    "full": "Rune Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleAlchemyTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024437",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleArmoryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024445",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleMagicTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024448",
+    "full": "Ornate Runed Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleTreasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024449",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungVampireMidAlyied02ArmoryWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02444A",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungVampireNobAlyied02ArmoryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02444B",
+    "full": "Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungVampireNobAlyied02MagicTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02444C",
+    "full": "Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungVampireMidAlyied01Treasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02444D",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "ZOOODungVampireNobAlyied01Treasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02444E",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "ZOOODungVampireNobAlyied01TreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02444F",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "ZOOODungVampireMidAlyied02ArmoryWizT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024450",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungVampireMidAlyied01TreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024451",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "ZOOODungVampireChestMid01TreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024452",
+    "full": "Studded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungVampireChestMid02ArmoryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024453",
+    "full": "Fine Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungVampireChestMid02ArmoryLesserWizT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024454",
+    "full": "Rune Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleArmoryTopT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024455",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleTreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024456",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungVampireNobAlyied02Magic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024459",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungVampireNobAlyied02Armory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02445A",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungVampireNobAlyied02ArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02445B",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungVampireNobAlyied02MagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02445C",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOOChestJewelry01UpperTopT100DwemerRod",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0246CD",
+    "full": "Fine Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungVampireCoffin01Top",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02497F",
+    "full": "Elaborate Coffin",
+    "modl": "harvest\\containers\\XMSCoffin01Open01.nif"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleMagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024E6D",
+    "full": "Ornate Runed Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungVampireCoffinBoss",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024E89",
+    "full": "Coffin",
+    "modl": "harvest\\containers\\XMSCoffin03Open01.nif"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry01UpperT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024EAE",
+    "full": "Fine Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleArmory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024EB2",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024EB3",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungDarkJewelry01NobleT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024ED0",
+    "full": "Exquisite Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
   },
   {
     "edid": "OOOSE32VendorThief",
@@ -1164,10 +1956,406 @@
     "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
   },
   {
+    "edid": "ZOOODungAlyeidNob01TreasuryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0258D5",
+    "full": "Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidMid01TreasuryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0258D6",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidNob01Treasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0258D8",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidMid02ArmoryWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0258F3",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidNob02Armory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0258FC",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidNob02ArmoryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0258FD",
+    "full": "Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidNob02MagicTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025901",
+    "full": "Ayleid Reliquary",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidNob02Magic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025903",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidMid02Armory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025904",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidNob01TreasuryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025905",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidMid02Magic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025906",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidNob01TreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E19",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidMid02MagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E1A",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidNob02ArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E1B",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidNob02MagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E1C",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidMid02ArmoryWizT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E1D",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidMid02ArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E1E",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidMid01TreasuryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E1F",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidMid01TreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E20",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidMid02MagicLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02638E",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOOChestJewelry01NobleTopT100Traven",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:026735",
+    "full": "Exquisite Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidLow02Magic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027DAE",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungSackMid02Treasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027DC2",
+    "full": "Sack",
+    "modl": "Clutter\\Sack02.NIF"
+  },
+  {
+    "edid": "ZOOODungChestMiddle01UpperAlchMagT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:028D13",
+    "full": "Rune Studded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungChestMiddle01UpperAlchMag",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:028D14",
+    "full": "Rune Studded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ZWildernessAmazonChest2a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:029716",
+    "full": "Stained Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ZWildernessAmazonChest1c",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:029719",
+    "full": "Stained Heavy Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ZWildernessAmazonChest1a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:029C15",
+    "full": "Stained Heavy Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ZWildernessAmazonChest1b",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:029C1F",
+    "full": "Stained Heavy Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ZWildernessAmazonChest2b",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02A60A",
+    "full": "Stained Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ZWildernessAmazonChest2c",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02A60C",
+    "full": "Stained Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidEmpty02",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02A7FD",
+    "full": "Ayleid Cask",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidEmpty01",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02A7FE",
+    "full": "Ayleid Cask",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
+  },
+  {
+    "edid": "ZOOODungAyleidLow02Armory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD01",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidLow01Treasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD03",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid02ArmoryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD13",
+    "full": "Fine Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungNecromancerNobAlyied02MagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD22",
+    "full": "Ayleid Cask",
+    "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest02.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestLow01ArmoryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD29",
+    "full": "Fine Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungNecromancerNobAlyied02MagicLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD30",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungNecroChestMidAlchemyT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD32",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid02ArmoryLesserWiz",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD34",
+    "full": "Rune Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungTombMidAyleid02Armory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD41",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungTombMidAyleid02ArmoryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD43",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOOChestJewelry01NobleTopT100Umbacano",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02E2B1",
+    "full": "Exquisite Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZWildernessWeapChest2a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:032658",
+    "full": "Stained Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ZWildernessWeapChest2b",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:032667",
+    "full": "Stained Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ChestVendorzOOOCapesLow",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03426C",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungOblivionBossClawInt01Mq10",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:034940",
+    "full": "Sanguis' Punished",
+    "modl": "harvest\\containers\\XMSClawStandContainer01.nif"
+  },
+  {
+    "edid": "DungRestorationAlyiedVilverinLockpick",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:035EC0",
+    "full": "Ayleid Chest",
+    "modl": "harvest\\containers\\XMSharvestARChest01.nif"
+  },
+  {
+    "edid": "ChestVendorSam2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03A594",
+    "full": "Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungConjChestNobleTreasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CA9D",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungNecroChestNobleMagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CA9E",
+    "full": "Ornate Runed Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungNecroChestNobleArmoryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CA9F",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungNecroChestNobleArmory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA0",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid01Treasury",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA1",
+    "full": "Studded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungNecroChestNobleTreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA2",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungNecroChestNobleMagic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA3",
+    "full": "Ornate Runed Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungNecroChestMidAlchemy",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA4",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid02ArmoryLesserWizT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA5",
+    "full": "Rune Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid02ArmoryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA6",
+    "full": "Fine Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid01TreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA7",
+    "full": "Studded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungNecroChestNobleAlchemyT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA8",
+    "full": "Ornate Runed Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungNecroChestNobleAlchemy",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAA9",
+    "full": "Ornate Runed Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungNecroChestLowAlchemy",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAAD",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
     "edid": "ZOOODungNecroChestNobleArmoryT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAB2",
     "full": "Elegant Chest",
     "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid02Magic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAB7",
+    "full": "Rune Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungNecroChestMid02MagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03CAB8",
+    "full": "Rune Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
   },
   {
     "edid": "OOOSE32PCCupboard",
@@ -1176,16 +2364,52 @@
     "modl": "Clutter\\SEfurniture\\SECupboard01.NIF"
   },
   {
+    "edid": "ZOOODungJewelry01MiddleT100Cuptor",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0415A9",
+    "full": "Common Jewelry Box",
+    "modl": "harvest\\containers\\XMSharvestJewelryChestHiFi.nif"
+  },
+  {
+    "edid": "ZOOODungAyleidMid02MagicLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0415CD",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungConjChestNobleTreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:041FF8",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungConjChestLow01ArmoryLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:041FF9",
+    "full": "Fine Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
     "edid": "ZOOODungConjChestMid02ArmoryLesserWiz",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:041FFA",
     "full": "Rune Banded Chest",
     "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
+    "edid": "ZOOODungConjChestMid02ArmoryLesserT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:041FFB",
+    "full": "Fine Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
+  },
+  {
     "edid": "ZOOODungConjChestMid02ArmoryLesser",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:041FFC",
     "full": "Fine Banded Chest",
     "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMid01TreasuryT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:041FFD",
+    "full": "Studded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest02LoFi.nif"
   },
   {
     "edid": "ZOOODungConjChestMid01Treasury",
@@ -1200,6 +2424,12 @@
     "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
   },
   {
+    "edid": "ZOOODungConjChestNobleAlchemy",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042000",
+    "full": "Ornate Runed Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
     "edid": "ZOOODungConjChestMidAlchemyT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:042001",
     "full": "Elegant Chest",
@@ -1210,6 +2440,12 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:042002",
     "full": "Elegant Chest",
     "modl": "Clutter\\MiddleClass\\Middlechest02.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestMid02MagicT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042003",
+    "full": "Rune Banded Chest",
+    "modl": "harvest\\containers\\XMSharvestMiddleChest01LoFi.nif"
   },
   {
     "edid": "ZOOODungConjChestMid02Magic",
@@ -1230,10 +2466,28 @@
     "modl": "Clutter\\UpperClass\\Upperchest01.NIF"
   },
   {
+    "edid": "ZOOODungConjChestNobleMagic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042007",
+    "full": "Ornate Runed Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest01LoFi.nif"
+  },
+  {
+    "edid": "ZOOODungConjChestNobleArmoryTop",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:042008",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
+  },
+  {
     "edid": "ZOOODungConjChestNobleArmoryT100",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:042009",
     "full": "Elegant Chest",
     "modl": "Clutter\\UpperClass\\Upperchest02.NIF"
+  },
+  {
+    "edid": "ZOOODungConjChestNobleArmory",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:04200A",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
   },
   {
     "edid": "ZOOODungConjChestNobleAlchemyT100",
@@ -1246,6 +2500,18 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:042298",
     "full": "Cupboard",
     "modl": "Clutter\\SEfurniture\\SECupboard01.NIF"
+  },
+  {
+    "edid": "ZOOODungNecromancerNobAlyied02MagicLesser",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:04F4AE",
+    "full": "Ayleid Cask",
+    "modl": "harvest\\containers\\XMSharvestARChest02.nif"
+  },
+  {
+    "edid": "ZOOODungVampireChestNobleAlchemyT100",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051276",
+    "full": "Elegant Chest",
+    "modl": "harvest\\containers\\XMSharvestUpperChest02LoFi.nif"
   },
   {
     "edid": "OOOSE44AhjazdaChest",
