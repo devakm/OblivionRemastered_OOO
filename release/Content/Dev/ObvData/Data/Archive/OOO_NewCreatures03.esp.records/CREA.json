@@ -1,0 +1,1586 @@
+[
+  {
+    "edid": "CreatureXivilaiNOSUMMON",
+    "formid": "Oblivion.esm:000FE2",
+    "full": "Xivilai",
+    "modl": "Creatures\\Xivilai\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureXivilaiWeaponNOSUMMON",
+    "formid": "Oblivion.esm:000FE3",
+    "full": "Xivilai",
+    "modl": "Creatures\\Xivilai\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureOgre",
+    "formid": "Oblivion.esm:00C20D",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWraith2GloomWeapon",
+    "formid": "Oblivion.esm:01E5EB",
+    "full": "Gloom Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton_Lord.nif"
+  },
+  {
+    "edid": "CreatureWraith0Faded",
+    "formid": "Oblivion.esm:01E5F3",
+    "full": "Faded Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfTimber",
+    "formid": "Oblivion.esm:01E5F6",
+    "full": "Timber Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurLordWeapon",
+    "formid": "Oblivion.esm:01E648",
+    "full": "Minotaur Lord",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImp",
+    "formid": "Oblivion.esm:01E649",
+    "full": "Imp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureSpriggan",
+    "formid": "Oblivion.esm:01E64B",
+    "full": "Spriggan",
+    "modl": "Creatures\\Spriggan\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureSpiderDaedra",
+    "formid": "Oblivion.esm:01E64C",
+    "full": "Spider Daedra",
+    "modl": "Creatures\\SpiderDaedra\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureXivilaiWeapon",
+    "formid": "Oblivion.esm:01E64D",
+    "full": "Xivilai",
+    "modl": "Creatures\\Xivilai\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureZombieHeadless40",
+    "formid": "Oblivion.esm:025E4C",
+    "full": "Headless Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieHeadless3",
+    "formid": "Oblivion.esm:025E4D",
+    "full": "Headless Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieHeadless1",
+    "formid": "Oblivion.esm:025E4E",
+    "full": "Headless Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombie4",
+    "formid": "Oblivion.esm:025E4F",
+    "full": "Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombie3",
+    "formid": "Oblivion.esm:025E55",
+    "full": "Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombie2",
+    "formid": "Oblivion.esm:025E5E",
+    "full": "Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombie1",
+    "formid": "Oblivion.esm:025E6E",
+    "full": "Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieHeadless2",
+    "formid": "Oblivion.esm:025E6F",
+    "full": "Headless Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureXivilai",
+    "formid": "Oblivion.esm:032655",
+    "full": "Xivilai",
+    "modl": "Creatures\\Xivilai\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWraith0FadedWeapon",
+    "formid": "Oblivion.esm:032656",
+    "full": "Faded Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWraith2Gloom",
+    "formid": "Oblivion.esm:032657",
+    "full": "Gloom Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton_Lord.nif"
+  },
+  {
+    "edid": "CreatureMinotaurLord",
+    "formid": "Oblivion.esm:03F14B",
+    "full": "Minotaur Lord",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWraith1",
+    "formid": "Oblivion.esm:098301",
+    "full": "Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureWraith1Weapon",
+    "formid": "Oblivion.esm:098304",
+    "full": "Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureZombieDread1",
+    "formid": "Oblivion.esm:09851B",
+    "full": "Dread Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieDread2",
+    "formid": "Oblivion.esm:09F955",
+    "full": "Dread Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieDread3",
+    "formid": "Oblivion.esm:09F956",
+    "full": "Dread Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieDread4",
+    "formid": "Oblivion.esm:09F957",
+    "full": "Dread Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreBog",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:000D56",
+    "full": "Bog Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImpMysticalBossRGCave",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:001648",
+    "full": "Ancient Mystical Imp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurTitanFrost2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0017DE",
+    "full": "Frost Titan",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurTitanFrostWeapon2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0017DF",
+    "full": "Frost Titan",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfIceOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003294",
+    "full": "Tundra Wolf",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWolfWargOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003295",
+    "full": "Shadow Wolf",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWolfIceOOO1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D0D",
+    "full": "Tundra Wolf",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWolfIceOOO2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D0E",
+    "full": "Tundra Wolf",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWolfIceOOO3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D0F",
+    "full": "Tundra Wolf",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWolfWargOOO1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D13",
+    "full": "Shadow Wolf",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWolfWargOOO2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D15",
+    "full": "Shadow Wolf",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWolfWargOOO3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:003D16",
+    "full": "Shadow Wolf",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureXivilaiWeaponAyleidNOSUMMON",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:004E38",
+    "full": "Xivilai",
+    "modl": "Creatures\\Xivilai\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWolf1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FB9",
+    "full": "Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolf2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FBA",
+    "full": "Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolf3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FBB",
+    "full": "Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolf5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FBC",
+    "full": "Young Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfSummon",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FBD",
+    "full": "Corrupted Hound of Jephre",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfSummon1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FBE",
+    "full": "Corrupted Hound of Jephre",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfSummon2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FBF",
+    "full": "Corrupted Hound of Jephre",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfSummon3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FC0",
+    "full": "Corrupted Hound of Jephre",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfPack1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FC3",
+    "full": "Prowler Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfPack2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FC4",
+    "full": "Prowler Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfPack3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FC5",
+    "full": "Prowler Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfStarved1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FC7",
+    "full": "Starved Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfStarved2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FC8",
+    "full": "Starved Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfStarved3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FC9",
+    "full": "Starved Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfTimber1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FCB",
+    "full": "Timber Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfTimber2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FCC",
+    "full": "Timber Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfTimber3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FCD",
+    "full": "Timber Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureRat1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FD0",
+    "full": "Rat",
+    "modl": "Creatures\\Rat\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureRat2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FD2",
+    "full": "Rat",
+    "modl": "Creatures\\Rat\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureRat3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FD3",
+    "full": "Rat",
+    "modl": "Creatures\\Rat\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureRat4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007FD4",
+    "full": "Rat",
+    "modl": "Creatures\\Rat\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImp1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0084F4",
+    "full": "Imp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImp2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0084F5",
+    "full": "Imp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImpCrazed1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0084F6",
+    "full": "Crazed Imp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImpCrazed2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0084F7",
+    "full": "Crazed Imp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImpMystical1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0084F8",
+    "full": "Mystical Imp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImpMystical2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0084F9",
+    "full": "Mystical Imp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgre1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089EC",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgre2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089ED",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreBog1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089EE",
+    "full": "Bog Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreBog2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089EF",
+    "full": "Bog Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreZ1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089F0",
+    "full": "Ravenous Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureSpriggan1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089F5",
+    "full": "Spriggan",
+    "modl": "Creatures\\Spriggan\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureSpriggan2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089F6",
+    "full": "Spriggan",
+    "modl": "Creatures\\Spriggan\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureSpriggan3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089F7",
+    "full": "Spriggan",
+    "modl": "Creatures\\Spriggan\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureTroll1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089F8",
+    "full": "Troll",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureTroll2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089F9",
+    "full": "Troll",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureTroll3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0089FA",
+    "full": "Troll",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureSpiderDaedra1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A0F",
+    "full": "Spider Daedra",
+    "modl": "Creatures\\SpiderDaedra\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureSpiderDaedra2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A10",
+    "full": "Spider Daedra",
+    "modl": "Creatures\\SpiderDaedra\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureSpiderDaedra3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A11",
+    "full": "Spider Daedra",
+    "modl": "Creatures\\SpiderDaedra\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureXivilai1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A15",
+    "full": "Xivilai",
+    "modl": "Creatures\\Xivilai\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureXivilai2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A16",
+    "full": "Xivilai",
+    "modl": "Creatures\\Xivilai\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureXivilai3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A17",
+    "full": "Xivilai",
+    "modl": "Creatures\\Xivilai\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureXivilaiWeapon1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A18",
+    "full": "Xivilai",
+    "modl": "Creatures\\Xivilai\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureXivilaiWeapon2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A19",
+    "full": "Xivilai",
+    "modl": "Creatures\\Xivilai\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureXivilaiWeapon3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A1A",
+    "full": "Xivilai",
+    "modl": "Creatures\\Xivilai\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWraith0Faded1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A33",
+    "full": "Faded Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWraith0Faded2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A34",
+    "full": "Faded Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWraith0FadedWeapon1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A35",
+    "full": "Faded Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWraith0FadedWeapon2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A36",
+    "full": "Faded Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWraith1a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A37",
+    "full": "Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureWraith1ab",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A38",
+    "full": "Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureWraith1Weapona",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A39",
+    "full": "Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureWraith1Weaponab",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A3A",
+    "full": "Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureWraith2Gloom1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A3B",
+    "full": "Gloom Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton_Lord.nif"
+  },
+  {
+    "edid": "CreatureWraith2Gloom2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A3C",
+    "full": "Gloom Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton_Lord.nif"
+  },
+  {
+    "edid": "CreatureWraith2GloomWeapon1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A3D",
+    "full": "Gloom Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton_Lord.nif"
+  },
+  {
+    "edid": "CreatureWraith2GloomWeapon2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A3E",
+    "full": "Gloom Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton_Lord.nif"
+  },
+  {
+    "edid": "CreatureZombie1a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A3F",
+    "full": "Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombie1ab",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A40",
+    "full": "Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombie2a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A41",
+    "full": "Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombie2ab",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A42",
+    "full": "Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombie3a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A43",
+    "full": "Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombie3ab",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A44",
+    "full": "Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombie4a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A45",
+    "full": "Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombie4ab",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A46",
+    "full": "Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieDread1a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A47",
+    "full": "Dread Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieDread1ab",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A48",
+    "full": "Dread Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieDread2a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A49",
+    "full": "Dread Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieDread2ab",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A4A",
+    "full": "Dread Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieDread3a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A4B",
+    "full": "Dread Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieDread3ab",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A4C",
+    "full": "Dread Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieDread4a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A4D",
+    "full": "Dread Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieDread4ab",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A4E",
+    "full": "Dread Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieHeadless1a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A4F",
+    "full": "Headless Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieHeadless1ab",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A50",
+    "full": "Headless Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieHeadless2a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A51",
+    "full": "Headless Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieHeadless2ab",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A52",
+    "full": "Headless Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieHeadless3a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A53",
+    "full": "Headless Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieHeadless3ab",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A54",
+    "full": "Headless Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieHeadless4a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A55",
+    "full": "Headless Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureZombieHeadless4ab",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008A56",
+    "full": "Headless Zombie",
+    "modl": "Creatures\\Zombie\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurTitanFrost",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0093A9",
+    "full": "Frost Titan",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurTitanFrostWeapon",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0093AB",
+    "full": "Frost Titan",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfSummonGood",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B444",
+    "full": "Jephre's Hound",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfSummonGood1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B445",
+    "full": "Jephre's Hound",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfSummonGood2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B446",
+    "full": "Jephre's Hound",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfSummonGood3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00B447",
+    "full": "Jephre's Hound",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreBog7",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00BE09",
+    "full": "Bog Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreBog8",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00BE0A",
+    "full": "Bog Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgre7",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00BE0D",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgre8",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00BE0E",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur5OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00BE14",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur5WeaponOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00BE15",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur6WeaponOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00BE16",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur6OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00BE17",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur7WeaponOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00BE18",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur7OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00BE19",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur8WeaponOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00BE1A",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur8OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00BE1B",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfSpectral",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014651",
+    "full": "Spectral Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfSpectral2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014652",
+    "full": "Spectral Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfSpectral3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014653",
+    "full": "Spectral Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfSpectral4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:014654",
+    "full": "Spectral Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureSprigganSpirit",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:015559",
+    "full": "Spirit of the Woods",
+    "modl": "Creatures\\Spriggan\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureMinotaurZGrave1aL",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:016470",
+    "full": "Minotaur Lord",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurZGrave1L",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:016471",
+    "full": "Minotaur Lord",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurZGrave4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:016472",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurZGrave3W",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:016473",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurZGrave4a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:016474",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreZShadows1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01647E",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreZShadows5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01647F",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreZShadows3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:016480",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreZShadows6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:016481",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureSprigganNOSUMMON",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:017CA3",
+    "full": "Jephre's Corrupted Mistress",
+    "modl": "Creatures\\Spriggan\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureSpriggan1NOSUMMON",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:017CA4",
+    "full": "Jephre's Corrupted Mistress",
+    "modl": "Creatures\\Spriggan\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureSpriggan3NOSUMMON",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:017CA5",
+    "full": "Jephre's Corrupted Mistress",
+    "modl": "Creatures\\Spriggan\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureSpriggan2NOSUMMON",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:017CA6",
+    "full": "Jephre's Corrupted Mistress",
+    "modl": "Creatures\\Spriggan\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureSprigganSpirit1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:017CB6",
+    "full": "Spirit of the Woods",
+    "modl": "Creatures\\Spriggan\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureSprigganSpirit2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:017CB7",
+    "full": "Spirit of the Woods",
+    "modl": "Creatures\\Spriggan\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureSprigganSpirit3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:017CB8",
+    "full": "Spirit of the Woods",
+    "modl": "Creatures\\Spriggan\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureOgreBog2Special",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01C2DB",
+    "full": "Ravenous Bog Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgre3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CD13",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgre5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CD14",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreBog4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CD15",
+    "full": "Bog Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreBog3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CD16",
+    "full": "Bog Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreBog5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CD17",
+    "full": "Bog Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgre4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CD18",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreBog6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CD19",
+    "full": "Bog Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgre6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CD1A",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfWargOOOZSummon",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01D512",
+    "full": "Shadow Wolf",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWolfWargOOOZSummon1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01D514",
+    "full": "Shadow Wolf",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWolfWargOOOZSummon4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01D515",
+    "full": "Shadow Wolf",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWolfWargOOOZSummon5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01D516",
+    "full": "Shadow Wolf",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureTroll4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:021101",
+    "full": "Troll",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureTroll5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:021102",
+    "full": "Troll",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolf6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0215ED",
+    "full": "Young Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolf4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0215EE",
+    "full": "Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurTitan",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:023E87",
+    "full": "Minotaur Titan",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurTitanWeapon",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:023E88",
+    "full": "Minotaur Titan",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreZ",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:024373",
+    "full": "Ravenous Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfSummonPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025162",
+    "full": "Jephre's Hound",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurLord1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02590B",
+    "full": "Minotaur Lord",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurLord2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02590C",
+    "full": "Minotaur Lord",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurLord3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02590D",
+    "full": "Minotaur Lord",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurLordWeapon1OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02590E",
+    "full": "Minotaur Lord",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurLordWeapon2OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02590F",
+    "full": "Minotaur Lord",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurLordWeapon3OOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025910",
+    "full": "Minotaur Lord",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfIceSummon",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025BC9",
+    "full": "Jephre's Tundra Guardian",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWolfJephreJewel",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025BDC",
+    "full": "Heart of the Wild Woods",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfGiant1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E05",
+    "full": "Giant Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfGiant2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E06",
+    "full": "Giant Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfGiant3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E07",
+    "full": "Giant Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfGiant4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E08",
+    "full": "Giant Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurLordBossLow",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E42",
+    "full": "Lord of Horunn",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurTitanBossNonungalo",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:025E63",
+    "full": "Lord of Nonungalo",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImpCrazed3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0263CE",
+    "full": "Crazed Imp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImpCrazed4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0263CF",
+    "full": "Crazed Imp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImpMystical3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0263D0",
+    "full": "Mystical Imp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImpMystical4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0263D1",
+    "full": "Mystical Imp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImp3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0263D2",
+    "full": "Imp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImp4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0263D3",
+    "full": "Imp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImpCrazed1a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027880",
+    "full": "Crazed Imp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImpMystical1a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027881",
+    "full": "Mystical Imp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfGiant",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027976",
+    "full": "Giant Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfPack",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02797A",
+    "full": "Prowler Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfWargOOOa",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027DA5",
+    "full": "Shadow Wolf",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWolfWargOOOb",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027DA6",
+    "full": "Shadow Wolf",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWolfWargOOO4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027DA7",
+    "full": "Shadow Wolf",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWolfWargOOO2a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027DA8",
+    "full": "Shadow Wolf",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWolfWargOOOc",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027DAA",
+    "full": "Shadow Wolf",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureOgreZDead",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:027DCD",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreBog5WeakHaynoteCave",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02830A",
+    "full": "Bog Ogre Youngling",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureTroll6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:028D51",
+    "full": "Troll",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureTroll7",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:028D52",
+    "full": "Troll",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureTroll8",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:028D53",
+    "full": "Troll",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureTroll9",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:028D54",
+    "full": "Troll",
+    "modl": "Creatures\\Troll\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImpMysticalBossMorahame",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:028D63",
+    "full": "Ancient Mystical Imp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfWargOOOBossMongrels",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02929B",
+    "full": "Long Fang",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWolfWargOOOBossBreakneck",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:029825",
+    "full": "Giant Shadow Wolf",
+    "modl": "creatures\\dog\\skeleton.nif"
+  },
+  {
+    "edid": "CreatureWraith2GloomNornalBoss",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02AD6A",
+    "full": "Gloom Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton_Lord.nif"
+  },
+  {
+    "edid": "CreatureMinotaurTitanFrostWeapon2Special",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02BB45",
+    "full": "Frost Titan",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfSpectralBawn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02E0E5",
+    "full": "Spectral Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfStarved",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02F4FB",
+    "full": "Starved Wolf",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImpCrazed",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02F4FF",
+    "full": "Crazed Imp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureImpMystical",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:02F501",
+    "full": "Mystical Imp",
+    "modl": "Creatures\\Imp\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaur2WeaponOOOAyleid",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:034F86",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurTitanFrostWeapon2Ayleid",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:034F87",
+    "full": "Frost Titan",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurTitanFrost3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:038646",
+    "full": "Frost Titan",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurTitanFrost4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:038647",
+    "full": "Frost Titan",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreZBrokenTooth1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0399C2",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreZBrokenTooth2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0399C4",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreZBrokenTooth3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0399C5",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreZBrokenTooth4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0399C6",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurZ4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0399CE",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurZ3W",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0399CF",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurZ1L",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0399D0",
+    "full": "Minotaur Lord",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurZ2LW",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0399D1",
+    "full": "Minotaur Lord",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreThunderBoss",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03A24E",
+    "full": "Thunderous Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreZThunder1",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03A25C",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreZThunder2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03A25D",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreZThunder3",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03A25E",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreZThunder4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03A25F",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurZNonungalo1L",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03A270",
+    "full": "Minotaur Lord",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurZNonungalo2LW",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03A271",
+    "full": "Minotaur Lord",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurZNonungalo3W",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03A272",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurZNonungalo4",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:03A273",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWolfGiantCorrupted",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:04389B",
+    "full": "Corrupted Guardian of Jephre",
+    "modl": "Creatures\\Dog\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurZ1aL",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0438A6",
+    "full": "Minotaur Lord",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurZ4a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0438A8",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurZNonungalo1aL",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0438A9",
+    "full": "Minotaur Lord",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurZNonungalo4a",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0438AA",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreZThunder5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0438AF",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreZThunder6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0438B0",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreZBrokenTooth5",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0438B1",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureOgreZBrokenTooth6",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0438B2",
+    "full": "Ogre",
+    "modl": "Creatures\\Ogre\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurLordWeaponAyleid",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051397",
+    "full": "Minotaur Lord",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureMinotaurWeaponAyleid",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051398",
+    "full": "Minotaur",
+    "modl": "Creatures\\Minotaur\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWraith0FadedWeaponAyleid",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:051399",
+    "full": "Faded Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton.NIF"
+  },
+  {
+    "edid": "CreatureWraith1WeaponAyleid",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05139A",
+    "full": "Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton.nif"
+  },
+  {
+    "edid": "CreatureWraith2GloomWeaponAyleid",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:05139B",
+    "full": "Gloom Wraith",
+    "modl": "Creatures\\Wraith\\Skeleton_Lord.nif"
+  }
+]

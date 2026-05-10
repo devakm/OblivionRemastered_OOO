@@ -1,0 +1,13 @@
+{
+  "esp": "OOO_GameSettings.esp",
+  "record_types": [
+    "GMST"
+  ],
+  "tes4": {
+    "masters": [
+      "Oblivion.esm",
+      "Oscuro's_Oblivion_Overhaul.esp"
+    ],
+    "version": 1.0
+  }
+}

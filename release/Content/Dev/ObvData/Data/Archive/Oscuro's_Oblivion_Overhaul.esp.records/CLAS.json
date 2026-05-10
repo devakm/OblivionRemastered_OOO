@@ -1,0 +1,218 @@
+[
+  {
+    "edid": "SEFanaticMelee",
+    "formid": "Oblivion.esm:041176",
+    "full": "LOC_FN_SEFanaticMelee",
+    "modl": null
+  },
+  {
+    "edid": "SEHereticMelee",
+    "formid": "Oblivion.esm:041178",
+    "full": "LOC_FN_SEHereticMelee",
+    "modl": null
+  },
+  {
+    "edid": "SEHereticMissile",
+    "formid": "Oblivion.esm:041179",
+    "full": "LOC_FN_SEHereticMissile",
+    "modl": null
+  },
+  {
+    "edid": "SEHereticMage",
+    "formid": "Oblivion.esm:04117A",
+    "full": "LOC_FN_SEHereticMage",
+    "modl": null
+  },
+  {
+    "edid": "SEGoldenSaintClass",
+    "formid": "Oblivion.esm:041513",
+    "full": "LOC_FN_SEGoldenSaintClass",
+    "modl": null
+  },
+  {
+    "edid": "SEDarkSeducerClass",
+    "formid": "Oblivion.esm:041514",
+    "full": "LOC_FN_SEDarkSeducerClass",
+    "modl": null
+  },
+  {
+    "edid": "SEGoldenSaintMageClass",
+    "formid": "Oblivion.esm:041516",
+    "full": "LOC_FN_SEGoldenSaintMageClass",
+    "modl": null
+  },
+  {
+    "edid": "SEOrderPriestClass",
+    "formid": "Oblivion.esm:044C4A",
+    "full": "LOC_FN_SEOrderPriestClass",
+    "modl": null
+  },
+  {
+    "edid": "SEDarkSeducerClassGuard",
+    "formid": "Oblivion.esm:045760",
+    "full": "LOC_FN_SEDarkSeducerClassGuard",
+    "modl": null
+  },
+  {
+    "edid": "SEGoldenSaintClassGuard",
+    "formid": "Oblivion.esm:045761",
+    "full": "LOC_FN_SEGoldenSaintClassGuard",
+    "modl": null
+  },
+  {
+    "edid": "SEZealotClass",
+    "formid": "Oblivion.esm:0552DB",
+    "full": "LOC_FN_SEZealotClass",
+    "modl": null
+  },
+  {
+    "edid": "SEKnightOrder",
+    "formid": "Oblivion.esm:081E0B",
+    "full": "LOC_FN_SEKnightOrder",
+    "modl": null
+  },
+  {
+    "edid": "ValenWarrior",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00491C",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ValenArcher",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00491D",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ValenWizard",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00491E",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "OscuroUOPMQ11Allies",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005D77",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "BanditWizardBlunt",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005DFF",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "KnightDragonborn",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005E01",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "SlaveTraderHeavy",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007062",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "SlaveTraderLight",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:007063",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ArgonianBMSFighter",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00722A",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ArgonianBMSShaman",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00722B",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ArgonianBMSSmuggler",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00722C",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ValenZGoodProtector",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0077AD",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "ValenZGoodRanger",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0077AE",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "JanusMageClass",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00EC2F",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "SlaveTraderChief",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:01CA7B",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "OOOSE32Fanatic",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:020053",
+    "full": "Fanatic",
+    "modl": null
+  },
+  {
+    "edid": "AmazonMelee",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0303DD",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "AmazonMissile",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0303DE",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "AmazonPriestess",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0303DF",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "NecromancerPutridHand",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0308C6",
+    "full": "",
+    "modl": null
+  },
+  {
+    "edid": "OOOSEGoldenSaintMageGuard",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0735FD",
+    "full": "Golden Saint",
+    "modl": null
+  },
+  {
+    "edid": "OOOSEShadowWitch",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0B86A9",
+    "full": "Shadow Witch",
+    "modl": null
+  },
+  {
+    "edid": "OOOSEMageBoss",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0C4A45",
+    "full": "Mage Boss",
+    "modl": null
+  },
+  {
+    "edid": "OOOSEHereticMeleeNew",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0CBE8A",
+    "full": "Heretic",
+    "modl": null
+  }
+]

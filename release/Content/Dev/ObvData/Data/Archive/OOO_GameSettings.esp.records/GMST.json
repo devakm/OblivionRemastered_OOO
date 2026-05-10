@@ -1,0 +1,2978 @@
+[
+  {
+    "edid": "fMoveCreatureWalkMin",
+    "formid": "Oblivion.esm:0008C3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAbsorbGlowColorR",
+    "formid": "Oblivion.esm:000F4E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAbsorbGlowColorG",
+    "formid": "Oblivion.esm:000F4F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAbsorbGlowColorB",
+    "formid": "Oblivion.esm:000F50",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAbsorbCoreColorB",
+    "formid": "Oblivion.esm:000F51",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAbsorbCoreColorG",
+    "formid": "Oblivion.esm:000F52",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAbsorbCoreColorR",
+    "formid": "Oblivion.esm:000F54",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMoveCreatureWalkMax",
+    "formid": "Oblivion.esm:0017E0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fBarterSellBase",
+    "formid": "Oblivion.esm:002333",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMoveEncumEffect",
+    "formid": "Oblivion.esm:0038BC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMoveNoWeaponMult",
+    "formid": "Oblivion.esm:0038BD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iAIDefaultAttackChance",
+    "formid": "Oblivion.esm:0038BF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iAIDefaultBlockChance",
+    "formid": "Oblivion.esm:0038C0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAIDefaultBlockSkillMult",
+    "formid": "Oblivion.esm:0038C1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAIDefaultAttackSkillMult",
+    "formid": "Oblivion.esm:0038C2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAIDefaultBlockDuringAttackMult",
+    "formid": "Oblivion.esm:0038C3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAIDefaultBlockNoAttackMult",
+    "formid": "Oblivion.esm:0038C4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fImpactShaderMaxMagnitude",
+    "formid": "Oblivion.esm:003A04",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sCanNotEquipQuestArrows",
+    "formid": "Oblivion.esm:004848",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPotionT3AleMagMult",
+    "formid": "Oblivion.esm:005146",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPotionT2AleDurMult",
+    "formid": "Oblivion.esm:005151",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sLockLevelNameImpossible",
+    "formid": "Oblivion.esm:00517E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iPerkExtraBarterGoldMaster",
+    "formid": "Oblivion.esm:00517F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSkillUseExp",
+    "formid": "Oblivion.esm:0051A1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDamageStrengthBase",
+    "formid": "Oblivion.esm:0051A4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDamageStrengthMult",
+    "formid": "Oblivion.esm:0051A5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDamageSkillMult",
+    "formid": "Oblivion.esm:0051A7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPotionT1AleDurMult",
+    "formid": "Oblivion.esm:0051A8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPotionT1AleMagMult",
+    "formid": "Oblivion.esm:0051A9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPotionT1CalDurMult",
+    "formid": "Oblivion.esm:0051AA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPotionT1RetDurMult",
+    "formid": "Oblivion.esm:0051AB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDamagePowerAttackBackBonus",
+    "formid": "Oblivion.esm:005257",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDamagePowerAttackStandBonus",
+    "formid": "Oblivion.esm:005258",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDamagePowerAttackSideBonus",
+    "formid": "Oblivion.esm:005259",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDamagePowerAttackForwardBonus",
+    "formid": "Oblivion.esm:00525A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iLevCreaLevelDifferenceMax",
+    "formid": "Oblivion.esm:0052B5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iLevItemLevelDifferenceMax",
+    "formid": "Oblivion.esm:0052B6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDamageToArmorPercentage",
+    "formid": "Oblivion.esm:0052BE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAITrespassWarningTimer",
+    "formid": "Oblivion.esm:005682",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSkillUseFactor",
+    "formid": "Oblivion.esm:007E4C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSneakSleepBonus",
+    "formid": "Oblivion.esm:007E8B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fRepairArmorerMult",
+    "formid": "Oblivion.esm:007E8C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iSoulLevelValueCommon",
+    "formid": "Oblivion.esm:007E97",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iSoulLevelValueGrand",
+    "formid": "Oblivion.esm:007E98",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iSoulLevelValueGreater",
+    "formid": "Oblivion.esm:007E99",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iSoulLevelValueLesser",
+    "formid": "Oblivion.esm:007E9A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iSoulLevelValuePetty",
+    "formid": "Oblivion.esm:007E9B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sVampireFeedQuestion",
+    "formid": "Oblivion.esm:0086B7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sAddItemtoSpellList",
+    "formid": "Oblivion.esm:0086C9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDetectionCommentTimer",
+    "formid": "Oblivion.esm:009709",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fLockPickAutoDifficulty",
+    "formid": "Oblivion.esm:0097A8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sVarlaStoneMessage",
+    "formid": "Oblivion.esm:00A9EE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iCrimeGoldJailBreak",
+    "formid": "Oblivion.esm:00AA00",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iNumberActorsInCombatPlayer",
+    "formid": "Oblivion.esm:00AA07",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDetectionSneakLightMod",
+    "formid": "Oblivion.esm:00AA64",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPickPocketTargetSkillMult",
+    "formid": "Oblivion.esm:00AA91",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPickPocketMaxChance",
+    "formid": "Oblivion.esm:00AA92",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPickPocketActorSkillMult",
+    "formid": "Oblivion.esm:00AA93",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDistanceProjectileExplosionDetection",
+    "formid": "Oblivion.esm:00BDE5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSpellCastingDetectionMod",
+    "formid": "Oblivion.esm:00C1DB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fLockPickAutoBase",
+    "formid": "Oblivion.esm:00C326",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fTorchLightLevelNight",
+    "formid": "Oblivion.esm:00C3D6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fTorchLightLevelMorning",
+    "formid": "Oblivion.esm:00C3D7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iMasserSize",
+    "formid": "Oblivion.esm:00C56C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSecundaAngleFadeEnd",
+    "formid": "Oblivion.esm:00C62D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSecundaAngleFadeStart",
+    "formid": "Oblivion.esm:00C62E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSecundaAngleShadowEarlyFade",
+    "formid": "Oblivion.esm:00C62F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMasserAngleShadowEarlyFade",
+    "formid": "Oblivion.esm:00C630",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMasserAngleFadeStart",
+    "formid": "Oblivion.esm:00C631",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMasserAngleFadeEnd",
+    "formid": "Oblivion.esm:00C632",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAISocialRadiusToTriggerConversation",
+    "formid": "Oblivion.esm:00C6C1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iMagicMaxPotionsNovice",
+    "formid": "Oblivion.esm:00CBD5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iMagicMaxPotionsApprentice",
+    "formid": "Oblivion.esm:00CBD6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iMagicMaxPotionsExpert",
+    "formid": "Oblivion.esm:00CBD7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iMagicMaxPotionsJourneyman",
+    "formid": "Oblivion.esm:00CBD8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iMagicMaxPotionsMaster",
+    "formid": "Oblivion.esm:00CBD9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fWeatherFlashAmbient",
+    "formid": "Oblivion.esm:00CE31",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fWeatherFlashDuration",
+    "formid": "Oblivion.esm:00CE32",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMoveCharWalkMin",
+    "formid": "Oblivion.esm:0104C8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMoveCharWalkMax",
+    "formid": "Oblivion.esm:0104CA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMoveRunMult",
+    "formid": "Oblivion.esm:0104CC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fActorStrengthEncumbranceMult",
+    "formid": "Oblivion.esm:010554",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPotionGoldValueMult",
+    "formid": "Oblivion.esm:014690",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPlayerDeathReloadTime",
+    "formid": "Oblivion.esm:014C4D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicTelekinesiDistanceMult",
+    "formid": "Oblivion.esm:014C60",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicTelekinesisLiftPowerMult",
+    "formid": "Oblivion.esm:014C61",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicLightHeightOffset",
+    "formid": "Oblivion.esm:014C74",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicLightRadiusBase",
+    "formid": "Oblivion.esm:014C75",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fTreeWindVariance",
+    "formid": "Oblivion.esm:014C7D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fLeafRockAmountSwayInfluence",
+    "formid": "Oblivion.esm:014C7E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fLeafRockSpeedSwayInfluence",
+    "formid": "Oblivion.esm:014C7F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fLeafRockTimeScale",
+    "formid": "Oblivion.esm:014C80",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fLeafRustleTimeScale",
+    "formid": "Oblivion.esm:014C81",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fLeafRustleSpeedSwayInfluence",
+    "formid": "Oblivion.esm:014C82",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sEssentialCharacterDown",
+    "formid": "Oblivion.esm:014D3A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fLeafRustleAmountSwayInfluence",
+    "formid": "Oblivion.esm:014EB7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDaytimeColorExtension",
+    "formid": "Oblivion.esm:014EBB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMoveSneakMult",
+    "formid": "Oblivion.esm:016593",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMoveWeightMax",
+    "formid": "Oblivion.esm:016594",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFightAggrBase",
+    "formid": "Oblivion.esm:016595",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fClothingJewelryBase",
+    "formid": "Oblivion.esm:018143",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDialogSpeachDelay",
+    "formid": "Oblivion.esm:0181A5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker04DeltaX",
+    "formid": "Oblivion.esm:01D5C1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker04DeltaY",
+    "formid": "Oblivion.esm:01D5C2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker04DeltaZ",
+    "formid": "Oblivion.esm:01D5C3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker04HeadingDelta",
+    "formid": "Oblivion.esm:01D5C4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker03DeltaX",
+    "formid": "Oblivion.esm:01D5C5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker03DeltaY",
+    "formid": "Oblivion.esm:01D5C6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker03DeltaZ",
+    "formid": "Oblivion.esm:01D5C7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker03HeadingDelta",
+    "formid": "Oblivion.esm:01D5C8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sLevelUp15",
+    "formid": "Oblivion.esm:01E69A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sLevelUp18",
+    "formid": "Oblivion.esm:01E69B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sLevelUp19",
+    "formid": "Oblivion.esm:01E69C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sLevelUp6",
+    "formid": "Oblivion.esm:01E69D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sLevelUp4",
+    "formid": "Oblivion.esm:01E69E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sLevelUp12",
+    "formid": "Oblivion.esm:01E69F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sLevelUp17",
+    "formid": "Oblivion.esm:01E6A0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sLevelUp20",
+    "formid": "Oblivion.esm:01E6A1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fTreeFarDistanceBase",
+    "formid": "Oblivion.esm:023E55",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fTreeNearDistanceBase",
+    "formid": "Oblivion.esm:023E57",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAIMaxSmileDistance",
+    "formid": "Oblivion.esm:02466C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAIMaxHeadTrackDistance",
+    "formid": "Oblivion.esm:02466D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fCombatSpeakAttackChance",
+    "formid": "Oblivion.esm:024763",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFatigueReturnBase",
+    "formid": "Oblivion.esm:0274D8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFatigueRunBase",
+    "formid": "Oblivion.esm:0274D9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFatigueRunMult",
+    "formid": "Oblivion.esm:0274DA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFatigueAttackWeaponBase",
+    "formid": "Oblivion.esm:02751B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFatigueAttackWeaponMult",
+    "formid": "Oblivion.esm:02751C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFatigueReturnMult",
+    "formid": "Oblivion.esm:02751D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fRegionGenTexGenMatch",
+    "formid": "Oblivion.esm:027DFA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fRegionGenTexGenNotMatch",
+    "formid": "Oblivion.esm:027DFB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fRegionGenTexPlacedMatch",
+    "formid": "Oblivion.esm:027DFC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fRegionGenTexPlacedNotMatch",
+    "formid": "Oblivion.esm:027DFD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fKnockdownChance",
+    "formid": "Oblivion.esm:027F9C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFatigueBlockSkillBase",
+    "formid": "Oblivion.esm:027F9D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFatigueBlockSkillMult",
+    "formid": "Oblivion.esm:027F9E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAIFleeHealthMult",
+    "formid": "Oblivion.esm:0287A0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAIYieldBase",
+    "formid": "Oblivion.esm:0287A1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAIFleeConfBase",
+    "formid": "Oblivion.esm:0287A2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fCombatHitConeAngle",
+    "formid": "Oblivion.esm:0287A3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDispTargetFactionRankBase",
+    "formid": "Oblivion.esm:0287A4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDispTargetPerMult",
+    "formid": "Oblivion.esm:0287A5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDispActorPerMult",
+    "formid": "Oblivion.esm:0287A6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSpeechDelay",
+    "formid": "Oblivion.esm:0287A7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker01DeltaZ",
+    "formid": "Oblivion.esm:0298E0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker01DeltaY",
+    "formid": "Oblivion.esm:0298E2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker01DeltaX",
+    "formid": "Oblivion.esm:0298E5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker12DeltaZ",
+    "formid": "Oblivion.esm:0298EA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker12DeltaY",
+    "formid": "Oblivion.esm:0298EB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker12DeltaX",
+    "formid": "Oblivion.esm:0298EC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker13DeltaZ",
+    "formid": "Oblivion.esm:0298ED",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker13DeltaY",
+    "formid": "Oblivion.esm:0298EF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker13DeltaX",
+    "formid": "Oblivion.esm:0298F1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker11DeltaZ",
+    "formid": "Oblivion.esm:0298F3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker11DeltaY",
+    "formid": "Oblivion.esm:0298F4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker11DeltaX",
+    "formid": "Oblivion.esm:0298FC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker14DeltaZ",
+    "formid": "Oblivion.esm:029901",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker14DeltaY",
+    "formid": "Oblivion.esm:029902",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker14DeltaX",
+    "formid": "Oblivion.esm:029906",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDamagePowerAttackBonus",
+    "formid": "Oblivion.esm:02A0C4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDamageWeaponMult",
+    "formid": "Oblivion.esm:02A0C5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAIPowerAttackRecoilBonus",
+    "formid": "Oblivion.esm:02A0C7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fHandHealthMax",
+    "formid": "Oblivion.esm:02A0CA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPowerAttackFatiguePenalty",
+    "formid": "Oblivion.esm:02A0CB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFatigueBase",
+    "formid": "Oblivion.esm:02A0CC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFatigueMult",
+    "formid": "Oblivion.esm:02A0CD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fCombatSoundWeaponPct",
+    "formid": "Oblivion.esm:02B378",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fCombatSoundFleshPct",
+    "formid": "Oblivion.esm:02B379",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fCombatSoundArmorPct",
+    "formid": "Oblivion.esm:02B37A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iArmorWeightShield",
+    "formid": "Oblivion.esm:02B37B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iArmorWeightHelmet",
+    "formid": "Oblivion.esm:02B37C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFirstPersonCameraMult",
+    "formid": "Oblivion.esm:02B37E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker02DeltaX",
+    "formid": "Oblivion.esm:02B3A0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker02DeltaY",
+    "formid": "Oblivion.esm:02B3A1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker02DeltaZ",
+    "formid": "Oblivion.esm:02B3A2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fKnockdownDamageMult",
+    "formid": "Oblivion.esm:02B576",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker01HeadingDelta",
+    "formid": "Oblivion.esm:02B7CB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker11HeadingDelta",
+    "formid": "Oblivion.esm:02B7E4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker12HeadingDelta",
+    "formid": "Oblivion.esm:02B7E5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker14HeadingDelta",
+    "formid": "Oblivion.esm:02B7E6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iCrimeAlarmRecDistance",
+    "formid": "Oblivion.esm:02BE94",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker02HeadingDelta",
+    "formid": "Oblivion.esm:02D31C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFurnitureMarker13HeadingDelta",
+    "formid": "Oblivion.esm:0313AA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPathAvoidanceCreatureIntLimit",
+    "formid": "Oblivion.esm:033E6F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagickaReturnBase",
+    "formid": "Oblivion.esm:037B21",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagickaReturnMult",
+    "formid": "Oblivion.esm:037B22",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fActorTeleportFadeSeconds",
+    "formid": "Oblivion.esm:037B23",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sCanNotTrainAnymore",
+    "formid": "Oblivion.esm:037E86",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sImpossibleLock",
+    "formid": "Oblivion.esm:037E87",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoHammer",
+    "formid": "Oblivion.esm:037E88",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoLockPick",
+    "formid": "Oblivion.esm:037E89",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoLockPickKey",
+    "formid": "Oblivion.esm:037E8A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoMortor",
+    "formid": "Oblivion.esm:037E8B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoSoulGem",
+    "formid": "Oblivion.esm:037E8C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAISocialchanceForConversation",
+    "formid": "Oblivion.esm:03A8F6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSneakBootWeightBase",
+    "formid": "Oblivion.esm:03C175",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSneakBootWeightMult",
+    "formid": "Oblivion.esm:03C176",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSneakTargetAttackBonus",
+    "formid": "Oblivion.esm:03C395",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fEnchantmentGoldMult",
+    "formid": "Oblivion.esm:03D069",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHitParticleStone",
+    "formid": "Oblivion.esm:03E28A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHitParticleWood",
+    "formid": "Oblivion.esm:03E28B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHitParticleMetal",
+    "formid": "Oblivion.esm:03E28C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iDeathDropWeaponChance",
+    "formid": "Oblivion.esm:03FD40",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sMiscSEBounty",
+    "formid": "Oblivion.esm:045D2F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSneakTargetInCombatBonus",
+    "formid": "Oblivion.esm:047989",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iCrimeGoldStealHorse",
+    "formid": "Oblivion.esm:047ACC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fWeatherTransMax",
+    "formid": "Oblivion.esm:0493BB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sDerivedAttributeDescEncumbrance",
+    "formid": "Oblivion.esm:04B6D8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sDerivedAttributeDescFatigue",
+    "formid": "Oblivion.esm:04B6D9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sDerivedAttributeDescHealth",
+    "formid": "Oblivion.esm:04B6DA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sDerivedAttributeDescMagicka",
+    "formid": "Oblivion.esm:04B6DB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSneakMaxDistance",
+    "formid": "Oblivion.esm:04CAD4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSneakBaseValue",
+    "formid": "Oblivion.esm:04CE36",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSneakSoundLosMult",
+    "formid": "Oblivion.esm:04CE37",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSneakSkillMult",
+    "formid": "Oblivion.esm:04CE38",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAIDefaultAttackDuringRecoilStaggerBonus",
+    "formid": "Oblivion.esm:04F124",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sAttributeDescAgility",
+    "formid": "Oblivion.esm:04F653",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sAttributeDescEndurance",
+    "formid": "Oblivion.esm:04F654",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sAttributeDescIntelligence",
+    "formid": "Oblivion.esm:04F655",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sAttributeDescLuck",
+    "formid": "Oblivion.esm:04F656",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sAttributeDescPersonality",
+    "formid": "Oblivion.esm:04F657",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sAttributeDescSpeed",
+    "formid": "Oblivion.esm:04F658",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sAttributeDescStrength",
+    "formid": "Oblivion.esm:04F659",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sAttributeDescWillpower",
+    "formid": "Oblivion.esm:04F65A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sAnimationCanNotEquipWeapon",
+    "formid": "Oblivion.esm:04F65B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sAgilityDescription",
+    "formid": "Oblivion.esm:04F65C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fHandFatigueDamageBase",
+    "formid": "Oblivion.esm:05C005",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fHandFatigueDamageMult",
+    "formid": "Oblivion.esm:05C006",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSpellmakingGoldMult",
+    "formid": "Oblivion.esm:05C06C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sEnduranceDescription",
+    "formid": "Oblivion.esm:05C447",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sIntellegenceDescription",
+    "formid": "Oblivion.esm:05C448",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sLuckDescription",
+    "formid": "Oblivion.esm:05C449",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sPersonalityDescription",
+    "formid": "Oblivion.esm:05C44A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sWillPowerDescription",
+    "formid": "Oblivion.esm:05C44B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sStrengthDescription",
+    "formid": "Oblivion.esm:05C44C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicSpellLevelApprenticeMin",
+    "formid": "Oblivion.esm:06035F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicSpellLevelJourneymanMin",
+    "formid": "Oblivion.esm:060360",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicSpellLevelExpertMin",
+    "formid": "Oblivion.esm:060361",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicSpellLevelMasterMin",
+    "formid": "Oblivion.esm:060362",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sAnimationCanNotUnequip",
+    "formid": "Oblivion.esm:0624DF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sDropEquippedItemWarning",
+    "formid": "Oblivion.esm:0624E0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sKeyLocked",
+    "formid": "Oblivion.esm:0624E1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sLowSoul",
+    "formid": "Oblivion.esm:0624E2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoFastTravelScriptBlock",
+    "formid": "Oblivion.esm:0624E3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoSoul",
+    "formid": "Oblivion.esm:0624E4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoSoulInGem",
+    "formid": "Oblivion.esm:0624E5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoWaitWhileAlarmSounding",
+    "formid": "Oblivion.esm:0624E6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iMapMarkerRevealDistance",
+    "formid": "Oblivion.esm:064F95",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iMapMarkerVisibleDistance",
+    "formid": "Oblivion.esm:064F96",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fClothingClassScale",
+    "formid": "Oblivion.esm:066A2D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fClothingJewelryScale",
+    "formid": "Oblivion.esm:066A2E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sCombatDescription",
+    "formid": "Oblivion.esm:067C4D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sStealthDescription",
+    "formid": "Oblivion.esm:067C4E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sMagicDescription",
+    "formid": "Oblivion.esm:067C4F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFatigueCastBase",
+    "formid": "Oblivion.esm:067DCB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fAutoDoorActivateDistance",
+    "formid": "Oblivion.esm:0685A5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFightFriendDispBase",
+    "formid": "Oblivion.esm:068DC7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fCombatGiantCreatureReachMult",
+    "formid": "Oblivion.esm:0699FF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicFatigueDrainMult",
+    "formid": "Oblivion.esm:06B345",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicFatigueDrainBase",
+    "formid": "Oblivion.esm:06B346",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sAddItemtoInventory",
+    "formid": "Oblivion.esm:06C160",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sAddItemtoInventoryText",
+    "formid": "Oblivion.esm:06C161",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sCanNotEquipAlchemy",
+    "formid": "Oblivion.esm:06C162",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sCanNotEquipRepairHammer",
+    "formid": "Oblivion.esm:06C163",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sCanNotEquipSoulGem",
+    "formid": "Oblivion.esm:06C164",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sCanNotReadBood",
+    "formid": "Oblivion.esm:06C165",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sCanNotTrainHigher",
+    "formid": "Oblivion.esm:06C166",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sContinueText",
+    "formid": "Oblivion.esm:06C167",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sDiscoveredText",
+    "formid": "Oblivion.esm:06C168",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sLevelDefault",
+    "formid": "Oblivion.esm:06C169",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sLevelDoneWarning",
+    "formid": "Oblivion.esm:06C16A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sLevelUp11",
+    "formid": "Oblivion.esm:06C16B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sLoadWhilePlaying",
+    "formid": "Oblivion.esm:06C16C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoSleepCombat",
+    "formid": "Oblivion.esm:06C16D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoSleepHostilActorsNear",
+    "formid": "Oblivion.esm:06C16E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoWaitHostilActorsNear",
+    "formid": "Oblivion.esm:06C16F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoWaitUnderWater",
+    "formid": "Oblivion.esm:06C170",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sOpenWithKey",
+    "formid": "Oblivion.esm:06C171",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sPlayerLeavingBorderRegion",
+    "formid": "Oblivion.esm:06C172",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sTravelQuestion",
+    "formid": "Oblivion.esm:06C173",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sUnequipItemOnPlayer",
+    "formid": "Oblivion.esm:06C174",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fInfamyBountyMod",
+    "formid": "Oblivion.esm:06C64B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicCasterSkillCostBase",
+    "formid": "Oblivion.esm:06C64C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicCasterSkillCostMult",
+    "formid": "Oblivion.esm:06C64D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPersuasionCurve",
+    "formid": "Oblivion.esm:06E6AB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fJumpDoubleMult",
+    "formid": "Oblivion.esm:06EE1D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fJumpHeightMax",
+    "formid": "Oblivion.esm:06EE1E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fJumpFallTimeMult",
+    "formid": "Oblivion.esm:06EE1F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFatigueJumpBase",
+    "formid": "Oblivion.esm:06EE20",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFatigueJumpMult",
+    "formid": "Oblivion.esm:06EE21",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSecundaSpeed",
+    "formid": "Oblivion.esm:0711B6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fNPCGeneticVariation",
+    "formid": "Oblivion.esm:073433",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fVanityModeAutoDelay",
+    "formid": "Oblivion.esm:07BE55",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fCombatSpeakPowerAttackChance",
+    "formid": "Oblivion.esm:088FFD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fCombatSpeakHitChance",
+    "formid": "Oblivion.esm:088FFE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fCombatSpeakHitThreshold",
+    "formid": "Oblivion.esm:088FFF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iPerkBlockStaggerChance",
+    "formid": "Oblivion.esm:089000",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fNPCAttributeHealthMult",
+    "formid": "Oblivion.esm:094042",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPickPocketAmountMult",
+    "formid": "Oblivion.esm:094045",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPickPocketActorSkillBase",
+    "formid": "Oblivion.esm:094046",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDamageToWeaponPercentage",
+    "formid": "Oblivion.esm:09417E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fIdleChatterCommentTimer",
+    "formid": "Oblivion.esm:096FFF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fActorArmorDesirabilityDamageMult",
+    "formid": "Oblivion.esm:097000",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPCBaseMagickaMult",
+    "formid": "Oblivion.esm:09E62F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fNPCBaseMagickaMult",
+    "formid": "Oblivion.esm:09E642",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fBribeCurve",
+    "formid": "Oblivion.esm:09E653",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPersuasionMod",
+    "formid": "Oblivion.esm:09E654",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSneakLightMult",
+    "formid": "Oblivion.esm:09F902",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fWortcraftChanceIntDenom",
+    "formid": "Oblivion.esm:0C01A9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fWortcraftChanceLuckDenom",
+    "formid": "Oblivion.esm:0C01AA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoWaitInCombat",
+    "formid": "Oblivion.esm:0C01AB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sMonthHeartFire",
+    "formid": "Oblivion.esm:0C4260",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sMonthRainsHand",
+    "formid": "Oblivion.esm:0C4261",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sMonthMidYear",
+    "formid": "Oblivion.esm:0C4262",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSunReduceGlareSpeed",
+    "formid": "Oblivion.esm:0C4282",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicDiseaseTransferMult",
+    "formid": "Oblivion.esm:0C4286",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iCrimeGoldAttackMin",
+    "formid": "Oblivion.esm:0C4A27",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fCrimeAlarmRespMult",
+    "formid": "Oblivion.esm:0C4A28",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fBribeBase",
+    "formid": "Oblivion.esm:0C529A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sSoulGemTooSmall",
+    "formid": "Oblivion.esm:0C58CF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDamageWeaponConditionBase",
+    "formid": "Oblivion.esm:0C7617",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDamageWeaponConditionMult",
+    "formid": "Oblivion.esm:0C7618",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fChase3rdPersonXYMult",
+    "formid": "Oblivion.esm:0C761C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iNPCBasePerLevelHealthMult",
+    "formid": "Oblivion.esm:0C7911",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iLowLevelNPCMaxLevel",
+    "formid": "Oblivion.esm:0C7912",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fLowLevelNPCBaseHealthMult",
+    "formid": "Oblivion.esm:0C7913",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sReturnToMainMenu",
+    "formid": "Oblivion.esm:0C7959",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSneakRunningMult",
+    "formid": "Oblivion.esm:0C89AB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iPCStartSpellSkillLevel",
+    "formid": "Oblivion.esm:0C8BC7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicFogMaximumDistance",
+    "formid": "Oblivion.esm:0C9FC1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicFogOptimalDistance",
+    "formid": "Oblivion.esm:0C9FC2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoFastTravelCombat",
+    "formid": "Oblivion.esm:0CA0F6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDifficultyDamageMultiplier",
+    "formid": "Oblivion.esm:0CAD59",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fBribeScale",
+    "formid": "Oblivion.esm:0CB61F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fHandReachMult",
+    "formid": "Oblivion.esm:0CC1E4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sMiscNumPlacesDiscovered",
+    "formid": "Oblivion.esm:0CD2D5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicCostScale",
+    "formid": "Oblivion.esm:0CD320",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fDyingTimer",
+    "formid": "Oblivion.esm:0CD32A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHairColor0",
+    "formid": "Oblivion.esm:0CD3D1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHairColor1",
+    "formid": "Oblivion.esm:0CD3D2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHairColor2",
+    "formid": "Oblivion.esm:0CD3D3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHairColor3",
+    "formid": "Oblivion.esm:0CD3D4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHairColor4",
+    "formid": "Oblivion.esm:0CD3D5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHairColor5",
+    "formid": "Oblivion.esm:0CD3D6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHairColor6",
+    "formid": "Oblivion.esm:0CD3D7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHairColor7",
+    "formid": "Oblivion.esm:0CD3D8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHairColor8",
+    "formid": "Oblivion.esm:0CD3D9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHairColor9",
+    "formid": "Oblivion.esm:0CD3DA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHairColor10",
+    "formid": "Oblivion.esm:0CD3DB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHairColor11",
+    "formid": "Oblivion.esm:0CD3DC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHairColor12",
+    "formid": "Oblivion.esm:0CD3DD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHairColor13",
+    "formid": "Oblivion.esm:0CD3DE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHairColor14",
+    "formid": "Oblivion.esm:0CD3DF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHairColor15",
+    "formid": "Oblivion.esm:0CD3E0",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSunAlphaTransTime",
+    "formid": "Oblivion.esm:0CD3E9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fStarsRotateXAxis",
+    "formid": "Oblivion.esm:0CD3EA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fStarsRotateYAxis",
+    "formid": "Oblivion.esm:0CD3EB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fStarsRotateDays",
+    "formid": "Oblivion.esm:0CD3EC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fStarsRotateZAxis",
+    "formid": "Oblivion.esm:0CD3ED",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fSunMinimumGlareScale",
+    "formid": "Oblivion.esm:0CD3EE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sSuccessfulSneakAttackEnd",
+    "formid": "Oblivion.esm:0CD3F3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPerkSneakAttackMarksmanNoviceMult",
+    "formid": "Oblivion.esm:0CD3F4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPerkSneakAttackMarksmanMasterMult",
+    "formid": "Oblivion.esm:0CD3F5",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPerkSneakAttackMarksmanJourneymanMult",
+    "formid": "Oblivion.esm:0CD3F6",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPerkSneakAttackMarksmanExpertMult",
+    "formid": "Oblivion.esm:0CD3F7",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPerkSneakAttackMarksmanApprenticeMult",
+    "formid": "Oblivion.esm:0CD3F8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fRechargeGoldMult",
+    "formid": "Oblivion.esm:0CD41F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMaxArmorRating",
+    "formid": "Oblivion.esm:0CD4BA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPersuasionReactionHate",
+    "formid": "Oblivion.esm:0CD4BC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPersuasionReactionDislike",
+    "formid": "Oblivion.esm:0CD4BD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sSpecialization",
+    "formid": "Oblivion.esm:0CD591",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoTalkFleeing",
+    "formid": "Oblivion.esm:0CD593",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoSleepInOwnedBed",
+    "formid": "Oblivion.esm:0CD598",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sMajorSkills",
+    "formid": "Oblivion.esm:0CD599",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sFavoredAttributes",
+    "formid": "Oblivion.esm:0CD59A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iLowResponsiblityLevel",
+    "formid": "Oblivion.esm:0F5839",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fStatsHealthStartMult",
+    "formid": "Oblivion.esm:0FFA81",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fTrainingCostMult",
+    "formid": "Oblivion.esm:1193D4",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sOverEncumbered",
+    "formid": "Oblivion.esm:185E30",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicExplosionAgilityMult",
+    "formid": "Oblivion.esm:18A808",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fActorSwimBreathBase",
+    "formid": "Oblivion.esm:18AFD2",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fActorSwimBreathMult",
+    "formid": "Oblivion.esm:18AFD3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sOfferRefused",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005DF9",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sOpenedContainer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005DFA",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sYour",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:005DFB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPerkSneakAttackMeleeExpertMult",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0087FB",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPerkSneakAttackMeleeMasterMult",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0087FC",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fBlockAmountHandToHandMult",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0087FD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iPerkMarksmanParalyzeChance",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0087FE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iPerkMarksmanKnockdownChance",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0087FF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iPerkHandToHandBlockRecoilChance",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008800",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iPerkBlockDisarmChance",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008801",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iPerkAttackDisarmChance",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008802",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicProjectileBaseSpeed",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008803",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fArrowSpeedMult",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008804",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fArrowOptimalDistance",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008805",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fArrowMaxDistance",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008806",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fArrowGravityMult",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008807",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fArrowGravityMin",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008808",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fArrowGravityBase",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008809",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicAreaBaseCostMult",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00880A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicBallMaximumDistance",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00880B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicBoltMaximumDistance",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00880C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicBallOptimalDistance",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00880D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicBoltOptimalDistance",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00880E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicRangeTargetCostMult",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00880F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMarksmanFatigueBurnPerSecond",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008810",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMarksmanFatigueBurnPerShot",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008811",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPerkHeavyArmorExpertSpeedMult",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008812",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPerkHeavyArmorMasterSpeedMult",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008813",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPowerAttackDelay",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008814",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iArrowInventoryChance",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008815",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "iArrowMaxRefCount",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008816",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sSkillLevelTooLow",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008817",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicArmorPenaltyMax",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008818",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fMagicArmorPenaltyMin",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008819",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fRepairCostMult",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00881A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fCreatureCalcDamage",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00881B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPCBaseHealthMult",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00881C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPerkLightArmorMasterRatingMult",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00881D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sAddAnEffect",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00881F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sAnimationCanNotEquipArmor",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008820",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sCanNotEquipWornEnchantment",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008821",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sCanNotSummonInWater",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008822",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sCantEquipGeneric",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008823",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sCantRaiseAnyAttributes",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008824",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sCantRemoveWornItem",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008825",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sCantUnequipGeneric",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008826",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sContractedDisease",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008827",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sConfirmBuySpell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008828",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sDropQuestItemWarning",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008829",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sEnchantmentSuccess",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00882A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sEntryInstructions2",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00882B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sFastTravelHorseatGate",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00882C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sFastTravelNoTravelHealthDamage",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00882D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sFloraFailureMessage",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00882E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sFloraSuccessMessage",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00882F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sGetAllConfiscatedItems",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008830",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHeavyArmorNoJump",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008831",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sHeavyArmorSink",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008832",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sLockedContainer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00883B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sMagicAlreadyFull",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00883C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sMagicCastInsufficientMagicka",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00883D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sMagicCastInsufficientSkill",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00883E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sMagicCastMultipleBoundEffects",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00883F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sMagicCastPowerUsed",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008840",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sMagicCastRangedUnderwater",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008841",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sMagicCastSilenced",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008842",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sMapMarkerNotFound",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008843",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sMaxPotionsExceeded",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008844",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sMeditate",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008845",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sMissingSpellName",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008846",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoFastTravelAlarm",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008847",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoFastTravelCell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008848",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoFX",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008849",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoItem",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00884A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoItemsToRecharge",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00884B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoJumpWarning",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00884C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoLockPickIfCrimeAlert",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00884D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoMoreFollowers",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00884E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoName",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00884F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoPickPocketAgain",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008850",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNormalWeaponsResisted",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008851",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoSitOnOwnedFurniture",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008852",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoSleepTrespass",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008853",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNotEnoughGold",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008854",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNotEnoughRoomWarning",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008855",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoviceSkillLevelText",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008856",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoWaitInAir",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008857",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoWaitInCell",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008858",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoWaitInJail",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008859",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoWaitTrespass",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00885A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sOutOfLockpicks",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00885B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sPoisonBowConfirmMessage",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00885C",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sPoisonConfirmMessage",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00885D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sPoisonNoWeaponMessage",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00885E",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sPotionFailed",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00885F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sPotionSucceded",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008860",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sServeTimeQuestion",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008861",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sSetMarkerQuestion",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008862",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sSlotsFull",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008863",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sSoulCaptured",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008864",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sSpellmakingSuccess",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008865",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sTitleText",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008866",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sWelkyndStoneMessage",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008867",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sYieldAccepted",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008868",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sYieldRejected",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:008869",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fFleeDistanceExterior",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00886A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sEquipItemOnPlayer",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00886B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPerkSneakAttackMeleeApprenticeMult",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:009EFD",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPerkSneakAttackMeleeNoviceMult",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:009EFE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fEnchantmentPointsMult",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:009EFF",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fEnchantGrandLimit",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:009F00",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "fPerkSneakAttackMeleeJourneymanMult",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:009F01",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sInvalidPickpocket",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:009F3A",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "sNoEatQuestItem",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:009F4F",
+    "full": null,
+    "modl": null
+  }
+]
