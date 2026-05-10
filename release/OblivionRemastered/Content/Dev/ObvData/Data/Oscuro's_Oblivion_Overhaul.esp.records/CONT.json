@@ -594,6 +594,24 @@
     "modl": "Dungeons\\AyleidRuins\\Interior\\ARChest01.NIF"
   },
   {
+    "edid": "MS39NirnrootWild",
+    "formid": "Oblivion.esm:04E964",
+    "full": "LOC_FN_MS39NirnrootWild",
+    "modl": "Clutter\\MiddleClass\\MiddleBarrelTopped02.NIF"
+  },
+  {
+    "edid": "MS39NirnrootPotted",
+    "formid": "Oblivion.esm:04E965",
+    "full": "LOC_FN_MS39NirnrootPotted",
+    "modl": "Clutter\\MiddleClass\\MiddleBarrelTopped02.NIF"
+  },
+  {
+    "edid": "MS39SinderionChest",
+    "formid": "Oblivion.esm:04E973",
+    "full": "LOC_FN_MS39SinderionChest",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
     "edid": "SEDungUndeadUrn01",
     "formid": "Oblivion.esm:04EF52",
     "full": "LOC_FN_SEDungUndeadUrn01",
@@ -610,6 +628,30 @@
     "formid": "Oblivion.esm:051D74",
     "full": "LOC_FN_CGChestSword01",
     "modl": "Clutter\\LowerClass\\LowerClassChest01.NIF"
+  },
+  {
+    "edid": "MS39SinderionChestStage65",
+    "formid": "Oblivion.esm:05221F",
+    "full": "LOC_FN_MS39SinderionChestStage65",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "MS39SinderionChestStage75",
+    "formid": "Oblivion.esm:052220",
+    "full": "LOC_FN_MS39SinderionChestStage75",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "MS39SinderionChestStage85",
+    "formid": "Oblivion.esm:052221",
+    "full": "LOC_FN_MS39SinderionChestStage85",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
+  },
+  {
+    "edid": "MS39SinderionChestStage100",
+    "formid": "Oblivion.esm:052222",
+    "full": "LOC_FN_MS39SinderionChestStage100",
+    "modl": "Clutter\\MiddleClass\\Middlechest01.NIF"
   },
   {
     "edid": "SEDungGrummiteBossChestRuin02",

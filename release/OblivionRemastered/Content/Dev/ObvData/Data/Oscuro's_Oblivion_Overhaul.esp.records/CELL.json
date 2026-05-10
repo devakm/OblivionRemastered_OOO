@@ -5888,25 +5888,9 @@
     "temp_ref_count": 0
   },
   {
-    "edid": "ICImperialLegionWatchTowerSEGuardQuarters",
-    "formid": "Oblivion.esm:0512F5",
-    "full": "LOC_FN_ICImperialLegionWatchTowerSEGuardQuarters",
-    "is_interior": true,
-    "persistent_ref_count": 0,
-    "temp_ref_count": 0
-  },
-  {
     "edid": "ICImperialLegionWatchTowerSWTopGuardQuarters",
     "formid": "Oblivion.esm:0512F6",
     "full": "LOC_FN_ICImperialLegionWatchTowerSWTopGuardQuarters",
-    "is_interior": true,
-    "persistent_ref_count": 0,
-    "temp_ref_count": 0
-  },
-  {
-    "edid": "ICImperialLegionWatchTowerSETopGuardQuarters",
-    "formid": "Oblivion.esm:0512F7",
-    "full": "LOC_FN_ICImperialLegionWatchTowerSETopGuardQuarters",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0

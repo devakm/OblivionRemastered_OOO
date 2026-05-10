@@ -54,6 +54,78 @@
     "modl": null
   },
   {
+    "edid": "ARCelingSpikesTrap01SCRIPT",
+    "formid": "Oblivion.esm:0486D3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ARTrapLongSpikes01SCRIPT",
+    "formid": "Oblivion.esm:04BC6B",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ARTrapSwingBladeRANDOM01SCRIPT",
+    "formid": "Oblivion.esm:04BC6D",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ARTrapBridgeBlade01SCRIPT",
+    "formid": "Oblivion.esm:04BC71",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ARTrapSpikePit01SCRIPT",
+    "formid": "Oblivion.esm:04BC73",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ARTrapGasCloud01SCRIPT",
+    "formid": "Oblivion.esm:04BC75",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ARTrapGasEmitterRANDOM01SCRIPT",
+    "formid": "Oblivion.esm:04CADE",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ARTrapBridgeBladeRANDOM01SCRIPT",
+    "formid": "Oblivion.esm:04CAE1",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ARTrapChannelSpikes01SCRIPT",
+    "formid": "Oblivion.esm:04CAE8",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ARTrapGasEmitter01SCRIPT",
+    "formid": "Oblivion.esm:052024",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ARTrapSwingBladeSLOW01SCRIPT",
+    "formid": "Oblivion.esm:052025",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ARTrapSwingBladeFAST01SCRIPT",
+    "formid": "Oblivion.esm:05202B",
+    "full": null,
+    "modl": null
+  },
+  {
     "edid": "Xirethard02RuinTRAPHunger02TargetSCRIPT",
     "formid": "Oblivion.esm:055167",
     "full": null,
@@ -62,6 +134,18 @@
   {
     "edid": "XPEbroccaHungerCustomSCRIPT",
     "formid": "Oblivion.esm:05DB5F",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ARTrapSwingBladeONCE01SCRIPT",
+    "formid": "Oblivion.esm:067EA3",
+    "full": null,
+    "modl": null
+  },
+  {
+    "edid": "ArenaTrapSpike01SCRIPT",
+    "formid": "Oblivion.esm:0A2AD2",
     "full": null,
     "modl": null
   },
