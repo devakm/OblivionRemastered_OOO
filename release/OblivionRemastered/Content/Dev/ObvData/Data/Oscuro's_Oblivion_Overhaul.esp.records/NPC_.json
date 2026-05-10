@@ -14418,6 +14418,18 @@
     "modl": "characters\\_Male\\skeleton.nif"
   },
   {
+    "edid": "ChorrolGuardCountessFem",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:0113F7",
+    "full": "Countess' Bodyguard",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
+    "edid": "ChorrolGuardPrivateQuarters02Fem",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:011401",
+    "full": "Chorrol Guard",
+    "modl": "Characters\\_Male\\skeleton.NIF"
+  },
+  {
     "edid": "ConjurerBossFemaleHighElf3",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0118F4",
     "full": "LOC_FN_ConjurerBossFemaleHighElf3",
