@@ -50,7 +50,7 @@
   {
     "edid": "FortFacian",
     "formid": "Oblivion.esm:015E1E",
-    "full": "Fort Facian",
+    "full": "LOC_FN_FortFacian",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -74,7 +74,7 @@
   {
     "edid": "Crowhaven01",
     "formid": "Oblivion.esm:015E3E",
-    "full": "Crowhaven",
+    "full": "LOC_FN_Crowhaven01",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -138,7 +138,7 @@
   {
     "edid": "BravilLonelySuitorLodge",
     "formid": "Oblivion.esm:02D245",
-    "full": "The Lonely Suitor Lodge",
+    "full": "LOC_FN_BravilLonelySuitorLodge",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -242,7 +242,7 @@
   {
     "edid": "CollapsedMine02",
     "formid": "Oblivion.esm:0579E9",
-    "full": "Collapsed Mine - Breakthrough",
+    "full": "LOC_FN_CollapsedMine02",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
@@ -658,7 +658,7 @@
   {
     "edid": "TestOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:01CC27",
-    "full": null,
+    "full": "LOC_FN_TestOOO",
     "is_interior": true,
     "persistent_ref_count": 0,
     "temp_ref_count": 0
