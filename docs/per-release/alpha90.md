@@ -4,16 +4,28 @@ _Compared against `alpha89`._
 
 ## File-level changes
 
-- Added: 4
+- Added: 16
 - Removed: 0
 - Changed: 41
 
 ### Added
 
 - `OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_CELLMAP.working`
+- `OblivionRemastered/Content/Paks/~mods/BGlassItems.pak`
+- `OblivionRemastered/Content/Paks/~mods/BGlassItems.ucas`
+- `OblivionRemastered/Content/Paks/~mods/BGlassItems.utoc`
+- `OblivionRemastered/Content/Paks/~mods/BGlassMaterials.pak`
+- `OblivionRemastered/Content/Paks/~mods/BGlassMaterials.ucas`
+- `OblivionRemastered/Content/Paks/~mods/BGlassMaterials.utoc`
 - `OblivionRemastered/Content/Paks/~mods/L_LipsTarn03_Map.pak`
 - `OblivionRemastered/Content/Paks/~mods/L_LipsTarn03_Map.ucas`
 - `OblivionRemastered/Content/Paks/~mods/L_LipsTarn03_Map.utoc`
+- `OblivionRemastered/Content/Paks/~mods/RGlassItems.pak`
+- `OblivionRemastered/Content/Paks/~mods/RGlassItems.ucas`
+- `OblivionRemastered/Content/Paks/~mods/RGlassItems.utoc`
+- `OblivionRemastered/Content/Paks/~mods/RGlassMaterials.pak`
+- `OblivionRemastered/Content/Paks/~mods/RGlassMaterials.ucas`
+- `OblivionRemastered/Content/Paks/~mods/RGlassMaterials.utoc`
 
 ### Changed
 

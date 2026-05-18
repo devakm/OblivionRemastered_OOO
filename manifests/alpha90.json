@@ -175,6 +175,30 @@
     "sha256": "5c3e9682ab2520ab9fbcaac15e7d6ddf842488f463ded4aece819656250aae20",
     "size": 570507
   },
+  "OblivionRemastered/Content/Paks/~mods/BGlassItems.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/BGlassItems.ucas": {
+    "sha256": "b356538fd413114d2fd76b4e5355190c41c2187128701b7dea45714835873e92",
+    "size": 7081
+  },
+  "OblivionRemastered/Content/Paks/~mods/BGlassItems.utoc": {
+    "sha256": "393ed92da8c76e29dec5363b37f9aa28f9b0d7b4516394ad9dc334074724ff2a",
+    "size": 1020
+  },
+  "OblivionRemastered/Content/Paks/~mods/BGlassMaterials.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/BGlassMaterials.ucas": {
+    "sha256": "a8299c89ce7cc8740b8410d357c2a2763abb3704ebea72ab63dbed4988f59ff0",
+    "size": 43744160
+  },
+  "OblivionRemastered/Content/Paks/~mods/BGlassMaterials.utoc": {
+    "sha256": "622b2a7c1f485c60101079a8f3d8a1e98b9bcebb0fc2589eac24066a94569d72",
+    "size": 17002
+  },
   "OblivionRemastered/Content/Paks/~mods/L_Arondar_Map.pak": {
     "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
     "size": 347
@@ -426,5 +450,29 @@
   "OblivionRemastered/Content/Paks/~mods/L_Yele_Map.utoc": {
     "sha256": "12ba02cd64f254636c5ce66cd6fbabc0996092b8bebc9c35b883b8f2d406296c",
     "size": 4612
+  },
+  "OblivionRemastered/Content/Paks/~mods/RGlassItems.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/RGlassItems.ucas": {
+    "sha256": "d89e6462f94090315d9235cc6bb17b02fb15040a2cdd72ef88b13b6bfa44c389",
+    "size": 7081
+  },
+  "OblivionRemastered/Content/Paks/~mods/RGlassItems.utoc": {
+    "sha256": "654894669fc70cf9381db23f2f04eeb4481689f70ecdcc247c01d71e2f50a7f5",
+    "size": 1020
+  },
+  "OblivionRemastered/Content/Paks/~mods/RGlassMaterials.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/RGlassMaterials.ucas": {
+    "sha256": "308fd98ca4e4d4c2299501415d8eb69eb2fe523b7486b3f9f1761969496a0320",
+    "size": 43744160
+  },
+  "OblivionRemastered/Content/Paks/~mods/RGlassMaterials.utoc": {
+    "sha256": "b3b9627309192fcd0233adc80e23b39edc8bd9714700c4fe78f5f7d79326256e",
+    "size": 17002
   }
 }
