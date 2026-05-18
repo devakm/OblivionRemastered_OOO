@@ -44,6 +44,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import io
 import json
 import shutil
 import subprocess
@@ -433,6 +434,10 @@ def step_publish(tag: str, latest: bool, prerelease: bool,
 # --------------------------------------------------------------------------- #
 
 def main() -> int:
+    for stream in (sys.stdout, sys.stderr):
+        if isinstance(stream, io.TextIOWrapper):
+            stream.reconfigure(encoding="utf-8")
+
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("tag", help="release tag (e.g. alpha91)")
     rel_group = ap.add_mutually_exclusive_group()
