@@ -4,7 +4,7 @@ _Compared against `alpha89`._
 
 ## File-level changes
 
-- Added: 16
+- Added: 22
 - Removed: 0
 - Changed: 41
 
@@ -20,6 +20,12 @@ _Compared against `alpha89`._
 - `OblivionRemastered/Content/Paks/~mods/L_LipsTarn03_Map.pak`
 - `OblivionRemastered/Content/Paks/~mods/L_LipsTarn03_Map.ucas`
 - `OblivionRemastered/Content/Paks/~mods/L_LipsTarn03_Map.utoc`
+- `OblivionRemastered/Content/Paks/~mods/ObsidianItems.pak`
+- `OblivionRemastered/Content/Paks/~mods/ObsidianItems.ucas`
+- `OblivionRemastered/Content/Paks/~mods/ObsidianItems.utoc`
+- `OblivionRemastered/Content/Paks/~mods/ObsidianMaterials.pak`
+- `OblivionRemastered/Content/Paks/~mods/ObsidianMaterials.ucas`
+- `OblivionRemastered/Content/Paks/~mods/ObsidianMaterials.utoc`
 - `OblivionRemastered/Content/Paks/~mods/RGlassItems.pak`
 - `OblivionRemastered/Content/Paks/~mods/RGlassItems.ucas`
 - `OblivionRemastered/Content/Paks/~mods/RGlassItems.utoc`

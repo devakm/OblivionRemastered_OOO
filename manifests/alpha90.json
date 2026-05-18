@@ -451,6 +451,30 @@
     "sha256": "12ba02cd64f254636c5ce66cd6fbabc0996092b8bebc9c35b883b8f2d406296c",
     "size": 4612
   },
+  "OblivionRemastered/Content/Paks/~mods/ObsidianItems.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/ObsidianItems.ucas": {
+    "sha256": "c253fdbdd651f19ff02814b4f525cbc0cb418efd5553ed70fffb59527a2a28fc",
+    "size": 14784
+  },
+  "OblivionRemastered/Content/Paks/~mods/ObsidianItems.utoc": {
+    "sha256": "e6a0441de6f49ab494920e5bf88b948755f99070407127d95dceac02e16a2a57",
+    "size": 2051
+  },
+  "OblivionRemastered/Content/Paks/~mods/ObsidianMaterials.pak": {
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "size": 347
+  },
+  "OblivionRemastered/Content/Paks/~mods/ObsidianMaterials.ucas": {
+    "sha256": "6bd5218bac3a169c0d6efbd43c4e4c26c9b74631516d1448ee2c5e3f5b225276",
+    "size": 79020431
+  },
+  "OblivionRemastered/Content/Paks/~mods/ObsidianMaterials.utoc": {
+    "sha256": "8b7b5a075a27abe545917c85f2c23f60e585e5a0ef85e076af9c45df8c2d2fd4",
+    "size": 33573
+  },
   "OblivionRemastered/Content/Paks/~mods/RGlassItems.pak": {
     "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
     "size": 347
