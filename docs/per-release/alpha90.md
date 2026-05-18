@@ -5,7 +5,7 @@ _Compared against `alpha89`._
 ## File-level changes
 
 - Added: 4
-- Removed: 5
+- Removed: 0
 - Changed: 41
 
 ### Added
@@ -14,14 +14,6 @@ _Compared against `alpha89`._
 - `OblivionRemastered/Content/Paks/~mods/L_LipsTarn03_Map.pak`
 - `OblivionRemastered/Content/Paks/~mods/L_LipsTarn03_Map.ucas`
 - `OblivionRemastered/Content/Paks/~mods/L_LipsTarn03_Map.utoc`
-
-### Removed
-
-- `OblivionRemastered/Binaries/Win64/ue4ss/Mods/RAX/dlls/main.dll`
-- `OblivionRemastered/Content/Dev/ObvData/Data/OptionalPatches/OOO_DeluxeEdition.esp`
-- `OblivionRemastered/Content/Dev/ObvData/Data/OptionalPatches/OOO_OOMC_Compatibility_Patch.esp`
-- `OblivionRemastered/Content/Dev/ObvData/Data/OptionalPatches/OOO_UORP.esp`
-- `OblivionRemastered/Content/Dev/ObvData/Data/OptionalPatches/OOO_UnlimitedRingsReduxPatch.esp`
 
 ### Changed
 
@@ -104,4 +96,20 @@ _Compared against `alpha89`._
 - `WeapObsidianShortsword` (FormID `00DE94`) — "LOC_FN_WeapObsidianShortsword"
 - `WeapObsidianWarAxe` (FormID `00DE95`) — "LOC_FN_WeapObsidianWarAxe"
 - `WeapObsidianWarHammer` (FormID `00DE96`) — "LOC_FN_WeapObsidianWarHammer"
+
+## ESP changes — `OOO_DeluxeEdition.esp`
+
+_No record-level changes detected._
+
+## ESP changes — `OOO_OOMC_Compatibility_Patch.esp`
+
+_No record-level changes detected._
+
+## ESP changes — `OOO_UnlimitedRingsReduxPatch.esp`
+
+_No record-level changes detected._
+
+## ESP changes — `OOO_UORP.esp`
+
+_No record-level changes detected._
 

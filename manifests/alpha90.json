@@ -31,6 +31,10 @@
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "size": 0
   },
+  "OblivionRemastered/Binaries/Win64/ue4ss/Mods/RAX/dlls/main.dll": {
+    "sha256": "e5d23d8f806594a6be7c33801c96db9268b648b3c3522aeb2b48c1a6acd0b712",
+    "size": 1988608
+  },
   "OblivionRemastered/Binaries/Win64/ue4ss/Mods/RAX/enabled.txt": {
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "size": 0
@@ -142,6 +146,22 @@
   "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/Oscuro's_Oblivion_Overhaul_WEAP.json": {
     "sha256": "691eba956b22661e4ad85d4ea38a835724c03f7ea32ab3b56a5b662c175775cc",
     "size": 57173
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/OptionalPatches/OOO_DeluxeEdition.esp": {
+    "sha256": "332261f02baf56f1c379506afb40cefd2b08f8e9b2399ab4983746977a3733b6",
+    "size": 83917
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/OptionalPatches/OOO_OOMC_Compatibility_Patch.esp": {
+    "sha256": "1773af74c47572b020240871c1510743ca9d812e5194b20a3f00efad2f081a7a",
+    "size": 26732
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/OptionalPatches/OOO_UORP.esp": {
+    "sha256": "5b0b2c9f0e245afc95ef3e9c946fb62edcac864e1e456f5dc4f8450c9b30f64c",
+    "size": 2963
+  },
+  "OblivionRemastered/Content/Dev/ObvData/Data/OptionalPatches/OOO_UnlimitedRingsReduxPatch.esp": {
+    "sha256": "a115cf9f51f147f7b1d967c6107ed148f15e0ace704045931722da8786de777c",
+    "size": 38472
   },
   "OblivionRemastered/Content/Dev/ObvData/Data/OptionalPatches/SyncMap - DeluxeEdition/Oscuro's_Oblivion_Overhaul.ini": {
     "sha256": "1ef1ef7d884b295f527dce9a212260f49b52a65fb48116dececa918e7c1c4f28",
