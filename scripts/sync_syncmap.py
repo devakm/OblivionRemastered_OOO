@@ -33,28 +33,40 @@ Two files live in `release/` and are derived from this source:
                      Path: <target>/OblivionRemastered/Content/Dev/ObvData/Data/
                             SyncMap/Oscuro's_Oblivion_Overhaul.ini
 
-Three modes:
+Modes:
 
   diff-check  (default)
       Read-only. Compares the two files in <target>/ against what they
       SHOULD be (Deluxe == OOO_SyncGen source; default == swap(source)).
       Prints status; exits 0 if both correct, 1 if drift detected.
 
-  diff-fix
-      Same checks as diff-check, but if drift is detected, regenerates
-      both files in <target>/ to match the expected state. Exits 0 after
-      the fix lands (or 0 immediately if nothing was wrong).
-
   diff-show
       Shows the diff between current standard and current Deluxe in
       <target>/, annotating which differing lines are EXPECTED swap pairs
       (DEA/DEM toggles) vs UNEXPECTED drift (anything else).
 
+  sync-content
+      Phase 1 of the 3-gate fix workflow. Writes the OOO_SyncGen source-of-
+      truth bytes to BOTH <target>/ files (Deluxe = source; default = source,
+      Deluxe-oriented). After this, the two files are byte-identical and
+      the user can review that the intended Deluxe content has landed.
+      Does NOT apply the swap.
+
+  apply-swap
+      Phase 2 of the 3-gate fix workflow. Reads <target>/default in place,
+      applies swap_deluxe_to_default to its bytes, writes back. After this,
+      the default ini has DEA/DEM commented and NDArmor/Weap alternatives
+      active — the diff vs Deluxe should show only ~72 toggle lines.
+
 Usage:
     py -3 scripts/sync_syncmap.py diff-check               # default mode
     py -3 scripts/sync_syncmap.py diff-check --target release/
-    py -3 scripts/sync_syncmap.py diff-fix
     py -3 scripts/sync_syncmap.py diff-show
+    py -3 scripts/sync_syncmap.py sync-content             # Phase 1 fix
+    py -3 scripts/sync_syncmap.py apply-swap               # Phase 2 fix
+
+There is no one-shot fix mode. The 3-gate workflow (review → sync-content →
+review → apply-swap → review) exists to keep human eyes on each phase.
 
 All modes default --target to the repo's `release/` directory.
 """
@@ -368,26 +380,81 @@ def cmd_diff_check(source: Path, target_root: Path) -> int:
     report = detect_drift(source, target_root)
     if report.has_drift:
         _print_report(report, header="diff-check: DRIFT DETECTED")
-        print(f"  → run `sync_syncmap.py diff-show` to inspect, then "
-              f"`sync_syncmap.py diff-fix` to regenerate.", file=sys.stderr)
+        print(f"  → run the 3-gate fix workflow:", file=sys.stderr)
+        print(f"      1. inspect:  py -3 scripts/sync_syncmap.py diff-show",
+              file=sys.stderr)
+        print(f"      2. phase 1:  py -3 scripts/sync_syncmap.py sync-content",
+              file=sys.stderr)
+        print(f"      3. phase 2:  py -3 scripts/sync_syncmap.py apply-swap",
+              file=sys.stderr)
         return 1
     _print_report(report, header="diff-check: OK (no drift)")
     return 0
 
 
-def cmd_diff_fix(source: Path, target_root: Path) -> int:
-    report = detect_drift(source, target_root)
-    if not report.has_drift:
-        _print_report(report, header="diff-fix: nothing to fix")
+def cmd_sync_content(source: Path, target_root: Path) -> int:
+    """Phase 1 of the 3-gate fix workflow: write source-of-truth bytes to BOTH
+    <target>/ files. After this, Deluxe and default are byte-identical (default
+    is in Deluxe orientation — DEA/DEM lines active). User reviews the auto-
+    refreshed VS Code diff (should be empty) before approving Phase 2."""
+    if not source.is_file():
+        raise SystemExit(f"source INI not found: {source}")
+    expected_deluxe = _read_bytes(source)
+
+    deluxe_target = target_root / REL_DELUXE
+    default_target = target_root / REL_DEFAULT
+
+    print(f"[sync_syncmap] sync-content: writing source-of-truth to both targets",
+          file=sys.stderr)
+    print(f"  source:  {source}", file=sys.stderr)
+    print(f"  target:  {target_root}", file=sys.stderr)
+    _write_bytes(deluxe_target, expected_deluxe)
+    print(f"  WROTE Deluxe  → {deluxe_target}", file=sys.stderr)
+    _write_bytes(default_target, expected_deluxe)
+    print(f"  WROTE default → {default_target}", file=sys.stderr)
+    print(f"[sync_syncmap] sync-content: done. The two files are now byte-",
+          file=sys.stderr)
+    print(f"  identical. Review the auto-refreshed diff, then run apply-swap.",
+          file=sys.stderr)
+    return 0
+
+
+def cmd_apply_swap(target_root: Path) -> int:
+    """Phase 2 of the 3-gate fix workflow: read <target>/default in place,
+    apply swap_deluxe_to_default, write back. After this, the default ini
+    has DEA/DEM commented and NDArmor/Weap alternatives active. The diff
+    vs Deluxe should show only ~72 toggle lines."""
+    default_target = target_root / REL_DEFAULT
+    if not default_target.is_file():
+        raise SystemExit(f"default target not found: {default_target}\n"
+                         f"  (run sync-content first)")
+
+    current = _read_bytes(default_target).decode("utf-8")
+    swapped, swap = swap_deluxe_to_default(current)
+
+    print(f"[sync_syncmap] apply-swap: flipping DEA/DEM toggles in default",
+          file=sys.stderr)
+    print(f"  target:  {default_target}", file=sys.stderr)
+    print(f"  Deluxe-active lines found: {swap.deluxe_actives_found}",
+          file=sys.stderr)
+    print(f"  pairs swapped:             {swap.pairs_swapped}",
+          file=sys.stderr)
+    if swap.deluxe_actives_unmatched:
+        print(f"  WARN: {len(swap.deluxe_actives_unmatched)} Deluxe-active "
+              f"line(s) had NO preceding non-Deluxe alternative",
+              file=sys.stderr)
+        for line_no, formid in swap.deluxe_actives_unmatched:
+            print(f"    line {line_no}: FormID {formid}", file=sys.stderr)
+    if swap.pairs_swapped == 0:
+        print(f"[sync_syncmap] apply-swap: nothing to flip — was sync-content "
+              f"run first?", file=sys.stderr)
         return 0
-    _print_report(report, header="diff-fix: applying corrections")
-    if not report.deluxe_in_sync:
-        _write_bytes(report.deluxe_target_path, report.expected_deluxe)
-        print(f"  WROTE Deluxe → {report.deluxe_target_path}", file=sys.stderr)
-    if not report.default_in_sync:
-        _write_bytes(report.default_target_path, report.expected_default)
-        print(f"  WROTE default → {report.default_target_path}", file=sys.stderr)
-    print(f"[sync_syncmap] diff-fix: done", file=sys.stderr)
+    _write_bytes(default_target, swapped.encode("utf-8"))
+    print(f"  WROTE default → {default_target}", file=sys.stderr)
+    print(f"[sync_syncmap] apply-swap: done. Review the auto-refreshed diff;",
+          file=sys.stderr)
+    print(f"  expect ~{swap.pairs_swapped * 2} toggle-only differences.",
+          file=sys.stderr)
     return 0
 
 
@@ -409,7 +476,8 @@ def main() -> int:
 
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    sub = ap.add_subparsers(dest="mode", metavar="{diff-check,diff-fix,diff-show}")
+    sub = ap.add_subparsers(dest="mode",
+                            metavar="{diff-check,diff-show,sync-content,apply-swap}")
 
     common = argparse.ArgumentParser(add_help=False)
     common.add_argument("--source", type=Path, default=DEFAULT_SOURCE,
@@ -419,11 +487,12 @@ def main() -> int:
 
     sub.add_parser("diff-check", parents=[common],
                    help="Read-only check: report drift, exit 0 if OK, 1 if drift.")
-    sub.add_parser("diff-fix", parents=[common],
-                   help="If drift: regenerate both files from source.")
-
     sub.add_parser("diff-show", parents=[common],
                    help="Show annotated standard-vs-Deluxe diff with EXPECTED-SWAP / DRIFT markers.")
+    sub.add_parser("sync-content", parents=[common],
+                   help="Phase 1 of 3-gate fix: write source-of-truth bytes to BOTH targets.")
+    sub.add_parser("apply-swap", parents=[common],
+                   help="Phase 2 of 3-gate fix: flip DEA/DEM toggles in default in place.")
 
     args = ap.parse_args()
 
@@ -433,10 +502,12 @@ def main() -> int:
         source = getattr(args, "source", DEFAULT_SOURCE)
         target = getattr(args, "target", REPO_ROOT / "release")
         return cmd_diff_check(source, target)
-    if mode == "diff-fix":
-        return cmd_diff_fix(args.source, args.target)
     if mode == "diff-show":
         return cmd_diff_show(args.source, args.target)
+    if mode == "sync-content":
+        return cmd_sync_content(args.source, args.target)
+    if mode == "apply-swap":
+        return cmd_apply_swap(args.target)
     ap.error(f"unknown mode: {mode}")
     return 2  # unreachable
 

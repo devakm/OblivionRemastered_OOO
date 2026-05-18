@@ -175,6 +175,22 @@
     ],
     "L_DeepCoverCav": [
       {
+        "name": "BP_RicketyFence01_C_0",
+        "cls": "BP_RicketyFence01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_RicketyFence01_C_1",
+        "cls": "BP_RicketyFence01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
         "name": "BP_ActivatorFlameNode1_C_1",
         "cls": "BP_ActivatorFlameNode1_C",
         "actions": [
@@ -201,6 +217,35 @@
       {
         "name": "BP_BedrollSideEntry_C_1",
         "cls": "BP_BedrollSideEntry_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_BurntWood01_C_0",
+        "cls": "BP_BurntWood01_C",
+        "actions": [
+          "hide"
+        ]
+      },
+      {
+        "name": "BP_BurntWood02_C_0",
+        "cls": "BP_BurntWood02_C",
+        "actions": [
+          "hide"
+        ]
+      },
+      {
+        "name": "BP_BurntWood02_C_1",
+        "cls": "BP_BurntWood02_C",
+        "actions": [
+          "hide"
+        ]
+      },
+      {
+        "name": "BP_BurntWood05_C_0",
+        "cls": "BP_BurntWood05_C",
         "actions": [
           "hide"
         ]
@@ -407,26 +452,44 @@
         "name": "BP_DUNPlatform01_C_0",
         "cls": "BP_DUNPlatform01_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_DUNStool01_C_0",
         "cls": "BP_DUNStool01_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_DUNStool_C_1",
         "cls": "BP_DUNStool_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_DUNTable01_C_0",
         "cls": "BP_DUNTable01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_Wood01_C_0",
+        "cls": "BP_Wood01_C",
+        "actions": [
+          "hide"
+        ]
+      },
+      {
+        "name": "BP_Wood02_C_0",
+        "cls": "BP_Wood02_C",
         "actions": [
           "hide"
         ]
@@ -435,224 +498,256 @@
         "name": "BP_CairnBolete01_C_3",
         "cls": "BP_CairnBolete01_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBolete01_C_4",
         "cls": "BP_CairnBolete01_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBolete01_C_5",
         "cls": "BP_CairnBolete01_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBolete02_C_10",
         "cls": "BP_CairnBolete02_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBolete02_C_11",
         "cls": "BP_CairnBolete02_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBolete02_C_6",
         "cls": "BP_CairnBolete02_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBolete02_C_7",
         "cls": "BP_CairnBolete02_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBolete02_C_8",
         "cls": "BP_CairnBolete02_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBolete02_C_9",
         "cls": "BP_CairnBolete02_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBolete03_C_4",
         "cls": "BP_CairnBolete03_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBolete03_C_5",
         "cls": "BP_CairnBolete03_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBolete03_C_6",
         "cls": "BP_CairnBolete03_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBolete03_C_7",
         "cls": "BP_CairnBolete03_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBoleteCluster01_C_11",
         "cls": "BP_CairnBoleteCluster01_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBoleteCluster01_C_12",
         "cls": "BP_CairnBoleteCluster01_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBoleteCluster01_C_13",
         "cls": "BP_CairnBoleteCluster01_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBoleteCluster01_C_14",
         "cls": "BP_CairnBoleteCluster01_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBoleteCluster01_C_15",
         "cls": "BP_CairnBoleteCluster01_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBoleteCluster01_C_16",
         "cls": "BP_CairnBoleteCluster01_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBoleteCluster01_C_17",
         "cls": "BP_CairnBoleteCluster01_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBoleteCluster01_C_18",
         "cls": "BP_CairnBoleteCluster01_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBoleteCluster01_C_19",
         "cls": "BP_CairnBoleteCluster01_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBoleteCluster01_C_20",
         "cls": "BP_CairnBoleteCluster01_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBoleteCluster01_C_21",
         "cls": "BP_CairnBoleteCluster01_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBoleteCluster02_C_10",
         "cls": "BP_CairnBoleteCluster02_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBoleteCluster02_C_11",
         "cls": "BP_CairnBoleteCluster02_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBoleteCluster02_C_12",
         "cls": "BP_CairnBoleteCluster02_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBoleteCluster02_C_13",
         "cls": "BP_CairnBoleteCluster02_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBoleteCluster02_C_14",
         "cls": "BP_CairnBoleteCluster02_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBoleteCluster02_C_15",
         "cls": "BP_CairnBoleteCluster02_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBoleteCluster02_C_8",
         "cls": "BP_CairnBoleteCluster02_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_CairnBoleteCluster02_C_9",
         "cls": "BP_CairnBoleteCluster02_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
@@ -813,6 +908,14 @@
         ]
       },
       {
+        "name": "BP_FencePostTriEnd_C_0",
+        "cls": "BP_FencePostTriEnd_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
         "name": "BP_FXCloudThick01_C_0",
         "cls": "BP_FXCloudThick01_C",
         "actions": [
@@ -830,6 +933,46 @@
       }
     ],
     "L_DeepCoverCav02": [
+      {
+        "name": "BP_RicketyFence01_C_0",
+        "cls": "BP_RicketyFence01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_RicketyFence01_C_1",
+        "cls": "BP_RicketyFence01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_RicketyFence01_C_2",
+        "cls": "BP_RicketyFence01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_RicketyFence01_C_3",
+        "cls": "BP_RicketyFence01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_RicketyFence01_C_4",
+        "cls": "BP_RicketyFence01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
       {
         "name": "BP_ActivatorFlameNode1_C_0",
         "cls": "BP_ActivatorFlameNode1_C",
@@ -865,6 +1008,28 @@
       {
         "name": "BP_BedrollSideEntry_C_0",
         "cls": "BP_BedrollSideEntry_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_BurntRubblePile01_C_0",
+        "cls": "BP_BurntRubblePile01_C",
+        "actions": [
+          "hide"
+        ]
+      },
+      {
+        "name": "BP_BurntWood02_C_0",
+        "cls": "BP_BurntWood02_C",
+        "actions": [
+          "hide"
+        ]
+      },
+      {
+        "name": "BP_BurntWood05_C_0",
+        "cls": "BP_BurntWood05_C",
         "actions": [
           "hide"
         ]
@@ -1106,25 +1271,468 @@
         "name": "BP_DUNPlatform01_C_0",
         "cls": "BP_DUNPlatform01_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_DUNStool_C_0",
         "cls": "BP_DUNStool_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
         ]
       },
       {
         "name": "BP_DUNTable01_C_0",
         "cls": "BP_DUNTable01_C",
         "actions": [
-          "hide"
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBolete01_C_0",
+        "cls": "BP_CairnBolete01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBolete01_C_1",
+        "cls": "BP_CairnBolete01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBolete02_C_0",
+        "cls": "BP_CairnBolete02_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBolete02_C_1",
+        "cls": "BP_CairnBolete02_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBolete03_C_0",
+        "cls": "BP_CairnBolete03_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBolete04_C_0",
+        "cls": "BP_CairnBolete04_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBoleteCluster01_C_0",
+        "cls": "BP_CairnBoleteCluster01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBoleteCluster01_C_1",
+        "cls": "BP_CairnBoleteCluster01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBoleteCluster01_C_2",
+        "cls": "BP_CairnBoleteCluster01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBoleteCluster01_C_3",
+        "cls": "BP_CairnBoleteCluster01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBoleteCluster01_C_4",
+        "cls": "BP_CairnBoleteCluster01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBoleteCluster01_C_5",
+        "cls": "BP_CairnBoleteCluster01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBoleteCluster01_C_6",
+        "cls": "BP_CairnBoleteCluster01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBoleteCluster01_C_7",
+        "cls": "BP_CairnBoleteCluster01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBoleteCluster01_C_8",
+        "cls": "BP_CairnBoleteCluster01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBoleteCluster01_C_9",
+        "cls": "BP_CairnBoleteCluster01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBoleteCluster02_C_0",
+        "cls": "BP_CairnBoleteCluster02_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBoleteCluster02_C_1",
+        "cls": "BP_CairnBoleteCluster02_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBoleteCluster02_C_2",
+        "cls": "BP_CairnBoleteCluster02_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBoleteCluster02_C_3",
+        "cls": "BP_CairnBoleteCluster02_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBoleteCluster02_C_4",
+        "cls": "BP_CairnBoleteCluster02_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBoleteCluster02_C_5",
+        "cls": "BP_CairnBoleteCluster02_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CairnBoleteCluster02_C_6",
+        "cls": "BP_CairnBoleteCluster02_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_CDoor03_C_0",
+        "cls": "BP_CDoor03_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_DUNPlank01_C_2",
+        "cls": "BP_DUNPlank01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster01_C_0",
+        "cls": "BP_WispStalkCluster01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster01_C_1",
+        "cls": "BP_WispStalkCluster01_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster02_C_0",
+        "cls": "BP_WispStalkCluster02_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster02_C_1",
+        "cls": "BP_WispStalkCluster02_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster02_C_2",
+        "cls": "BP_WispStalkCluster02_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster02_C_3",
+        "cls": "BP_WispStalkCluster02_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster02_C_4",
+        "cls": "BP_WispStalkCluster02_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster02_C_5",
+        "cls": "BP_WispStalkCluster02_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster02_C_6",
+        "cls": "BP_WispStalkCluster02_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster02_C_7",
+        "cls": "BP_WispStalkCluster02_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster02_C_8",
+        "cls": "BP_WispStalkCluster02_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster02_C_9",
+        "cls": "BP_WispStalkCluster02_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster03_C_0",
+        "cls": "BP_WispStalkCluster03_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster03_C_1",
+        "cls": "BP_WispStalkCluster03_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster03_C_2",
+        "cls": "BP_WispStalkCluster03_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster03_C_3",
+        "cls": "BP_WispStalkCluster03_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster03_C_4",
+        "cls": "BP_WispStalkCluster03_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster03_C_5",
+        "cls": "BP_WispStalkCluster03_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster03_C_6",
+        "cls": "BP_WispStalkCluster03_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster03_C_7",
+        "cls": "BP_WispStalkCluster03_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster03_C_8",
+        "cls": "BP_WispStalkCluster03_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster03_C_9",
+        "cls": "BP_WispStalkCluster03_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster04_C_0",
+        "cls": "BP_WispStalkCluster04_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster04_C_1",
+        "cls": "BP_WispStalkCluster04_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster04_C_2",
+        "cls": "BP_WispStalkCluster04_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster05_C_0",
+        "cls": "BP_WispStalkCluster05_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster05_C_1",
+        "cls": "BP_WispStalkCluster05_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster05_C_2",
+        "cls": "BP_WispStalkCluster05_C",
+        "actions": [
+          "hide",
+          "collision"
+        ]
+      },
+      {
+        "name": "BP_WispStalkCluster05_C_3",
+        "cls": "BP_WispStalkCluster05_C",
+        "actions": [
+          "hide",
+          "collision"
         ]
       }
     ],
     "L_DeepCoverCav02_Li": [
+      {
+        "name": "BP_PF_Torchtall01_Sta_C_4",
+        "cls": "BP_PF_Torchtall01_Sta_C",
+        "actions": [
+          "hide",
+          "niagara"
+        ]
+      },
       {
         "name": "SpotLight_2",
         "cls": "SpotLight",
@@ -1135,6 +1743,14 @@
       }
     ],
     "L_DeepCoverCav_Li": [
+      {
+        "name": "BP_PF_Burntrubblepile01_Sta_C_1",
+        "cls": "BP_PF_Burntrubblepile01_Sta_C",
+        "actions": [
+          "hide",
+          "niagara"
+        ]
+      },
       {
         "name": "SpotLight_12",
         "cls": "SpotLight",
