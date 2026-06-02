@@ -17,6 +17,13 @@ For Write/Edit/MultiEdit/NotebookEdit, any file_path under a denied root is reje
 
 Exit code 2 = hard block (Claude Code will not execute the tool).
 Exit code 0 = allow.
+
+IMPORTANT: settings.json MUST invoke this script via an ABSOLUTE path
+(py -3 "X:/dev/OblivionRemastered_OOO/.claude/hooks/restrict-path.py").
+A cwd-relative command (py -3 .claude/hooks/restrict-path.py) breaks after
+any Bash `cd`: the hook can no longer find itself, Python exits 2, and EVERY
+tool call is blocked — including the `cd` back. That is an unrecoverable
+deadlock. Keep the path absolute.
 """
 
 from __future__ import annotations

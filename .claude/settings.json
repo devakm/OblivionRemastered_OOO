@@ -28,7 +28,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "py -3 .claude/hooks/restrict-path.py"
+            "command": "py -3 \"X:/dev/OblivionRemastered_OOO/.claude/hooks/restrict-path.py\""
           }
         ]
       }
