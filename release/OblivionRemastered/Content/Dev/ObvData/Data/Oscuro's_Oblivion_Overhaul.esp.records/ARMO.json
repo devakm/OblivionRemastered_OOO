@@ -120,6 +120,42 @@
     "modl": "Armor\\Thief\\M\\Greaves.NIF"
   },
   {
+    "edid": "LairVileCrimsonScarRaiment01",
+    "formid": "DLCVileLair.esp:00BE65",
+    "full": "LOC_FN_LairVileCrimsonScarRaiment01",
+    "modl": "Armor\\DarkBrotherhood\\M\\DarkBrotherhoodM.NIF"
+  },
+  {
+    "edid": "LairVileCrimsonScarRaiment05",
+    "formid": "DLCVileLair.esp:00BE66",
+    "full": "LOC_FN_LairVileCrimsonScarRaiment05",
+    "modl": "Armor\\DarkBrotherhood\\M\\DarkBrotherhoodM.NIF"
+  },
+  {
+    "edid": "LairVileCrimsonScarRaiment10",
+    "formid": "DLCVileLair.esp:00BE67",
+    "full": "LOC_FN_LairVileCrimsonScarRaiment10",
+    "modl": "Armor\\DarkBrotherhood\\M\\DarkBrotherhoodM.NIF"
+  },
+  {
+    "edid": "LairVileCrimsonScarRaiment15",
+    "formid": "DLCVileLair.esp:00BE68",
+    "full": "LOC_FN_LairVileCrimsonScarRaiment15",
+    "modl": "Armor\\DarkBrotherhood\\M\\DarkBrotherhoodM.NIF"
+  },
+  {
+    "edid": "LairVileCrimsonScarRaiment25",
+    "formid": "DLCVileLair.esp:00BE6A",
+    "full": "LOC_FN_LairVileCrimsonScarRaiment25",
+    "modl": "Armor\\DarkBrotherhood\\M\\DarkBrotherhoodM.NIF"
+  },
+  {
+    "edid": "LairVileCrimsonScarRaiment20",
+    "formid": "DLCVileLair.esp:00C35E",
+    "full": "LOC_FN_LairVileCrimsonScarRaiment20",
+    "modl": "Armor\\DarkBrotherhood\\M\\DarkBrotherhoodM.NIF"
+  },
+  {
     "edid": "NDArmorHeavyShield5",
     "formid": "Knights.esp:000EB0",
     "full": "LOC_FN_NDArmorHeavyShield5",

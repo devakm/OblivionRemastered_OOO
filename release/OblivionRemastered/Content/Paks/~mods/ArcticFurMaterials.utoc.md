@@ -1,0 +1,5 @@
+# ArcticFurMaterials.utoc
+
+| Release | SHA-256 | Size | Changed | Description | Download |
+|---------|---------|------|---------|-------------|----------|
+| alpha91 | `136674a4e282` | 15.8 KiB (16,184 B) | ★ | [release alpha91](https://github.com/devakm/OblivionRemastered_OOO/releases/tag/alpha91) | [alpha91.7z](https://github.com/devakm/OblivionRemastered_OOO/releases/download/alpha91/alpha91.7z) |
