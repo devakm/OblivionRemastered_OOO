@@ -392,7 +392,9 @@ def render_magicloader_section(results: list) -> str:
     return "\n".join(out)
 
 
-def render_summary_section(added, removed, changed, sm, ml, map_changes) -> str:
+def render_summary_section(added, removed, changed, sm, ml, map_changes,
+                           zone_counts=None) -> str:
+    zone_counts = zone_counts or {}
     def sets(paths):
         return sorted({p[len(MODS_PREFIX):-len("Items.pak")] for p in paths
                        if p.startswith(MODS_PREFIX) and p.endswith("Items.pak")})
@@ -409,7 +411,11 @@ def render_summary_section(added, removed, changed, sm, ml, map_changes) -> str:
     if removed_sets:
         out.append(f"- **Item sets removed ({len(removed_sets)}):** {', '.join(removed_sets)}")
     if changed_maps:
-        out.append(f"- **Maps rebuilt ({len(changed_maps)}):** {', '.join(changed_maps)}")
+        # Each L_*_Map pak is one dungeon bundling several zones (= TES4 cells).
+        zsum = sum(zone_counts.get(m, 0) for m in changed_maps)
+        zlabel = f" / {zsum} zones" if zsum else ""
+        out.append(f"- **Dungeon map paks rebuilt ({len(changed_maps)} paks{zlabel}):** "
+                   f"{', '.join(changed_maps)}")
     if new_assets:
         out.append(f"- **Map assets added ({len(new_assets)}):** {', '.join(new_assets)}")
     if sm:
@@ -469,6 +475,7 @@ def step_diff_doc(tag: str, prev_tag: str | None, manifest: dict[str, dict],
     # diffed from MapClone's configs as of the prior tag's date. Never fatal.
     map_changes = None
     mapclone_mod = None
+    zone_counts: dict = {}
     if prev_tag is not None:
         sys.path.insert(0, str(REPO_ROOT / "scripts"))
         try:
@@ -477,12 +484,14 @@ def step_diff_doc(tag: str, prev_tag: str | None, manifest: dict[str, dict],
             if before:
                 map_changes = mapclone_mod.compute_changes(
                     mapclone_mod.DEFAULT_MAPCLONE, before)
+            zone_counts = mapclone_mod.container_zone_counts(mapclone_mod.DEFAULT_MAPCLONE)
         except Exception as e:
             print(f"  WARN: MapClone change summary skipped: {e}", flush=True)
 
     # Summary (high-level highlights) — only when there's a prior to compare to.
     if have_prev and (added or removed or changed):
-        sections.append(render_summary_section(added, removed, changed, sm, ml, map_changes))
+        sections.append(render_summary_section(added, removed, changed, sm, ml,
+                                               map_changes, zone_counts))
 
     # File-level change detail
     if have_prev:

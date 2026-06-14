@@ -89,6 +89,22 @@ def resolve_baseline(mapclone: Path, before_iso: str) -> str | None:
     return c or None
 
 
+def container_zone_counts(mapclone: Path) -> dict:
+    """Built-zone count per L_*_Map container from ooo_clone_config.json.
+    A built zone has a non-null target_level (unbuilt slots are skipped)."""
+    data = _read_json(mapclone, "ooo_clone_config.json")
+    out: dict[str, int] = {}
+    if not isinstance(data, dict):
+        return out
+    for c in data.get("clones", []):
+        name = c.get("container_name")
+        if not name:
+            continue
+        out[name] = sum(1 for z in (c.get("zones") or [])
+                        if isinstance(z, dict) and z.get("target_level") is not None)
+    return out
+
+
 def _begone_rel_at(mapclone: Path, ref: str | None) -> str | None:
     for rel in BEGONE_CANDIDATES:
         if ref is None:
@@ -243,11 +259,19 @@ def render_section(changes: dict, prev_tag: str | None, limit: int = 0) -> str:
     lim = limit if limit > 0 else 10_000
     since = f" since `{prev_tag}`" if prev_tag else ""
     out = [f"## Map cell changes{since}\n"]
-    out.append("UE5-layer map work, sourced from MapClone configs "
-               f"(baseline `{changes['baseline']}`).\n")
+    out.append("Each OOO cell layers TES4-injected OOO content over UE5-baked remaster "
+               "geometry; these reconcile the two so each object renders from exactly "
+               f"one layer. Sourced from MapClone configs (baseline `{changes['baseline']}`).\n")
+    out.append("- **TES4 REFR suppression** — disable OOO REFRs that *duplicate* "
+               "UE5-baked architecture (drop the TES4 twin, keep the UE5 copy).\n"
+               "- **Ghost suppression (Begone)** — remove UE5-baked actors with *no* "
+               "TES4 counterpart (drop the UE5 ghost, keep TES4).\n"
+               "- **Position overrides** — re-seat OOO REFRs (chests/furniture) left "
+               "floating once a supporting STAT was disabled.\n")
     if changes.get("disable") and changes["disable"]["per_cell"]:
         out += _render_setvalued(
-            "UE5-layer object suppression (ESP `INITIALLY_DISABLED`)",
+            "TES4 REFR suppression — disable OOO duplicates of UE5-baked "
+            "architecture (ESP `INITIALLY_DISABLED`)",
             changes["disable"], "disabled REFRs", lim)
     if changes.get("overrides") and changes["overrides"]["per_cell"]:
         out += _render_countvalued(
