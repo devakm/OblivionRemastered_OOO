@@ -288,11 +288,9 @@ def step_diff_doc(tag: str, prev_tag: str | None, manifest: dict[str, dict],
         )
         for label, items in (("Added", added), ("Removed", removed), ("Changed", changed)):
             if items:
-                sections.append(f"### {label}\n")
-                for it in items[:50]:
+                sections.append(f"### {label} ({len(items)})\n")
+                for it in items:
                     sections.append(f"- `{it}`")
-                if len(items) > 50:
-                    sections.append(f"_…{len(items) - 50} more {label.lower()} omitted_")
                 sections.append("")
 
     # Per-ESP content diff sections
