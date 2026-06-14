@@ -322,6 +322,11 @@ def render_doc_page(slug: str, nav_label: str, title_suffix: str) -> str:
 def main() -> int:
     import difflib
 
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    except (AttributeError, ValueError):
+        pass
+
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--apply", action="store_true",
                     help="write pages (skips any file containing the DO-NOT-REGENERATE "
