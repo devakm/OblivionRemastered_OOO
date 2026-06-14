@@ -24,7 +24,7 @@ For the architecture rationale + every design decision: [`docs/v2-design.md`](do
 
 ## Downloading a release
 
-Every release's `.7z` install archive is attached to its **GitHub Release** at <https://github.com/devakm/OblivionRemastered_OOO/releases>. The Pages site at <[https://devakm.github.io/devnull/docs/OOO/OBR/](https://devakm.github.io/devnull/OOO/OBR/index.html)> has a friendlier index + per-release changelog.
+Every release's `.7z` install archive is attached to its **GitHub Release** at <https://github.com/devakm/OblivionRemastered_OOO/releases>. The Pages site at [https://devakm.github.io/devnull/docs/OOO/OBR/](https://devakm.github.io/devnull/OOO/OBR/index.html) has a friendlier index + per-release changelog.
 
 To grab a binary that shipped with a specific historical release without downloading the whole `.7z`:
 
