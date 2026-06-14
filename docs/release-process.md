@@ -32,7 +32,7 @@ When you run `py -3 scripts/release.py alphaNN --latest --for-real`, in order:
 
 | # | Step | Output |
 |---|------|--------|
-| 0 | **Check SyncMap drift** via `sync_syncmap.py diff-check`. Reads OOO_SyncGen source, compares to `release/`'s two SyncMap files. If drift detected: aborts with "review with `diff-show`, then re-run with `--syncmap-fix-approved`." If `--syncmap-fix-approved` is set: invokes `sync_syncmap.py diff-fix` to regenerate. | Drift report on stderr; possibly updates `release/OblivionRemastered/Content/Dev/ObvData/Data/SyncMap/...` and `.../OptionalPatches/SyncMap - DeluxeEdition/...`. |
+| 0 | **Check SyncMap drift** via `sync_syncmap.py diff-check`. Reads OOO_SyncGen source, compares to `release/`'s two SyncMap files. If drift detected it **aborts** (exit 2) and prints the 3-gate fix workflow to run — there is no auto-fix flag. Fix it by running the workflow yourself (`sync-content` → `apply-swap`, with a review between each) until `diff-check` returns 0, then re-run `release.py`. | Drift report on stderr; no files changed by this step. |
 | 1 | Validate working tree — no uncommitted changes outside `release/`, `manifests/`, `docs/per-release/`. Aborts if the tag already exists (unless `--force`). | (no output if clean) |
 | 2 | Hash every file in `release/` (text + gitignored binaries; skips `*.md` co-files and `*.records/` directories). | `manifests/alphaNN.json` |
 | 3 | Parse every ESP/ESM in `release/` via Wrye Bash. | `<esp>.records/_meta.json` + `<esp>.records/<TYPE>.json` for each record type. |
@@ -42,7 +42,62 @@ When you run `py -3 scripts/release.py alphaNN --latest --for-real`, in order:
 | 7 | Build `dist/alphaNN.7z` from `release/` EXCLUDING `*.md` co-files and `*.records/` directories. | `dist/alphaNN.7z` |
 | 8 | (`--for-real` only) `git push origin main`, `git push origin alphaNN`, `gh release create alphaNN dist/alphaNN.7z --title alphaNN --notes-file docs/per-release/alphaNN.md --latest`. | New GitHub Release attached to `alphaNN`. |
 
-Without `--for-real` step 8 is printed but not executed. Always **dry-run first** with `--for-real` omitted to confirm the plan.
+## The three run modes — and where the `.7z` becomes inspectable
+
+`release.py` has three levels of commitment. The difference is entirely in **what gets written and what leaves your machine**:
+
+| Invocation | Local commit + tag | Builds `dist/<tag>.7z` | Pushes to GitHub |
+|---|---|---|---|
+| `release.py <tag> --dry-run` | ✗ prints only | ✗ prints only | ✗ |
+| `release.py <tag>` *(no flags)* | ✅ **real** | ✅ **real** | ✗ (step 8 skipped) |
+| `release.py <tag> --latest --for-real` | ✅ real | ✅ real | ✅ push + `gh release create` |
+
+Key points:
+
+- **`--dry-run`** is a pure rehearsal — it writes nothing (no manifest, no co-files, no `.7z`, no commit). Use it to sanity-check the plan.
+- **No flags** runs steps 0–7 *for real*: it makes a real `<tag>` commit + tag on `main` and builds the actual `dist/<tag>.7z`, but step 8 is **skipped entirely** (you didn't pass `--latest`/`--prerelease`), so **nothing reaches GitHub**. This is the mode that produces an inspectable archive.
+- **`--for-real`** (with `--latest` or `--prerelease`) additionally runs step 8: pushes the commit + tag and creates the GitHub Release.
+
+So the safe, inspect-before-publish flow is **two phases**: build locally → inspect → publish.
+
+### Phase 1 — build locally
+
+```powershell
+py -3 scripts/release.py alphaNN
+```
+
+This commits + tags `alphaNN` and writes `dist/alphaNN.7z`. Nothing is pushed.
+
+### Phase 2 — inspect the archive + notes
+
+```powershell
+7z l dist/alphaNN.7z                 # list contents — confirm expected paks/ESPs are IN
+7z l dist/alphaNN.7z | findstr /I ".md .records"   # should print NOTHING (metadata must be excluded)
+```
+
+Also eyeball `docs/per-release/alphaNN.md` (the generated notes) and spot-check a couple of new `<binary>.md` co-files. Optionally extract a copy and drop it into a test install to smoke-test in-game.
+
+### Phase 3 — publish
+
+The commit, tag, and `.7z` already exist, so the cleanest publish is to run step 8's three commands directly (this is exactly what `--for-real` would run):
+
+```powershell
+git push origin main
+git push origin alphaNN
+gh release create alphaNN dist/alphaNN.7z --title alphaNN `
+  --notes-file docs/per-release/alphaNN.md --latest
+```
+
+(Use `--prerelease` instead of `--latest` for backfills/variants — see [Latest vs Pre-release](#latest-vs-pre-release).)
+
+> **Caveat — backing out a local build.** Unlike `--dry-run`, the local run is a real mutation: it creates the `alphaNN` commit and tag. If inspection turns up a problem, undo before re-running:
+>
+> ```powershell
+> git tag -d alphaNN
+> git reset --soft HEAD~1
+> ```
+>
+> Then fix the staging tree and re-run Phase 1. (Re-running `release.py … --for-real --force` instead also works — `--force` deletes and recreates the tag — but it rebuilds the `.7z` unnecessarily.)
 
 ## Common patterns
 
@@ -120,8 +175,7 @@ git checkout main
 
 | Flag | When to use |
 |------|-------------|
-| `--skip-syncmap` | Skip the SyncMap drift check entirely. Use only when you're sure (e.g. you've manually managed both files and don't want any check). Most of the time you don't want this — the drift check is read-only and harmless. |
-| `--syncmap-fix-approved` | If the drift check reports drift, apply `sync_syncmap.py diff-fix` and continue (instead of aborting). You should have inspected the drift via `sync_syncmap.py diff-show` first. Without this flag, drift halts the release. |
+| `--skip-syncmap` | Skip the SyncMap drift check entirely. Use only when you're sure (e.g. you've manually managed both files and don't want any check). Most of the time you don't want this — the drift check is read-only and harmless. There is no auto-fix flag: if drift is found, the release aborts and you run the 3-gate fix workflow (`sync-content` → `apply-swap`) yourself, then re-run. |
 | `--skip-records` | You want to skip parsing ESPs entirely (e.g. the Wrye Bash checkout is broken and you want to ship anyway). The release will lack the per-ESP content diff in its notes; everything else still runs. |
 
 ---
