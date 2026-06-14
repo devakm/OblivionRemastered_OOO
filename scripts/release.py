@@ -428,7 +428,7 @@ def render_summary_section(added, removed, changed, sm, ml, map_changes,
         ov = map_changes.get("overrides")
         bg = map_changes.get("begone")
         if dis and ov:
-            out.append(f"- **UE5-layer suppression:** "
+            out.append(f"- **TES4 REFR suppression:** "
                        f"+{dis['cur_entries'] - dis['prev_entries']} disabled REFRs, "
                        f"+{ov['cur_entries'] - ov['prev_entries']} position overrides — "
                        f"see Map cell changes")

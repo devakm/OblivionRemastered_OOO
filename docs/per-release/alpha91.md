@@ -10,7 +10,7 @@ _Compared against `alpha90`._
 - **Map assets added (1):** GraveGroundExterior_P
 - **SyncMap:** ~307 asset remappings (+0 -0) — see below
 - **MagicLoader `Oscuro's_Oblivion_Overhaul_ARMO.json`:** +0 -0 ~6 display names
-- **UE5-layer suppression:** +254 disabled REFRs, +17 position overrides — see Map cell changes
+- **TES4 REFR suppression:** +254 disabled REFRs, +17 position overrides — see Map cell changes
 - **Ghost suppression (Begone):** net +92 entries
 - **ESP records:** see ESP changes section(s) below
 
