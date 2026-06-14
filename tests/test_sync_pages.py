@@ -9,3 +9,35 @@ _spec.loader.exec_module(sync_pages)
 
 def test_module_imports():
     assert hasattr(sync_pages, "md_to_simple_html")
+
+
+def test_fenced_code_block_becomes_pre_code():
+    md = "```bash\ngit diff a..b\necho hi\n```"
+    out = sync_pages.md_to_simple_html(md)
+    assert "<pre><code>" in out
+    assert "git diff a..b\necho hi" in out
+    assert "</code></pre>" in out
+    assert "<p>```bash</p>" not in out
+
+
+def test_pipe_table_becomes_html_table():
+    md = "| Name | Size |\n| --- | --- |\n| alpha91 | 215.9 MiB |"
+    out = sync_pages.md_to_simple_html(md)
+    assert "<table>" in out
+    assert "<th>Name</th>" in out
+    assert "<td>alpha91</td>" in out
+    assert "<p>| Name | Size |</p>" not in out
+
+
+def test_external_links_get_target_blank():
+    md = "See [the repo](https://github.com/devakm/OblivionRemastered_OOO)."
+    out = sync_pages.md_to_simple_html(md)
+    assert 'target="_blank"' in out
+    assert 'rel="noopener"' in out
+
+
+def test_internal_links_stay_plain():
+    md = "See [install](install.html)."
+    out = sync_pages.md_to_simple_html(md)
+    assert '<a href="install.html">install</a>' in out
+    assert 'target="_blank"' not in out

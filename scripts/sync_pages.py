@@ -96,12 +96,15 @@ def human_size(n: int) -> str:
 
 
 def md_to_simple_html(md: str) -> str:
-    """Tiny markdown → HTML converter sufficient for our per-release docs and
-    handwritten docs/*.md content. Supports headings, lists, paragraphs, code
-    spans, links, bold, italic. NOT a general-purpose Markdown renderer."""
+    """Markdown -> HTML for our per-release docs and handwritten docs/*.md.
+    Supports headings, lists, paragraphs, code spans, links, bold, italic,
+    fenced code blocks, and pipe tables. External (http/https) links get
+    target=_blank rel=noopener. NOT a general-purpose Markdown renderer."""
     lines = md.splitlines()
     out: list[str] = []
     in_ul = False
+    i = 0
+    n = len(lines)
 
     def flush_ul():
         nonlocal in_ul
@@ -110,37 +113,85 @@ def md_to_simple_html(md: str) -> str:
             in_ul = False
 
     def render_inline(s: str) -> str:
-        # Escape HTML first, then re-introduce inline syntax.
         s = html.escape(s)
-        # Code spans
         s = re.sub(r"`([^`]+)`", r"<code>\1</code>", s)
-        # Bold
         s = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", s)
-        # Italics
         s = re.sub(r"(?<!\*)\*([^*]+)\*(?!\*)", r"<em>\1</em>", s)
-        # Links [text](url)
-        s = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r'<a href="\2">\1</a>', s)
-        return s
 
-    for line in lines:
+        def link_sub(m: "re.Match[str]") -> str:
+            text, url = m.group(1), m.group(2)
+            if url.startswith(("http://", "https://")):
+                return f'<a href="{url}" target="_blank" rel="noopener">{text}</a>'
+            return f'<a href="{url}">{text}</a>'
+
+        return re.sub(r"\[([^\]]+)\]\(([^)]+)\)", link_sub, s)
+
+    def is_table_sep(s: str) -> bool:
+        return bool(re.match(r"^\s*\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)*\|?\s*$", s))
+
+    def split_row(s: str) -> list[str]:
+        s = s.strip()
+        if s.startswith("|"):
+            s = s[1:]
+        if s.endswith("|"):
+            s = s[:-1]
+        return [c.strip() for c in s.split("|")]
+
+    while i < n:
+        line = lines[i]
+
+        if re.match(r"^```(\w*)\s*$", line):
+            flush_ul()
+            code_lines: list[str] = []
+            i += 1
+            while i < n and not re.match(r"^```\s*$", lines[i]):
+                code_lines.append(lines[i])
+                i += 1
+            i += 1  # skip the closing fence
+            out.append(f"<pre><code>{html.escape(chr(10).join(code_lines))}</code></pre>")
+            continue
+
+        if line.lstrip().startswith("|") and i + 1 < n and is_table_sep(lines[i + 1]):
+            flush_ul()
+            headers = split_row(line)
+            i += 2  # consume header + separator
+            rows: list[list[str]] = []
+            while i < n and lines[i].lstrip().startswith("|"):
+                rows.append(split_row(lines[i]))
+                i += 1
+            thead = "".join(f"<th>{render_inline(h)}</th>" for h in headers)
+            tbody = "".join(
+                "<tr>" + "".join(f"<td>{render_inline(c)}</td>" for c in row) + "</tr>"
+                for row in rows
+            )
+            out.append(f"<table><thead><tr>{thead}</tr></thead><tbody>{tbody}</tbody></table>")
+            continue
+
         m = re.match(r"^(#{1,6})\s+(.*)$", line)
         if m:
             flush_ul()
-            level = len(m.group(1))
-            out.append(f"<h{level}>{render_inline(m.group(2))}</h{level}>")
+            out.append(f"<h{len(m.group(1))}>{render_inline(m.group(2))}</h{len(m.group(1))}>")
+            i += 1
             continue
+
         if line.startswith("- "):
             if not in_ul:
                 out.append("<ul>")
                 in_ul = True
             out.append(f"<li>{render_inline(line[2:])}</li>")
+            i += 1
             continue
+
         if line.strip() == "":
             flush_ul()
             out.append("")
+            i += 1
             continue
+
         flush_ul()
         out.append(f"<p>{render_inline(line)}</p>")
+        i += 1
+
     flush_ul()
     return "\n".join(out)
 
