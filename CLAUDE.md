@@ -112,6 +112,7 @@ The release source folders are at `X:\games\Oscuro\Oscuro's_..._alphaNN\` — **
 | **Manifest format is stable** | Keys sorted alphabetically; values pretty-printed with 2-space indent. |
 | **Inventory format is stable** | Each `.records/<TYPE>.json` sorted by FormID. |
 | **Cross-platform paths in JSON** | Manifests + inventories store relative POSIX paths. |
+| **Commit authorship** | Claude Code is a tool, not a co-author. NEVER add a `Co-Authored-By: Claude ...` trailer or a `Generated with Claude Code` line to any commit message or pull-request description. A `commit-msg` git hook strips these automatically as a backstop, but do not write them in the first place. |
 | **UTF-8 everywhere** | All scripts that print to stdout call `sys.stdout.reconfigure(encoding="utf-8")` to render arrows / em-dashes correctly on Windows cp1252 consoles. |
 
 ## External dependencies
