@@ -46,6 +46,7 @@ import argparse
 import hashlib
 import io
 import json
+import re
 import shutil
 import subprocess
 import sys
@@ -261,10 +262,183 @@ def step_update_cofiles(tag: str, manifest: dict[str, dict], dry: bool) -> int:
     return count
 
 
+# --------------------------------------------------------------------------- #
+# Content-diff helpers for the per-release notes (text data files)
+# --------------------------------------------------------------------------- #
+
+SYNCMAP_REL = "OblivionRemastered/Content/Dev/ObvData/Data/SyncMap/Oscuro's_Oblivion_Overhaul.ini"
+MAGICLOADER_PREFIX = "OblivionRemastered/Content/Dev/ObvData/Data/MagicLoader/"
+MODS_PREFIX = "OblivionRemastered/Content/Paks/~mods/"
+_FORMID_RE = re.compile(r"^(;)?\s*([0-9A-Fa-f]{6,8})\s*=\s*(.+?)\s*$")
+_ARMOR_PIECES = ("Boots", "Cuirass", "Gauntlets", "Greaves", "Helmet", "Shield", "Bracer")
+
+
+def _git_show_text(tag: str, repo_rel: str) -> str | None:
+    r = git("show", f"{tag}:{repo_rel}", check=False)
+    return r.stdout if r.returncode == 0 else None
+
+
+def tag_date_iso(tag: str) -> str | None:
+    r = git("log", "-1", "--format=%cI", tag, check=False)
+    return r.stdout.strip() or None
+
+
+def _parse_syncmap(text: str | None) -> dict[str, str]:
+    out: dict[str, str] = {}
+    for line in (text or "").splitlines():
+        m = _FORMID_RE.match(line.rstrip())
+        if m and not m.group(1):
+            out[m.group(2).upper()] = m.group(3)
+    return out
+
+
+def _asset_base(path: str) -> str:
+    return path.rsplit("/", 1)[-1].split(".", 1)[0]
+
+
+def _set_of(base: str) -> str:
+    for pc in _ARMOR_PIECES:
+        if base.endswith(pc):
+            return base[:-len(pc)]
+    return base
+
+
+def syncmap_diff(prev_tag: str | None, manifest: dict) -> dict | None:
+    """Diff the default (non-Deluxe) SyncMap vs prev tag → added/removed/changed
+    FormID→asset mappings, or None if unchanged/unavailable."""
+    if prev_tag is None or SYNCMAP_REL not in manifest:
+        return None
+    cur_p = RELEASE_DIR / SYNCMAP_REL
+    if not cur_p.is_file():
+        return None
+    cur = _parse_syncmap(cur_p.read_text(encoding="utf-8"))
+    prev = _parse_syncmap(_git_show_text(prev_tag, f"release/{SYNCMAP_REL}"))
+    if not prev:
+        return None
+    added = {k: cur[k] for k in cur.keys() - prev.keys()}
+    removed = {k: prev[k] for k in prev.keys() - cur.keys()}
+    changed = {k: (prev[k], cur[k]) for k in cur.keys() & prev.keys() if cur[k] != prev[k]}
+    if not (added or removed or changed):
+        return None
+    return {"added": added, "removed": removed, "changed": changed}
+
+
+def render_syncmap_section(d: dict) -> str:
+    out = [f"## SyncMap asset remappings — "
+           f"+{len(d['added'])} -{len(d['removed'])} ~{len(d['changed'])}\n"]
+    out.append("FormID → UE5 asset mappings (TesSyncMapInjector). Changed entries "
+               "re-point existing FormIDs at new item-set visuals, grouped by "
+               "target set.\n")
+    if d["changed"]:
+        groups: dict[str, list] = {}
+        for fid, (old, new) in d["changed"].items():
+            groups.setdefault(_set_of(_asset_base(new)), []).append((fid, old, new))
+        out.append(f"### Changed ({len(d['changed'])})\n")
+        for s in sorted(groups, key=lambda x: (-len(groups[x]), x)):
+            out.append(f"**{s}** ({len(groups[s])})\n")
+            for fid, old, new in sorted(groups[s]):
+                out.append(f"- `{fid}`: `{_asset_base(old)}` → `{_asset_base(new)}`")
+            out.append("")
+    for label, mp in (("Added", d["added"]), ("Removed", d["removed"])):
+        if mp:
+            out.append(f"### {label} ({len(mp)})\n")
+            for fid in sorted(mp):
+                out.append(f"- `{fid}`: `{_asset_base(mp[fid])}`")
+            out.append("")
+    return "\n".join(out)
+
+
+def magicloader_diffs(prev_tag: str | None, manifest: dict) -> list:
+    """Per changed MagicLoader JSON, diff its FullNames map. Returns list of
+    (filename, added, removed, changed)."""
+    if prev_tag is None:
+        return []
+    res = []
+    for rel in sorted(manifest):
+        if not (rel.startswith(MAGICLOADER_PREFIX) and rel.endswith(".json")):
+            continue
+        try:
+            cur = json.loads((RELEASE_DIR / rel).read_text(encoding="utf-8")).get("FullNames", {})
+        except Exception:
+            continue
+        prevtxt = _git_show_text(prev_tag, f"release/{rel}")
+        if prevtxt is None:
+            continue
+        try:
+            prev = json.loads(prevtxt).get("FullNames", {})
+        except Exception:
+            continue
+        added = {k: cur[k] for k in cur.keys() - prev.keys()}
+        removed = {k: prev[k] for k in prev.keys() - cur.keys()}
+        changed = {k: (prev[k], cur[k]) for k in cur.keys() & prev.keys() if cur[k] != prev[k]}
+        if added or removed or changed:
+            res.append((rel.rsplit("/", 1)[-1], added, removed, changed))
+    return res
+
+
+def render_magicloader_section(results: list) -> str:
+    out = ["## MagicLoader changes\n",
+           "Display-name (`FullNames`) changes in the MagicLoader JSON exports.\n"]
+    for name, added, removed, changed in results:
+        out.append(f"### `{name}` — +{len(added)} -{len(removed)} ~{len(changed)}\n")
+        for k in sorted(added):
+            out.append(f"- + `{k}` = \"{added[k]}\"")
+        for k in sorted(removed):
+            out.append(f"- − `{k}` = \"{removed[k]}\"")
+        for k in sorted(changed):
+            o, n = changed[k]
+            out.append(f"- ~ `{k}`: \"{o}\" → \"{n}\"")
+        out.append("")
+    return "\n".join(out)
+
+
+def render_summary_section(added, removed, changed, sm, ml, map_changes) -> str:
+    def sets(paths):
+        return sorted({p[len(MODS_PREFIX):-len("Items.pak")] for p in paths
+                       if p.startswith(MODS_PREFIX) and p.endswith("Items.pak")})
+    added_sets = sets(added)
+    removed_sets = sets(removed)
+    new_assets = sorted({p[len(MODS_PREFIX):].split(".")[0] for p in added
+                         if p.startswith(MODS_PREFIX) and p.endswith(".ucas")
+                         and "Items" not in p and "Materials" not in p})
+    changed_maps = sorted({p[len(MODS_PREFIX):].split(".")[0] for p in changed
+                           if p.startswith(MODS_PREFIX) and p.endswith(".ucas")})
+    out = ["## Summary\n"]
+    if added_sets:
+        out.append(f"- **Item sets added ({len(added_sets)}):** {', '.join(added_sets)}")
+    if removed_sets:
+        out.append(f"- **Item sets removed ({len(removed_sets)}):** {', '.join(removed_sets)}")
+    if changed_maps:
+        out.append(f"- **Maps rebuilt ({len(changed_maps)}):** {', '.join(changed_maps)}")
+    if new_assets:
+        out.append(f"- **Map assets added ({len(new_assets)}):** {', '.join(new_assets)}")
+    if sm:
+        out.append(f"- **SyncMap:** ~{len(sm['changed'])} asset remappings "
+                   f"(+{len(sm['added'])} -{len(sm['removed'])}) — see below")
+    for name, a, r, c in ml:
+        out.append(f"- **MagicLoader `{name}`:** +{len(a)} -{len(r)} ~{len(c)} display names")
+    if map_changes:
+        dis = map_changes.get("disable")
+        ov = map_changes.get("overrides")
+        bg = map_changes.get("begone")
+        if dis and ov:
+            out.append(f"- **UE5-layer suppression:** "
+                       f"+{dis['cur_entries'] - dis['prev_entries']} disabled REFRs, "
+                       f"+{ov['cur_entries'] - ov['prev_entries']} position overrides — "
+                       f"see Map cell changes")
+        if bg:
+            out.append(f"- **Ghost suppression (Begone):** "
+                       f"net {bg['cur_entries'] - bg['prev_entries']:+d} entries")
+    out.append("- **ESP records:** see ESP changes section(s) below")
+    out.append("")
+    return "\n".join(out)
+
+
 def step_diff_doc(tag: str, prev_tag: str | None, manifest: dict[str, dict],
                   esp_paths: list[Path], dry: bool) -> Path:
-    """Step 5 — write docs/per-release/<tag>.md combining file-level diff
-    (vs prior manifest) and per-ESP content diffs (from .records/ bundles)."""
+    """Step 5 — write docs/per-release/<tag>.md combining a summary, file-level
+    diff, SyncMap/MagicLoader content diffs, MapClone map-cell changes, and
+    per-ESP content diffs (from .records/ bundles)."""
     print(f"[release] step 5: write docs/per-release/{tag}.md", flush=True)
     out_path = PER_RELEASE_DOC_DIR / f"{tag}.md"
 
@@ -275,13 +449,43 @@ def step_diff_doc(tag: str, prev_tag: str | None, manifest: dict[str, dict],
         sections.append(f"_Compared against `{prev_tag}`._\n")
 
     # File-level diff vs prior manifest, if available
+    added: list[str] = []
+    removed: list[str] = []
+    changed: list[str] = []
     prev_manifest_path = MANIFEST_DIR / f"{prev_tag}.json" if prev_tag else None
-    if prev_manifest_path and prev_manifest_path.exists():
+    have_prev = bool(prev_manifest_path and prev_manifest_path.exists())
+    if have_prev:
         prev_manifest = json.loads(prev_manifest_path.read_text(encoding="utf-8"))
         added = sorted(set(manifest) - set(prev_manifest))
         removed = sorted(set(prev_manifest) - set(manifest))
         changed = sorted(k for k in set(manifest) & set(prev_manifest)
                          if manifest[k]["sha256"] != prev_manifest[k]["sha256"])
+
+    # Content diffs of text data files (SyncMap, MagicLoader) — OOO-repo domain.
+    sm = syncmap_diff(prev_tag, manifest)
+    ml = magicloader_diffs(prev_tag, manifest)
+
+    # MapClone per-cell map changes (suppression / overrides / ghost / exterior),
+    # diffed from MapClone's configs as of the prior tag's date. Never fatal.
+    map_changes = None
+    mapclone_mod = None
+    if prev_tag is not None:
+        sys.path.insert(0, str(REPO_ROOT / "scripts"))
+        try:
+            import mapclone_changes as mapclone_mod  # noqa: E402
+            before = tag_date_iso(prev_tag)
+            if before:
+                map_changes = mapclone_mod.compute_changes(
+                    mapclone_mod.DEFAULT_MAPCLONE, before)
+        except Exception as e:
+            print(f"  WARN: MapClone change summary skipped: {e}", flush=True)
+
+    # Summary (high-level highlights) — only when there's a prior to compare to.
+    if have_prev and (added or removed or changed):
+        sections.append(render_summary_section(added, removed, changed, sm, ml, map_changes))
+
+    # File-level change detail
+    if have_prev:
         sections.append(
             f"## File-level changes\n\n"
             f"- Added: {len(added)}\n- Removed: {len(removed)}\n- Changed: {len(changed)}\n"
@@ -292,6 +496,16 @@ def step_diff_doc(tag: str, prev_tag: str | None, manifest: dict[str, dict],
                 for it in items:
                     sections.append(f"- `{it}`")
                 sections.append("")
+
+    # SyncMap + MagicLoader + MapClone map-cell-changes content sections
+    if sm:
+        sections.append(render_syncmap_section(sm))
+    if ml:
+        sections.append(render_magicloader_section(ml))
+    if map_changes and mapclone_mod is not None:
+        sec = mapclone_mod.render_section(map_changes, prev_tag)
+        if sec:
+            sections.append(sec)
 
     # Per-ESP content diff sections
     if esp_paths and not dry:
