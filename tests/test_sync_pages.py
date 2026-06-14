@@ -70,3 +70,19 @@ def test_nav_has_overview_and_new_items_in_order():
 def test_branding_mentions_ooorf():
     shell = sync_pages.page_shell("T", "<p>body</p>")
     assert "OOORF" in shell
+
+
+def test_should_skip_true_when_marker_present(tmp_path):
+    f = tmp_path / "overview.html"
+    f.write_text("<!DOCTYPE html>\n<!-- DO-NOT-REGENERATE: x -->\n<html></html>", encoding="utf-8")
+    assert sync_pages.should_skip(f) is True
+
+
+def test_should_skip_false_when_marker_absent(tmp_path):
+    f = tmp_path / "overview.html"
+    f.write_text("<!DOCTYPE html>\n<html></html>", encoding="utf-8")
+    assert sync_pages.should_skip(f) is False
+
+
+def test_should_skip_false_when_file_missing(tmp_path):
+    assert sync_pages.should_skip(tmp_path / "nope.html") is False

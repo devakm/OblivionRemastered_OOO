@@ -21,9 +21,9 @@ All pages link back to <https://github.com/devakm/OblivionRemastered_OOO/release
 for the actual `.7z` downloads.
 
 Usage:
-    python scripts/sync_pages.py                   # write all pages
-    python scripts/sync_pages.py --dry-run         # show what would be written
-    python scripts/sync_pages.py --max-changelog 20  # only newest 20 releases in changelog
+    python scripts/sync_pages.py                   # DIFF only (writes nothing) - DEFAULT
+    python scripts/sync_pages.py --apply           # write pages, skipping DO-NOT-REGENERATE files
+    python scripts/sync_pages.py --apply --max-changelog 20
 """
 
 from __future__ import annotations
@@ -47,6 +47,15 @@ GITHUB_RELEASES_URL = f"https://github.com/{GITHUB_REPO}/releases"
 
 # CSS path is relative to docs/OOO/OBR/, so it goes up two folders.
 CSS_HREF = "../../css/devnull-shared.css"
+
+REGEN_MARKER = "DO-NOT-REGENERATE"
+
+
+def should_skip(dest: Path) -> bool:
+    """True if the destination is hand-canonical and must not be overwritten."""
+    if not dest.exists():
+        return False
+    return REGEN_MARKER in dest.read_text(encoding="utf-8", errors="replace")
 
 
 def git(*args: str, check: bool = True) -> subprocess.CompletedProcess:
@@ -311,8 +320,12 @@ def render_doc_page(slug: str, nav_label: str, title_suffix: str) -> str:
 
 
 def main() -> int:
+    import difflib
+
     ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument("--dry-run", action="store_true", help="show what would be written; no FS changes")
+    ap.add_argument("--apply", action="store_true",
+                    help="write pages (skips any file containing the DO-NOT-REGENERATE "
+                         "marker); default is diff-only, writes nothing")
     ap.add_argument("--max-changelog", type=int, default=0,
                     help="cap the changelog to N most-recent releases (0 = all)")
     args = ap.parse_args()
@@ -331,16 +344,35 @@ def main() -> int:
         "overview.html": render_doc_page("overview", "Overview", "Overview"),
     }
 
-    if args.dry_run:
+    if not args.apply:
+        any_diff = False
         for name, content in pages.items():
-            print(f"[sync_pages] DRY: would write {PAGES_DEST / name} ({len(content)} bytes)", file=sys.stderr)
+            dest = PAGES_DEST / name
+            current = dest.read_text(encoding="utf-8", errors="replace") if dest.exists() else ""
+            diff = "".join(difflib.unified_diff(
+                current.splitlines(keepends=True),
+                content.splitlines(keepends=True),
+                fromfile=f"a/{name}", tofile=f"b/{name}",
+            ))
+            if diff:
+                any_diff = True
+                marked = " [DO-NOT-REGENERATE - would be skipped by --apply]" if should_skip(dest) else ""
+                print(f"\n===== {name}{marked} =====")
+                print(diff)
+        if not any_diff:
+            print("[sync_pages] no differences against the live pages.", file=sys.stderr)
+        print("[sync_pages] diff-only (default). Re-run with --apply to write UNMARKED files.",
+              file=sys.stderr)
         return 0
 
     PAGES_DEST.mkdir(parents=True, exist_ok=True)
     for name, content in pages.items():
-        out = PAGES_DEST / name
-        out.write_text(content, encoding="utf-8")
-        print(f"[sync_pages] wrote {out} ({len(content)} bytes)", file=sys.stderr)
+        dest = PAGES_DEST / name
+        if should_skip(dest):
+            print(f"[sync_pages] SKIP {dest} (DO-NOT-REGENERATE marker present)", file=sys.stderr)
+            continue
+        dest.write_text(content, encoding="utf-8")
+        print(f"[sync_pages] wrote {dest} ({len(content)} bytes)", file=sys.stderr)
 
     print(f"[sync_pages] done. Review under {PAGES_DEST}, then commit + push the devnull repo.",
           file=sys.stderr)
