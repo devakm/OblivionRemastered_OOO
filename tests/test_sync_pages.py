@@ -55,3 +55,18 @@ def test_code_block_escapes_html():
     md = "```\n<b> & </b>\n```"
     out = sync_pages.md_to_simple_html(md)
     assert "&lt;b&gt; &amp; &lt;/b&gt;" in out
+
+
+def test_nav_has_overview_and_new_items_in_order():
+    shell = sync_pages.page_shell("T", "<p>body</p>", active_nav="Home")
+    # New Items must be present and appear after Overview, before Changelog.
+    assert ">New Items</a>" in shell
+    i_over = shell.index(">Overview</a>")
+    i_new = shell.index(">New Items</a>")
+    i_chg = shell.index(">Changelog</a>")
+    assert i_over < i_new < i_chg
+
+
+def test_branding_mentions_ooorf():
+    shell = sync_pages.page_shell("T", "<p>body</p>")
+    assert "OOORF" in shell

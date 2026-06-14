@@ -202,10 +202,11 @@ def md_to_simple_html(md: str) -> str:
 def page_shell(title: str, body_html: str, active_nav: str = "") -> str:
     nav_links = [
         ("index.html", "Home"),
+        ("overview.html", "Overview"),
+        ("new-Items.html", "New Items"),
         ("changelog.html", "Changelog"),
         ("install.html", "Install"),
         ("dependencies.html", "Dependencies"),
-        ("overview.html", "Overview"),
     ]
     nav_html = " | ".join(
         f'<a href="{href}"{" class=\"highlight-text\"" if name == active_nav else ""}>{name}</a>'
@@ -224,7 +225,7 @@ def page_shell(title: str, body_html: str, active_nav: str = "") -> str:
 <body>
   <div class="container">
     <header>
-      <h1>Oscuro's Oblivion Overhaul Remastered FULL</h1>
+      <h1>Oscuro's Oblivion Overhaul Remastered FULL (OOORF)</h1>
       <p class="subtitle">Release Tracker</p>
     </header>
     <nav>{nav_html}</nav>
