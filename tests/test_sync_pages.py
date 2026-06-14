@@ -41,3 +41,17 @@ def test_internal_links_stay_plain():
     out = sync_pages.md_to_simple_html(md)
     assert '<a href="install.html">install</a>' in out
     assert 'target="_blank"' not in out
+
+
+def test_fence_with_nonword_language_tag():
+    md = "```c++\nint x = 0;\n```\nnormal text"
+    out = sync_pages.md_to_simple_html(md)
+    assert "<pre><code>int x = 0;</code></pre>" in out
+    assert "<p>normal text</p>" in out
+    assert "```c++" not in out
+
+
+def test_code_block_escapes_html():
+    md = "```\n<b> & </b>\n```"
+    out = sync_pages.md_to_simple_html(md)
+    assert "&lt;b&gt; &amp; &lt;/b&gt;" in out

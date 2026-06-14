@@ -140,7 +140,7 @@ def md_to_simple_html(md: str) -> str:
     while i < n:
         line = lines[i]
 
-        if re.match(r"^```(\w*)\s*$", line):
+        if re.match(r"^```(\S*)\s*$", line):
             flush_ul()
             code_lines: list[str] = []
             i += 1
@@ -148,7 +148,7 @@ def md_to_simple_html(md: str) -> str:
                 code_lines.append(lines[i])
                 i += 1
             i += 1  # skip the closing fence
-            out.append(f"<pre><code>{html.escape(chr(10).join(code_lines))}</code></pre>")
+            out.append(f"<pre><code>{html.escape('\n'.join(code_lines))}</code></pre>")
             continue
 
         if line.lstrip().startswith("|") and i + 1 < n and is_table_sep(lines[i + 1]):
@@ -156,6 +156,8 @@ def md_to_simple_html(md: str) -> str:
             headers = split_row(line)
             i += 2  # consume header + separator
             rows: list[list[str]] = []
+            # Body rows run until a non-pipe line. Two adjacent tables must be
+            # separated by a blank line, or the second is absorbed into the first.
             while i < n and lines[i].lstrip().startswith("|"):
                 rows.append(split_row(lines[i]))
                 i += 1
@@ -170,7 +172,8 @@ def md_to_simple_html(md: str) -> str:
         m = re.match(r"^(#{1,6})\s+(.*)$", line)
         if m:
             flush_ul()
-            out.append(f"<h{len(m.group(1))}>{render_inline(m.group(2))}</h{len(m.group(1))}>")
+            level = len(m.group(1))
+            out.append(f"<h{level}>{render_inline(m.group(2))}</h{level}>")
             i += 1
             continue
 
