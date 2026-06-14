@@ -1,18 +1,44 @@
 #!/usr/bin/env python3
 """
-Stage newer game files from the live install into the repo's release tree.
+Stage newer game files from the live install into the repo's release tree, and
+plan the brand-new `~mods/` pak content a release adds.
 
-For every game file already curated into `release/OblivionRemastered/`, this
-finds the counterpart at the same relative path in the live game folder and,
-if the live file is BOTH newer (mtime) AND different (SHA-256), stages it into
-the repo. It only ever pulls files that are already tracked in `release/` --
-the live folder holds the whole game plus unrelated mods, none of which are
-touched.
+This is the alpha91 staging planner. It does two jobs:
 
-Dry-run by default: it reports what WOULD change without writing anything.
-Pass --apply to perform the copies.
+1. REFRESH existing release files (the original behaviour). For every game file
+   already curated into `release/OblivionRemastered/`, it finds the counterpart
+   at the same relative path in the live game folder and, if the live file is
+   BOTH newer (mtime) AND different (SHA-256), stages it into the repo. It only
+   ever pulls files that are already tracked in `release/`.
 
-SyncMap redirect (the one exception):
+2. ADD new `~mods/` pak triplets the release introduces, and flag stale ones to
+   delete -- all driven by structured upstream sources so there is nothing to
+   hand-maintain. The authoritative ship-list is derived from:
+
+     item paks       -- ItemClone/docs/item-tracker.html  ("dist packages" col)
+     dungeon maps    -- MapClone/ooo_clone_config.json     (container_name where
+                                                            status == "ready")
+     map "related"   -- MapClone/ooo_exterior_foliage_config.json (cell keys ->
+                                                            <key>Exterior_P)
+     map ✓ status    -- MapClone/docs/phase9-unify-tracker.md (review annotation)
+
+Dry-run by default: it reports the curated add / update / delete plan WITHOUT
+writing anything. Pass --apply to perform the copies. Deletions are NEVER
+performed by this script -- orphans are only REPORTED, so the actual `git rm`
+stays a separate, reviewed step.
+
+States in the plan:
+    added              ship-list pak present in live ~mods/, absent from release/
+    updated            tracked file: live is newer AND differs (copied on --apply)
+    up-to-date         tracked file: identical to live (not shown)
+    stale-mtime        tracked file: differs but live NOT newer (left untouched)
+    no-source          tracked file with no live counterpart
+    orphan             release ~mods/ pak NOT in ship-list and with no live source
+                       (e.g. renamed-away BGlass*/RGlass*) -- deletion candidate
+    missing-from-live  ship-list entry the tracker promises but live ~mods/ lacks
+    skipped-managed    the non-Deluxe SyncMap ini (owned by sync_syncmap.py)
+
+SyncMap redirect (the one exception to same-path sourcing):
     The repo's Deluxe SyncMap copy
         .../Data/OptionalPatches/SyncMap - DeluxeEdition/Oscuro's_Oblivion_Overhaul.ini
     is sourced from the live default-location file
@@ -23,7 +49,7 @@ SyncMap redirect (the one exception):
 
 Out of scope (handled later by release.py): regenerating `.md` co-files and
 `.records/` inventories, manifest hashing, and the non-Deluxe SyncMap variant.
-This script only GATHERS; run release.py once everything is staged.
+This script only GATHERS + PLANS; run release.py once everything is staged.
 
 Usage:
     python scripts/gather_live.py                 # dry-run, report only
@@ -31,6 +57,9 @@ Usage:
     python scripts/gather_live.py --tag alpha91   # report tag (default: alpha91)
     python scripts/gather_live.py --game-root "C:/.../Oblivion Remastered/OblivionRemastered"
     python scripts/gather_live.py --report work/alpha91_gathered.json
+    # Override any upstream source (defaults to the absolute paths above):
+    python scripts/gather_live.py --item-tracker ... --clone-config ... \
+        --exterior-config ... --map-tracker ...
 """
 
 from __future__ import annotations
@@ -38,6 +67,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import re
 import shutil
 import sys
 from datetime import datetime, timezone
@@ -51,7 +81,24 @@ DEFAULT_GAME_ROOT = Path(
     r"C:\games\Steam\steamapps\common\Oblivion Remastered\OblivionRemastered"
 )
 
+# Upstream structured sources for the ship-list (siblings of this repo).
+DEFAULT_ITEM_TRACKER = Path(
+    r"X:\dev\OblivionRemastered_ItemClone\docs\item-tracker.html"
+)
+DEFAULT_CLONE_CONFIG = Path(
+    r"X:\dev\OblivionRemastered_MapClone\ooo_clone_config.json"
+)
+DEFAULT_EXTERIOR_CONFIG = Path(
+    r"X:\dev\OblivionRemastered_MapClone\ooo_exterior_foliage_config.json"
+)
+DEFAULT_MAP_TRACKER = Path(
+    r"X:\dev\OblivionRemastered_MapClone\docs\phase9-unify-tracker.md"
+)
+
 # Relative POSIX paths (from the OblivionRemastered/ root).
+MODS_DIR = "Content/Paks/~mods"
+PAK_EXTS = (".pak", ".ucas", ".utoc")
+
 DELUXE_INI_REL = (
     "Content/Dev/ObvData/Data/OptionalPatches/"
     "SyncMap - DeluxeEdition/Oscuro's_Oblivion_Overhaul.ini"
@@ -88,6 +135,96 @@ SKIP_SUFFIXES = (".md", ".working")
 SKIP_NAMES = (".gitkeep",)
 
 
+# --- Ship-list parsing -----------------------------------------------------
+
+def _warn(msg: str) -> None:
+    print(f"WARNING: {msg}", file=sys.stderr)
+
+
+def parse_item_pak_stems(path: Path) -> set[str]:
+    """Pak stems (e.g. 'ArcticFurItems') from the item tracker's summary table.
+
+    Reads the 'dist packages' column of the 'Set summary' table and returns the
+    base names of every .pak it lists. ESP entries in that column are ignored --
+    only pak triplets are staged (item ESP integration rides in the main OOO esp).
+    """
+    if not path.is_file():
+        _warn(f"item tracker not found, no item paks in ship-list: {path}")
+        return set()
+    text = path.read_text(encoding="utf-8")
+    m = re.search(r"Set summary(.*?)Set detail", text, re.S)
+    segment = m.group(1) if m else text
+    return {tok[:-4] for tok in re.findall(r"([A-Za-z0-9_\-]+\.pak)", segment)}
+
+
+def parse_map_clone_stems(path: Path) -> set[str]:
+    """Map container names (L_*_Map) from clones marked status == 'ready'."""
+    if not path.is_file():
+        _warn(f"clone config not found, no dungeon maps in ship-list: {path}")
+        return set()
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return {
+        c["container_name"]
+        for c in data.get("clones", [])
+        if c.get("status") == "ready" and c.get("container_name")
+    }
+
+
+def parse_exterior_stems(path: Path) -> set[str]:
+    """Exterior-fix pak stems (<cell>Exterior_P) from the foliage config keys."""
+    if not path.is_file():
+        _warn(f"exterior config not found, no exterior paks in ship-list: {path}")
+        return set()
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return {f"{k}Exterior_P" for k in data if not k.startswith("_")}
+
+
+def parse_map_status_alarms(path: Path) -> list[dict]:
+    """Zones in the phase9 grid that ship but have an untested ('·') phase.
+
+    Returns [{zone, untested:[phase,...]}] for review -- a heads-up that a map
+    is in the ship-list (status=ready) yet still lacks full in-game validation.
+    """
+    if not path.is_file():
+        _warn(f"map tracker not found, no ✓-status annotation: {path}")
+        return []
+    phases = ["P1 Nav", "P3 Wtr", "P5 Pos", "P7 Sup", "P9 Flk"]
+    alarms = []
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if not line.startswith("|"):
+            continue
+        cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        # Grid data rows: zone name, vanilla source, water, 5 phase cols, notes.
+        if len(cells) < 8:
+            continue
+        zone = cells[0]
+        if zone in ("OOO Cell (EDID)", "") or set(zone) <= set("-: "):
+            continue
+        phase_cells = cells[3:8]
+        untested = [phases[i] for i, c in enumerate(phase_cells) if "·" in c]
+        if untested:
+            alarms.append({"zone": zone, "untested": untested})
+    return alarms
+
+
+def build_shiplist(item_tracker: Path, clone_config: Path,
+                   exterior_config: Path) -> tuple[dict, dict]:
+    """Return (rel_path -> stem, provenance) for every ~mods pak that ships.
+
+    Each stem expands to a .pak/.ucas/.utoc triplet under ~mods/.
+    """
+    items = parse_item_pak_stems(item_tracker)
+    maps = parse_map_clone_stems(clone_config)
+    exts = parse_exterior_stems(exterior_config)
+    stems = items | maps | exts
+    rel_to_stem = {}
+    for stem in stems:
+        for ext in PAK_EXTS:
+            rel_to_stem[f"{MODS_DIR}/{stem}{ext}"] = stem
+    provenance = {"item": items, "map": maps, "exterior": exts}
+    return rel_to_stem, provenance
+
+
 # --- Helpers ---------------------------------------------------------------
 
 def is_metadata(rel: PurePosixPath) -> bool:
@@ -99,6 +236,10 @@ def is_metadata(rel: PurePosixPath) -> bool:
     if any(part.endswith(".records") for part in rel.parts):
         return True
     return False
+
+
+def is_mods_pak(rel: PurePosixPath) -> bool:
+    return rel.as_posix().startswith(MODS_DIR + "/") and rel.suffix in PAK_EXTS
 
 
 def sha256(path: Path) -> str:
@@ -129,24 +270,36 @@ def source_for(rel: PurePosixPath, game_root: Path) -> Path:
     return game_root / Path(live_rel)
 
 
+def copy_into(src: Path, dest: Path) -> None:
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(src, dest)  # preserve live mtime for future runs
+
+
 # --- Core ------------------------------------------------------------------
 
-def gather(game_root: Path, apply: bool):
+def gather(game_root: Path, apply: bool, shiplist: dict):
     entries = []
     counts = {
+        "added": 0,
         "updated": 0,
         "up-to-date": 0,
         "stale-mtime": 0,
         "no-source": 0,
+        "orphan": 0,
+        "missing-from-live": 0,
         "skipped-managed": 0,
     }
+    shiplist_stems = set(shiplist.values())
+    release_rels: set[str] = set()
 
+    # Pass 1: every file already tracked in release/.
     for dest in sorted(RELEASE_ROOT.rglob("*")):
         if not dest.is_file():
             continue
         rel = PurePosixPath(dest.relative_to(RELEASE_ROOT).as_posix())
         if is_metadata(rel):
             continue
+        release_rels.add(rel.as_posix())
 
         # The non-Deluxe SyncMap ini is owned by sync_syncmap.py -- never synced.
         if rel.as_posix() == DEFAULT_SYNCMAP_INI_REL:
@@ -157,9 +310,22 @@ def gather(game_root: Path, apply: bool):
 
         src = source_for(rel, game_root)
         if not src.is_file():
-            counts["no-source"] += 1
-            entries.append({"rel": rel.as_posix(), "state": "no-source",
-                            "source_rel": src.relative_to(game_root).as_posix()})
+            # A ~mods pak with no live source that is not in the ship-list is an
+            # orphan (renamed away / superseded) -- flag for deletion review.
+            if is_mods_pak(rel) and rel.stem not in shiplist_stems:
+                counts["orphan"] += 1
+                cofile = rel.as_posix() + ".md"
+                entries.append({
+                    "rel": rel.as_posix(),
+                    "state": "orphan",
+                    "cofile": cofile if (RELEASE_ROOT / cofile).is_file() else None,
+                })
+            else:
+                counts["no-source"] += 1
+                entries.append({
+                    "rel": rel.as_posix(), "state": "no-source",
+                    "source_rel": src.relative_to(game_root).as_posix(),
+                })
             continue
 
         dst_stat, src_stat = dest.stat(), src.stat()
@@ -188,11 +354,39 @@ def gather(game_root: Path, apply: bool):
         if state == "updated":
             counts["updated"] += 1
             if apply:
-                dest.parent.mkdir(parents=True, exist_ok=True)
-                shutil.copy2(src, dest)  # preserve live mtime for future runs
+                copy_into(src, dest)
                 entry["copied"] = True
         else:
             counts["stale-mtime"] += 1
+        entries.append(entry)
+
+    # Pass 2: ship-list paks not yet present in release/ (additions / alarms).
+    for rel_str in sorted(set(shiplist) - release_rels):
+        rel = PurePosixPath(rel_str)
+        src = source_for(rel, game_root)
+        if not src.is_file():
+            counts["missing-from-live"] += 1
+            entries.append({
+                "rel": rel_str, "state": "missing-from-live",
+                "stem": shiplist[rel_str],
+                "source_rel": src.relative_to(game_root).as_posix(),
+            })
+            continue
+        src_stat = src.stat()
+        entry = {
+            "rel": rel_str,
+            "state": "added",
+            "stem": shiplist[rel_str],
+            "source_rel": src.relative_to(game_root).as_posix(),
+            "new_sha": sha256(src),
+            "new_size": src_stat.st_size,
+            "new_mtime": iso(src_stat.st_mtime),
+            "copied": False,
+        }
+        counts["added"] += 1
+        if apply:
+            copy_into(src, RELEASE_ROOT / rel)
+            entry["copied"] = True
         entries.append(entry)
 
     return entries, counts
@@ -200,33 +394,58 @@ def gather(game_root: Path, apply: bool):
 
 # --- Reporting -------------------------------------------------------------
 
-def print_report(entries, counts, apply: bool):
-    verb = "Copied" if apply else "Would update"
-    print(f"{'STATE':<16} {'PATH'}")
+def print_report(entries, counts, apply: bool, provenance: dict, alarms: list):
+    print("Ship-list sources: "
+          f"{len(provenance['item'])} item-set stems, "
+          f"{len(provenance['map'])} dungeon maps, "
+          f"{len(provenance['exterior'])} exterior paks")
+    print(f"{'STATE':<18} {'PATH'}")
     print("-" * 72)
-    for e in entries:
+    order = {"added": 0, "updated": 1, "missing-from-live": 2, "orphan": 3,
+             "stale-mtime": 4, "no-source": 5, "skipped-managed": 6}
+    for e in sorted(entries, key=lambda x: (order.get(x["state"], 9), x["rel"])):
         if e["state"] == "up-to-date":
             continue
-        line = f"{e['state']:<16} {e['rel']}"
-        if e["state"] in ("updated", "stale-mtime"):
-            line += (f"\n{'':<16} {human(e['old_size'])} -> {human(e['new_size'])}"
+        line = f"{e['state']:<18} {e['rel']}"
+        if e["state"] == "added":
+            line += f"\n{'':<18} NEW  {human(e['new_size'])}   ({e['new_mtime']})"
+        elif e["state"] in ("updated", "stale-mtime"):
+            line += (f"\n{'':<18} {human(e['old_size'])} -> {human(e['new_size'])}"
                      f"   ({e['old_mtime']} -> {e['new_mtime']})")
+        elif e["state"] == "orphan" and e.get("cofile"):
+            line += f"\n{'':<18} + co-file {e['cofile']}"
         print(line)
     print("-" * 72)
-    print(f"{verb}: {counts['updated']}   "
+    verb = "Copied" if apply else "Would add/update"
+    print(f"{verb}: {counts['added']} added, {counts['updated']} updated   "
           f"up-to-date: {counts['up-to-date']}   "
-          f"stale-mtime (differs, not newer): {counts['stale-mtime']}   "
+          f"stale-mtime: {counts['stale-mtime']}   "
+          f"orphan: {counts['orphan']}   "
+          f"missing-from-live: {counts['missing-from-live']}   "
           f"no-source: {counts['no-source']}   "
           f"skipped-managed: {counts['skipped-managed']}")
-    if not apply and counts["updated"]:
-        print("\nDry-run -- no files written. Re-run with --apply to copy.")
+
+    if counts["missing-from-live"]:
+        print("\nALARM: ship-list paks the tracker promises but live ~mods/ lacks "
+              "-- a set may be half-built. Inspect 'missing-from-live' rows above.")
+    if counts["orphan"]:
+        print("\nORPHANS: release ~mods/ paks with no live source and not in the "
+              "ship-list. Remove with a reviewed `git rm` (paks + co-files); "
+              "this script never deletes.")
     if counts["stale-mtime"]:
-        print("WARNING: files whose content differs but whose live mtime is NOT "
+        print("\nWARNING: files whose content differs but whose live mtime is NOT "
               "newer were left untouched (state 'stale-mtime'). Inspect them.")
+    if alarms:
+        print("\nMAP ✓-STATUS (shipping maps with an untested phase per "
+              "phase9-unify-tracker.md):")
+        for a in alarms:
+            print(f"  · {a['zone']}: untested {', '.join(a['untested'])}")
+    if not apply and (counts["added"] or counts["updated"]):
+        print("\nDry-run -- no files written. Re-run with --apply to copy.")
 
 
 def write_json(report_path: Path, tag: str, game_root: Path, apply: bool,
-               entries, counts):
+               entries, counts, provenance: dict, alarms: list):
     payload = {
         "tag": tag,
         "generated": iso(datetime.now(tz=timezone.utc).timestamp()),
@@ -234,6 +453,8 @@ def write_json(report_path: Path, tag: str, game_root: Path, apply: bool,
         "game_root": str(game_root),
         "release_root": str(RELEASE_ROOT),
         "counts": counts,
+        "shiplist_sources": {k: sorted(v) for k, v in provenance.items()},
+        "map_status_alarms": alarms,
         # Persist everything except no-op up-to-date files.
         "entries": [e for e in entries if e["state"] != "up-to-date"],
     }
@@ -256,6 +477,14 @@ def main(argv=None):
                     help="live game OblivionRemastered/ folder")
     ap.add_argument("--report", type=Path, default=None,
                     help="JSON report path (default: work/<tag>_gathered.json)")
+    ap.add_argument("--item-tracker", type=Path, default=DEFAULT_ITEM_TRACKER,
+                    help="ItemClone item-tracker.html (item-pak ship-list)")
+    ap.add_argument("--clone-config", type=Path, default=DEFAULT_CLONE_CONFIG,
+                    help="MapClone ooo_clone_config.json (dungeon-map ship-list)")
+    ap.add_argument("--exterior-config", type=Path, default=DEFAULT_EXTERIOR_CONFIG,
+                    help="MapClone ooo_exterior_foliage_config.json (related paks)")
+    ap.add_argument("--map-tracker", type=Path, default=DEFAULT_MAP_TRACKER,
+                    help="MapClone phase9-unify-tracker.md (✓-status annotation)")
     args = ap.parse_args(argv)
 
     game_root = args.game_root.resolve()
@@ -266,9 +495,14 @@ def main(argv=None):
 
     report_path = args.report or (REPO_ROOT / "work" / f"{args.tag}_gathered.json")
 
-    entries, counts = gather(game_root, args.apply)
-    print_report(entries, counts, args.apply)
-    write_json(report_path, args.tag, game_root, args.apply, entries, counts)
+    shiplist, provenance = build_shiplist(
+        args.item_tracker, args.clone_config, args.exterior_config)
+    alarms = parse_map_status_alarms(args.map_tracker)
+
+    entries, counts = gather(game_root, args.apply, shiplist)
+    print_report(entries, counts, args.apply, provenance, alarms)
+    write_json(report_path, args.tag, game_root, args.apply, entries, counts,
+               provenance, alarms)
     return 0
 
 
