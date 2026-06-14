@@ -433,7 +433,7 @@ def render_summary_section(added, removed, changed, sm, ml, map_changes,
                        f"+{ov['cur_entries'] - ov['prev_entries']} position overrides — "
                        f"see Map cell changes")
         if bg:
-            out.append(f"- **Ghost suppression (Begone):** "
+            out.append(f"- **UE5-layer ghost suppression (Begone):** "
                        f"net {bg['cur_entries'] - bg['prev_entries']:+d} entries")
     out.append("- **ESP records:** see ESP changes section(s) below")
     out.append("")

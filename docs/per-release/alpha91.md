@@ -11,7 +11,7 @@ _Compared against `alpha90`._
 - **SyncMap:** ~307 asset remappings (+0 -0) — see below
 - **MagicLoader `Oscuro's_Oblivion_Overhaul_ARMO.json`:** +0 -0 ~6 display names
 - **TES4 REFR suppression:** +254 disabled REFRs, +17 position overrides — see Map cell changes
-- **Ghost suppression (Begone):** net +92 entries
+- **UE5-layer ghost suppression (Begone):** net +92 entries
 - **ESP records:** see ESP changes section(s) below
 
 ## File-level changes
@@ -520,7 +520,7 @@ Display-name (`FullNames`) changes in the MagicLoader JSON exports.
 Each OOO cell layers TES4-injected OOO content over UE5-baked remaster geometry; these reconcile the two so each object renders from exactly one layer. Sourced from MapClone configs (baseline `8e9efaf5a62a`).
 
 - **TES4 REFR suppression** — disable OOO REFRs that *duplicate* UE5-baked architecture (drop the TES4 twin, keep the UE5 copy).
-- **Ghost suppression (Begone)** — remove UE5-baked actors with *no* TES4 counterpart (drop the UE5 ghost, keep TES4).
+- **UE5-layer ghost suppression (Begone)** — remove UE5-baked actors with *no* TES4 counterpart (drop the UE5 ghost, keep TES4).
 - **Position overrides** — re-seat OOO REFRs (chests/furniture) left floating once a supporting STAT was disabled.
 
 ### TES4 REFR suppression — disable OOO duplicates of UE5-baked architecture (ESP `INITIALLY_DISABLED`)
@@ -542,7 +542,7 @@ net +17 overrides (128 → 145; 17 → 21 cells)
 - **BrokenToothCave**: +1 (total 1) *(new cell)*
 - **Rosulas02**: +1 (total 9)
 
-### Ghost suppression (Begone)
+### UE5-layer ghost suppression (Begone)
 
 net +92 entries (1241 → 1333; 44 → 46 cells)
 
