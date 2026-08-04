@@ -51,3 +51,6 @@ Thumbs.db
 
 # Local-only Claude settings (settings.json IS committed; *.local.json is per-user).
 .claude/settings.local.json
+
+# Superpowers subagent-driven-development scratch (ledgers, briefs, review packages)
+.superpowers/
