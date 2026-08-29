@@ -8,7 +8,7 @@ Run: py -3 program/build_dashboard.py
 import html as _html
 from pathlib import Path
 
-from .collect import repos, views
+from .collect import repos, runs, views
 
 HERE = Path(__file__).resolve().parent
 CSS = """body{font:14px/1.5 system-ui,sans-serif;margin:24px;background:#faf9f7;color:#222}
@@ -18,6 +18,8 @@ h1{font-size:20px}h2{font-size:15px;margin:0 0 10px}
 table{border-collapse:collapse;width:100%}td,th{text-align:left;padding:4px 8px;border-bottom:1px solid #eee}
 .FRESH{color:#176d2c;font-weight:600}.STALE{color:#b3261e;font-weight:600}
 .UNKNOWN{color:#8a6d00;font-weight:600}
+.orphaned{color:#b3261e;font-weight:600}.running{color:#176d2c;font-weight:600}
+.done{color:#777}
 code{background:#f2f0ec;padding:1px 5px;border-radius:4px;font-size:12px}
 .stamp{color:#777;font-size:12px}"""
 
@@ -42,6 +44,27 @@ def views_panel() -> str:
     body = ('<table><tr><th>View</th><th>State</th><th>Age</th><th>Rebuild with</th></tr>'
             + "".join(rows) + '</table>')
     return panel("Views", env, body)
+
+
+def runs_panel() -> str:
+    """Orphans first -- an orphan's purpose text is the whole reason the ledger exists."""
+    env = runs.collect()
+    order = {"orphaned": 0, "running": 1, "done": 2}
+    rows = []
+    for r in sorted(env["data"] if env["ok"] else [],
+                    key=lambda r: (order.get(r.get("status"), 3),
+                                   r.get("started") or "")):
+        rows.append(
+            f'<tr><td>{_html.escape(str(r.get("repo","")))}</td>'
+            f'<td>{_html.escape(str(r.get("kind","")))}</td>'
+            f'<td class="{_html.escape(str(r.get("status","")))}">'
+            f'{_html.escape(str(r.get("status","")))}</td>'
+            f'<td>{_html.escape(str(r.get("started") or ""))}</td>'
+            f'<td>{_html.escape(str(r.get("purpose") or ""))}</td></tr>')
+    body = ('<table><tr><th>Repo</th><th>Kind</th><th>Status</th><th>Started</th>'
+            '<th>Purpose</th></tr>' + "".join(rows) + '</table>'
+            if rows else '<p class=stamp>no recorded runs</p>')
+    return panel("In flight", env, body)
 
 
 def repos_panel(annotations: dict | None = None) -> str:
@@ -72,7 +95,8 @@ def render(panels: list[str]) -> str:
 
 def main(out: Path | None = None) -> Path:
     out = Path(out) if out else HERE / "dashboard.html"
-    out.write_text(render([repos_panel(), views_panel()]), encoding="utf-8")
+    out.write_text(render([repos_panel(), runs_panel(), views_panel()]),
+                   encoding="utf-8")
     return out
 
 
