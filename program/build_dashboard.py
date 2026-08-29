@@ -8,7 +8,7 @@ Run: py -3 program/build_dashboard.py
 import html as _html
 from pathlib import Path
 
-from .collect import repos, runs, sessions, views
+from .collect import milestones, repos, runs, sessions, views
 
 HERE = Path(__file__).resolve().parent
 CSS = """body{font:14px/1.5 system-ui,sans-serif;margin:24px;background:#faf9f7;color:#222}
@@ -20,6 +20,12 @@ table{border-collapse:collapse;width:100%}td,th{text-align:left;padding:4px 8px;
 .UNKNOWN{color:#8a6d00;font-weight:600}
 .orphaned{color:#b3261e;font-weight:600}.running{color:#176d2c;font-weight:600}
 .done{color:#777}
+.MET{color:#176d2c;font-weight:600}.CONTRADICTED{color:#b3261e;font-weight:600}
+.UNVERIFIED{color:#8a6d00;font-weight:600}
+.pipeline{margin:0 0 12px}.ms{display:inline-block;padding:3px 10px;border:1px solid #ccc;
+border-radius:14px;margin-right:6px;font-size:12px}.ms.in_progress{border-color:#8a6d00;
+background:#fff8e1;font-weight:600}.ms.done{border-color:#176d2c;background:#eef7ef;color:#176d2c}
+.next{background:#fff8e1;border:1px solid #e8d9a0;border-radius:6px;padding:8px 12px;margin:12px 0 0}
 code{background:#f2f0ec;padding:1px 5px;border-radius:4px;font-size:12px}
 .stamp{color:#777;font-size:12px}
 .cols{display:flex;gap:26px;flex-wrap:wrap}.cols>div{flex:1 1 320px;min-width:0}
@@ -46,6 +52,36 @@ def views_panel() -> str:
     body = ('<table><tr><th>View</th><th>State</th><th>Age</th><th>Rebuild with</th></tr>'
             + "".join(rows) + '</table>')
     return panel("Views", env, body)
+
+
+def milestones_panel(env: dict) -> str:
+    """Where we are and what is next. Next steps are derived from the gap,
+    never typed twice -- a hand-kept list is what drifts."""
+    data = env["data"] if env["ok"] else {}
+    pipe = "".join(
+        f'<span class="ms {_html.escape(m["status"])}">{_html.escape(m["name"])}</span>'
+        for m in data.get("milestones", []))
+    rows = []
+    for m in data.get("milestones", []):
+        for c in m["criteria"]:
+            rows.append(f'<tr><td>{_html.escape(m["name"])}</td>'
+                        f'<td>{_html.escape(c.get("claim", ""))}</td>'
+                        f'<td class="{c["state"]}">{c["state"]}</td></tr>')
+    nxt = data.get("next", {})
+    unmet = "".join(f'<li>{_html.escape(c.get("claim", ""))} '
+                    f'<span class="{c["state"]}">({c["state"]})</span></li>'
+                    for c in nxt.get("unmet", []))
+    body = (f'<p><b>{_html.escape(data.get("goal", ""))}</b><br>'
+            f'<span class=stamp>focus: {_html.escape(data.get("current_focus", ""))}</span></p>'
+            f'<div class=pipeline>{pipe}</div>'
+            '<table><tr><th>Milestone</th><th>Claim</th><th>State</th></tr>'
+            + "".join(rows) + '</table>'
+            + (f'<div class=next><b>Next steps toward '
+               f'{_html.escape(str(nxt.get("name", "")))}:</b><ul>{unmet}</ul></div>'
+               if unmet else
+               f'<div class=next>Every criterion for '
+               f'{_html.escape(str(nxt.get("name", "")))} is MET.</div>'))
+    return panel("Program", env, body)
 
 
 def runs_panel() -> str:
@@ -116,8 +152,11 @@ def render(panels: list[str]) -> str:
 
 def main(out: Path | None = None) -> Path:
     out = Path(out) if out else HERE / "dashboard.html"
+    ms = milestones.collect()
+    annotations = ms["data"]["branches"] if ms["ok"] else {}
     out.write_text(
-        render([repos_panel(), runs_panel(), views_panel(), sessions_panel()]),
+        render([milestones_panel(ms), repos_panel(annotations), runs_panel(),
+                views_panel(), sessions_panel()]),
         encoding="utf-8")
     return out
 

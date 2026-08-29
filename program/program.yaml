@@ -1,0 +1,26 @@
+goal: "Oscuro's Oblivion Overhaul Remastered FULL — beta, then general availability"
+current_focus: "Amelion tier sets, following the Noble template"
+milestones:
+  - name: alpha90
+    status: done
+    criteria:
+      - id: alpha90-manifest
+        claim: "alpha90 has an integrity manifest"
+        check: {kind: manifest_exists, tag: alpha90}
+  - name: beta
+    after: alpha90
+    status: in_progress
+    criteria:
+      - id: amelion-noble-merged
+        claim: "Amelion Noble set is merged to main"
+        check: {kind: merged, repo: ItemClone, branch: amelion}
+      - id: beta-manifest
+        claim: "beta tag has an integrity manifest"
+        check: {kind: manifest_exists, tag: beta}
+  - name: ga
+    after: beta
+    status: not_started
+    criteria: []
+branches:
+  ItemClone/noble-frame-arc-parked: "Parked frame arc; revisit after the Amelion tier"
+  OOO/variants/alpha32nex: "alpha32 variant fork (documented in the OOO README)"
