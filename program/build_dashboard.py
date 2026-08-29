@@ -8,7 +8,7 @@ Run: py -3 program/build_dashboard.py
 import html as _html
 from pathlib import Path
 
-from .collect import repos, runs, views
+from .collect import repos, runs, sessions, views
 
 HERE = Path(__file__).resolve().parent
 CSS = """body{font:14px/1.5 system-ui,sans-serif;margin:24px;background:#faf9f7;color:#222}
@@ -21,7 +21,9 @@ table{border-collapse:collapse;width:100%}td,th{text-align:left;padding:4px 8px;
 .orphaned{color:#b3261e;font-weight:600}.running{color:#176d2c;font-weight:600}
 .done{color:#777}
 code{background:#f2f0ec;padding:1px 5px;border-radius:4px;font-size:12px}
-.stamp{color:#777;font-size:12px}"""
+.stamp{color:#777;font-size:12px}
+.cols{display:flex;gap:26px;flex-wrap:wrap}.cols>div{flex:1 1 320px;min-width:0}
+h3{font-size:13px;color:#555;margin:0 0 6px}a{color:#1a4d8f}"""
 
 
 def panel(title: str, env: dict, body_html: str) -> str:
@@ -87,6 +89,25 @@ def repos_panel(annotations: dict | None = None) -> str:
     return panel("Branches", env, body)
 
 
+def sessions_panel(limit: int = 10) -> str:
+    env = sessions.collect(limit)
+    data = env["data"] if env["ok"] else {"sessions": [], "handoffs": []}
+    srows = "".join(
+        f'<tr><td>{_html.escape(s["started"])}</td><td><code>{_html.escape(s["id"])}</code></td>'
+        f'<td>{_html.escape(s["label"])}</td></tr>' for s in data["sessions"])
+    hrows = "".join(
+        f'<tr><td>{_html.escape(h["date"])}</td><td>{_html.escape(h["set_name"])}</td>'
+        f'<td><a href="{Path(h["path"]).as_uri()}">{_html.escape(Path(h["path"]).name)}</a></td>'
+        f'</tr>' for h in data["handoffs"])
+    body = ('<div class=cols>'
+            '<div><h3>Recent sessions</h3><table>'
+            '<tr><th>Started</th><th>Id</th><th>Label</th></tr>' + srows + '</table></div>'
+            '<div><h3>Recent handoffs</h3><table>'
+            '<tr><th>Date</th><th>Set</th><th>Document</th></tr>' + hrows + '</table></div>'
+            '</div>')
+    return panel("Sessions and handoffs", env, body)
+
+
 def render(panels: list[str]) -> str:
     return (f'<!doctype html><meta charset=utf-8><title>OOO Program</title>'
             f'<style>{CSS}</style><h1>Oscuro’s Oblivion Overhaul Remastered — Program</h1>'
@@ -95,8 +116,9 @@ def render(panels: list[str]) -> str:
 
 def main(out: Path | None = None) -> Path:
     out = Path(out) if out else HERE / "dashboard.html"
-    out.write_text(render([repos_panel(), runs_panel(), views_panel()]),
-                   encoding="utf-8")
+    out.write_text(
+        render([repos_panel(), runs_panel(), views_panel(), sessions_panel()]),
+        encoding="utf-8")
     return out
 
 
