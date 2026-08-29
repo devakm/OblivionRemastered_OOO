@@ -8,7 +8,7 @@ Run: py -3 program/build_dashboard.py
 import html as _html
 from pathlib import Path
 
-from .collect import views
+from .collect import repos, views
 
 HERE = Path(__file__).resolve().parent
 CSS = """body{font:14px/1.5 system-ui,sans-serif;margin:24px;background:#faf9f7;color:#222}
@@ -44,6 +44,26 @@ def views_panel() -> str:
     return panel("Views", env, body)
 
 
+def repos_panel(annotations: dict | None = None) -> str:
+    env = repos.collect(annotations)
+    rows = []
+    for r in env["data"] if env["ok"] else []:
+        warn = [] if r["has_remote"] else ["<b>no remote</b>"]
+        if r["dirty"]:
+            warn.append(f'{r["dirty"]} uncommitted')
+        rows.append(f'<tr><td colspan=5><b>{_html.escape(r["repo"])}</b> '
+                    f'<span class=stamp>on {_html.escape(r["head"])} '
+                    f'{" · ".join(warn)}</span></td></tr>')
+        for b in r["branches"]:
+            rows.append(
+                f'<tr><td>{_html.escape(b["name"])}</td><td>{b["bucket"]}</td>'
+                f'<td>+{b["ahead"]} / -{b["behind"]}</td><td>{_html.escape(b["last"])}</td>'
+                f'<td>{_html.escape(b["intent"])}</td></tr>')
+    body = ('<table><tr><th>Branch</th><th>Bucket</th><th>Ahead/Behind</th>'
+            '<th>Last</th><th>Intent</th></tr>' + "".join(rows) + '</table>')
+    return panel("Branches", env, body)
+
+
 def render(panels: list[str]) -> str:
     return (f'<!doctype html><meta charset=utf-8><title>OOO Program</title>'
             f'<style>{CSS}</style><h1>Oscuro’s Oblivion Overhaul Remastered — Program</h1>'
@@ -52,7 +72,7 @@ def render(panels: list[str]) -> str:
 
 def main(out: Path | None = None) -> Path:
     out = Path(out) if out else HERE / "dashboard.html"
-    out.write_text(render([views_panel()]), encoding="utf-8")
+    out.write_text(render([repos_panel(), views_panel()]), encoding="utf-8")
     return out
 
 
