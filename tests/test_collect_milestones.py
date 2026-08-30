@@ -22,6 +22,26 @@ def test_failing_check_is_contradicted(monkeypatch):
         {"id": "x", "claim": "c", "check": {"kind": "never"}}) == "CONTRADICTED"
 
 
+def test_failing_check_on_unfinished_work_is_pending_not_contradicted(monkeypatch):
+    """Not-yet-done is remaining work, not a lie. Red is reserved for a
+    milestone asserted DONE whose evidence denies it."""
+    monkeypatch.setitem(milestones.CHECKS, "never", lambda c: False)
+    assert milestones.evaluate({"id": "x", "claim": "c", "check": {"kind": "never"}},
+                               claimed_done=False) == "PENDING"
+
+
+def test_a_done_milestone_with_failing_evidence_still_contradicts():
+    """The gate keeps its teeth: alpha91 is declared done, so if its manifest
+    ever vanished the dashboard must say CONTRADICTED, not PENDING."""
+    env = milestones.collect()
+    done = [m for m in env["data"]["milestones"] if m["status"] == "done"]
+    assert done, "fixture drift: no milestone is declared done"
+    for m in done:
+        for c in m["criteria"]:
+            assert c["state"] in {"MET", "CONTRADICTED", "UNVERIFIED"}
+            assert c["state"] != "PENDING"
+
+
 def test_manifest_check_finds_a_real_tag():
     assert milestones.CHECKS["manifest_exists"]({"tag": "alpha90"}) is True
     assert milestones.CHECKS["manifest_exists"]({"tag": "no-such-tag"}) is False

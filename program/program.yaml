@@ -1,26 +1,63 @@
-goal: "Oscuro's Oblivion Overhaul Remastered FULL — beta, then general availability"
-current_focus: "Amelion tier sets, following the Noble template"
+goal: "Oscuro's Oblivion Overhaul Remastered FULL — through the alpha series to beta, then general availability"
+current_focus: "alpha92: Amelion tier sets (Noble template) + Gloom Way / Red Gill cave validation"
+
+# The CURRENT and NEXT version are NOT declared here -- releases.collect()
+# derives them from the tags, manifests and dist archives that actually exist.
+# A hand-typed version is what drifted: this file first claimed alpha90 while
+# alpha91 was already tagged, built and shipped.
+
 milestones:
-  - name: alpha90
+  - name: alpha91
     status: done
     criteria:
-      - id: alpha90-manifest
-        claim: "alpha90 has an integrity manifest"
-        check: {kind: manifest_exists, tag: alpha90}
-  - name: beta
-    after: alpha90
+      - id: alpha91-tagged
+        claim: "alpha91 is tagged"
+        check: {kind: tag_exists, tag: alpha91}
+      - id: alpha91-manifest
+        claim: "alpha91 has an integrity manifest"
+        check: {kind: manifest_exists, tag: alpha91}
+      - id: alpha91-archive
+        claim: "alpha91 has a dist archive"
+        check: {kind: archive_exists, tag: alpha91}
+
+  - name: alpha92
+    after: alpha91
     status: in_progress
     criteria:
-      - id: amelion-noble-merged
-        claim: "Amelion Noble set is merged to main"
-        check: {kind: merged, repo: ItemClone, branch: amelion}
+      - id: alpha92-devlog
+        claim: "alpha92 devlog section is published"
+        check: {kind: file_contains,
+                path: 'X:\dev\devnull\docs\OOO\OBR\devlog.html',
+                text: 'id="alpha92"'}
+      - id: alpha92-caves
+        claim: "Gloom Way + Red Gill cave zones validated in-game (no rows awaiting)"
+        check: {kind: no_pending_cells}
+      - id: alpha92-tagged
+        claim: "alpha92 is tagged"
+        check: {kind: tag_exists, tag: alpha92}
+      - id: alpha92-manifest
+        claim: "alpha92 has an integrity manifest"
+        check: {kind: manifest_exists, tag: alpha92}
+
+  - name: beta
+    after: alpha92
+    status: not_started
+    criteria:
+      - id: beta-tagged
+        claim: "beta is tagged"
+        check: {kind: tag_exists, tag: beta}
       - id: beta-manifest
-        claim: "beta tag has an integrity manifest"
+        claim: "beta has an integrity manifest"
         check: {kind: manifest_exists, tag: beta}
+
   - name: ga
     after: beta
     status: not_started
     criteria: []
+
 branches:
+  ItemClone/ancestral: "Amelion tier sets for alpha92, following the Noble template"
   ItemClone/noble-frame-arc-parked: "Parked frame arc; revisit after the Amelion tier"
+  ItemClone/recolor-completeness-glass-rename: "Merged; branch can be deleted"
   OOO/variants/alpha32nex: "alpha32 variant fork (documented in the OOO README)"
+  devnull/backup/regen-alpha91-20260614: "Merged alpha91 regen backup; branch can be deleted"

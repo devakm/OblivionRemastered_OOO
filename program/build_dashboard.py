@@ -8,7 +8,7 @@ Run: py -3 program/build_dashboard.py
 import html as _html
 from pathlib import Path
 
-from .collect import milestones, repos, runs, sessions, views
+from .collect import maps, milestones, releases, repos, runs, sessions, views
 
 HERE = Path(__file__).resolve().parent
 CSS = """body{font:14px/1.5 system-ui,sans-serif;margin:24px;background:#faf9f7;color:#222}
@@ -21,7 +21,7 @@ table{border-collapse:collapse;width:100%}td,th{text-align:left;padding:4px 8px;
 .orphaned{color:#b3261e;font-weight:600}.running{color:#176d2c;font-weight:600}
 .done{color:#777}
 .MET{color:#176d2c;font-weight:600}.CONTRADICTED{color:#b3261e;font-weight:600}
-.UNVERIFIED{color:#8a6d00;font-weight:600}
+.UNVERIFIED{color:#8a6d00;font-weight:600}.PENDING{color:#555;font-weight:600}
 .pipeline{margin:0 0 12px}.ms{display:inline-block;padding:3px 10px;border:1px solid #ccc;
 border-radius:14px;margin-right:6px;font-size:12px}.ms.in_progress{border-color:#8a6d00;
 background:#fff8e1;font-weight:600}.ms.done{border-color:#176d2c;background:#eef7ef;color:#176d2c}
@@ -29,7 +29,9 @@ background:#fff8e1;font-weight:600}.ms.done{border-color:#176d2c;background:#eef
 code{background:#f2f0ec;padding:1px 5px;border-radius:4px;font-size:12px}
 .stamp{color:#777;font-size:12px}
 .cols{display:flex;gap:26px;flex-wrap:wrap}.cols>div{flex:1 1 320px;min-width:0}
-h3{font-size:13px;color:#555;margin:0 0 6px}a{color:#1a4d8f}"""
+h3{font-size:13px;color:#555;margin:0 0 6px}a{color:#1a4d8f}
+.vers{font-size:16px;margin:0 0 18px;padding:10px 14px;background:#fff;
+border:1px solid #ddd;border-radius:8px}.vers b{font-size:17px}.verr{color:#b3261e}"""
 
 
 def panel(title: str, env: dict, body_html: str) -> str:
@@ -45,12 +47,18 @@ def views_panel() -> str:
     env = views.collect()
     rows = []
     for v in env["data"] if env["ok"] else []:
-        cmd = f'<code>{_html.escape(v["generator"])}</code>' if v["generator"] else "—"
+        cmd = (f'<code>{_html.escape(v["generator"])}</code>' if v["generator"]
+               else '<span class=stamp>hand-maintained — no generator</span>')
         age = f'{v["age_days"]}d' if v["age_days"] is not None else "missing"
+        # A bare UNKNOWN reads as "we did not look". Say which it is.
+        why = {"UNKNOWN": " <span class=stamp>(no declared inputs — cannot "
+                          "prove freshness, so never green)</span>",
+               "STALE": " <span class=stamp>(older than its inputs)</span>"}.get(v["state"], "")
         rows.append(f'<tr><td>{_html.escape(v["name"])}</td>'
-                    f'<td class="{v["state"]}">{v["state"]}</td><td>{age}</td><td>{cmd}</td></tr>')
-    body = ('<table><tr><th>View</th><th>State</th><th>Age</th><th>Rebuild with</th></tr>'
-            + "".join(rows) + '</table>')
+                    f'<td class="{v["state"]}">{v["state"]}</td><td>{age}</td>'
+                    f'<td>{cmd}{why}</td></tr>')
+    body = ('<table><tr><th>View</th><th>State</th><th>Age</th>'
+            '<th>Rebuild with</th></tr>' + "".join(rows) + '</table>')
     return panel("Views", env, body)
 
 
@@ -82,6 +90,24 @@ def milestones_panel(env: dict) -> str:
                f'<div class=next>Every criterion for '
                f'{_html.escape(str(nxt.get("name", "")))} is MET.</div>'))
     return panel("Program", env, body)
+
+
+def maps_panel() -> str:
+    """Zones built but not yet validated in-game -- the phase 9 tail."""
+    env = maps.collect()
+    data = env["data"] if env["ok"] else {}
+    rows = "".join(
+        f'<tr><td>{_html.escape(c["cell"])}</td><td>{_html.escape(c["donor"])}</td>'
+        f'<td class=UNVERIFIED>awaiting in-game</td></tr>'
+        for c in data.get("pending", []))
+    if rows:
+        body = ('<table><tr><th>Cell</th><th>Donor</th><th>State</th></tr>'
+                + rows + '</table>')
+    elif data.get("tracker_exists"):
+        body = '<p class=MET>No zone is awaiting in-game validation.</p>'
+    else:
+        body = f'<p class=stamp>tracker not found: {_html.escape(str(data.get("tracker","")))}</p>'
+    return panel("Map zones awaiting validation", env, body)
 
 
 def runs_panel() -> str:
@@ -144,10 +170,24 @@ def sessions_panel(limit: int = 10) -> str:
     return panel("Sessions and handoffs", env, body)
 
 
+def version_header() -> str:
+    """Lead with what shipped and what is next -- both derived, never declared."""
+    env = releases.collect()
+    if not env["ok"]:
+        return ('<p class=vers><span class=verr>release state unavailable: '
+                f'{_html.escape(str(env["error"]))}</span></p>')
+    d = env["data"]
+    return (f'<p class=vers>Current release <b>{_html.escape(d["latest"]["tag"])}</b>'
+            f' &nbsp;→&nbsp; in progress <b>{_html.escape(d["next"])}</b>'
+            f' <span class=stamp>({d["released_count"]} alpha tags; '
+            f'{_html.escape(d["latest"]["tag"])} corroborated by manifest + archive)</span></p>')
+
+
 def render(panels: list[str]) -> str:
-    return (f'<!doctype html><meta charset=utf-8><title>OOO Program</title>'
-            f'<style>{CSS}</style><h1>Oscuro’s Oblivion Overhaul Remastered — Program</h1>'
-            + "".join(panels))
+    return (f'<!doctype html><meta charset=utf-8><title>OOO Release Tracker</title>'
+            f'<style>{CSS}</style>'
+            f'<h1>Oscuro’s Oblivion Overhaul Remastered — Release Tracker</h1>'
+            + version_header() + "".join(panels))
 
 
 def main(out: Path | None = None) -> Path:
@@ -155,8 +195,8 @@ def main(out: Path | None = None) -> Path:
     ms = milestones.collect()
     annotations = ms["data"]["branches"] if ms["ok"] else {}
     out.write_text(
-        render([milestones_panel(ms), repos_panel(annotations), runs_panel(),
-                views_panel(), sessions_panel()]),
+        render([milestones_panel(ms), maps_panel(), repos_panel(annotations),
+                runs_panel(), views_panel(), sessions_panel()]),
         encoding="utf-8")
     return out
 
