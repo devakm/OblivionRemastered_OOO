@@ -20,9 +20,11 @@ VIEWS = [
      "generator": "python scripts/sync_pages.py", "inputs": [Path(r"X:\dev\OblivionRemastered_OOO\docs")]},
     {"name": "devlog", "path": DEVNULL / "docs/OOO/OBR/devlog.html",
      "generator": "python scripts/sync_pages.py", "inputs": [Path(r"X:\dev\OblivionRemastered_OOO\docs")]},
-    {"name": "map phase 9 tracker", "path": MAPCLONE / "docs/phase9-unify-tracker.md",
-     "generator": None, "inputs": []},
 ]
+# MapClone's phase 9 tracker is deliberately NOT a view. It has no generator
+# because every row is validated by a person playing the zone in-game, so
+# mtime cannot speak to whether it is current and any staleness verdict would
+# be a category error. Its progress is reported by collect/maps.py instead.
 
 
 def _newest_mtime(paths) -> float:

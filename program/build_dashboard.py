@@ -31,7 +31,9 @@ code{background:#f2f0ec;padding:1px 5px;border-radius:4px;font-size:12px}
 .cols{display:flex;gap:26px;flex-wrap:wrap}.cols>div{flex:1 1 320px;min-width:0}
 h3{font-size:13px;color:#555;margin:0 0 6px}a{color:#1a4d8f}
 .vers{font-size:16px;margin:0 0 18px;padding:10px 14px;background:#fff;
-border:1px solid #ddd;border-radius:8px}.vers b{font-size:17px}.verr{color:#b3261e}"""
+border:1px solid #ddd;border-radius:8px}.vers b{font-size:17px}.verr{color:#b3261e}
+.bar{height:8px;background:#eee;border-radius:5px;overflow:hidden;margin:6px 0 14px}
+.bar i{display:block;height:100%;background:#176d2c}"""
 
 
 def panel(title: str, env: dict, body_html: str) -> str:
@@ -93,21 +95,42 @@ def milestones_panel(env: dict) -> str:
 
 
 def maps_panel() -> str:
-    """Zones built but not yet validated in-game -- the phase 9 tail."""
+    """Human-gated zone validation: progress, what remains, and work in flight.
+
+    No generator and no staleness verdict -- a row flips only when a person
+    validates the zone in-game, so the tracker lags live work by design. The
+    recent-activity list is what stops that lag reading as no progress.
+    """
     env = maps.collect()
     data = env["data"] if env["ok"] else {}
+    total, ok_n = data.get("total", 0), data.get("confirmed_count", 0)
+    pct = round(100 * ok_n / total) if total else 0
+    head = (f'<p>Zone validation <b>{ok_n}/{total}</b> confirmed in-game '
+            f'({pct}%). <span class=stamp>Every row is validated by hand; '
+            f'there is no generator and no freshness check.</span></p>'
+            f'<div class=bar><i style="width:{pct}%"></i></div>')
     rows = "".join(
-        f'<tr><td>{_html.escape(c["cell"])}</td><td>{_html.escape(c["donor"])}</td>'
-        f'<td class=UNVERIFIED>awaiting in-game</td></tr>'
-        for c in data.get("pending", []))
+        f'<tr><td>{_html.escape(z["cell"])}</td><td>{_html.escape(z["donor"])}</td>'
+        f'<td class=PENDING>awaiting in-game</td></tr>'
+        for z in data.get("pending", []))
     if rows:
-        body = ('<table><tr><th>Cell</th><th>Donor</th><th>State</th></tr>'
+        caves = ", ".join(data.get("caves", []))
+        body = (head + f'<h3>Outstanding — {_html.escape(caves)}</h3>'
+                '<table><tr><th>Zone</th><th>Donor</th><th>State</th></tr>'
                 + rows + '</table>')
+        recent = data.get("recent") or []
+        if recent:
+            body += ('<h3>Recent work on these zones</h3><ul>'
+                     + "".join(f'<li><code>{_html.escape(r)}</code></li>'
+                               for r in recent) + '</ul>')
+        else:
+            body += ('<p class=stamp>No commits naming these zones since '
+                     '2026-08-01.</p>')
     elif data.get("tracker_exists"):
-        body = '<p class=MET>No zone is awaiting in-game validation.</p>'
+        body = head + '<p class=MET>No zone is awaiting in-game validation.</p>'
     else:
         body = f'<p class=stamp>tracker not found: {_html.escape(str(data.get("tracker","")))}</p>'
-    return panel("Map zones awaiting validation", env, body)
+    return panel("Map zone validation (MapClone phase 9)", env, body)
 
 
 def runs_panel() -> str:
