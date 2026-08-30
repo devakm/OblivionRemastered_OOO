@@ -8,7 +8,8 @@ Run: py -3 program/build_dashboard.py
 import html as _html
 from pathlib import Path
 
-from .collect import maps, milestones, releases, repos, runs, sessions, views
+from .collect import (maps, milestones, plots, releases, repos, runs, sessions,
+                      views)
 
 HERE = Path(__file__).resolve().parent
 CSS = """body{font:14px/1.5 system-ui,sans-serif;margin:24px;background:#faf9f7;color:#222}
@@ -133,6 +134,54 @@ def maps_panel() -> str:
     return panel("Map zone validation (MapClone phase 9)", env, body)
 
 
+def plots_panel() -> str:
+    """Newest MapClone review artifacts, newest first.
+
+    Not a view: every run writes a NEW timestamped png, so there is nothing to
+    call stale -- the mtime IS the content. gate_only flags a plot that landed
+    in the pre-build gate folder but not the review folder, which is the
+    asymmetry that previously made new plots invisible to review.
+    """
+    env = plots.collect()
+    data = env["data"] if env["ok"] else {}
+    rows = data.get("plots") or []
+    if not rows:
+        body = (f'<p class=stamp>no plots found in '
+                f'{_html.escape(str(data.get("review_dir","")))}</p>')
+        return panel("Plots (MapClone)", env, body)
+
+    newest = data.get("newest_age_hours")
+    head = (f'<p>Newest plot <b>{newest}h</b> old. '
+            f'<span class=stamp>Review copies in '
+            f'{_html.escape(str(data.get("review_dir","")))}; click to open.'
+            f'</span></p>')
+    trs = []
+    for r in rows:
+        if r["unexpected"]:
+            warn = (' <span class=CONTRADICTED>gate-only — never copied '
+                    'for review</span>')
+        elif r["gate_only"]:
+            warn = ' <span class=stamp>gate-only (by design)</span>'
+        else:
+            warn = ""
+        trs.append(f'<tr><td><a href="{_html.escape(r["url"])}">'
+                   f'{_html.escape(r["name"])}</a>{warn}</td>'
+                   f'<td>{r["age_hours"]}h</td><td>{r["kb"]} KB</td></tr>')
+    body = (head + '<table><tr><th>Plot</th><th>Age</th><th>Size</th></tr>'
+            + "".join(trs) + '</table>')
+    n_bad = data.get("unexpected_count", 0)
+    n_gate = data.get("gate_only_count", 0)
+    if n_bad:
+        body += (f'<p><b class=CONTRADICTED>{n_bad} plot(s) reached the build '
+                 f'gate but were never copied for review</b> — the dual-save '
+                 f'regression. Producer: <code>work/plot_water_xy_actual.py</code>.</p>')
+    if n_gate - n_bad:
+        body += (f'<p class=stamp>{n_gate - n_bad} further gate-only plot(s) are '
+                 f'expected: plot_water_analysis.py (cumulative grid) and '
+                 f'plot_water_z_analysis.py (YZ side view) single-save by design.</p>')
+    return panel("Plots (MapClone)", env, body)
+
+
 def runs_panel() -> str:
     """Orphans first -- an orphan's purpose text is the whole reason the ledger exists."""
     env = runs.collect()
@@ -218,8 +267,9 @@ def main(out: Path | None = None) -> Path:
     ms = milestones.collect()
     annotations = ms["data"]["branches"] if ms["ok"] else {}
     out.write_text(
-        render([milestones_panel(ms), maps_panel(), repos_panel(annotations),
-                runs_panel(), views_panel(), sessions_panel()]),
+        render([milestones_panel(ms), maps_panel(), plots_panel(),
+                repos_panel(annotations), runs_panel(), views_panel(),
+                sessions_panel()]),
         encoding="utf-8")
     return out
 
