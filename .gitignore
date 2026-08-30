@@ -54,3 +54,9 @@ Thumbs.db
 
 # Superpowers subagent-driven-development scratch (ledgers, briefs, review packages)
 .superpowers/
+
+# Generated program dashboard (regenerate with: py -3 -m program.build_dashboard)
+program/dashboard.html
+
+# Run ledger: machine-local operational state, not project history.
+.claude/runs.jsonl

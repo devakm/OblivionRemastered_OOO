@@ -50,6 +50,7 @@ For every binary file in `release/`, two sibling artifacts live next to it:
 | `docs/per-release/<tag>.md` | Auto-generated per-release notes (file-level diff + ESP content diff). |
 | `scripts/` | Tooling — see *Tooling* below. |
 | `work/` | **Gitignored.** Scratch / experiments / `_release_cache/` for fetch_binary. |
+| `program/` | **Program dashboard.** `py -3 -m program.build_dashboard` regenerates `program/dashboard.html` (gitignored) — milestones, branches, in-flight runs, view staleness, sessions. Static; opens via `file://`; never runs a generator. Declared state lives in `program/program.yaml`. |
 
 ## Tooling
 
