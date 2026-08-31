@@ -6,6 +6,7 @@ build: it prints the command instead, so opening the page is side-effect free.
 Run: py -3 program/build_dashboard.py
 """
 import html as _html
+from datetime import datetime
 from pathlib import Path
 
 from .collect import (maps, milestones, plots, releases, repos, runs, sessions,
@@ -34,7 +35,8 @@ h3{font-size:13px;color:#555;margin:0 0 6px}a{color:#1a4d8f}
 .vers{font-size:16px;margin:0 0 18px;padding:10px 14px;background:#fff;
 border:1px solid #ddd;border-radius:8px}.vers b{font-size:17px}.verr{color:#b3261e}
 .bar{height:8px;background:#eee;border-radius:5px;overflow:hidden;margin:6px 0 14px}
-.bar i{display:block;height:100%;background:#176d2c}"""
+.bar i{display:block;height:100%;background:#176d2c}
+.age{margin:0 0 12px;font-size:13px;color:#666}.age #age{font-weight:600}"""
 
 
 def panel(title: str, env: dict, body_html: str) -> str:
@@ -255,11 +257,36 @@ def version_header() -> str:
             f'{_html.escape(d["latest"]["tag"])} corroborated by manifest + archive)</span></p>')
 
 
-def render(panels: list[str]) -> str:
+                                   # noqa: E501
+SELF_AGE_JS = """<script>(function(){
+var el=document.getElementById('age'),t=Date.parse(el.dataset.gen);
+function tick(){var m=Math.round((Date.now()-t)/60000),s;
+if(m<1)s='just now';else if(m<60)s=m+' min ago';
+else if(m<1440)s=(m/60).toFixed(1)+' h ago';else s=(m/1440).toFixed(1)+' days ago';
+el.textContent='generated '+s;
+el.className=m>1440?'CONTRADICTED':m>30?'UNVERIFIED':'MET';}
+tick();setInterval(tick,30000);})();</script>"""
+
+
+def self_age(now=None) -> str:
+    """The page is a snapshot; say how old it is.
+
+    Every other view here gets a staleness verdict. Without this the dashboard
+    was the one artifact that could silently go stale while looking current --
+    the exact drift it exists to catch. Client-side only: reading the clock is
+    not a side effect, and the page still never runs a generator.
+    """
+    gen = (now or datetime.now()).isoformat(timespec="seconds")
+    return (f'<p class=age><span id=age data-gen="{gen}">generated {gen}</span>'
+            f' · snapshot taken {gen} — rerun '
+            f'<code>py -3 -m program.build_dashboard</code> to refresh</p>')
+
+
+def render(panels: list[str], now=None) -> str:
     return (f'<!doctype html><meta charset=utf-8><title>OOO Release Tracker</title>'
             f'<style>{CSS}</style>'
             f'<h1>Oscuro’s Oblivion Overhaul Remastered — Release Tracker</h1>'
-            + version_header() + "".join(panels))
+            + self_age(now) + version_header() + "".join(panels) + SELF_AGE_JS)
 
 
 def main(out: Path | None = None) -> Path:
