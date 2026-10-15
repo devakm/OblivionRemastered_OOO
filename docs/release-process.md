@@ -26,6 +26,43 @@ git push
 
 ---
 
+## Staging a release over several sessions
+
+You do not have to gather everything at once. Every step before `release.py` is
+safe to repeat, and the working tree keeps what you staged between sessions.
+
+| Stage | Command | Repeatable? |
+|-------|---------|-------------|
+| 1. Devlog | hand-edit `X:\dev\devnull\docs\OOO\OBR\devlog.html` (`sync_pages.py` never touches it) | yes |
+| 2. Gather plan | `py -3 scripts/gather_live.py` (dry run; tag defaults to the next alpha) | yes |
+| 3. Gather copy | `py -3 scripts/gather_live.py --apply [--only GLOB ...]` | yes |
+| 4. Hand edits | edit text files in `release/` directly; resolve any `stale-mtime` rows | yes |
+| 5. Removals | delete `orphan` paks the gather reports (it never deletes) | once |
+| 6. SyncMap | 3-gate workflow: `diff-show` → `sync-content` → `apply-swap` | after the **last** gather `--apply` |
+| 7. Build | `release.py alphaNN --dry-run`, then `release.py alphaNN`, then inspect | see below |
+| 8. Publish | push + `gh release create`, then `sync_pages.py` + devnull commit | once |
+
+Rules that keep staging safe:
+
+- **The dry-run report is the to-do list.** Whatever `gather_live.py` still lists
+  as `added` / `updated` is not staged yet. `--apply` copies only files whose live
+  copy is newer *and* different, and keeps the live mtime, so a re-run picks up
+  only what changed since.
+- **`--only GLOB`** (repeatable, case-insensitive, matches the release-relative
+  path or the file name) stages a subset, e.g. `--only '*.esp' --only 'WornSteel*'`.
+  Everything else is reported as `held`.
+- **Gather before SyncMap.** The gather copies the Deluxe SyncMap ini from the live
+  install; `sync_syncmap.py` checks both variants against the SyncGen source. Run
+  the SyncMap gates after the last gather, or the gather overwrites them.
+- **Staged binaries are invisible to git** (gitignored). Text edits in `release/`
+  stay uncommitted until `release.py` commits them as the release commit. While
+  committing unrelated work in between, do not use `git commit -a`, `git stash`,
+  or switch branches — they would sweep up or hide the staged `release/` edits.
+- `release.py` accepts uncommitted changes under `release/`, `manifests/` and
+  `docs/per-release/` only; commit any other work first.
+
+---
+
 ## What `release.py` does, step by step
 
 When you run `py -3 scripts/release.py alphaNN --latest --for-real`, in order:

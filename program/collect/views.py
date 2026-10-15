@@ -18,8 +18,10 @@ VIEWS = [
      "generator": "python tools/gen_item_tracker.py", "inputs": [ITEMCLONE / "sets"]},
     {"name": "published docs", "path": DEVNULL / "docs/OOO/OBR/index.html",
      "generator": "python scripts/sync_pages.py", "inputs": [Path(r"X:\dev\OblivionRemastered_OOO\docs")]},
+    # The devlog is hand-written in devnull; sync_pages.py never touches it, so
+    # it has no generator and no inputs that could prove it current.
     {"name": "devlog", "path": DEVNULL / "docs/OOO/OBR/devlog.html",
-     "generator": "python scripts/sync_pages.py", "inputs": [Path(r"X:\dev\OblivionRemastered_OOO\docs")]},
+     "generator": None, "inputs": []},
 ]
 # MapClone's phase 9 tracker is deliberately NOT a view. It has no generator
 # because every row is validated by a person playing the zone in-game, so

@@ -3,7 +3,7 @@
 Stage newer game files from the live install into the repo's release tree, and
 plan the brand-new `~mods/` pak content a release adds.
 
-This is the alpha91 staging planner. It does two jobs:
+This is the release staging planner (first built for alpha91). It does two jobs:
 
 1. REFRESH existing release files (the original behaviour). For every game file
    already curated into `release/OblivionRemastered/`, it finds the counterpart
@@ -21,6 +21,11 @@ This is the alpha91 staging planner. It does two jobs:
      map "related"   -- MapClone/ooo_exterior_foliage_config.json (cell keys ->
                                                             <key>Exterior_P)
      map ✓ status    -- MapClone/docs/phase9-unify-tracker.md (review annotation)
+
+Staged gathering: every run is safe to repeat. --apply copies only files whose
+live copy is newer AND different (preserving the live mtime), so a later run
+picks up only what changed since. --only GLOB narrows what --apply copies; the
+dry-run report of whatever is still 'added'/'updated' is the remaining work.
 
 Dry-run by default: it reports the curated add / update / delete plan WITHOUT
 writing anything. Pass --apply to perform the copies. Deletions are NEVER
@@ -54,9 +59,13 @@ This script only GATHERS + PLANS; run release.py once everything is staged.
 Usage:
     python scripts/gather_live.py                 # dry-run, report only
     python scripts/gather_live.py --apply         # perform the copies
-    python scripts/gather_live.py --tag alpha91   # report tag (default: alpha91)
+    python scripts/gather_live.py --tag alpha92   # report tag (default: next alpha
+                                                  #   after the newest alphaNN tag)
+    python scripts/gather_live.py --apply --only '*.esp' --only '*.lua'
+                                                  # stage just a subset; the rest is
+                                                  #   reported as 'held'
     python scripts/gather_live.py --game-root "C:/.../Oblivion Remastered/OblivionRemastered"
-    python scripts/gather_live.py --report work/alpha91_gathered.json
+    python scripts/gather_live.py --report work/alpha92_gathered.json
     # Override any upstream source (defaults to the absolute paths above):
     python scripts/gather_live.py --item-tracker ... --clone-config ... \
         --exterior-config ... --map-tracker ...
@@ -65,10 +74,12 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import fnmatch
 import hashlib
 import json
 import re
 import shutil
+import subprocess
 import sys
 from datetime import datetime, timezone
 from pathlib import Path, PurePosixPath
@@ -180,10 +191,13 @@ def parse_exterior_stems(path: Path) -> set[str]:
 
 
 def parse_map_status_alarms(path: Path) -> list[dict]:
-    """Zones in the phase9 grid that ship but have an untested ('·') phase.
+    """Zones in the phase9 grid that are awaiting or lack in-game validation.
 
-    Returns [{zone, untested:[phase,...]}] for review -- a heads-up that a map
-    is in the ship-list (status=ready) yet still lacks full in-game validation.
+    Returns [{zone, state, phases:[phase,...]}] for review. Uses the same
+    zone-level rule as the program dashboard (program/collect/maps.py): a row
+    with any '⏳' is pending, a row with no '✓' at all is untested, anything
+    else is validated. Per-phase '·' cells alone do NOT alarm -- approved zones
+    routinely leave phases that never applied to them as '·'.
     """
     if not path.is_file():
         _warn(f"map tracker not found, no ✓-status annotation: {path}")
@@ -201,9 +215,12 @@ def parse_map_status_alarms(path: Path) -> list[dict]:
         if zone in ("OOO Cell (EDID)", "") or set(zone) <= set("-: "):
             continue
         phase_cells = cells[3:8]
-        untested = [phases[i] for i, c in enumerate(phase_cells) if "·" in c]
-        if untested:
-            alarms.append({"zone": zone, "untested": untested})
+        if any("⏳" in c for c in phase_cells):
+            alarms.append({"zone": zone, "state": "pending",
+                           "phases": [phases[i] for i, c in enumerate(phase_cells)
+                                      if "⏳" in c]})
+        elif not any("✓" in c for c in phase_cells):
+            alarms.append({"zone": zone, "state": "untested", "phases": phases})
     return alarms
 
 
@@ -277,7 +294,22 @@ def copy_into(src: Path, dest: Path) -> None:
 
 # --- Core ------------------------------------------------------------------
 
-def gather(game_root: Path, apply: bool, shiplist: dict):
+def matches_only(rel: str, only: list[str] | None) -> bool:
+    """True when no --only filter is set, or rel matches one of its globs.
+
+    Globs match the release-relative POSIX path OR just the file name,
+    case-insensitively (e.g. '*.esp', 'Content/Paks/~mods/Worn*').
+    """
+    if not only:
+        return True
+    low = rel.lower()
+    name = low.rsplit("/", 1)[-1]
+    return any(fnmatch.fnmatchcase(low, g.lower())
+               or fnmatch.fnmatchcase(name, g.lower()) for g in only)
+
+
+def gather(game_root: Path, apply: bool, shiplist: dict,
+           only: list[str] | None = None):
     entries = []
     counts = {
         "added": 0,
@@ -288,6 +320,7 @@ def gather(game_root: Path, apply: bool, shiplist: dict):
         "orphan": 0,
         "missing-from-live": 0,
         "skipped-managed": 0,
+        "held-back": 0,
     }
     shiplist_stems = set(shiplist.values())
     release_rels: set[str] = set()
@@ -353,7 +386,10 @@ def gather(game_root: Path, apply: bool, shiplist: dict):
         }
         if state == "updated":
             counts["updated"] += 1
-            if apply:
+            if not matches_only(rel.as_posix(), only):
+                entry["held"] = True
+                counts["held-back"] += 1
+            elif apply:
                 copy_into(src, dest)
                 entry["copied"] = True
         else:
@@ -384,7 +420,10 @@ def gather(game_root: Path, apply: bool, shiplist: dict):
             "copied": False,
         }
         counts["added"] += 1
-        if apply:
+        if not matches_only(rel_str, only):
+            entry["held"] = True
+            counts["held-back"] += 1
+        elif apply:
             copy_into(src, RELEASE_ROOT / rel)
             entry["copied"] = True
         entries.append(entry)
@@ -407,6 +446,8 @@ def print_report(entries, counts, apply: bool, provenance: dict, alarms: list):
         if e["state"] == "up-to-date":
             continue
         line = f"{e['state']:<18} {e['rel']}"
+        if e.get("held"):
+            line += "   [held: not matched by --only]"
         if e["state"] == "added":
             line += f"\n{'':<18} NEW  {human(e['new_size'])}   ({e['new_mtime']})"
         elif e["state"] in ("updated", "stale-mtime"):
@@ -423,7 +464,8 @@ def print_report(entries, counts, apply: bool, provenance: dict, alarms: list):
           f"orphan: {counts['orphan']}   "
           f"missing-from-live: {counts['missing-from-live']}   "
           f"no-source: {counts['no-source']}   "
-          f"skipped-managed: {counts['skipped-managed']}")
+          f"skipped-managed: {counts['skipped-managed']}"
+          + (f"   held-back: {counts['held-back']}" if counts["held-back"] else ""))
 
     if counts["missing-from-live"]:
         print("\nALARM: ship-list paks the tracker promises but live ~mods/ lacks "
@@ -436,10 +478,14 @@ def print_report(entries, counts, apply: bool, provenance: dict, alarms: list):
         print("\nWARNING: files whose content differs but whose live mtime is NOT "
               "newer were left untouched (state 'stale-mtime'). Inspect them.")
     if alarms:
-        print("\nMAP ✓-STATUS (shipping maps with an untested phase per "
+        print("\nMAP ✓-STATUS (zones awaiting or lacking in-game validation per "
               "phase9-unify-tracker.md):")
         for a in alarms:
-            print(f"  · {a['zone']}: untested {', '.join(a['untested'])}")
+            print(f"  · {a['zone']}: {a['state']} {', '.join(a['phases'])}")
+    if counts["held-back"]:
+        print(f"\nHELD BACK: {counts['held-back']} added/updated file(s) did not "
+              "match --only and were not copied (marked 'held' above). Re-run "
+              "with a wider --only, or without it, to stage them.")
     if not apply and (counts["added"] or counts["updated"]):
         print("\nDry-run -- no files written. Re-run with --apply to copy.")
 
@@ -463,6 +509,18 @@ def write_json(report_path: Path, tag: str, game_root: Path, apply: bool,
     print(f"\nReport written: {report_path}")
 
 
+def next_alpha_tag() -> str:
+    """The alpha after the newest plain alphaNN tag (variants like alpha32nex
+    are ignored). The release being gathered is always the next one."""
+    out = subprocess.run(["git", "-C", str(REPO_ROOT), "tag", "-l", "alpha*"],
+                         capture_output=True, text=True, check=True).stdout
+    nums = [int(m.group(1)) for t in out.split()
+            if (m := re.fullmatch(r"alpha(\d+)", t))]
+    if not nums:
+        raise SystemExit("no alphaNN tags found; pass --tag explicitly")
+    return f"alpha{max(nums) + 1:02d}"
+
+
 # --- CLI -------------------------------------------------------------------
 
 def main(argv=None):
@@ -471,8 +529,14 @@ def main(argv=None):
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--apply", action="store_true",
                     help="perform the copies (default: dry-run report only)")
-    ap.add_argument("--tag", default="alpha91",
-                    help="release tag for the report (default: alpha91)")
+    ap.add_argument("--tag", default=None,
+                    help="release tag for the report (default: the alpha after "
+                         "the newest alphaNN tag, e.g. alpha92 after alpha91)")
+    ap.add_argument("--only", action="append", metavar="GLOB",
+                    help="stage only added/updated files whose release-relative "
+                         "path or file name matches GLOB (repeatable; "
+                         "case-insensitive). Everything else is reported as "
+                         "held. Lets a release be gathered in stages.")
     ap.add_argument("--game-root", type=Path, default=DEFAULT_GAME_ROOT,
                     help="live game OblivionRemastered/ folder")
     ap.add_argument("--report", type=Path, default=None,
@@ -493,13 +557,15 @@ def main(argv=None):
     if not RELEASE_ROOT.is_dir():
         ap.error(f"release root not found: {RELEASE_ROOT}")
 
+    args.tag = args.tag or next_alpha_tag()
     report_path = args.report or (REPO_ROOT / "work" / f"{args.tag}_gathered.json")
 
     shiplist, provenance = build_shiplist(
         args.item_tracker, args.clone_config, args.exterior_config)
     alarms = parse_map_status_alarms(args.map_tracker)
 
-    entries, counts = gather(game_root, args.apply, shiplist)
+    entries, counts = gather(game_root, args.apply, shiplist, args.only)
+    print(f"Tag: {args.tag}" + (f"   --only: {', '.join(args.only)}" if args.only else ""))
     print_report(entries, counts, args.apply, provenance, alarms)
     write_json(report_path, args.tag, game_root, args.apply, entries, counts,
                provenance, alarms)
