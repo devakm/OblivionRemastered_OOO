@@ -5829,19 +5829,19 @@
     "edid": "EnchRLeatherGreavesFortAcrobaticsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0020DA",
     "full": "LOC_FN_EnchRLeatherGreavesFortAcrobaticsOOO",
-    "modl": "Armor\\Thief\\M\\Gauntlets.NIF"
+    "modl": "Armor\\Thief\\M\\Greaves.NIF"
   },
   {
     "edid": "EnchRLeatherGreavesFortAgilityOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0020DB",
     "full": "LOC_FN_EnchRLeatherGreavesFortAgilityOOO",
-    "modl": "Armor\\Thief\\M\\Gauntlets.NIF"
+    "modl": "Armor\\Thief\\M\\Greaves.NIF"
   },
   {
     "edid": "EnchRLeatherGreavesFortLightArmorOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0020DC",
     "full": "LOC_FN_EnchRLeatherGreavesFortLightArmorOOO",
-    "modl": "Armor\\Thief\\M\\Gauntlets.NIF"
+    "modl": "Armor\\Thief\\M\\Greaves.NIF"
   },
   {
     "edid": "EnchRLeatherHelmetDetectLifeOOO",
@@ -7671,43 +7671,43 @@
     "edid": "EnchRGlassGreavesFortAcrobaticsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0079F5",
     "full": "LOC_FN_EnchRGlassGreavesFortAcrobaticsOOO",
-    "modl": "Armor\\Glass\\M\\Boots.NIF"
+    "modl": "Armor\\Glass\\M\\Greaves.NIF"
   },
   {
     "edid": "EnchRGlassGreavesFortAgilityOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0079F6",
     "full": "LOC_FN_EnchRGlassGreavesFortAgilityOOO",
-    "modl": "Armor\\Glass\\M\\Boots.NIF"
+    "modl": "Armor\\Glass\\M\\Greaves.NIF"
   },
   {
     "edid": "EnchRGlassGreavesFortFatigueOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0079F7",
     "full": "LOC_FN_EnchRGlassGreavesFortFatigueOOO",
-    "modl": "Armor\\Glass\\M\\Boots.NIF"
+    "modl": "Armor\\Glass\\M\\Greaves.NIF"
   },
   {
     "edid": "EnchRGlassGreavesFortLightArmorOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0079F8",
     "full": "LOC_FN_EnchRGlassGreavesFortLightArmorOOO",
-    "modl": "Armor\\Glass\\M\\Boots.NIF"
+    "modl": "Armor\\Glass\\M\\Greaves.NIF"
   },
   {
     "edid": "EnchRGlassGreavesResistFireOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0079F9",
     "full": "LOC_FN_EnchRGlassGreavesResistFireOOO",
-    "modl": "Armor\\Glass\\M\\Boots.NIF"
+    "modl": "Armor\\Glass\\M\\Greaves.NIF"
   },
   {
     "edid": "EnchRGlassGreavesResistParalysisOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0079FA",
     "full": "LOC_FN_EnchRGlassGreavesResistParalysisOOO",
-    "modl": "Armor\\Glass\\M\\Boots.NIF"
+    "modl": "Armor\\Glass\\M\\Greaves.NIF"
   },
   {
     "edid": "EnchRGlassGreavesSpellAbsorptionOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0079FB",
     "full": "LOC_FN_EnchRGlassGreavesSpellAbsorptionOOO",
-    "modl": "Armor\\Glass\\M\\Boots.NIF"
+    "modl": "Armor\\Glass\\M\\Greaves.NIF"
   },
   {
     "edid": "EnchRGlassHelmetNighteyeOOO",
@@ -7755,7 +7755,7 @@
     "edid": "UniqueRGlassGreavesMasterElementsOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:007A05",
     "full": "LOC_FN_UniqueRGlassGreavesMasterElementsOOO",
-    "modl": "Armor\\Glass\\M\\Boots.NIF"
+    "modl": "Armor\\Glass\\M\\Greaves.NIF"
   },
   {
     "edid": "NoblebootsOOOz",
@@ -8835,7 +8835,7 @@
     "edid": "vellaChainGreavesOOO",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:0329CE",
     "full": "LOC_FN_vellaChainGreavesOOO",
-    "modl": "Armor\\Glass\\M\\Boots.NIF"
+    "modl": "Armor\\Glass\\M\\Greaves.NIF"
   },
   {
     "edid": "vellaGlassBootsOOO",

@@ -1001,7 +1001,10 @@ end)
 -- Set DIAG_SPELL_CAST_HOOK = false when Begone has SEND_SPELL_CAST_ENABLED = true.
 if DIAG_SPELL_CAST_HOOK then
     RegisterHook("/Script/Altar.VPairedPawn:SendSpellCast", function(self)
-        local ok_fn, fn = pcall(function() return self:get():GetFullName() end)
+        -- Guard: fires for ALL pawns; stale ptr faults in GetInternalIndex (pcall can't catch native AV).
+        local obj = self:get()
+        if not (obj and obj:IsValid()) then return end
+        local ok_fn, fn = pcall(function() return obj:GetFullName() end)
         if not (ok_fn and fn and fn:find("BP_OblivionPlayerCharacter_C", 1, true)) then return end
         runDiagDump()
     end)

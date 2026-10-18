@@ -789,6 +789,14 @@
     "LOC_FN_OOOSEZealotWeaken": "Weaken",
     "LOC_FN_OOOSEHereticMasterSpell": "Illumination",
     "LOC_FN_OOOSE32GhostProtection": "Ghostly Resistances",
-    "LOC_FN_OOOSEThornKnightPushSpell": "Fire Ball"
+    "LOC_FN_OOOSEThornKnightPushSpell": "Fire Ball",
+    "LOC_FN_ZZWolfSummonPlayer": "Jephre's Forest Guardian",
+    "LOC_FN_ZZWolfTundraSummonPlayer": "Jephre's Tundra Guardian",
+    "LOC_FN_ZZLionSummonPlayer": "Jephre's Fangs",
+    "LOC_FN_ZZLionSnowSummonPlayer": "Jephre's Arctic Claws",
+    "LOC_FN_ZZLeopardSnowSummonPlayer": "Jephre's White Shadow",
+    "LOC_FN_ZZLeopardSummonPlayer": "Jephre's Jungle Guardian",
+    "LOC_FN_ZZBoarSummonPlayer": "Jephre's Tusks",
+    "LOC_FN_ZZDeerSummonPlayer": "Jephre's Pride"
   }
 }

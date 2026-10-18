@@ -57,8 +57,21 @@ local SEND_SPELL_CAST_ENABLED = true
 -- Diagnostic: log non-hidden actors (StaticMeshActor / ProceduralInstanceActor /
 -- InstancedFoliageActor) within NEARBY_RADIUS UU of the player on each spell cast.
 -- Set false when the floating object is found and suppressed.
-local DUMP_NEARBY_ACTORS = false
-local NEARBY_RADIUS = 600
+local DUMP_NEARBY_ACTORS = true
+local NEARBY_RADIUS = 900
+
+-- GWCz1 invisible-barrier hunt (2026-08-29).  Actor pivots alone are useless for
+-- CONTAINER blueprints: BP_CNCorner01B_C_0 reports its Root at (1188.7, 731.5, 0)
+-- but actually holds 18 SM_Caves_GroundRocks_* StaticMeshComponents whose offsets
+-- live in the Blueprint CLASS, not the level file — so FModel/level JSON cannot
+-- show where they are.  Each rock carries its own BodyInstance, so ONE of them can
+-- be the invisible wall while the pivot looks 300 UU away.  This dumps per-component
+-- world transforms so we can identify the specific offender and suppress only it,
+-- instead of ClassIndex=0'ing the parent and deleting all 18 rocks.
+-- SAFETY: components are reached via actor:GetComponentsByClass(), never a global
+-- FindAllOf on a component class — that is the pattern that CTD'd the T46
+-- BrushComponent probe (crash_2026_04_26_15_06_36.dmp) inside a stale-UObject window.
+local DUMP_ACTOR_COMPONENTS = true
 
 -- Config directories (relative to Binaries\Win64\ working directory)
 local CONFIG_DIRS = {
@@ -468,15 +481,19 @@ local function yawToCompass(yaw)
 end
 if SEND_SPELL_CAST_ENABLED then
 RegisterHook("/Script/Altar.VPairedPawn:SendSpellCast", function(self)
-    local ok_fn, fn = pcall(function() return self:get():GetFullName() end)
+    -- Guard: VPairedPawn:SendSpellCast fires for ALL pawns (player + NPCs);
+    -- a stale/dying pawn ptr faults in GetInternalIndex (native AV pcall can't catch).
+    local obj = self:get()
+    if not (obj and obj:IsValid()) then return end
+    local ok_fn, fn = pcall(function() return obj:GetFullName() end)
     if not (ok_fn and fn and fn:find("BP_OblivionPlayerCharacter_C", 1, true)) then return end
     local pos_str = "pos=unknown"
-    local ok_loc, loc = pcall(function() return self:get():K2_GetActorLocation() end)
+    local ok_loc, loc = pcall(function() return obj:K2_GetActorLocation() end)
     if ok_loc and loc then
         pos_str = string.format("X=%.1f Y=%.1f Z=%.1f", loc.X, loc.Y, loc.Z)
     end
     local heading_str = "heading=unknown"
-    local ok_rot, rot = pcall(function() return self:get():K2_GetActorRotation() end)
+    local ok_rot, rot = pcall(function() return obj:K2_GetActorRotation() end)
     if ok_rot and rot then heading_str = "heading=" .. yawToCompass(rot.Yaw) end
     local ok_ws, depth = pcall(function()
         local ws = FindFirstOf("WaterSubsystem")
@@ -601,6 +618,29 @@ RegisterHook("/Script/Altar.VPairedPawn:SendSpellCast", function(self)
             "BP_Water_Decal_C","BP_ReferenceHolder_C",
             "StaticMeshActor","DecalActor",
         }
+        -- Resolve the StaticMeshComponent UClass ONCE (not per actor).  nil-safe:
+        -- if the lookup fails, smc_class stays nil and the component dump is skipped.
+        -- v2 (2026-08-30): v1 used FindFirstOf("StaticMeshComponent"):GetClass() and
+        -- silently produced ZERO COMP_SM lines in-game (smc_class resolved nil).
+        -- StaticFindObject on the script path returns the UClass directly and does not
+        -- depend on an instance existing.  FindFirstOf kept as fallback.  The resolution
+        -- result is now LOGGED so a second silent failure is impossible to miss.
+        local smc_class = nil
+        if DUMP_ACTOR_COMPONENTS then
+            local ok_a, ca = pcall(function()
+                return StaticFindObject("/Script/Engine.StaticMeshComponent") end)
+            if ok_a and ca then smc_class = ca end
+            if not smc_class then
+                local ok_b, cb = pcall(function()
+                    local proto = FindFirstOf("StaticMeshComponent")
+                    if proto and proto:IsValid() then return proto:GetClass() end
+                    return nil
+                end)
+                if ok_b then smc_class = cb end
+            end
+            log(string.format("  PROBE [comp_dump] smc_class=%s",
+                smc_class and "resolved" or "NIL (component dump disabled)"))
+        end
         for _, cls in ipairs(dump_classes) do
             local ok2, all2 = pcall(function() return FindAllOf(cls) end)
             if ok2 and all2 then
@@ -615,6 +655,72 @@ RegisterHook("/Script/Altar.VPairedPawn:SendSpellCast", function(self)
                                     local sname = fn:match("%.([^%.]+)$") or fn
                                     log(string.format("  NEARBY_ACTOR d=%4.0f z=%7.1f  %s  [%s]",
                                         math.sqrt(dx*dx+dy*dy), al.Z, sname, cls))
+                                    -- Per-component transforms (see DUMP_ACTOR_COMPONENTS note).
+                                    if DUMP_ACTOR_COMPONENTS and smc_class then
+                                        -- v3 (2026-08-30): v2 resolved smc_class fine
+                                        -- ("smc_class=resolved") yet still emitted ZERO
+                                        -- COMP_SM lines.  Cause: GetComponentsByClass returns
+                                        -- a UE4SS TArray *userdata*, and ipairs() on userdata
+                                        -- iterates zero times SILENTLY.  Build a plain Lua
+                                        -- list via GetArrayNum()+index, and for AStaticMeshActor
+                                        -- also take its direct .StaticMeshComponent property
+                                        -- (the actor we actually care about here).
+                                        local clist = {}
+                                        pcall(function()
+                                            local direct = a.StaticMeshComponent
+                                            if direct and direct:IsValid() then
+                                                clist[#clist+1] = direct
+                                            end
+                                        end)
+                                        local ok_cs, comps = pcall(function()
+                                            return a:GetComponentsByClass(smc_class) end)
+                                        local n_arr = 0
+                                        if ok_cs and comps then
+                                            pcall(function() n_arr = comps:GetArrayNum() end)
+                                            if n_arr > 0 then
+                                                for ci = 1, n_arr do
+                                                    local ok_e, e = pcall(function() return comps[ci] end)
+                                                    if ok_e and e then clist[#clist+1] = e end
+                                                end
+                                            else
+                                                for _, e in ipairs(comps) do clist[#clist+1] = e end
+                                            end
+                                        end
+                                        log(string.format("      COMP_ENUM %s arr_num=%d collected=%d",
+                                            sname, n_arr, #clist))
+                                        if #clist > 0 then
+                                            for _, c in ipairs(clist) do
+                                                if c and c:IsValid() then
+                                                    local ok_cl, cl = pcall(function()
+                                                        return c:K2_GetComponentLocation() end)
+                                                    local ok_cn, cn = pcall(function()
+                                                        return c:GetFName():ToString() end)
+                                                    -- Mesh asset + collision mode: identifies WHAT the
+                                                    -- component is (rock? blocker?) and whether it can
+                                                    -- be the barrier.  CollisionEnabled 0=NoCollision,
+                                                    -- 1=QueryOnly, 2=PhysicsOnly, 3=QueryAndPhysics.
+                                                    local ok_ms, ms = pcall(function()
+                                                        local sm = c.StaticMesh
+                                                        if sm and sm:IsValid() then
+                                                            return sm:GetFName():ToString()
+                                                        end
+                                                        return nil
+                                                    end)
+                                                    local ok_ce, ce = pcall(function()
+                                                        return c.BodyInstance.CollisionEnabled end)
+                                                    if ok_cl and cl then
+                                                        local ex, ey = cl.X-px, cl.Y-py
+                                                        log(string.format(
+                                                            "      COMP_SM d=%4.0f  X=%8.1f Y=%8.1f Z=%8.1f  %s  mesh=%s coll=%s",
+                                                            math.sqrt(ex*ex+ey*ey), cl.X, cl.Y, cl.Z,
+                                                            ok_cn and cn or "?",
+                                                            (ok_ms and ms) or "?",
+                                                            ok_ce and tostring(ce) or "?"))
+                                                    end
+                                                end
+                                            end
+                                        end
+                                    end
                                 end
                             end
                         end
@@ -652,7 +758,10 @@ end
 -- OnCameraUnderWater: fires once when camera crosses below water surface.
 -- OnCameraOverWater:  fires once when camera comes back above water surface.
 local function waterPos(self)
-    local ok, loc = pcall(function() return self:get():K2_GetActorLocation() end)
+    -- Guard: stale ptr faults in GetInternalIndex (native AV, pcall can't catch).
+    local obj = self:get()
+    if not (obj and obj:IsValid()) then return "pos=unknown" end
+    local ok, loc = pcall(function() return obj:K2_GetActorLocation() end)
     if ok and loc then return string.format("X=%.1f Y=%.1f Z=%.1f", loc.X, loc.Y, loc.Z) end
     return "pos=unknown"
 end

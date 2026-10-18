@@ -9942,6 +9942,30 @@
     "modl": "Weapons\\Ebony\\Warhammer.NIF"
   },
   {
+    "edid": "WeapLightOfDawnFlameTest",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE98",
+    "full": "LOC_FN_WeapLightOfDawnFlameTest",
+    "modl": "Weapons\\Silver\\RugDumphsSword.NIF"
+  },
+  {
+    "edid": "WeapLightOfDawnFlameTestA",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE99",
+    "full": "LOC_FN_WeapLightOfDawnFlameTestA",
+    "modl": "Weapons\\Silver\\RugDumphsSword.NIF"
+  },
+  {
+    "edid": "WeapLightOfDawnFlameTestB",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE9A",
+    "full": "LOC_FN_WeapLightOfDawnFlameTestB",
+    "modl": "Weapons\\Silver\\RugDumphsSword.NIF"
+  },
+  {
+    "edid": "WeapLightOfDawnFlameTestC",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE9B",
+    "full": "LOC_FN_WeapLightOfDawnFlameTestC",
+    "modl": "Weapons\\Silver\\RugDumphsSword.NIF"
+  },
+  {
     "edid": "OOOSEAmberDaggerB",
     "formid": "Oscuro's_Oblivion_Overhaul.esp:012A5A",
     "full": "LOC_FN_OOOSEAmberDaggerB",
