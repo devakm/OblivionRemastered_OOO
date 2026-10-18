@@ -43,13 +43,20 @@ Plus the **Obsidian set** (Glass-armor recolor from the sister `OblivionRemaster
 - `ObsidianItems.{pak,ucas,utoc}` — cloned Glass weapons + armor renamed to Obsidian.
 - `ObsidianMaterials.{pak,ucas,utoc}` — bronze/black retexture overlays for the Obsidian set.
 
-### UE4SS Lua mods (`OblivionRemastered/Binaries/Win64/ue4ss/Mods/`)
+### UE4SS mods (`OblivionRemastered/Binaries/Win64/ue4ss/Mods/`)
+
+| Mod | What it does |
+|-----|--------------|
+| `RAX/` | Native DLL (`dlls/main.dll`): custom map loading and the leveled-spell fix. Built for "UE4SS new" v3.0.1-1164 only. The only UE4SS mod installed by default. |
+
+### Optional test mods (`OblivionRemastered/alpha92_test_optional/`)
+
+From alpha92, these are **not installed by default**. They ship under `alpha92_test_optional/` with their install tree intact (`Binaries/Win64/ue4ss/Mods/...`), so you can deploy them by hand. alpha91 and earlier installed them by default.
 
 | Mod | What it does |
 |-----|--------------|
 | `Begone/` | Removes specific actor/object references at runtime; configured by `Config/OscurosOblivionOverhaul.json`. |
 | `OOO_REFRFix/` | Fixes spawn / placement deltas for OOO references (`Scripts/spawn_deltas.lua`). |
-| `RAX/` | Native DLL helper (`dlls/main.dll`) plus Lua glue. |
 
 ## How a release evolves
 

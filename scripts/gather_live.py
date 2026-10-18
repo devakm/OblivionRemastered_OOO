@@ -141,6 +141,10 @@ REDIRECTS = {
         f"{_BEGONE_CFG}/OscurosOblivionOverhaul.v3.json",
 }
 
+# Optional, manually deployed mods ship under release/OblivionRemastered/
+# alphaNN_test_optional/ with their install tree intact beneath it.
+TEST_OPTIONAL_PREFIX = re.compile(r"^alpha\d+_test_optional/")
+
 # Repo-metadata artifacts that have no live counterpart and must be skipped.
 SKIP_SUFFIXES = (".md", ".working")
 SKIP_NAMES = (".gitkeep",)
@@ -282,8 +286,14 @@ def human(n: int) -> str:
 
 
 def source_for(rel: PurePosixPath, game_root: Path) -> Path:
-    """Map a release-relative path to its live source, honoring redirects."""
-    live_rel = REDIRECTS.get(rel.as_posix(), rel.as_posix())
+    """Map a release-relative path to its live source, honoring redirects.
+
+    Files under an `alphaNN_test_optional/` folder keep their install tree
+    beneath it (for manual deployment), so the prefix is stripped first and the
+    live source is the normal install path.
+    """
+    install_rel = TEST_OPTIONAL_PREFIX.sub("", rel.as_posix(), count=1)
+    live_rel = REDIRECTS.get(install_rel, install_rel)
     return game_root / Path(live_rel)
 
 
@@ -457,7 +467,10 @@ def print_report(entries, counts, apply: bool, provenance: dict, alarms: list):
             line += f"\n{'':<18} + co-file {e['cofile']}"
         print(line)
     print("-" * 72)
-    verb = "Copied" if apply else "Would add/update"
+    # added/updated count every candidate; with --only some are held, so the
+    # applied line reports what was actually copied.
+    copied = sum(1 for e in entries if e.get("copied"))
+    verb = (f"Copied {copied} of" if apply else "Would add/update")
     print(f"{verb}: {counts['added']} added, {counts['updated']} updated   "
           f"up-to-date: {counts['up-to-date']}   "
           f"stale-mtime: {counts['stale-mtime']}   "

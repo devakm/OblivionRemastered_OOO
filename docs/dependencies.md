@@ -31,7 +31,15 @@ OOORS Full's `…\ObvData\Data\SyncMap\Oscuro's_Oblivion_Overhaul.ini` is a list
 
 The Unreal Engine 4 / 5 Scripting System. A loader for native DLL and Lua mods inside Unreal games.
 
-- Required by **TesSyncMapInjector** (Lua) and by the bundled `Begone`, `OOO_REFRFix`, `RAX` mods.
+**UE4SS — "UE4SS new", v3.0.1-1164 or later (required).**
+Get it from <https://www.nexusmods.com/oblivionremastered/mods/32>, under
+**Update files**, the file named **"UE4SS new"** (uploaded 10 Oct 2026). It
+installs over an existing UE4SS: overwrite the files.
+
+The **"UE4SS stable"** main file (3.0.1.a) is **not supported** from alpha92.
+OOO's `RAX` mod contains a native DLL built for one exact UE4SS version.
+
+- Required by **TesSyncMapInjector** (Lua) and by the bundled `RAX` mod (and by the optional `Begone` and `OOO_REFRFix` test mods, if you deploy them).
 
 ## Optional but supported
 
@@ -50,9 +58,16 @@ These ride along *inside* the OOORS Full archive — don't install separately, b
 
 | Mod (under `…\Binaries\Win64\ue4ss\Mods\`) | Role |
 |--------------|------|
+| `RAX/` | Native DLL, built for "UE4SS new" v3.0.1-1164. Do not use it with any other UE4SS version. |
+
+## Optional test UE4SS mods (manual deploy)
+
+From alpha92 these are **not** installed by default. They ship under `OblivionRemastered\alpha92_test_optional\` with their install tree intact. To use one, copy its folder from `alpha92_test_optional\Binaries\Win64\ue4ss\Mods\` into `OblivionRemastered\Binaries\Win64\ue4ss\Mods\`.
+
+| Mod | Role |
+|-----|------|
 | `Begone/` | Removes specific references at runtime per the bundled `Config/OscurosOblivionOverhaul.json`. |
 | `OOO_REFRFix/` | Patches OOO reference placements that need runtime correction; see `Scripts/spawn_deltas.lua`. |
-| `RAX/` | Provides native helpers via `dlls/main.dll` plus Lua glue. |
 
 ## Game install layout reference
 
@@ -61,6 +76,7 @@ These ride along *inside* the OOORS Full archive — don't install separately, b
 ├── OblivionRemastered\
 │   ├── Binaries\Win64\
 │   │   └── ue4ss\          ← UE4SS install lives here; bundled Mods\ overlays into it
+│   ├── alpha92_test_optional\  ← optional test mods, same tree; copy by hand to enable
 │   └── Content\
 │       ├── Dev\ObvData\Data\
 │       │   ├── MagicLoader\         ← MagicLoader looks here
