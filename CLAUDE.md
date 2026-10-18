@@ -48,6 +48,7 @@ For every binary file in `release/`, two sibling artifacts live next to it:
 | `docs/installation.md` | Install steps. |
 | `docs/changelog.md` | Rolling top-level changelog index. |
 | `docs/per-release/<tag>.md` | Auto-generated per-release notes (file-level diff + ESP content diff). |
+| `docs/release-highlights/<tag>.md` | Optional hand-written headline notes; `release.py` puts them at the top of the per-release notes. Committed with the release. |
 | `scripts/` | Tooling — see *Tooling* below. |
 | `work/` | **Gitignored.** Scratch / experiments / `_release_cache/` for fetch_binary. |
 | `program/` | **Program dashboard.** `py -3 -m program.build_dashboard` regenerates `program/dashboard.html` (gitignored) — milestones, branches, in-flight runs, view staleness, sessions. Static; opens via `file://`; never runs a generator. Declared state lives in `program/program.yaml`. |

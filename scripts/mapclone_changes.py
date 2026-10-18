@@ -264,8 +264,10 @@ def render_section(changes: dict, prev_tag: str | None, limit: int = 0) -> str:
                f"one layer. Sourced from MapClone configs (baseline `{changes['baseline']}`).\n")
     out.append("- **TES4 REFR suppression** — disable OOO REFRs that *duplicate* "
                "UE5-baked architecture (drop the TES4 twin, keep the UE5 copy).\n"
-               "- **UE5-layer ghost suppression (Begone)** — remove UE5-baked actors with *no* "
-               "TES4 counterpart (drop the UE5 ghost, keep TES4).\n"
+               "- **UE5-layer ghost suppression (static)** — remove UE5-baked actors with *no* "
+               "TES4 counterpart (drop the UE5 ghost, keep TES4). Applied at build time by "
+               "MapClone's static patcher and baked into the map paks; the Begone UE4SS mod "
+               "no longer suppresses anything at runtime.\n"
                "- **Position overrides** — re-seat OOO REFRs (chests/furniture) left "
                "floating once a supporting STAT was disabled.\n")
     if changes.get("disable") and changes["disable"]["per_cell"]:
@@ -278,7 +280,8 @@ def render_section(changes: dict, prev_tag: str | None, limit: int = 0) -> str:
             "REFR position overrides", changes["overrides"], "overrides", lim)
     if changes.get("begone") and changes["begone"]["per_cell"]:
         out += _render_countvalued(
-            "UE5-layer ghost suppression (Begone)", changes["begone"], "entries", lim,
+            "UE5-layer ghost suppression (static, baked into map paks)",
+            changes["begone"], "entries", lim,
             versioned=changes.get("begone_versioned", False))
     if changes.get("exterior") and changes["exterior"]["added_cells"]:
         out.append("### Exterior foliage fixes\n")

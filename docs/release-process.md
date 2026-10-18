@@ -39,8 +39,9 @@ safe to repeat, and the working tree keeps what you staged between sessions.
 | 4. Hand edits | edit text files in `release/` directly; resolve any `stale-mtime` rows | yes |
 | 5. Removals | delete `orphan` paks the gather reports (it never deletes) | once |
 | 6. SyncMap | 3-gate workflow: `diff-show` → `sync-content` → `apply-swap` | after the **last** gather `--apply` |
-| 7. Build | `release.py alphaNN --dry-run`, then `release.py alphaNN`, then inspect | see below |
-| 8. Publish | push + `gh release create`, then `sync_pages.py` + devnull commit | once |
+| 7. Highlights | write `docs/release-highlights/alphaNN.md` (hand-written headline notes; optional) | yes |
+| 8. Build | `release.py alphaNN --dry-run`, then `release.py alphaNN`, then inspect | see below |
+| 9. Publish | push + `gh release create`, then `sync_pages.py` + devnull commit | once |
 
 Rules that keep staging safe:
 
@@ -58,8 +59,12 @@ Rules that keep staging safe:
   stay uncommitted until `release.py` commits them as the release commit. While
   committing unrelated work in between, do not use `git commit -a`, `git stash`,
   or switch branches — they would sweep up or hide the staged `release/` edits.
-- `release.py` accepts uncommitted changes under `release/`, `manifests/` and
-  `docs/per-release/` only; commit any other work first.
+- `release.py` accepts uncommitted changes under `release/`, `manifests/`,
+  `docs/per-release/` and `docs/release-highlights/` only; commit any other work first.
+- **Highlights.** The generated notes are a file/record-level diff. Put what players
+  need to know first (new requirements, install changes, headline features) in
+  `docs/release-highlights/<tag>.md`; step 5 places it under `## Highlights` at the
+  top of `docs/per-release/<tag>.md`, which is also the GitHub release body.
 
 ---
 

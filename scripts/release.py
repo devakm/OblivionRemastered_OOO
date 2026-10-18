@@ -56,6 +56,10 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 RELEASE_DIR = REPO_ROOT / "release"
 MANIFEST_DIR = REPO_ROOT / "manifests"
 PER_RELEASE_DOC_DIR = REPO_ROOT / "docs" / "per-release"
+# Hand-written headline notes for a release (optional). When
+# docs/release-highlights/<tag>.md exists, step 5 puts it at the top of the
+# generated notes, so the GitHub release body leads with what matters.
+HIGHLIGHTS_DIR = REPO_ROOT / "docs" / "release-highlights"
 DIST_DIR = REPO_ROOT / "dist"
 
 # Extensions that identify binary files needing a .md co-file. Everything
@@ -187,10 +191,11 @@ def step_check_syncmaps(dry: bool) -> None:
 def step_validate_tree(tag: str, force: bool, dry: bool) -> None:
     """Step 1 — assert clean tree outside our workspace dirs + tag handling."""
     print(f"[release] step 1: validate working tree + tag {tag!r}", flush=True)
-    if not working_tree_clean_outside(("release/", "manifests/", "docs/per-release/")):
+    if not working_tree_clean_outside(("release/", "manifests/", "docs/per-release/",
+                                       "docs/release-highlights/")):
         raise SystemExit(
             "working tree has uncommitted changes outside release/, manifests/, "
-            "docs/per-release/. Commit or stash them first."
+            "docs/per-release/, docs/release-highlights/. Commit or stash them first."
         )
     if tag_exists(tag):
         if not force:
@@ -403,8 +408,16 @@ def render_summary_section(added, removed, changed, sm, ml, map_changes,
     new_assets = sorted({p[len(MODS_PREFIX):].split(".")[0] for p in added
                          if p.startswith(MODS_PREFIX) and p.endswith(".ucas")
                          and "Items" not in p and "Materials" not in p})
-    changed_maps = sorted({p[len(MODS_PREFIX):].split(".")[0] for p in changed
+    changed_paks = sorted({p[len(MODS_PREFIX):].split(".")[0] for p in changed
                            if p.startswith(MODS_PREFIX) and p.endswith(".ucas")})
+    # Only L_*_Map / *Exterior_P paks are dungeon maps; *Items / *Materials
+    # paks belong to item sets and are reported separately.
+    changed_maps = [m for m in changed_paks
+                    if m.startswith("L_") or m.endswith("Exterior_P")]
+    changed_sets = sorted({re.sub(r"(Items|Materials)$", "", m) for m in changed_paks
+                           if m.endswith(("Items", "Materials"))})
+    other_paks = [m for m in changed_paks if m not in changed_maps
+                  and not m.endswith(("Items", "Materials"))]
     out = ["## Summary\n"]
     if added_sets:
         out.append(f"- **Item sets added ({len(added_sets)}):** {', '.join(added_sets)}")
@@ -416,6 +429,10 @@ def render_summary_section(added, removed, changed, sm, ml, map_changes,
         zlabel = f" / {zsum} zones" if zsum else ""
         out.append(f"- **Dungeon map paks rebuilt ({len(changed_maps)} paks{zlabel}):** "
                    f"{', '.join(changed_maps)}")
+    if changed_sets:
+        out.append(f"- **Item sets updated ({len(changed_sets)}):** {', '.join(changed_sets)}")
+    if other_paks:
+        out.append(f"- **Other paks rebuilt ({len(other_paks)}):** {', '.join(other_paks)}")
     if new_assets:
         out.append(f"- **Map assets added ({len(new_assets)}):** {', '.join(new_assets)}")
     if sm:
@@ -433,7 +450,7 @@ def render_summary_section(added, removed, changed, sm, ml, map_changes,
                        f"+{ov['cur_entries'] - ov['prev_entries']} position overrides — "
                        f"see Map cell changes")
         if bg:
-            out.append(f"- **UE5-layer ghost suppression (Begone):** "
+            out.append(f"- **UE5-layer ghost suppression (static, baked into map paks):** "
                        f"net {bg['cur_entries'] - bg['prev_entries']:+d} entries")
     out.append("- **ESP records:** see ESP changes section(s) below")
     out.append("")
@@ -453,6 +470,11 @@ def step_diff_doc(tag: str, prev_tag: str | None, manifest: dict[str, dict],
         sections.append("_Initial release in v2 layout (no prior tag for comparison)._\n")
     else:
         sections.append(f"_Compared against `{prev_tag}`._\n")
+    highlights = HIGHLIGHTS_DIR / f"{tag}.md"
+    if highlights.is_file():
+        print(f"  + highlights from {highlights.relative_to(REPO_ROOT)}", flush=True)
+        sections.append("## Highlights\n")
+        sections.append(highlights.read_text(encoding="utf-8").strip() + "\n")
 
     # File-level diff vs prior manifest, if available
     added: list[str] = []
@@ -571,6 +593,8 @@ def step_commit_and_tag(tag: str, dry: bool) -> None:
     """Step 6 — git add release/ manifests/ docs/per-release/ → commit → tag."""
     print(f"[release] step 6: commit + tag {tag}", flush=True)
     cmd_add = ["git", "add", "-A", "release/", "manifests/", "docs/per-release/"]
+    if HIGHLIGHTS_DIR.is_dir():
+        cmd_add.append("docs/release-highlights/")
     cmd_commit = ["git", "commit", "-m", tag]
     cmd_tag = ["git", "tag", tag]
     if dry:
