@@ -40,8 +40,9 @@ This reads the binary's sibling `.md` co-file, downloads the matching `.7z` (cac
 scripts/release.py          # cut a new release end-to-end (the user-facing command)
 scripts/backfill_v2.py      # one-shot historical rebuild from source folders
 scripts/fetch_binary.py     # grab a historical binary from its GitHub Release
-scripts/sync_pages.py       # render HTML into the devnull pages repo
-scripts/sync_syncmap.py     # generate both SyncMap variants from OOO_SyncGen source
+scripts/gather_live.py      # stage live-install files into release/ (dry-run default; --apply, --only)
+scripts/sync_pages.py       # diff-only preview of the devnull OBR pages (pages are hand-maintained)
+scripts/sync_syncmap.py     # generate both SyncMap variants from OOO_SyncGen source (3-gate workflow)
 scripts/publish_github.py   # standalone gh-release uploader
 scripts/build_records.py    # standalone ESP inventory writer
 scripts/diff_records.py     # standalone inventory diff renderer

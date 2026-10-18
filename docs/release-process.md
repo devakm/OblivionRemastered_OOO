@@ -9,19 +9,14 @@ End-to-end procedure for publishing a new alpha — or re-publishing an existing
 #    correct release/OblivionRemastered/... paths. Update text files (JSON,
 #    INI, Lua, etc.) directly. The repo is the staging tree.
 
-# 2. Cut the release end-to-end (regenerates SyncMap, hashes, parses ESPs,
+# 2. Cut the release end-to-end (checks SyncMap drift, hashes, parses ESPs,
 #    updates co-files, writes per-release diff doc, commits, tags, packages,
 #    pushes, creates the GitHub Release).
 py -3 scripts/release.py alphaNN --latest --for-real
 
-# 3. Refresh the GitHub Pages staging.
-py -3 scripts/sync_pages.py
-
-# 4. Review + commit + push the devnull Pages repo (manual).
-cd X:\dev\devnull
-git add docs/OOO/OBR/
-git commit -m "OBR: alphaNN release"
-git push
+# 3. Update the GitHub Pages site BY HAND. Every OBR page in devnull is marked
+#    DO-NOT-REGENERATE, so sync_pages.py --apply writes nothing.
+#    See "Updating the GitHub Pages site" below.
 ```
 
 ---
@@ -41,7 +36,7 @@ safe to repeat, and the working tree keeps what you staged between sessions.
 | 6. SyncMap | 3-gate workflow: `diff-show` → `sync-content` → `apply-swap` | after the **last** gather `--apply` |
 | 7. Highlights | write `docs/release-highlights/alphaNN.md` (hand-written headline notes; optional) | yes |
 | 8. Build | `release.py alphaNN --dry-run`, then `release.py alphaNN`, then inspect | see below |
-| 9. Publish | push + `gh release create`, then `sync_pages.py` + devnull commit | once |
+| 9. Publish | push + `gh release create`, then hand-update the devnull pages + commit | once |
 
 Rules that keep staging safe:
 
@@ -222,18 +217,37 @@ git checkout main
 
 ---
 
-## Refreshing the GitHub Pages site
+## Updating the GitHub Pages site
 
-`scripts/sync_pages.py` writes HTML into `X:\dev\devnull\docs\OOO\OBR\`. It does NOT commit or push the devnull repo — review first, then commit manually:
+The OBR pages in `X:\dev\devnull\docs\OOO\OBR\` are **hand-maintained**. Each of
+`index.html`, `changelog.html`, `install.html`, `dependencies.html` and
+`overview.html` contains the `DO-NOT-REGENERATE` marker, and `devlog.html` is
+hand-written. So `scripts/sync_pages.py` does not update the site any more:
+
+| Invocation | Effect |
+|------------|--------|
+| `py -3 scripts/sync_pages.py` | **Default: diff only, writes nothing.** Prints what it would render for each page and labels marked pages `[DO-NOT-REGENERATE - would be skipped by --apply]`. Useful as a reference for what changed in `docs/*.md`. |
+| `py -3 scripts/sync_pages.py --apply` | Writes only pages that do **not** carry the marker. With every page marked, it writes nothing. |
+
+It never commits or pushes devnull.
+
+### Per-release checklist (by hand, after the GitHub Release exists)
+
+| Page | Update |
+|------|--------|
+| `index.html` | Latest release = `alphaNN`, its download link and date. |
+| `changelog.html` | New `alphaNN` entry at the top (take the headlines from `docs/release-highlights/alphaNN.md` and the summary in `docs/per-release/alphaNN.md`). |
+| `install.html` / `dependencies.html` / `overview.html` | Carry over any change made to `docs/installation.md`, `docs/dependencies.md`, `docs/overview.md` this release (`git diff <prevtag>..alphaNN -- docs/*.md`). |
+| `devlog.html` | The `id="alphaNN"` section (hand-written; usually drafted in `devnull/notes/`). |
+
+Then review and publish devnull:
 
 ```powershell
-py -3 scripts/sync_pages.py
-
 cd X:\dev\devnull
-git status                        # should show docs/OOO/OBR/*.html modified
-git diff docs/OOO/OBR/index.html  # eyeball the new release entry
+git status                        # only the pages you edited (and any notes you mean to keep)
+git diff docs/OOO/OBR/
 git add docs/OOO/OBR/
-git commit -m "OBR: publish alphaNN"
+git commit -m "OOO/OBR: alphaNN release"
 git push
 ```
 
@@ -273,4 +287,6 @@ The `.7z` is cached at `work/_release_cache/<tag>.7z` so multiple fetches per ta
 | Force-pushed `main` instead of just the tag | Rewrites public history; collaborators have to re-clone | Use `git push origin <tag> --force-with-lease`, never `git push origin main --force` casually |
 | Built `dist/<tag>.7z` from the wrong release/ contents | Manifest SHAs won't match the archive bytes | release.py builds atomically from current release/; always run as a single command, don't manually splice |
 | Marked an old backfill as `--latest` instead of `--prerelease` | GitHub now shows an old build as "Latest" | `gh release edit <tag> --prerelease` to demote, then re-run release.py for the actual current with `--latest` |
-| Ran `sync_pages.py` and pushed devnull before pushing the OOORS repo's tag | Pages links to a tag that doesn't exist on origin yet | Always: `release.py --for-real` (which pushes tag) → THEN `sync_pages.py` → THEN commit/push devnull |
+| Pushed devnull pages before pushing the OOORS repo's tag | Pages links to a tag that doesn't exist on origin yet | Always: push the tag + create the GitHub Release → THEN update and push the devnull pages |
+| Expected `sync_pages.py` to update the site | Nothing changes in devnull: the default is diff-only, and every OBR page is `DO-NOT-REGENERATE` | Update the pages by hand (see *Updating the GitHub Pages site*) |
+| Ran the SyncMap gates while the OOO_SyncGen source was behind the live ini | `sync-content` writes the older source over the reviewed Deluxe copy, reverting remappings | Before gate 2, confirm the SyncGen source, the live `Data\SyncMap\` ini and the staged Deluxe copy are identical |

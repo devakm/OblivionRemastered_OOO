@@ -10,7 +10,7 @@ git diff alpha75..alpha90 -- manifests/
 
 ## Release index
 
-> Auto-maintainable — `scripts/sync_pages.py` walks `git tag --merged main --sort=v:refname` to enumerate the same list when generating the GitHub Pages changelog. If you add a release manually outside the ingest flow, regenerate this index with:
+> The same list comes from `git tag --merged main --sort=v:refname`. (The GitHub Pages changelog is hand-maintained; see *Updating the GitHub Pages site* in [`release-process.md`](release-process.md).) To regenerate this index:
 >
 > ```bash
 > py -3 -c "import subprocess; t=subprocess.run(['git','tag','--merged','main','--sort=v:refname'],capture_output=True,text=True).stdout.split(); [print(f'- [{x}](per-release/{x}.md)') for x in reversed(t)]"
@@ -20,8 +20,8 @@ git diff alpha75..alpha90 -- manifests/
 
 The full list lives at [`per-release/`](per-release/). Open any specific release's diff:
 
-- Latest stable: see [`per-release/alpha90.md`](per-release/alpha90.md)
-- Previous: see [`per-release/alpha89.md`](per-release/alpha89.md)
+- Latest stable: see [`per-release/alpha92.md`](per-release/alpha92.md)
+- Previous: see [`per-release/alpha91.md`](per-release/alpha91.md)
 - … and so on, back to [`per-release/alpha00-premerge.md`](per-release/alpha00-premerge.md)
 
 ### Variants

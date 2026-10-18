@@ -57,12 +57,12 @@ For every binary file in `release/`, two sibling artifacts live next to it:
 
 | Script | Role |
 |--------|------|
-| `scripts/release.py` | **The release command.** End-to-end: regenerate SyncMap → hash → parse ESPs → update co-files → diff doc → commit + tag → build .7z → optionally push + `gh release create`. |
+| `scripts/release.py` | **The release command.** End-to-end: check SyncMap drift → hash → parse ESPs → update co-files → diff doc → commit + tag → build .7z → optionally push + `gh release create`. |
 | `scripts/gather_live.py` | **Staging planner.** Dry-run by default: plans which live-install files to add/update in `release/` (ship-list from ItemClone/MapClone trackers). `--apply` copies; `--only GLOB` stages a subset. Repeatable — see *Staging a release over several sessions* in `docs/release-process.md`. |
 | `scripts/backfill_v2.py` | One-shot historical rebuild from source folders. Already run for the 89 alpha lineage; rerun only if you need to redo history. |
 | `scripts/fetch_binary.py` | Download a historical binary from a GitHub Release using its `.md` co-file as the URL index. Caches `.7z` at `work/_release_cache/<tag>.7z`. |
-| `scripts/sync_syncmap.py` | Generate the two SyncMap variants (default + Deluxe) from the OOO_SyncGen source-of-truth INI. Run automatically by `release.py`. |
-| `scripts/sync_pages.py` | Render the per-release index, changelog, install instructions as HTML and write them into `X:\dev\devnull\docs\OOO\OBR\`. **Does not commit or push** the Pages repo. |
+| `scripts/sync_syncmap.py` | Generate the two SyncMap variants (default + Deluxe) from the OOO_SyncGen source-of-truth INI via the 3-gate workflow (`diff-show` → `sync-content` → `apply-swap`). `release.py` only runs its read-only `diff-check` and aborts on drift. |
+| `scripts/sync_pages.py` | Diff-only by default: shows what it would render for the OBR pages in `X:\dev\devnull\docs\OOO\OBR\`. `--apply` skips pages marked `DO-NOT-REGENERATE` — currently all of them, so the site is **updated by hand** (checklist in `docs/release-process.md`). Never commits or pushes. |
 | `scripts/publish_github.py` | Standalone `gh release create / upload` driver for ad-hoc publishing of a single tag. Defaults to dry-run; needs `--for-real`. |
 | `scripts/build_records.py` | Standalone ESP inventory writer. Used by `release.py`/`backfill_v2.py` internally; can also be invoked directly for testing. |
 | `scripts/diff_records.py` | Standalone ESP-inventory diff renderer. Used by `release.py`/`backfill_v2.py` to produce the ESP-changes section of `docs/per-release/<tag>.md`. |
@@ -150,7 +150,7 @@ The release source folders are at `X:\games\Oscuro\Oscuro's_..._alphaNN\` — **
 |------|------|
 | `X:\games\Oscuro\` | Source release folders (read-only; only used for backfill). |
 | `X:\dev\wrye-bash\` | Wrye Bash checkout (dev branch). Used by `tes4_parser.py`. |
-| `X:\dev\devnull\` | GitHub Pages site (`devakm/devnull` → <https://devakm.github.io/devnull/>). Output of `sync_pages.py` lands under `docs/OOO/OBR/`. |
+| `X:\dev\devnull\` | GitHub Pages site (`devakm/devnull` → <https://devakm.github.io/devnull/>). The OBR pages under `docs/OOO/OBR/` are hand-maintained (`DO-NOT-REGENERATE`). |
 | `X:\mod-tools\OOO_SyncGen\SyncGen\Overrides\Oscuro's_Oblivion_Overhaul_Overrides.ini` | SyncMap source-of-truth (Deluxe variant). Read by `sync_syncmap.py`. |
 | `C:\games\Steam\steamapps\common\Oblivion Remastered\` | Game install. **Read-only**, hook-enforced. |
 
