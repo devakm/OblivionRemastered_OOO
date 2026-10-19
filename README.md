@@ -5,7 +5,7 @@
 
 A version-controlled archive of every alpha / beta / release build of **Oscuro's Oblivion Overhaul Remastered FULL** (OOORF). The repo is the source of truth for the small editable parts of every release (configs, INIs, Lua, MagicLoader JSONs, tracking metadata); binaries (paks, ESPs, DLLs, etc.) live in `dist/<tag>.7z` and are uploaded as **GitHub Release assets**.
 
-For the architecture rationale + every design decision: [`docs/v2-design.md`](docs/v2-design.md). 
+For the architecture rationale + every design decision: [`docs/v2-design.md`](docs/v2-design.md).
 
 ## What you get
 
@@ -41,7 +41,7 @@ These are the runtime components a player installs separately. **None of them ar
 ### Required
 
 | Dependency | Why OOORF needs it |
-|------------|--------------------|
+| ------------ | -------------------- |
 | **Oblivion Remastered** | The base game (Unreal Engine 5.3), via Steam, Game Pass or your platform of choice. |
 | **[MagicLoader](https://www.nexusmods.com/oblivionremastered/mods/1966)** | OOORF ships its plugin in two complementary forms: `Oscuro's_Oblivion_Overhaul.esp` plus a per-record-type JSON family under `…\ObvData\Data\MagicLoader\` that carries localization strings and map-loading instructions. MagicLoader reads those JSONs at game start and merges them into the live record set. Required for the custom dungeons to load and for localized strings (books, creature, item, spell and location names, quest dialogue). Non-English speakers can swap the strings for their own language. |
 | **[TesSyncMapInjector](https://www.nexusmods.com/oblivionremastered/mods/1272)** (UE4SS Lua mod) | Reads `…\ObvData\Data\SyncMap\Oscuro's_Oblivion_Overhaul.ini` (`<TES4 FormID>=<UE5 SoftObjectPath>` lines) at load time and binds each FormID to its UE5 asset. Required to avoid invisible or missing assets and crashes when NPCs and creatures spawn, and for every new item set. |
@@ -58,7 +58,7 @@ These are the runtime components a player installs separately. **None of them ar
 ESPs under `…\Data\OptionalPatches\`; move one up into `…\Data\` to enable it.
 
 | Patch ESP | Compatibility with |
-|-----------|--------------------|
+| ----------- | -------------------- |
 | `OOO_DeluxeEdition.esp` | Oblivion Remastered Deluxe Edition. Pair with the `SyncMap - DeluxeEdition/` override. |
 | `OOO_OOMC_Compatibility_Patch.esp` | [Opulent Outfits: Mages of Cyrodiil](https://www.nexusmods.com/oblivionremastered/mods/4992) |
 | `OOO_UORP.esp` | [The Unofficial Oblivion Remaster Patch](https://www.nexusmods.com/oblivionremastered/mods/477) |
@@ -132,4 +132,4 @@ OOORF stands on the work of many people. Thank you to:
 - **wxMichael** — mesh fixes.
 - **Davitto94** — feedback.
 
-Special thanks to all the [OOO](https://www.nexusmods.com/oblivion/mods/15256) fans and contributors over the last 20+ years.
+Special thanks to all the [classic OOO](https://www.nexusmods.com/oblivion/mods/15256) fans and contributors over the last 20+ years.
