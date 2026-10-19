@@ -5,7 +5,7 @@
 
 A version-controlled archive of every alpha / beta / release build of **Oscuro's Oblivion Overhaul Remastered FULL** (OOORF). The repo is the source of truth for the small editable parts of every release (configs, INIs, Lua, MagicLoader JSONs, tracking metadata); binaries (paks, ESPs, DLLs, etc.) live in `dist/<tag>.7z` and are uploaded as **GitHub Release assets**.
 
-For the architecture rationale + every design decision: [`docs/v2-design.md`](docs/v2-design.md). For Claude / future-self instructions: [`CLAUDE.md`](CLAUDE.md). For the release runbook: [`docs/release-process.md`](docs/release-process.md).
+For the architecture rationale + every design decision: [`docs/v2-design.md`](docs/v2-design.md). 
 
 ## What you get
 
