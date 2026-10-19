@@ -19,7 +19,7 @@ For the architecture rationale + every design decision: [`docs/v2-design.md`](do
 
 - One commit per release; commit subject = the release name (e.g. `alpha37`).
 - One git tag per release; same name.
-- Linear history on `main` from `alpha00-premerge` through `alpha90`.
+- Linear history on `main` from `alpha00-premerge` through the latest alpha.
 - The `alpha32nex` variant lives on `variants/alpha32nex` (forked off the `alpha32` commit).
 
 ## Downloading a release
@@ -51,7 +51,7 @@ scripts/tes4_parser.py      # Wrye Bash adapter
 scripts/_wrye_bootstrap.py  # bootstraps Wrye Bash as a library
 ```
 
-See [`CLAUDE.md`](CLAUDE.md) for the full toolchain reference and [`docs/release-process.md`](docs/release-process.md) for the runbook.
+See [`docs/toolchain.md`](docs/toolchain.md) for the full toolchain reference and [`docs/release-process.md`](docs/release-process.md) for the runbook.
 
 ## Setup
 

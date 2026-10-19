@@ -42,6 +42,7 @@ For every binary file in `release/`, two sibling artifacts live next to it:
 | `manifests/<tag>.json` | SHA-256 + size for every file (text + binary) per release. Used for fast file-level diffs and as the integrity record. |
 | `dist/` | **Gitignored.** Per-tag `.7z` archives produced by `release.py`. Uploaded to GitHub Releases. |
 | `docs/v2-design.md` | The architecture rationale (read this first). |
+| `docs/toolchain.md` | Public toolchain reference (scripts, layout, commit rules, deps, inputs). The README points here. |
 | `docs/release-process.md` | The runbook for cutting a new release. |
 | `docs/overview.md` | What OOORS Full bundles. |
 | `docs/dependencies.md` | OBSE / UE4SS / MagicLoader / TesSyncMapInjector — what users install separately. |
@@ -161,6 +162,8 @@ The full runbook lives in **[`docs/release-process.md`](docs/release-process.md)
 ## Documentation discipline
 
 After any meaningful change to the toolchain or repo layout: ask "does any `docs/*.md` need updating?" If yes, the doc update is part of the same commit. Undocumented findings are lost between sessions.
+
+The *Tooling*, *Repo layout*, *What gets committed*, *Constraints*, *External dependencies* and *External resources* sections here are mirrored for human readers in `docs/toolchain.md`. Change both together. The README must not link to or mention this file.
 
 ## Migration history
 
