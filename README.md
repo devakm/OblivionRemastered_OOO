@@ -24,7 +24,7 @@ For the architecture rationale + every design decision: [`docs/v2-design.md`](do
 
 ## Downloading a release
 
-Every release's `.7z` install archive is attached to its **GitHub Release** at <https://github.com/devakm/OblivionRemastered_OOO/releases>. The Pages site at [https://devakm.github.io/devnull/docs/OOO/OBR/](https://devakm.github.io/devnull/OOO/OBR/index.html) has a friendlier index + per-release changelog.
+Every release's `.7z` install archive is attached to its **GitHub Release** at <https://github.com/devakm/OblivionRemastered_OOO/releases>. The Pages site at [https://devakm.github.io/devnull/OOO/OBR/](https://devakm.github.io/devnull/OOO/OBR/index.html) has a friendlier index + per-release changelog.
 
 To grab a binary that shipped with a specific historical release without downloading the whole `.7z`:
 
@@ -33,6 +33,45 @@ py -3 scripts/fetch_binary.py --tag alpha75 release/.../Oscuro's_Oblivion_Overha
 ```
 
 This reads the binary's sibling `.md` co-file, downloads the matching `.7z` (cached at `work/_release_cache/`), extracts only the requested file, and verifies its SHA-256.
+
+## Dependencies
+
+These are the runtime components a player installs separately. **None of them are bundled in the OOORF release archive**; install them before deploying OOORF. The same information is on the [Dependencies page](https://devakm.github.io/devnull/OOO/OBR/dependencies.html) and in [`docs/dependencies.md`](docs/dependencies.md).
+
+### Required
+
+| Dependency | Why OOORF needs it |
+|------------|--------------------|
+| **Oblivion Remastered** | The base game (Unreal Engine 5.3), via Steam, Game Pass or your platform of choice. |
+| **[MagicLoader](https://www.nexusmods.com/oblivionremastered/mods/1966)** | OOORF ships its plugin in two complementary forms: `Oscuro's_Oblivion_Overhaul.esp` plus a per-record-type JSON family under `…\ObvData\Data\MagicLoader\` that carries localization strings and map-loading instructions. MagicLoader reads those JSONs at game start and merges them into the live record set. Required for the custom dungeons to load and for localized strings (books, creature, item, spell and location names, quest dialogue). Non-English speakers can swap the strings for their own language. |
+| **[TesSyncMapInjector](https://www.nexusmods.com/oblivionremastered/mods/1272)** (UE4SS Lua mod) | Reads `…\ObvData\Data\SyncMap\Oscuro's_Oblivion_Overhaul.ini` (`<TES4 FormID>=<UE5 SoftObjectPath>` lines) at load time and binds each FormID to its UE5 asset. Required to avoid invisible or missing assets and crashes when NPCs and creatures spawn, and for every new item set. |
+| **UE4SS — "UE4SS new", v3.0.1-1164 or later** | Required from alpha92. Get it from the [UE4SS Nexus page](https://www.nexusmods.com/oblivionremastered/mods/32), under **Update files**, the file named **"UE4SS new"**; it installs over an existing UE4SS. The older **"UE4SS stable"** (3.0.1.a) is **not supported**: OOORF's `RAX` DLL is built for one exact UE4SS version (the alpha92 DLL is not safe on the old UE4SS, and the alpha91 DLL is not safe on the new one). TesSyncMapInjector v0.1.8 and MagicLoader v2.9 work with "UE4SS new". |
+
+### Bundled UE4SS mod
+
+| Mod (under `…\Binaries\Win64\ue4ss\Mods\`) | Role |
+|--------------------------------------------|------|
+| `RAX/` | Ships inside the OOORF archive (UE4SS must be installed first). Loads the custom UE5 maps (the new `L_*_Map` dungeons). Native DLL built for "UE4SS new" v3.0.1-1164; do not use it with any other UE4SS version. |
+
+### Optional compatibility patches
+
+ESPs under `…\Data\OptionalPatches\`; move one up into `…\Data\` to enable it.
+
+| Patch ESP | Compatibility with |
+|-----------|--------------------|
+| `OOO_DeluxeEdition.esp` | Oblivion Remastered Deluxe Edition. Pair with the `SyncMap - DeluxeEdition/` override. |
+| `OOO_OOMC_Compatibility_Patch.esp` | [Opulent Outfits: Mages of Cyrodiil](https://www.nexusmods.com/oblivionremastered/mods/4992) |
+| `OOO_UORP.esp` | [The Unofficial Oblivion Remaster Patch](https://www.nexusmods.com/oblivionremastered/mods/477) |
+| `OOO_UnlimitedRingsReduxPatch.esp` | [Unlimited Rings Redux](https://www.nexusmods.com/oblivionremastered/mods/2457) |
+
+### Optional test UE4SS mods (manual deploy)
+
+Not required for normal play; they support the alpha-testing workflow. From alpha92 they ship under `OblivionRemastered\alpha92_test_optional\` with their install tree intact. To use one, copy its folder from `alpha92_test_optional\Binaries\Win64\ue4ss\Mods\` into `OblivionRemastered\Binaries\Win64\ue4ss\Mods\`. Installing alpha92 over alpha91 does not remove the alpha91 copies; delete `Mods\Begone\` and `Mods\OOO_REFRFix\` unless you want them.
+
+| Mod | Role |
+|-----|------|
+| `Begone/` | Test recording and debugging. Log-only from alpha92 (it suppresses nothing; ghost suppression is baked into the map paks). |
+| `OOO_REFRFix/` | Save-file migration helper for saves carrying OOO references from older alpha releases. |
 
 ## Tooling at a glance
 
@@ -68,3 +107,29 @@ winget install 7zip.7zip
 winget install GitHub.cli
 gh auth login
 ```
+
+## Credits
+
+OOORF stands on the work of many people. Thank you to:
+
+- **Sotobrastos** — creator of classic Oscuro's Oblivion Overhaul.
+- **Walker In Shadows** and **CorePC** — for keeping classic OOO supported over the years.
+- **Saldron** — classic OOO for Shivering Isles.
+- **[SquigM](https://www.nexusmods.com/profile/SquigM/mods?gameId=7587)** — [Gold-Blue Glass Armour and Weapons](https://www.nexusmods.com/oblivionremastered/mods/4671) and [Bronze-Black Glass Armour and Weapons](https://www.nexusmods.com/oblivionremastered/mods/5019), the bases of the BlueGlass and Obsidian sets.
+- **[ProhagonCreations](https://www.nexusmods.com/profile/ProhagonCreations/mods?gameId=7587)** — [Blackened Steel Glass Armor and Weapons](https://www.nexusmods.com/oblivionremastered/mods/556), the base of the DarkMalachite and Drakefired sets.
+- **Antrix** — for the inspiration and the initial version of RAX.
+- **Wrye**, and all contributors to [Wrye Bash](https://github.com/wrye-bash/wrye-bash).
+- **VibrantLGBT** — [MagicLoader](https://www.nexusmods.com/oblivionremastered/mods/1966).
+- **Godschildgaming** — [TesSyncMapInjector](https://www.nexusmods.com/oblivionremastered/mods/1272).
+- The **UE4SS** team and contributors — [RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS).
+- The developers of [FModel](https://github.com/4sval/FModel) and [retoc](https://github.com/trumank/retoc).
+- **ElminsterAU** and **Robert** — for the xEdit updates.
+- **shadeMe** — for the updates to CSE.
+- **Arthmoor** — for the UOP and the UORP.
+- **Psymon** — OOORF playtesting and Discord admin.
+- **slowpard** — Discord help.
+- **Tripster** — UE5 brainstorming.
+- **wxMichael** — mesh fixes.
+- **Davitto94** — feedback.
+
+Special thanks to all the [OOO](https://www.nexusmods.com/oblivion/mods/15256) fans and contributors over the last 20+ years.

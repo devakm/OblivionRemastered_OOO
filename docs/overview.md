@@ -25,7 +25,7 @@ A release is a directory tree the user merges into their `Oblivion Remastered\` 
 |------|---------|
 | `Oscuro's_Oblivion_Overhaul.esp` | The main OOO TES4 plugin — leveled lists, NPCs, creatures, items, quests, factions, dialog, etc. |
 | `OptionalPatches/OOO_DeluxeEdition.esp` | Optional content for the Deluxe edition of the game. |
-| `OptionalPatches/OOO_OOMC_Compatibility_Patch.esp` | Compatibility for **OOMC** (Oscuro's Oblivion Modular Companions / Mod Components). |
+| `OptionalPatches/OOO_OOMC_Compatibility_Patch.esp` | Compatibility for **OOMC** ([Opulent Outfits: Mages of Cyrodiil](https://www.nexusmods.com/oblivionremastered/mods/4992)). |
 | `OptionalPatches/OOO_UORP.esp` | Compatibility for the Unofficial Oblivion Remaster Patch. |
 | `OptionalPatches/OOO_UnlimitedRingsReduxPatch.esp` | Compatibility for the Unlimited Rings Redux mod. |
 | `OptionalPatches/SyncMap - DeluxeEdition/Oscuro's_Oblivion_Overhaul.ini` | Alternate SyncMap override for Deluxe-edition users. |

@@ -17,15 +17,19 @@ The base game. Install via Steam, Game Pass, or your platform of choice.
 
 ### MagicLoader
 
-OOORS Full ships its plugin in **two complementary forms**: a single `Oscuro's_Oblivion_Overhaul.esp` plus a per-record-type JSON family under `…\ObvData\Data\MagicLoader\`. **MagicLoader** reads those JSONs at game start and merges them into the live record set, sidestepping the 255-plugin load-order limit.
+[Nexus page](https://www.nexusmods.com/oblivionremastered/mods/1966).
 
-- Required for everything record-related to work (creatures, items, spells, etc.) beyond what the bare ESP defines.
+OOORS Full ships its plugin in **two complementary forms**: a single `Oscuro's_Oblivion_Overhaul.esp` plus a per-record-type JSON config family containing localization strings and map-loading instructions under `…\ObvData\Data\MagicLoader\`. **MagicLoader** reads those JSONs at game start and merges them into the live record set. For non-English speakers, the localization strings can be replaced with your language of choice.
+
+- Required for custom dungeons to load correctly and for localization strings to work (books, creature names, item names, spell names, location names, quest dialogue, etc.).
 
 ### TesSyncMapInjector (UE4SS Lua mod)
 
+[Nexus page](https://www.nexusmods.com/oblivionremastered/mods/1272).
+
 OOORS Full's `…\ObvData\Data\SyncMap\Oscuro's_Oblivion_Overhaul.ini` is a list of `<TES4 FormID hex>=<UE5 SoftObjectPath>` lines. **TesSyncMapInjector** consumes this at load time and rebinds each FormID to its UE5 asset path — the bridge that lets ESP records point at UE5 meshes/blueprints.
 
-- Required for any item / object whose ESP record was authored to point at a non-default UE5 asset (e.g. the bundled Obsidian items).
+- Required to avoid invisible or missing assets and to prevent crashes when NPCs and creatures spawn. Also required for any new items, like the bundled item sets.
 
 ### UE4SS
 
@@ -48,9 +52,9 @@ The OptionalPatches/ subfolder ships ESPs that add compatibility with these mods
 | Patch ESP | Provides compatibility with |
 |-----------|------------------------------|
 | `OOO_DeluxeEdition.esp` | Oblivion Remastered Deluxe Edition (extra cosmetic/content). Pair with `SyncMap - DeluxeEdition/` override. |
-| `OOO_OOMC_Compatibility_Patch.esp` | OOMC (Oscuro's Oblivion Modular Companions / Mod Components). |
-| `OOO_UORP.esp` | The Unofficial Oblivion Remaster Patch. |
-| `OOO_UnlimitedRingsReduxPatch.esp` | Unlimited Rings Redux. |
+| `OOO_OOMC_Compatibility_Patch.esp` | OOMC ([Opulent Outfits: Mages of Cyrodiil](https://www.nexusmods.com/oblivionremastered/mods/4992)). |
+| `OOO_UORP.esp` | [The Unofficial Oblivion Remaster Patch](https://www.nexusmods.com/oblivionremastered/mods/477). |
+| `OOO_UnlimitedRingsReduxPatch.esp` | [Unlimited Rings Redux](https://www.nexusmods.com/oblivionremastered/mods/2457). |
 
 ## Bundled UE4SS mods (auto-installed)
 
@@ -58,16 +62,16 @@ These ride along *inside* the OOORS Full archive — don't install separately, b
 
 | Mod (under `…\Binaries\Win64\ue4ss\Mods\`) | Role |
 |--------------|------|
-| `RAX/` | Native DLL, built for "UE4SS new" v3.0.1-1164. Do not use it with any other UE4SS version. |
+| `RAX/` | Allows loading of custom UE5 maps (the new `L_*_Map` dungeons). Native DLL (`dlls/main.dll`), built for "UE4SS new" v3.0.1-1164. Do not use it with any other UE4SS version. |
 
 ## Optional test UE4SS mods (manual deploy)
 
-From alpha92 these are **not** installed by default. They ship under `OblivionRemastered\alpha92_test_optional\` with their install tree intact. To use one, copy its folder from `alpha92_test_optional\Binaries\Win64\ue4ss\Mods\` into `OblivionRemastered\Binaries\Win64\ue4ss\Mods\`.
+These run on UE4SS too, but are **not required for normal play**; they support the alpha-testing workflow. From alpha92 they are **not** installed by default. They ship under `OblivionRemastered\alpha92_test_optional\` with their install tree intact. To use one, copy its folder from `alpha92_test_optional\Binaries\Win64\ue4ss\Mods\` into `OblivionRemastered\Binaries\Win64\ue4ss\Mods\`.
 
 | Mod | Role |
 |-----|------|
-| `Begone/` | Removes specific references at runtime per the bundled `Config/OscurosOblivionOverhaul.json`. |
-| `OOO_REFRFix/` | Patches OOO reference placements that need runtime correction; see `Scripts/spawn_deltas.lua`. |
+| `Begone/` | **Test recording and debugging.** Originally Begone hid UE5 ghost objects at runtime per `Config/OscurosOblivionOverhaul.json`; alpha90 baked that suppression into the map paks. From alpha92 Begone is log-only: it suppresses nothing. Its remaining use is capturing per-cell object inventories during alpha-test walkthroughs and checking suppression coverage when new map paks are built. |
+| `OOO_REFRFix/` | **Save-file migration helper.** Patches OOO reference placements that need runtime correction; see `Scripts/spawn_deltas.lua`. Only needed if you have existing saves carrying OOO references from older alpha releases. |
 
 ## Game install layout reference
 

@@ -251,7 +251,7 @@ git commit -m "OOO/OBR: alphaNN release"
 git push
 ```
 
-GitHub Pages auto-rebuilds within ~1 minute. The new release is then visible at <https://devakm.github.io/devnull/docs/OOO/OBR/>.
+GitHub Pages auto-rebuilds within ~1 minute. The new release is then visible at <https://devakm.github.io/devnull/OOO/OBR/>.
 
 ---
 
