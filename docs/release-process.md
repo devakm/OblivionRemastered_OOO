@@ -180,6 +180,33 @@ Walks every step and prints what it would do. Useful for sanity-checking before 
 
 ---
 
+## Patch releases (`alphaNN.M`)
+
+A patch ships only what changed since the previous release, for extracting over it
+(e.g. `alpha92.1` over `alpha92`).
+
+1. Stage just the files the patch is for: `gather_live.py --tag alphaNN.M --apply --only GLOB ...`.
+   Leave any other live changes for the next full release.
+2. Write `docs/release-highlights/alphaNN.M.md`: say what the patch fixes, how small
+   it is, and that it installs over the previous release.
+3. `release.py alphaNN.M --patch --dry-run`, then `release.py alphaNN.M --patch`.
+
+What `--patch` changes:
+
+| Step | Full release | `--patch` |
+|------|--------------|-----------|
+| Manifest, `.records/`, commit, tag | full tree | full tree (unchanged) |
+| Co-file rows (step 4) | every binary | only binaries in the patch |
+| Notes (step 5) | file/record diff | same, plus a *Patch release* notice naming the base release |
+| Archive (step 7) | all of `release/` | only files added or changed since the previous tag; a changed `.ucas`/`.utoc`/`.pak` brings its whole triplet |
+
+`--patch` aborts if anything was removed since the previous tag (extracting a patch
+cannot delete files) or if nothing changed. Publish with `--prerelease` unless the
+patch should be the Latest download: GitHub's *Latest* button would then hand new
+players an archive that is not a full install.
+
+---
+
 ## Variants (`alpha32nex`-style branches)
 
 Variants live on `variants/<tag>` branches off their parent tag. To ingest a new variant:

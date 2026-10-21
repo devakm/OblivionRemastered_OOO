@@ -58,7 +58,7 @@ For every binary file in `release/`, two sibling artifacts live next to it:
 
 | Script | Role |
 |--------|------|
-| `scripts/release.py` | **The release command.** End-to-end: check SyncMap drift → hash → parse ESPs → update co-files → diff doc → commit + tag → build .7z → optionally push + `gh release create`. |
+| `scripts/release.py` | **The release command.** End-to-end: check SyncMap drift → hash → parse ESPs → update co-files → diff doc → commit + tag → build .7z → optionally push + `gh release create`. `--patch`: delta-only `.7z` for `alphaNN.M` patch releases. |
 | `scripts/gather_live.py` | **Staging planner.** Dry-run by default: plans which live-install files to add/update in `release/` (ship-list from ItemClone/MapClone trackers). `--apply` copies; `--only GLOB` stages a subset. Repeatable — see *Staging a release over several sessions* in `docs/release-process.md`. |
 | `scripts/backfill_v2.py` | One-shot historical rebuild from source folders. Already run for the 89 alpha lineage; rerun only if you need to redo history. |
 | `scripts/fetch_binary.py` | Download a historical binary from a GitHub Release using its `.md` co-file as the URL index. Caches `.7z` at `work/_release_cache/<tag>.7z`. |

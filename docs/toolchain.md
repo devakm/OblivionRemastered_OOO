@@ -8,7 +8,7 @@ For the architecture and the reasons behind it, see [`v2-design.md`](v2-design.m
 
 | Script | Role |
 |--------|------|
-| `scripts/release.py` | **The release command.** End-to-end: check SyncMap drift → hash → parse ESPs → update co-files → write the release notes → commit + tag → build `.7z` → optionally push + `gh release create`. |
+| `scripts/release.py` | **The release command.** End-to-end: check SyncMap drift → hash → parse ESPs → update co-files → write the release notes → commit + tag → build `.7z` → optionally push + `gh release create`. `--patch` builds a delta-only archive for a patch release (`alphaNN.M`); see *Patch releases* in [`release-process.md`](release-process.md). |
 | `scripts/gather_live.py` | **Staging planner.** Dry-run by default: plans which live-install files to add or update in `release/` (the ship-list comes from the ItemClone and MapClone trackers). `--apply` copies; `--only GLOB` stages a subset. Safe to repeat. See *Staging a release over several sessions* in [`release-process.md`](release-process.md). |
 | `scripts/sync_syncmap.py` | Generates the two SyncMap variants (default + Deluxe) from the OOO_SyncGen source INI through the 3-gate workflow (`diff-show` → `sync-content` → `apply-swap`). `release.py` only runs its read-only `diff-check` and aborts on drift. |
 | `scripts/sync_pages.py` | Diff-only by default: shows what it would render for the OBR pages in the devnull Pages repo. `--apply` skips pages marked `DO-NOT-REGENERATE`, which is currently all of them, so the site is updated by hand. Never commits or pushes. |

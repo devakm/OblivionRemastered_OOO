@@ -46,6 +46,7 @@ import argparse
 import hashlib
 import io
 import json
+import os
 import re
 import shutil
 import subprocess
@@ -107,6 +108,36 @@ def latest_main_tag(exclude: str) -> str | None:
         return None
     tags = [t.strip() for t in r.stdout.splitlines() if t.strip() and t.strip() != exclude]
     return tags[-1] if tags else None
+
+
+PAK_EXTS = (".pak", ".ucas", ".utoc")
+
+
+def patch_delta(prev_tag: str | None, manifest: dict[str, dict]) -> list[str]:
+    """Release-relative paths a --patch archive carries: every file added or
+    changed since prev_tag's manifest. A changed IoStore file pulls in its whole
+    .pak/.ucas/.utoc triplet so each pak installs as a complete unit. A patch
+    is extracted over the previous release, so it cannot delete files: any
+    removal aborts."""
+    if prev_tag is None:
+        raise SystemExit("--patch needs a previous tag to diff against")
+    prev_path = MANIFEST_DIR / f"{prev_tag}.json"
+    if not prev_path.is_file():
+        raise SystemExit(f"--patch: no manifest for previous tag: {prev_path}")
+    prev = json.loads(prev_path.read_text(encoding="utf-8"))
+    removed = sorted(set(prev) - set(manifest))
+    if removed:
+        raise SystemExit("--patch cannot remove files (a patch is extracted over "
+                         f"{prev_tag}); removed since {prev_tag}: {removed}")
+    delta = {k for k in manifest
+             if k not in prev or manifest[k]["sha256"] != prev[k]["sha256"]}
+    for k in list(delta):
+        stem, ext = os.path.splitext(k)
+        if ext in PAK_EXTS:
+            delta |= {stem + e for e in PAK_EXTS if stem + e in manifest}
+    if not delta:
+        raise SystemExit(f"--patch: nothing changed since {prev_tag}")
+    return sorted(delta)
 
 
 # --------------------------------------------------------------------------- #
@@ -244,9 +275,13 @@ def step_build_records(skip: bool, dry: bool) -> list[Path]:
     return esps
 
 
-def step_update_cofiles(tag: str, manifest: dict[str, dict], dry: bool) -> int:
+def step_update_cofiles(tag: str, manifest: dict[str, dict], dry: bool,
+                        only: set[str] | None = None) -> int:
     """Step 4 — append/update the .md co-file for every binary in release/.
-    Uses sizes/SHAs from the manifest we just built (no double-hash)."""
+    Uses sizes/SHAs from the manifest we just built (no double-hash).
+    With `only` (a --patch delta), just those binaries get a row: the patch
+    archive holds nothing else, so a row for any other binary would point at
+    an asset that does not contain it."""
     print(f"[release] step 4: update .md co-files for binaries", flush=True)
     sys.path.insert(0, str(REPO_ROOT / "scripts"))
     from update_cofile import update_cofile  # noqa: E402
@@ -254,6 +289,8 @@ def step_update_cofiles(tag: str, manifest: dict[str, dict], dry: bool) -> int:
     count = 0
     for p in iter_release_binaries(RELEASE_DIR):
         rel = p.relative_to(RELEASE_DIR).as_posix()
+        if only is not None and rel not in only:
+            continue
         entry = manifest.get(rel)
         if entry is None:
             print(f"  WARN: no manifest entry for {rel}, skipping cofile", flush=True)
@@ -458,7 +495,8 @@ def render_summary_section(added, removed, changed, sm, ml, map_changes,
 
 
 def step_diff_doc(tag: str, prev_tag: str | None, manifest: dict[str, dict],
-                  esp_paths: list[Path], dry: bool) -> Path:
+                  esp_paths: list[Path], dry: bool,
+                  patch_files: list[str] | None = None) -> Path:
     """Step 5 — write docs/per-release/<tag>.md combining a summary, file-level
     diff, SyncMap/MagicLoader content diffs, MapClone map-cell changes, and
     per-ESP content diffs (from .records/ bundles)."""
@@ -470,6 +508,11 @@ def step_diff_doc(tag: str, prev_tag: str | None, manifest: dict[str, dict],
         sections.append("_Initial release in v2 layout (no prior tag for comparison)._\n")
     else:
         sections.append(f"_Compared against `{prev_tag}`._\n")
+    if patch_files is not None:
+        sections.append(
+            f"> **Patch release.** `{tag}.7z` contains only the {len(patch_files)} files "
+            f"that changed since `{prev_tag}`. Install `{prev_tag}` first, then extract "
+            f"`{tag}.7z` over it and accept the overwrites.\n")
     highlights = HIGHLIGHTS_DIR / f"{tag}.md"
     if highlights.is_file():
         print(f"  + highlights from {highlights.relative_to(REPO_ROOT)}", flush=True)
@@ -614,8 +657,10 @@ def step_commit_and_tag(tag: str, dry: bool) -> None:
     subprocess.run(cmd_tag, cwd=REPO_ROOT, check=True)
 
 
-def step_package(tag: str, dry: bool) -> Path:
-    """Step 7 — build dist/<tag>.7z from release/, excluding co-files + .records/."""
+def step_package(tag: str, dry: bool, only: list[str] | None = None) -> Path:
+    """Step 7 — build dist/<tag>.7z from release/, excluding co-files + .records/.
+    With `only` (a --patch delta), the archive holds just those files, at
+    their install paths."""
     print(f"[release] step 7: build dist/{tag}.7z", flush=True)
     sevenz = shutil.which("7z") or shutil.which("7z.exe")
     if not sevenz:
@@ -634,10 +679,22 @@ def step_package(tag: str, dry: bool) -> Path:
         str(out),
         f"{RELEASE_DIR.as_posix()}/*",
     ]
+    cwd = REPO_ROOT
+    if only is not None:
+        # Patch: archive exactly the delta files, relative to release/ so the
+        # archive root is the same as a full release (OblivionRemastered/...).
+        listfile = DIST_DIR / f"{tag}.filelist.txt"
+        cmd = cmd[:-1] + [f"@{listfile}"]
+        cwd = RELEASE_DIR
+        print(f"  patch archive: {len(only)} files", flush=True)
+        for rel in only:
+            print(f"    {rel}", flush=True)
+        if not dry:
+            listfile.write_text("\n".join(only) + "\n", encoding="utf-8")
     if dry:
         print(f"  DRY: {' '.join(cmd)}", flush=True)
         return out
-    r = subprocess.run(cmd, cwd=REPO_ROOT, capture_output=True, text=True)
+    r = subprocess.run(cmd, cwd=cwd, capture_output=True, text=True)
     if r.returncode != 0:
         sys.stderr.write(r.stdout + r.stderr)
         raise SystemExit(f"7z exited {r.returncode}")
@@ -701,6 +758,11 @@ def main() -> int:
                     help="skip the SyncMap drift check entirely (use only if you're sure)")
     ap.add_argument("--skip-records", action="store_true",
                     help="skip ESP inventory generation")
+    ap.add_argument("--patch", action="store_true",
+                    help="patch release: the .7z holds only the files added or "
+                         "changed since the previous tag (whole pak triplets), "
+                         "for extracting over that release. The commit, tag and "
+                         "manifest still cover the full tree.")
     args = ap.parse_args()
 
     if not RELEASE_DIR.is_dir():
@@ -719,14 +781,18 @@ def main() -> int:
 
     esp_paths = step_build_records(args.skip_records, args.dry_run)
 
-    step_update_cofiles(args.tag, manifest, args.dry_run)
-
     prev_tag = latest_main_tag(exclude=args.tag)
-    notes_path = step_diff_doc(args.tag, prev_tag, manifest, esp_paths, args.dry_run)
+    delta = patch_delta(prev_tag, manifest) if args.patch else None
+
+    step_update_cofiles(args.tag, manifest, args.dry_run,
+                        only=set(delta) if delta is not None else None)
+
+    notes_path = step_diff_doc(args.tag, prev_tag, manifest, esp_paths, args.dry_run,
+                               patch_files=delta)
 
     step_commit_and_tag(args.tag, args.dry_run)
 
-    archive_path = step_package(args.tag, args.dry_run)
+    archive_path = step_package(args.tag, args.dry_run, only=delta)
 
     if args.latest or args.prerelease:
         step_publish(args.tag, args.latest, args.prerelease,
