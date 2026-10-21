@@ -481,12 +481,12 @@ def render_summary_section(added, removed, changed, sm, ml, map_changes,
         dis = map_changes.get("disable")
         ov = map_changes.get("overrides")
         bg = map_changes.get("begone")
-        if dis and ov:
+        if dis and ov and (dis.get("per_cell") or ov.get("per_cell")):
             out.append(f"- **TES4 REFR suppression:** "
                        f"+{dis['cur_entries'] - dis['prev_entries']} disabled REFRs, "
                        f"+{ov['cur_entries'] - ov['prev_entries']} position overrides — "
                        f"see Map cell changes")
-        if bg:
+        if bg and bg.get("per_cell"):
             out.append(f"- **UE5-layer ghost suppression (static, baked into map paks):** "
                        f"net {bg['cur_entries'] - bg['prev_entries']:+d} entries")
     out.append("- **ESP records:** see ESP changes section(s) below")
@@ -510,8 +510,8 @@ def step_diff_doc(tag: str, prev_tag: str | None, manifest: dict[str, dict],
         sections.append(f"_Compared against `{prev_tag}`._\n")
     if patch_files is not None:
         sections.append(
-            f"> **Patch release.** `{tag}.7z` contains only the {len(patch_files)} files "
-            f"that changed since `{prev_tag}`. Install `{prev_tag}` first, then extract "
+            f"> **Patch release.** `{tag}.7z` contains only the paks and files that changed "
+            f"since `{prev_tag}` ({len(patch_files)} files, as complete pak triplets). Install `{prev_tag}` first, then extract "
             f"`{tag}.7z` over it and accept the overwrites.\n")
     highlights = HIGHLIGHTS_DIR / f"{tag}.md"
     if highlights.is_file():

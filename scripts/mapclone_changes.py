@@ -288,8 +288,8 @@ def render_section(changes: dict, prev_tag: str | None, limit: int = 0) -> str:
         for c in changes["exterior"]["added_cells"]:
             out.append(f"- **{c}** *(new)*")
         out.append("")
-    # If nothing had per-cell deltas, say so rather than emit an empty header.
-    if len(out) <= 2:
+    # Header, intro and legend only: nothing had per-cell deltas, so emit nothing.
+    if len(out) <= 3:
         return ""
     return "\n".join(out)
 
