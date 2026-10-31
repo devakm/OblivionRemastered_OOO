@@ -20,8 +20,9 @@ git diff alpha75..alpha90 -- manifests/
 
 The full list lives at [`per-release/`](per-release/). Open any specific release's diff:
 
-- Latest stable: see [`per-release/alpha92.md`](per-release/alpha92.md)
-- Previous: see [`per-release/alpha91.md`](per-release/alpha91.md)
+- Latest stable: see [`per-release/alpha93.md`](per-release/alpha93.md)
+- Previous: see [`per-release/alpha92.1.md`](per-release/alpha92.1.md) (patch over alpha92: two minor visual fixes, delta-only archive)
+- Before that: see [`per-release/alpha92.md`](per-release/alpha92.md)
 - … and so on, back to [`per-release/alpha00-premerge.md`](per-release/alpha00-premerge.md)
 
 ### Variants
@@ -33,6 +34,7 @@ The full list lives at [`per-release/`](per-release/). Open any specific release
 | Pattern | Example | Meaning |
 |---------|---------|---------|
 | `alphaNN` | `alpha37` | Main-line alpha. One per source folder `..._alphaNN`. |
+| `alphaNN.M` | `alpha92.1` | Patch release over `alphaNN`. Its `.7z` holds only the files changed since the previous tag; see *Patch releases* in [`release-process.md`](release-process.md). |
 | `alpha00-premerge` | `alpha00-premerge` | The pre-merge snapshot (multiple legacy ESPs side-by-side). Tagged from source folder `..._alpha00_preMerge`. |
 | `alphaNNxxx` | `alpha32nex` | Variant of `alphaNN`. Lives on a `variants/<name>` branch off the parent tag. |
 

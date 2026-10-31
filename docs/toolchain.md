@@ -32,7 +32,7 @@ For the architecture and the reasons behind it, see [`v2-design.md`](v2-design.m
 | `docs/release-highlights/<tag>.md` | Optional hand-written headline notes; `release.py` puts them at the top of the release notes. |
 | `dist/` | **Gitignored.** Per-tag `.7z` archives, uploaded to GitHub Releases. |
 | `work/` | **Gitignored.** Scratch, gather reports, the `fetch_binary` cache. |
-| `program/` | Program dashboard: `py -3 -m program.build_dashboard` writes `program/dashboard.html` (gitignored). |
+| `program/` | **OOO Hub** (program dashboard): `py -3 -m program.build_dashboard` writes `program/dashboard.html` (gitignored) — a filterable directory of every OOO-project page (registry + on-disk discovery in `program/collect/pages.py`), then release status. Generated pages carry a project-coded tab title + favicon (`IC`/`MR`/`OOO`/`RAX`; `tab_id.py` per repo). |
 
 ## What gets committed per release
 

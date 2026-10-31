@@ -52,7 +52,7 @@ For every binary file in `release/`, two sibling artifacts live next to it:
 | `docs/release-highlights/<tag>.md` | Optional hand-written headline notes; `release.py` puts them at the top of the per-release notes. Committed with the release. |
 | `scripts/` | Tooling — see *Tooling* below. |
 | `work/` | **Gitignored.** Scratch / experiments / `_release_cache/` for fetch_binary. |
-| `program/` | **Program dashboard.** `py -3 -m program.build_dashboard` regenerates `program/dashboard.html` (gitignored) — milestones, branches, in-flight runs, view staleness, sessions. Static; opens via `file://`; never runs a generator. Declared state lives in `program/program.yaml`. |
+| `program/` | **OOO Hub (program dashboard).** `py -3 -m program.build_dashboard` regenerates `program/dashboard.html` (gitignored) — first a filterable directory of every dashboard/tracker/guide/report across the OOO projects (registry `PAGES` + discovery of unregistered pages in `program/collect/pages.py`; register a new page there), then milestones, branches, in-flight runs, sessions. Project tab identity (code + colour favicon) is `tab_id.py`, copied per repo — keep the code/colour table in step with `pages.PROJECTS`. Static; opens via `file://`; never runs a generator. Declared state lives in `program/program.yaml`. |
 
 ## Tooling
 

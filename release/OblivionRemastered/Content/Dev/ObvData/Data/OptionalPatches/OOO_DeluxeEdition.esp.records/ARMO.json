@@ -178,5 +178,41 @@
     "formid": "Oscuro's_Oblivion_Overhaul.esp:004C8A",
     "full": "LOC_FN_HeavenFuryShieldGold",
     "modl": "Armor\\NDPelinal\\M\\NDShield.NIF"
+  },
+  {
+    "edid": "UniqueHarbingerBootsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE56",
+    "full": "LOC_FN_UniqueHarbingerBootsOOO",
+    "modl": null
+  },
+  {
+    "edid": "UniqueHarbingerCuirassOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE57",
+    "full": "LOC_FN_UniqueHarbingerCuirassOOO",
+    "modl": null
+  },
+  {
+    "edid": "UniqueHarbingerGauntletsOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE58",
+    "full": "LOC_FN_UniqueHarbingerGauntletsOOO",
+    "modl": null
+  },
+  {
+    "edid": "UniqueHarbingerGreavesOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE59",
+    "full": "LOC_FN_UniqueHarbingerGreavesOOO",
+    "modl": null
+  },
+  {
+    "edid": "UniqueHarbingerHelmetOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE5A",
+    "full": "LOC_FN_UniqueHarbingerHelmetOOO",
+    "modl": null
+  },
+  {
+    "edid": "UniqueHarbingerShieldOOO",
+    "formid": "Oscuro's_Oblivion_Overhaul.esp:00DE5B",
+    "full": "LOC_FN_UniqueHarbingerShieldOOO",
+    "modl": null
   }
 ]

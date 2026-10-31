@@ -2,5 +2,6 @@
 
 | Release | SHA-256 | Size | Changed | Description | Download |
 |---------|---------|------|---------|-------------|----------|
+| alpha93 | `15ef2a480522` | 63.3 MiB (66,401,536 B) | ★ | [release alpha93](https://github.com/devakm/OblivionRemastered_OOO/releases/tag/alpha93) | [alpha93.7z](https://github.com/devakm/OblivionRemastered_OOO/releases/download/alpha93/alpha93.7z) |
 | alpha92 | `3e976ece0af4` | 63.3 MiB (66,401,536 B) |   | [release alpha92](https://github.com/devakm/OblivionRemastered_OOO/releases/tag/alpha92) | [alpha92.7z](https://github.com/devakm/OblivionRemastered_OOO/releases/download/alpha92/alpha92.7z) |
 | alpha91 | `3e976ece0af4` | 63.3 MiB (66,401,536 B) | ★ | [release alpha91](https://github.com/devakm/OblivionRemastered_OOO/releases/tag/alpha91) | [alpha91.7z](https://github.com/devakm/OblivionRemastered_OOO/releases/download/alpha91/alpha91.7z) |

@@ -7282,28 +7282,33 @@
       },
       {
         "count": 1,
-        "level": 12,
-        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
-      },
-      {
-        "count": 1,
-        "level": 13,
-        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
-      },
-      {
-        "count": 1,
-        "level": 15,
-        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FCE"
-      },
-      {
-        "count": 1,
-        "level": 16,
+        "level": 14,
         "ref_formid": "Oblivion.esm:0343C9"
       },
       {
         "count": 1,
-        "level": 16,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FCE"
+      },
+      {
+        "count": 1,
+        "level": 14,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:009474"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FCE"
       },
       {
         "count": 1,
@@ -7313,7 +7318,87 @@
       {
         "count": 1,
         "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:009474"
+      },
+      {
+        "count": 1,
+        "level": 18,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:00DE1C"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oblivion.esm:0343C9"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FC2"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FCE"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008F69"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:009474"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0099A3"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:00DE1C"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0102F8"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:014312"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:016F8D"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02797C"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
       }
     ],
     "formid": "Oblivion.esm:0343DB"
@@ -7383,23 +7468,148 @@
       },
       {
         "count": 1,
+        "level": 8,
+        "ref_formid": "Oblivion.esm:0343C9"
+      },
+      {
+        "count": 1,
         "level": 9,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:009474"
       },
       {
         "count": 1,
-        "level": 12,
+        "level": 14,
+        "ref_formid": "Oblivion.esm:0343C9"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FC2"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FC6"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FCE"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008F64"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:009474"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+      },
+      {
+        "count": 1,
+        "level": 14,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
       },
       {
         "count": 1,
-        "level": 13,
-        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FC6"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FCE"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008F64"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:009474"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:009474"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:009474"
       },
       {
         "count": 1,
         "level": 18,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:00DE1C"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oblivion.esm:0343C9"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FC2"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FC6"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FCE"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008F64"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:009474"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:009474"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:00DE1C"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
       }
     ],
     "formid": "Oblivion.esm:0343DC"
@@ -7716,23 +7926,8 @@
       },
       {
         "count": 1,
-        "level": 12,
-        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:009474"
-      },
-      {
-        "count": 1,
-        "level": 12,
-        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
-      },
-      {
-        "count": 1,
-        "level": 13,
-        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02797B"
-      },
-      {
-        "count": 1,
-        "level": 13,
-        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+        "level": 14,
+        "ref_formid": "Oblivion.esm:0343C9"
       },
       {
         "count": 1,
@@ -7741,8 +7936,33 @@
       },
       {
         "count": 1,
-        "level": 15,
-        "ref_formid": "Oblivion.esm:0343C9"
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008F61"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:009474"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:027979"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02797B"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
       },
       {
         "count": 1,
@@ -7757,7 +7977,22 @@
       {
         "count": 1,
         "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FCE"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008F61"
+      },
+      {
+        "count": 1,
+        "level": 18,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008F69"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:009474"
       },
       {
         "count": 1,
@@ -7766,8 +8001,118 @@
       },
       {
         "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:027979"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02797B"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
+      },
+      {
+        "count": 1,
         "level": 19,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:023E8A"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oblivion.esm:0343C9"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FC2"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FCE"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008F61"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008F69"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:009474"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0099A8"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:00DE1C"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0102F7"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0102F8"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:016F8D"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:023E8A"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:027979"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02797B"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02797C"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02797D"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
       }
     ],
     "formid": "Oblivion.esm:0343DF"
@@ -7857,6 +8202,46 @@
       },
       {
         "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FCE"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02797B"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oblivion.esm:0343C9"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oblivion.esm:03F14D"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FCE"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FCE"
+      },
+      {
+        "count": 1,
         "level": 18,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008F69"
       },
@@ -7869,6 +8254,86 @@
         "count": 1,
         "level": 18,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:00DE1C"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02797B"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oblivion.esm:0343C9"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oblivion.esm:03F14D"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FC2"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FCE"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008F69"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0099A5"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0099A7"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0099A9"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:00DE1C"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02797B"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02797C"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
       }
     ],
     "formid": "Oblivion.esm:0343E0"
@@ -8010,6 +8475,11 @@
       {
         "count": 1,
         "level": 14,
+        "ref_formid": "Oblivion.esm:0343C9"
+      },
+      {
+        "count": 1,
+        "level": 14,
         "ref_formid": "Oblivion.esm:03F14D"
       },
       {
@@ -8020,32 +8490,42 @@
       {
         "count": 1,
         "level": 14,
-        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:01430C"
-      },
-      {
-        "count": 1,
-        "level": 15,
-        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0102F7"
-      },
-      {
-        "count": 1,
-        "level": 16,
-        "ref_formid": "Oblivion.esm:0343C9"
-      },
-      {
-        "count": 1,
-        "level": 16,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008F61"
       },
       {
         "count": 1,
-        "level": 16,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0102F7"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:01430C"
+      },
+      {
+        "count": 1,
+        "level": 14,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:023E8A"
       },
       {
         "count": 1,
-        "level": 16,
+        "level": 14,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:027979"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008F61"
       },
       {
         "count": 1,
@@ -8055,11 +8535,111 @@
       {
         "count": 1,
         "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:023E8A"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:027979"
+      },
+      {
+        "count": 1,
+        "level": 18,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
       },
       {
         "count": 1,
         "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oblivion.esm:0343C9"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oblivion.esm:03F14D"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FC2"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FCE"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008F5C"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008F61"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0099A5"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0099A6"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:00DE1C"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0102F7"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:01430C"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:014312"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:023E8A"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:023E8B"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:027979"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02797B"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+      },
+      {
+        "count": 1,
+        "level": 24,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
       }
     ],
@@ -13863,12 +14443,42 @@
       {
         "count": 1,
         "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0017DD"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0017DD"
+      },
+      {
+        "count": 1,
+        "level": 14,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:004231"
       },
       {
         "count": 1,
-        "level": 15,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:004237"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:004238"
+      },
+      {
+        "count": 1,
+        "level": 14,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:027979"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+      },
+      {
+        "count": 1,
+        "level": 14,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
       },
       {
         "count": 1,
@@ -13903,12 +14513,137 @@
       {
         "count": 1,
         "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0017DD"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0017DD"
+      },
+      {
+        "count": 1,
+        "level": 18,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0017E2"
       },
       {
         "count": 1,
         "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:004231"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:004237"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:004238"
+      },
+      {
+        "count": 1,
+        "level": 18,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:00DE1C"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:027979"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+      },
+      {
+        "count": 1,
+        "level": 18,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oblivion.esm:0343C9"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0017DC"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0017DD"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0017E1"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0017E2"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:004231"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:004236"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:004237"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:004238"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:00423A"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:007FC2"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0098C5"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:00DE1C"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:027979"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02797B"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:02F502"
+      },
+      {
+        "count": 1,
+        "level": 24,
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0417EE"
       }
     ],
     "formid": "Oblivion.esm:064F66"
@@ -23649,11 +24384,6 @@
       {
         "count": 1,
         "level": 19,
-        "ref_formid": "Oblivion.esm:011B7A"
-      },
-      {
-        "count": 1,
-        "level": 19,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0D868D"
       },
       {
@@ -23663,7 +24393,12 @@
       },
       {
         "count": 1,
-        "level": 27,
+        "level": 22,
+        "ref_formid": "Oblivion.esm:011B7A"
+      },
+      {
+        "count": 1,
+        "level": 30,
         "ref_formid": "Oblivion.esm:011B7B"
       }
     ],
@@ -23761,11 +24496,6 @@
       {
         "count": 1,
         "level": 19,
-        "ref_formid": "Oblivion.esm:011B7F"
-      },
-      {
-        "count": 1,
-        "level": 19,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:0D868A"
       },
       {
@@ -23775,7 +24505,12 @@
       },
       {
         "count": 1,
-        "level": 27,
+        "level": 22,
+        "ref_formid": "Oblivion.esm:011B7F"
+      },
+      {
+        "count": 1,
+        "level": 30,
         "ref_formid": "Oblivion.esm:011B80"
       }
     ],
@@ -23923,12 +24658,12 @@
       },
       {
         "count": 1,
-        "level": 19,
+        "level": 20,
         "ref_formid": "Oblivion.esm:012010"
       },
       {
         "count": 1,
-        "level": 19,
+        "level": 20,
         "ref_formid": "Oblivion.esm:012018"
       },
       {
@@ -24019,12 +24754,12 @@
       },
       {
         "count": 1,
-        "level": 19,
+        "level": 20,
         "ref_formid": "Oblivion.esm:012006"
       },
       {
         "count": 1,
-        "level": 19,
+        "level": 20,
         "ref_formid": "Oblivion.esm:012018"
       },
       {
@@ -24224,17 +24959,17 @@
       },
       {
         "count": 1,
-        "level": 19,
+        "level": 20,
         "ref_formid": "Oblivion.esm:012006"
       },
       {
         "count": 1,
-        "level": 19,
+        "level": 20,
         "ref_formid": "Oblivion.esm:012009"
       },
       {
         "count": 1,
-        "level": 19,
+        "level": 20,
         "ref_formid": "Oblivion.esm:012018"
       },
       {
@@ -24320,17 +25055,17 @@
       },
       {
         "count": 1,
-        "level": 19,
+        "level": 20,
         "ref_formid": "Oblivion.esm:012009"
       },
       {
         "count": 1,
-        "level": 19,
+        "level": 20,
         "ref_formid": "Oblivion.esm:012010"
       },
       {
         "count": 1,
-        "level": 19,
+        "level": 20,
         "ref_formid": "Oblivion.esm:012018"
       },
       {
@@ -36945,12 +37680,12 @@
       {
         "count": 1,
         "level": 19,
-        "ref_formid": "Oblivion.esm:012010"
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:021A62"
       },
       {
         "count": 1,
-        "level": 19,
-        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:021A62"
+        "level": 20,
+        "ref_formid": "Oblivion.esm:012010"
       },
       {
         "count": 2,
@@ -37021,12 +37756,12 @@
       {
         "count": 1,
         "level": 19,
-        "ref_formid": "Oblivion.esm:012006"
+        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008035"
       },
       {
         "count": 1,
-        "level": 19,
-        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008035"
+        "level": 20,
+        "ref_formid": "Oblivion.esm:012006"
       },
       {
         "count": 2,
@@ -47120,16 +47855,6 @@
         "count": 1,
         "level": 15,
         "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:008A63"
-      },
-      {
-        "count": 1,
-        "level": 15,
-        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:00DE1D"
-      },
-      {
-        "count": 1,
-        "level": 15,
-        "ref_formid": "Oscuro's_Oblivion_Overhaul.esp:00DE1D"
       },
       {
         "count": 1,

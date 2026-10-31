@@ -9,34 +9,49 @@ import html as _html
 from datetime import datetime
 from pathlib import Path
 
-from .collect import (maps, milestones, plots, releases, repos, runs, sessions,
-                      views)
+from .collect import (maps, milestones, pages, plots, releases, repos, runs, sessions)
+from .tab_id import tab_head
 
 HERE = Path(__file__).resolve().parent
-CSS = """body{font:14px/1.5 system-ui,sans-serif;margin:24px;background:#faf9f7;color:#222}
-.panel{border:1px solid #ddd;border-radius:8px;padding:14px 18px;margin:0 0 18px;background:#fff}
-.panel-error{border-color:#c33;background:#fff5f5}
+CSS = """:root{color-scheme:light dark;--bg:#faf9f7;--fg:#222;--panel:#fff;--line:#ddd;--rule:#eee;
+--muted:#777;--soft:#555;--link:#1a4d8f;--ok:#176d2c;--ok-bg:#eef7ef;--bad:#b3261e;--bad-bg:#fff5f5;
+--warn:#8a6d00;--warn-bg:#fff8e1;--warn-line:#e8d9a0;--code:#f2f0ec;--grp:#f4f2ee;--track:#eee}
+@media (prefers-color-scheme:dark){:root{--bg:#16171a;--fg:#e4e2de;--panel:#1f2024;--line:#3a3b40;
+--rule:#2c2d31;--muted:#9a9890;--soft:#b5b2ab;--link:#8ab4f8;--ok:#6fcf87;--ok-bg:#1d3324;--bad:#f28b82;
+--bad-bg:#3a1f1e;--warn:#e6c35c;--warn-bg:#352d14;--warn-line:#5c4d1e;--code:#2c2d31;--grp:#26272b;
+--track:#2c2d31}}
+body{font:14px/1.5 system-ui,sans-serif;margin:24px;background:var(--bg);color:var(--fg)}
+.panel{border:1px solid var(--line);border-radius:8px;padding:14px 18px;margin:0 0 18px;background:var(--panel)}
+.panel-error{border-color:var(--bad);background:var(--bad-bg)}
 h1{font-size:20px}h2{font-size:15px;margin:0 0 10px}
-table{border-collapse:collapse;width:100%}td,th{text-align:left;padding:4px 8px;border-bottom:1px solid #eee}
-.FRESH{color:#176d2c;font-weight:600}.STALE{color:#b3261e;font-weight:600}
-.UNKNOWN{color:#8a6d00;font-weight:600}
-.orphaned{color:#b3261e;font-weight:600}.running{color:#176d2c;font-weight:600}
-.done{color:#777}
-.MET{color:#176d2c;font-weight:600}.CONTRADICTED{color:#b3261e;font-weight:600}
-.UNVERIFIED{color:#8a6d00;font-weight:600}.PENDING{color:#555;font-weight:600}
-.pipeline{margin:0 0 12px}.ms{display:inline-block;padding:3px 10px;border:1px solid #ccc;
-border-radius:14px;margin-right:6px;font-size:12px}.ms.in_progress{border-color:#8a6d00;
-background:#fff8e1;font-weight:600}.ms.done{border-color:#176d2c;background:#eef7ef;color:#176d2c}
-.next{background:#fff8e1;border:1px solid #e8d9a0;border-radius:6px;padding:8px 12px;margin:12px 0 0}
-code{background:#f2f0ec;padding:1px 5px;border-radius:4px;font-size:12px}
-.stamp{color:#777;font-size:12px}
+table{border-collapse:collapse;width:100%}td,th{text-align:left;padding:4px 8px;border-bottom:1px solid var(--rule)}
+.FRESH,.running,.MET{color:var(--ok);font-weight:600}
+.STALE,.orphaned,.CONTRADICTED{color:var(--bad);font-weight:600}
+.UNKNOWN,.UNVERIFIED{color:var(--warn);font-weight:600}
+.done{color:var(--muted)}.PENDING{color:var(--soft);font-weight:600}
+.pipeline{margin:0 0 12px}.ms{display:inline-block;padding:3px 10px;border:1px solid var(--line);
+border-radius:14px;margin-right:6px;font-size:12px}.ms.in_progress{border-color:var(--warn);
+background:var(--warn-bg);font-weight:600}.ms.done{border-color:var(--ok);background:var(--ok-bg);color:var(--ok)}
+.next{background:var(--warn-bg);border:1px solid var(--warn-line);border-radius:6px;padding:8px 12px;margin:12px 0 0}
+code{background:var(--code);padding:1px 5px;border-radius:4px;font-size:12px}
+.stamp{color:var(--muted);font-size:12px}
 .cols{display:flex;gap:26px;flex-wrap:wrap}.cols>div{flex:1 1 320px;min-width:0}
-h3{font-size:13px;color:#555;margin:0 0 6px}a{color:#1a4d8f}
-.vers{font-size:16px;margin:0 0 18px;padding:10px 14px;background:#fff;
-border:1px solid #ddd;border-radius:8px}.vers b{font-size:17px}.verr{color:#b3261e}
-.bar{height:8px;background:#eee;border-radius:5px;overflow:hidden;margin:6px 0 14px}
-.bar i{display:block;height:100%;background:#176d2c}
-.age{margin:0 0 12px;font-size:13px;color:#666}.age #age{font-weight:600}"""
+h3{font-size:13px;color:var(--soft);margin:0 0 6px}a{color:var(--link)}
+.vers{font-size:16px;margin:0 0 18px;padding:10px 14px;background:var(--panel);
+border:1px solid var(--line);border-radius:8px}.vers b{font-size:17px}.verr{color:var(--bad)}
+.bar{height:8px;background:var(--track);border-radius:5px;overflow:hidden;margin:6px 0 14px}
+.bar i{display:block;height:100%;background:var(--ok)}
+.age{margin:0 0 12px;font-size:13px;color:var(--muted)}.age #age{font-weight:600}
+.badge{display:inline-block;min-width:30px;text-align:center;color:#fff;font:700 11px/18px system-ui;
+border-radius:5px;padding:0 4px}
+.find{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:0 0 10px}
+.find input{flex:1 1 260px;font:14px system-ui;padding:6px 10px;border:1px solid var(--line);border-radius:6px;
+background:var(--panel);color:var(--fg)}
+.chip{border:1px solid var(--line);background:var(--panel);color:var(--fg);border-radius:14px;
+padding:2px 10px 2px 3px;font:12px system-ui;cursor:pointer}.chip.off{opacity:.35}
+tr.grp td{background:var(--grp);padding-top:8px}
+td.tab{font-family:ui-monospace,monospace;font-size:12px;color:var(--soft)}
+details{margin-top:14px}summary{cursor:pointer;color:var(--soft)}"""
 
 
 def panel(title: str, env: dict, body_html: str) -> str:
@@ -48,23 +63,57 @@ def panel(title: str, env: dict, body_html: str) -> str:
             f'{_html.escape(env.get("collected_at",""))}</p></section>')
 
 
-def views_panel() -> str:
-    env = views.collect()
-    rows = []
-    for v in env["data"] if env["ok"] else []:
-        cmd = (f'<code>{_html.escape(v["generator"])}</code>' if v["generator"]
-               else '<span class=stamp>hand-maintained — no generator</span>')
-        age = f'{v["age_days"]}d' if v["age_days"] is not None else "missing"
-        # A bare UNKNOWN reads as "we did not look". Say which it is.
-        why = {"UNKNOWN": " <span class=stamp>(no declared inputs — cannot "
-                          "prove freshness, so never green)</span>",
-               "STALE": " <span class=stamp>(older than its inputs)</span>"}.get(v["state"], "")
-        rows.append(f'<tr><td>{_html.escape(v["name"])}</td>'
-                    f'<td class="{v["state"]}">{v["state"]}</td><td>{age}</td>'
-                    f'<td>{cmd}{why}</td></tr>')
-    body = ('<table><tr><th>View</th><th>State</th><th>Age</th>'
-            '<th>Rebuild with</th></tr>' + "".join(rows) + '</table>')
-    return panel("Views", env, body)
+def _badge(code: str, projects: dict) -> str:
+    c = projects.get(code, {}).get("color", "#777")
+    return f'<span class=badge style="background:{c}">{_html.escape(code)}</span>'
+
+
+def _age(d) -> str:
+    if d is None:
+        return "missing"
+    return "today" if d < 1 else f"{d:g}d"
+
+
+def pages_panel() -> str:
+    """The directory: every page across the OOO projects, grouped by project,
+    with the tab title it shows -- so the right tab can be found -- and every
+    unregistered page on disk listed below, so none goes missing."""
+    env = pages.collect()
+    data = env["data"] if env["ok"] else {"projects": {}, "pages": [], "other": []}
+    projects = data["projects"]
+    legend = "".join(
+        f'<button class=chip data-p="{k}">{_badge(k, projects)} {_html.escape(p["name"])}</button>'
+        for k, p in projects.items())
+    rows, last = [], None
+    for r in data["pages"]:
+        if r["project"] != last:
+            last = r["project"]
+            rows.append(f'<tr class=grp data-p="{last}"><td colspan=5>{_badge(last, projects)} '
+                        f'<b>{_html.escape(projects[last]["name"])}</b></td></tr>')
+        state = (f' <span class="{r["state"]}">{r["state"]}</span>' if r["state"] else "")
+        cmd = (f'<br><span class=stamp>rebuild: <code>{_html.escape(r["generator"])}</code></span>'
+               if r["generator"] and r["state"] == "STALE" else "")
+        link = (f'<a href="{_html.escape(r["url"])}" target=_blank>{_html.escape(r["label"])}</a>'
+                if r["exists"] else f'{_html.escape(r["label"])} <span class=STALE>missing</span>')
+        rows.append(f'<tr class=pg data-p="{r["project"]}"><td>{link}<br>'
+                    f'<span class=stamp>{_html.escape(r["about"])}</span></td>'
+                    f'<td>{_html.escape(r["kind"])}</td><td class=tab>{_html.escape(r["tab"])}</td>'
+                    f'<td>{_age(r["age_days"])}{state}{cmd}</td></tr>')
+    other = "".join(
+        f'<tr class=pg data-p="{o["project"]}"><td>{_badge(o["project"], projects)} '
+        f'<a href="{_html.escape(o["url"])}" target=_blank>{_html.escape(o["title"] or Path(o["path"]).name)}</a>'
+        f'<br><span class=stamp>{_html.escape(o["path"])}</span></td>'
+        f'<td>{_html.escape(o["note"]) or "<i>unregistered — add to collect/pages.py or delete</i>"}</td>'
+        f'<td>{_age(o["age_days"])}</td></tr>' for o in data["other"])
+    body = (f'<div class=find><input id=q type=search placeholder="Filter pages… (/ to focus)" autofocus>'
+            f'{legend}</div>'
+            '<table id=pages><tr><th>Page</th><th>Kind</th><th>Browser tab shows</th><th>Updated</th></tr>'
+            + "".join(rows) + '</table>'
+            f'<details><summary>Other pages found on disk ({len(data["other"])}) — '
+            'old copies, experiments, unregistered</summary>'
+            '<table id=other><tr><th>Page</th><th>What it is</th><th>Updated</th></tr>'
+            + other + '</table></details>')
+    return panel("Pages", env, body)
 
 
 def milestones_panel(env: dict) -> str:
@@ -268,6 +317,20 @@ el.className=m>1440?'CONTRADICTED':m>30?'UNVERIFIED':'MET';}
 tick();setInterval(tick,30000);})();</script>"""
 
 
+FILTER_JS = """<script>(function(){
+var q=document.getElementById('q'),off={};
+function apply(){var t=q.value.toLowerCase();
+document.querySelectorAll('tr.pg').forEach(function(r){
+r.hidden=off[r.dataset.p]||(t&&r.textContent.toLowerCase().indexOf(t)<0);});
+document.querySelectorAll('tr.grp').forEach(function(g){var n=g.nextElementSibling,any=false;
+while(n&&!n.classList.contains('grp')){if(!n.hidden)any=true;n=n.nextElementSibling;}g.hidden=!any;});}
+q.addEventListener('input',apply);
+document.querySelectorAll('.chip').forEach(function(c){c.onclick=function(){
+off[c.dataset.p]=!off[c.dataset.p];c.classList.toggle('off');apply();};});
+document.addEventListener('keydown',function(e){if(e.key==='/'&&document.activeElement!==q){
+e.preventDefault();q.focus();}});})();</script>"""
+
+
 def self_age(now=None) -> str:
     """The page is a snapshot; say how old it is.
 
@@ -283,10 +346,11 @@ def self_age(now=None) -> str:
 
 
 def render(panels: list[str], now=None) -> str:
-    return (f'<!doctype html><meta charset=utf-8><title>OOO Release Tracker</title>'
+    return (f'<!doctype html><meta charset=utf-8>{tab_head("Hub")}'
             f'<style>{CSS}</style>'
-            f'<h1>Oscuro’s Oblivion Overhaul Remastered — Release Tracker</h1>'
-            + self_age(now) + version_header() + "".join(panels) + SELF_AGE_JS)
+            f'<h1>OOO Hub <span class=stamp>— every dashboard, tracker, guide and report, '
+            f'plus Oscuro’s Oblivion Overhaul Remastered release status</span></h1>'
+            + self_age(now) + version_header() + "".join(panels) + SELF_AGE_JS + FILTER_JS)
 
 
 def main(out: Path | None = None) -> Path:
@@ -294,9 +358,8 @@ def main(out: Path | None = None) -> Path:
     ms = milestones.collect()
     annotations = ms["data"]["branches"] if ms["ok"] else {}
     out.write_text(
-        render([milestones_panel(ms), maps_panel(), plots_panel(),
-                repos_panel(annotations), runs_panel(), views_panel(),
-                sessions_panel()]),
+        render([pages_panel(), milestones_panel(ms), maps_panel(), plots_panel(),
+                repos_panel(annotations), runs_panel(), sessions_panel()]),
         encoding="utf-8")
     return out
 
